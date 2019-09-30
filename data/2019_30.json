@@ -19,32 +19,84 @@
     },
     "sessions": [
       {
-        "date": "24. Juli 2019 ",
+        "date": "2019-07-24T00:00:00.000Z",
+        "dateText": "24. Juli 2019",
         "session": "109",
         "tops": [
           {
-            "time": "12:00",
+            "time": "2019-07-24T12:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "12:00",
+            "time": "2019-07-24T12:00:00.000Z",
             "top": "1",
-            "topic": "Eidesleistung der Bundesministerin der Verteidigung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Eidesleistung der Bundesministerin der Verteidigung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "12:05",
+            "time": "2019-07-24T12:05:00.000Z",
             "top": "2",
-            "topic": "Abgabe einer Regierungserklärung durch die Bundesministerin der Verteidigung<br/>In Verantwortung für die Zukunft Deutschlands. Für eine starke Bundeswehr in einer Welt im Wandel",
-            "status": "Überweisung Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/118/1911870.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11870 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11870</a>"
+            "topic": [
+              {
+                "lines": [
+                  "Abgabe einer Regierungserklärung durch die Bundesministerin der Verteidigung",
+                  "In Verantwortung für die Zukunft Deutschlands. Für eine starke Bundeswehr in einer Welt im Wandel"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/118/1911870.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11870 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11870</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/118/1911870.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:40",
+            "time": "2019-07-24T13:40:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung, Dienstag, 10. September 2019, 10 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung, Dienstag, 10. September 2019, 10 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

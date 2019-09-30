@@ -19,188 +19,568 @@
     },
     "sessions": [
       {
-        "date": "8. September 2015 ",
+        "date": "2015-09-08T00:00:00.000Z",
+        "dateText": "8. September 2015",
         "session": "119",
         "tops": [
           {
-            "time": "10:00",
+            "time": "2015-09-08T10:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "Dankt den vielen freiwilligen Helfern bei der Aufnahme und Betreuung der Flüchtlinge aus Syrien."
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Dankt den vielen freiwilligen Helfern bei der Aufnahme und Betreuung der Flüchtlinge aus Syrien.",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:10",
+            "time": "2015-09-08T10:10:00.000Z",
             "top": "1",
-            "topic": "a) Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2016 (Haushaltsgesetz 2016)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5500</a><br/><br/>b) Beratung der Unterrichtung durch die Bundesregierung <br/>Finanzplan des Bundes 2015 bis 2019<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5501 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5501</a>",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2016 (Haushaltsgesetz 2016)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5500</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Unterrichtung durch die Bundesregierung",
+                  "Finanzplan des Bundes 2015 bis 2019",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5501 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5501</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:50",
+            "time": "2015-09-08T10:50:00.000Z",
             "top": "1 Epl 08, ...",
-            "topic": "Allgemeine Finanzdebatte <br/>(einschl. Einzelpläne 08, 20, 32, 60)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Allgemeine Finanzdebatte",
+                  "(einschl. Einzelpläne 08, 20, 32, 60)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "12:35",
+            "time": "2015-09-08T12:35:00.000Z",
             "top": "1 Epl 15",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 15 (Gesundheit)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 15 (Gesundheit)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "14:25",
+            "time": "2015-09-08T14:25:00.000Z",
             "top": "1 Epl 07",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 07 (Justiz und Verbraucherschutz)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 07 (Justiz und Verbraucherschutz)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "16:15",
+            "time": "2015-09-08T16:15:00.000Z",
             "top": "1 Epl 06",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 06 (Inneres)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 06 (Inneres)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "18:05",
+            "time": "2015-09-08T18:05:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 9. September 2015, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 9. September 2015, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "9. September 2015 ",
+        "date": "2015-09-09T00:00:00.000Z",
+        "dateText": "9. September 2015",
         "session": "120",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2015-09-09T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:00",
+            "time": "2015-09-09T09:00:00.000Z",
             "top": "1 Epl 04",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 04 (Bundeskanzlerin und Bundeskanzleramt)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 04 (Bundeskanzlerin und Bundeskanzleramt)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:00",
+            "time": "2015-09-09T13:00:00.000Z",
             "top": "1 Epl 05",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 05 (Auswärtiges Amt)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 05 (Auswärtiges Amt)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "14:55",
+            "time": "2015-09-09T14:55:00.000Z",
             "top": "1 Epl 14",
-            "topic": "Erste Beratung des von der Bundesregierung<br/>Einzelplan 14 (Verteidigung)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 14 (Verteidigung)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "16:40",
+            "time": "2015-09-09T16:40:00.000Z",
             "top": "1 Epl 23",
-            "topic": "Erste Beratung des von der Bundesregierung<br/>Einzelplan 23 (Wirtschaftliche Zusammenarbeit und Entwicklung)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 23 (Wirtschaftliche Zusammenarbeit und Entwicklung)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "18:35",
+            "time": "2015-09-09T18:35:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Donnerstag, 10. September 2015, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 10. September 2015, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "10. September 2015 ",
+        "date": "2015-09-10T00:00:00.000Z",
+        "dateText": "10. September 2015",
         "session": "121",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2015-09-10T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:00",
+            "time": "2015-09-10T09:00:00.000Z",
             "top": "1 Epl 09",
-            "topic": "Erste Beratung der Bundesregierung<br/>Einzelplan 09 (Wirtschaft und Energie)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 09 (Wirtschaft und Energie)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:25",
+            "time": "2015-09-10T11:25:00.000Z",
             "top": "1 Epl 30",
-            "topic": "Erste Beratung der Bundesregierung<br/>Einzelplan 30 (Bildung und Forschung)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 30 (Bildung und Forschung)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:15",
+            "time": "2015-09-10T13:15:00.000Z",
             "top": "2 + ZP 1",
-            "topic": "Überweisungen im vereinfachten Verfahren",
-            "status": "Überweisung beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Überweisungen im vereinfachten Verfahren"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:15",
+            "time": "2015-09-10T13:15:00.000Z",
             "top": "3",
-            "topic": "Abschließende Beratungen ohne Aussprache",
-            "status": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805387.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5387 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5387</a> Nr. 1 angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805387.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5387 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5387</a> Nr. 2 angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805388.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5388 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5388</a> Nr. 1 angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805388.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5388 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5388</a> Nr. 2 angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Abschließende Beratungen ohne Aussprache"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805387.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5387 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5387</a> Nr. 1 angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/053/1805387.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805387.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5387 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5387</a> Nr. 2 angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/053/1805387.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805388.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5388 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5388</a> Nr. 1 angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/053/1805388.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/053/1805388.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5388 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5388</a> Nr. 2 angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/053/1805388.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:15",
+            "time": "2015-09-10T13:15:00.000Z",
             "top": "1 Epl 11",
-            "topic": "Erste Beratung der Bundesregierung<br/>Einzelplan 11 (Arbeit und Soziales)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 11 (Arbeit und Soziales)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "15:05",
+            "time": "2015-09-10T15:05:00.000Z",
             "top": "1 Epl 10",
-            "topic": "Erste Beratung der Bundesregierung<br/>Einzelplan 10 (Ernährung und Landwirtschaft)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 10 (Ernährung und Landwirtschaft)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "17:00",
+            "time": "2015-09-10T17:00:00.000Z",
             "top": "1 Epl 17",
-            "topic": "Erste Beratung der Bundesregierung<br/>Einzelplan 17 (Familie, Senioren, Frauen und Jugend)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 17 (Familie, Senioren, Frauen und Jugend)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "18:50",
+            "time": "2015-09-10T18:50:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Freitag, 11. September 2015, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 11. September 2015, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "11. September 2015 ",
+        "date": "2015-09-11T00:00:00.000Z",
+        "dateText": "11. September 2015",
         "session": "122",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2015-09-11T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:00",
+            "time": "2015-09-11T09:00:00.000Z",
             "top": "1 Epl 12",
-            "topic": "Erste Beratung der Bundesregierung<br/>Einzelplan 12 (Verkehr und digitale Infrastruktur)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 12 (Verkehr und digitale Infrastruktur)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:55",
+            "time": "2015-09-11T10:55:00.000Z",
             "top": "1 Epl 16",
-            "topic": "Erste Beratung der Bundesregierung<br/>Einzelplan 16 (Umwelt Naturschutz, Bau und Reaktorsicherheit)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 16 (Umwelt Naturschutz, Bau und Reaktorsicherheit)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "12:45",
+            "time": "2015-09-11T12:45:00.000Z",
             "top": "1",
-            "topic": "Schlussrunde Haushaltsgesetz 2016",
-            "status": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5500</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5501 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5501</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Schlussrunde Haushaltsgesetz 2016"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5500</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5501 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5501</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "14:40",
+            "time": "2015-09-11T14:40:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 23. September 2015, 13 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 23. September 2015, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

@@ -19,218 +19,1207 @@
     },
     "sessions": [
       {
-        "date": "22. November 2016 ",
+        "date": "2016-11-22T00:00:00.000Z",
+        "dateText": "22. November 2016",
         "session": "201",
         "tops": [
           {
-            "time": "10:00",
+            "time": "2016-11-22T10:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:00",
+            "time": "2016-11-22T10:00:00.000Z",
             "top": "I",
-            "topic": "a) Zweite Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2017 (Haushaltsgesetz 2017)<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a><br/><br/>b) Beratung der Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss) <br/>zu der Unterrichtung durch die Bundesregierung <br/>Finanzplan des Bundes 2016 bis 2020<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809201.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9201 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9201</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809827.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9827 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9827</a><br/><br/>",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2017 (Haushaltsgesetz 2017)",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung des Haushaltsausschusses (8. Ausschuss)",
+                  "zu der Unterrichtung durch die Bundesregierung",
+                  "Finanzplan des Bundes 2016 bis 2020",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809201.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9201 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9201</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809827.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9827 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9827</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809201.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809827.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:00",
+            "time": "2016-11-22T10:00:00.000Z",
             "top": "I.1-I.3",
-            "topic": "I.1) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 01<br/>Bundespräsident und Bundespräsidialamt<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a><br/><br/>I.2) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 02 <br/>Deutscher Bundestag<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9802</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/><br/>I.3) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 03 <br/>Bundesrat<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>",
-            "status": "Einzelplan 02 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9802</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen<br />Einzelplan 03 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "I.1) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 01",
+                  "Bundespräsident und Bundespräsidialamt",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "I.2) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 02",
+                  "Deutscher Bundestag",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9802</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "I.3) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 03",
+                  "Bundesrat",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 02 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9802</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "line": "Einzelplan 03 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "10:05",
+            "time": "2016-11-22T10:05:00.000Z",
             "top": "I.4",
-            "topic": "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 08<br/>Bundesministerium der Finanzen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/><br/>b)Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 20<br/>Bundesrechnungshof<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>",
-            "status": "Einzelplan 08 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen<br />Einzelplan 20 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 08",
+                  "Bundesministerium der Finanzen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b)Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 20",
+                  "Bundesrechnungshof",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 08 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "line": "Einzelplan 20 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "11:55",
+            "time": "2016-11-22T11:55:00.000Z",
             "top": "I.5",
-            "topic": "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 07<br/>Bundesministerium der Justiz und für Verbraucherschutz<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/><br/>b) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 19<br/>Bundesverfassungsgericht<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a><br/>",
-            "status": "Einzelplan 07 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen<br />Einzelplan 19 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 07",
+                  "Bundesministerium der Justiz und für Verbraucherschutz",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 19",
+                  "Bundesverfassungsgericht",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 07 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "line": "Einzelplan 19 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:50",
+            "time": "2016-11-22T13:50:00.000Z",
             "top": "I.6",
-            "topic": "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 06<br/>Bundesministerium des Innern<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/><br/>b) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 21<br/>Beauftragte für den Datenschutz und Informationsfreiheit<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>",
-            "status": "Einzelplan 06 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen<br />Einzelplan 21 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 06",
+                  "Bundesministerium des Innern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 21",
+                  "Beauftragte für den Datenschutz und Informationsfreiheit",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 06 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              },
+              {
+                "line": "Einzelplan 21 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "15:40",
+            "time": "2016-11-22T15:40:00.000Z",
             "top": "I.7",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 15<br/>Bundesministerium für Gesundheit<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>",
-            "status": "Einzelplan 15 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 15",
+                  "Bundesministerium für Gesundheit",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 15 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "17:25",
+            "time": "2016-11-22T17:25:00.000Z",
             "top": "I.8",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 16<br/>Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>",
-            "status": "Einzelplan 16 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 16",
+                  "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 16 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "19:25",
+            "time": "2016-11-22T19:25:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 23. November 2016, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 23. November 2016, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "23. November 2016 ",
+        "date": "2016-11-23T00:00:00.000Z",
+        "dateText": "23. November 2016",
         "session": "202",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2016-11-23T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:00",
+            "time": "2016-11-23T09:00:00.000Z",
             "top": "I.9",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 04<br/>Bundeskanzlerin und Bundeskanzleramt<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a><br/>- namentliche Abstimmung -<br/>",
-            "status": "Namentliche Abstimmung zu Einzelplan 04 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>)<br />13:05:56: Beginn der namentlichen Abstimmung<br />13:08:52: Ende der namentlichen Abstimmung<br />Gesamt: 599   Ja: 479   Nein: 120   Enthaltungen: 0 <br />Einzelplan 04 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>) angenommen<br />"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 04",
+                  "Bundeskanzlerin und Bundeskanzleramt",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>",
+                  "- namentliche Abstimmung -"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zu Einzelplan 04 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              },
+              {
+                "line": "13:05:56: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "13:08:52: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 599   Ja: 479   Nein: 120   Enthaltungen: 0 ",
+                "documents": []
+              },
+              {
+                "line": "Einzelplan 04 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:10",
+            "time": "2016-11-23T13:10:00.000Z",
             "top": "I.10",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 05<br/>Auswärtiges Amt<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>",
-            "status": "gratuliert zur 1. Rede<br />Einzelplan 05 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 05",
+                  "Auswärtiges Amt",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "gratuliert zur 1. Rede",
+                "documents": []
+              },
+              {
+                "line": "Einzelplan 05 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "14:55",
+            "time": "2016-11-23T14:55:00.000Z",
             "top": "I.11",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 14<br/>Bundesministerium der Verteidigung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>",
-            "status": "Einzelplan 14 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 14",
+                  "Bundesministerium der Verteidigung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 14 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "16:40",
+            "time": "2016-11-23T16:40:00.000Z",
             "top": "I.12",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 23<br/>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>",
-            "status": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810390.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10390 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10390</a> abgelehnt<br />Einzelplan 23 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 23",
+                  "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810390.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10390 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10390</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810390.pdf"
+                ]
+              },
+              {
+                "line": "Einzelplan 23 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "18:30",
+            "time": "2016-11-23T18:30:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Donnerstag, 24. November 2016, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 24. November 2016, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "24. November 2016 ",
+        "date": "2016-11-24T00:00:00.000Z",
+        "dateText": "24. November 2016",
         "session": "203",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2016-11-24T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:00",
+            "time": "2016-11-24T09:00:00.000Z",
             "top": "I.13",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 09<br/>Bundesministerium für Wirtschaft und Energie<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/>",
-            "status": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810401.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10401 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10401</a> abgelehnt<br />Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810402.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10402 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10402</a> abgelehnt<br />Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810403.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10403 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10403</a> abgelehnt<br />Einzelplan 09 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 09",
+                  "Bundesministerium für Wirtschaft und Energie",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810401.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10401 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10401</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810401.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810402.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10402 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10402</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810402.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810403.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10403 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10403</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810403.pdf"
+                ]
+              },
+              {
+                "line": "Einzelplan 09 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "11:35",
+            "time": "2016-11-24T11:35:00.000Z",
             "top": "I.14",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 30<br/>Bundesministerium für Bildung und Forschung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/>",
-            "status": "Einzelplan 30 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 30",
+                  "Bundesministerium für Bildung und Forschung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 30 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:30",
+            "time": "2016-11-24T13:30:00.000Z",
             "top": "IV + ZP 1",
-            "topic": "Überweisung im vereinfachten Verfahren\t<br/>Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>zu den Entwürfen der Kommission für zwei Rechtsakte zur Festlegung wissenschaftlicher Kriterien für die Bestimmung endokrinschädigender Eigenschaften im Zusammenhang mit Pflanzenschutzmitteln und Biozidprodukten (C(2016) 3751, C(2016) 3752)<br/>hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes<br/>Schutz vor Hormongiften verbessern – Die Kriterien für endokrine Disruptoren müssen dem Vorsorgeprinzip entsprechen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810382.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10382 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10382</a><br/><br/>ZP 1) Weitere Überweisungen im vereinfachten Verfahren<br/>a)\tErste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs Vierten Gesetzes zur Änderung des Conterganstiftungsgesetzes<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810378.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10378 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10378</a><br/><br/>b)\tBeratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Atomkosten verursachergerecht anlasten –Kernbrennstoffsteuer beibehalten und anheben<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810034.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10034 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10034</a><br/><br/>",
-            "status": "Überweisung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Überweisung im vereinfachten Verfahren",
+                  "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "zu den Entwürfen der Kommission für zwei Rechtsakte zur Festlegung wissenschaftlicher Kriterien für die Bestimmung endokrinschädigender Eigenschaften im Zusammenhang mit Pflanzenschutzmitteln und Biozidprodukten (C(2016) 3751, C(2016) 3752)",
+                  "hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes",
+                  "Schutz vor Hormongiften verbessern – Die Kriterien für endokrine Disruptoren müssen dem Vorsorgeprinzip entsprechen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810382.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10382 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10382</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810382.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 1) Weitere Überweisungen im vereinfachten Verfahren"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "a)\tErste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs Vierten Gesetzes zur Änderung des Conterganstiftungsgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810378.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10378 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10378</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810378.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b)\tBeratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Atomkosten verursachergerecht anlasten –Kernbrennstoffsteuer beibehalten und anheben",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810034.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10034 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10034</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/100/1810034.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung angenommen",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:35",
+            "time": "2016-11-24T13:35:00.000Z",
             "top": "V",
-            "topic": "Abschließende Beratungen ohne Aussprache\t<br/><br/>a)\tZweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Protokoll vom 27. Juni 1997 zur Neufassung des internationalen Übereinkommens vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL\"<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809877.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9877 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9877</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Verkehr und digitale Infrastruktur (15. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810314.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10314 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10314</a><br/><br/>b)\tZweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Beteiligung des Bundes an den Kosten der Integration und zur weiteren Entlastung von Ländern und Kommunen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809980.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9980 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9980</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810264.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10264 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10264</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810307.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10307 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10307</a> Nr. 12<br/>Beschlussempfehlung und Bericht des Haushaltsausschusses (8. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810397.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10397 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10397</a>\t<br/><br/>d)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 375 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810266.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10266 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10266</a><br/><br/>e)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 376 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810267.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10267 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10267</a><br/><br/>f)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 377 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810268.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10268 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10268</a><br/>\t\t\t\t<br/>g)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 378 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810269.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10269 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10269</a><br/>\t\t\t\t<br/>h)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 379 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810270.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10270 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10270</a><br/>\t\t\t\t<br/>i)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 380 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810271.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10271 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10271</a><br/>\t\t\t\t<br/>j)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 381 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810272.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10272 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10272</a>",
-            "status": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809980.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9980 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9980</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810264.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10264 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10264</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810397.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10397 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10397</a>: Gesetzentwurf annehmen) in Ausschussfassung angenommen<br />Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810398.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10398 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10398</a> abgelehnt<br />Sammelübersicht 375 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810266.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10266 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10266</a> angenommen<br />Sammelübersicht 376 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810267.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10267 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10267</a> angenommen<br />Sammelübersicht 377 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810268.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10268 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10268</a> angenommen<br />Sammelübersicht 378 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810269.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10269 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10269</a> angenommen<br />Sammelübersicht 379 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810270.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10270 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10270</a> angenommen<br />Sammelübersicht 380 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810271.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10271 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10271</a> angenommen<br />Sammelübersicht 381 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810272.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10272 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10272</a> angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Abschließende Beratungen ohne Aussprache"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "a)\tZweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Protokoll vom 27. Juni 1997 zur Neufassung des internationalen Übereinkommens vom 13. Dezember 1960 über Zusammenarbeit zur Sicherung der Luftfahrt „EUROCONTROL\"",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809877.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9877 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9877</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Verkehr und digitale Infrastruktur (15. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810314.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10314 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10314</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809877.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810314.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b)\tZweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Beteiligung des Bundes an den Kosten der Integration und zur weiteren Entlastung von Ländern und Kommunen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809980.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9980 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9980</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810264.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10264 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10264</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810307.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10307 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10307</a> Nr. 12",
+                  "Beschlussempfehlung und Bericht des Haushaltsausschusses (8. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810397.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10397 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10397</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/099/1809980.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810264.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810307.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810397.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "d)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 375 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810266.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10266 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10266</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810266.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "e)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 376 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810267.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10267 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10267</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810267.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "f)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 377 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810268.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10268 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10268</a>",
+                  ""
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810268.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 378 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810269.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10269 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10269</a>",
+                  ""
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810269.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "h)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 379 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810270.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10270 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10270</a>",
+                  ""
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810270.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "i)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 380 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810271.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10271 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10271</a>",
+                  ""
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810271.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "j)\tBeratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 381 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810272.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10272 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10272</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810272.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809980.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9980 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9980</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810264.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10264 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10264</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810397.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10397 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10397</a>: Gesetzentwurf annehmen) in Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/099/1809980.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810264.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810397.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810398.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10398 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10398</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810398.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 375 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810266.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10266 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10266</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810266.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 376 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810267.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10267 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10267</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810267.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 377 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810268.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10268 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10268</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810268.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 378 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810269.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10269 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10269</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810269.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 379 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810270.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10270 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10270</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810270.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 380 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810271.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10271 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10271</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810271.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 381 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810272.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10272 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10272</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810272.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "14:05",
+            "time": "2016-11-24T14:05:00.000Z",
             "top": "II",
-            "topic": "Wahlvorschlag der Fraktionen CDU/CSU, SPD, DIE LINKE. und BÜNDNIS 90/DIE GRÜNEN<br/>Wahl der Mitglieder des Nationalen Begleitgremiums gemäß § 8 Absatz 3 des Standortauswahlgesetzes<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810377.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10377 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10377</a><br/>- Wahl durch Handzeichen -<br/>",
-            "status": "Wahlvorschläge (Drucksache. <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810377.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10377 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10377</a>) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Wahlvorschlag der Fraktionen CDU/CSU, SPD, DIE LINKE. und BÜNDNIS 90/DIE GRÜNEN",
+                  "Wahl der Mitglieder des Nationalen Begleitgremiums gemäß § 8 Absatz 3 des Standortauswahlgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810377.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10377 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10377</a>",
+                  "- Wahl durch Handzeichen -"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810377.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Wahlvorschläge (Drucksache. <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810377.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10377 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10377</a>) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810377.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "14:05",
+            "time": "2016-11-24T14:05:00.000Z",
             "top": "I.15",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 11<br/>Bundesministerium für Arbeit und Soziales<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/>",
-            "status": "Einzelplan 11 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 11",
+                  "Bundesministerium für Arbeit und Soziales",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 11 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "16:00",
+            "time": "2016-11-24T16:00:00.000Z",
             "top": "I.16",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 17<br/>Bundesministerium für Familie, Senioren, Frauen und Jugend<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>",
-            "status": "Einzelplan 17 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 17",
+                  "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 17 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "17:50",
+            "time": "2016-11-24T17:50:00.000Z",
             "top": "I.17",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 10<br/>Bundesministerium für Ernährung und Landwirtschaft<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>",
-            "status": "Einzelplan 10 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 10",
+                  "Bundesministerium für Ernährung und Landwirtschaft",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 10 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "19:45",
+            "time": "2016-11-24T19:45:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Freitag, 25. November 2016, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 25. November 2016, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "25. November 2016 ",
+        "date": "2016-11-25T00:00:00.000Z",
+        "dateText": "25. November 2016",
         "session": "204",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2016-11-25T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:00",
+            "time": "2016-11-25T09:00:00.000Z",
             "top": "I.18",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 12<br/>Bundesministerium für Verkehr und digitale Infrastruktur<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a><br/>",
-            "status": "Einzelplan 12 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 12",
+                  "Bundesministerium für Verkehr und digitale Infrastruktur",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 12 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "11:00",
+            "time": "2016-11-25T11:00:00.000Z",
             "top": "I.19",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 32<br/>Bundesschuld<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>",
-            "status": "Einzelplan 32 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>) in der Ausschussfassung angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 32",
+                  "Bundesschuld",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Einzelplan 32 (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>) in der Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "11:00",
+            "time": "2016-11-25T11:00:00.000Z",
             "top": "I.20",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tEinzelplan 60<br/>Allgemeine Finanzverwaltung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9823</a>",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 60",
+                  "Allgemeine Finanzverwaltung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9823</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:00",
+            "time": "2016-11-25T11:00:00.000Z",
             "top": "I.21",
-            "topic": "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)<br/>hier:\tHaushaltsgesetz 2017<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a><br/>",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tHaushaltsgesetz 2017",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:05",
+            "time": "2016-11-25T11:05:00.000Z",
             "top": "III",
-            "topic": "Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2017 (Haushaltsgesetz 2017)<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9823</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a><br/>- namentliche Abstimmung -<br/>",
-            "status": "Namentliche Abstimmung zum Haushaltsgesetz 2017 (<a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9802</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a> bis <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a> bis <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a>)<br />12:51:48: Beginn der namentlichen Abstimmung<br />12:55:11: Ende der namentlichen Abstimmung<br />Gesamt: 573   Ja: 458   Nein: 115<br />Haushaltsgesetz 2017 angenommen<br /><br />Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810371.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10371 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10371</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810372.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10372 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10372</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810373.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10373 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10373</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810374.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10374 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10374</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810375.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10375 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10375</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810388.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10388 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10388</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810389.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10389 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10389</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810391.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10391 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10391</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810392.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10392 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10392</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810404.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10404 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10404</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810409.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10409 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10409</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810410.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10410 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10410</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810411.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10411 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10411</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810417.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10417 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10417</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810376.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10376 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10376</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810405.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10405 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10405</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810406.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10406 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10406</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810407.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10407 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10407</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810412.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10412 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10412</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810418.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10418 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10418</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810419.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10419 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10419</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810420.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10420 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10420</a> abgelehnt<br /><br />13:00:47: Beginn der Sitzungsunterbrechung<br />13:03:26: Ende der Sitzungsunterbrechung"
+            "topic": [
+              {
+                "lines": [
+                  "Dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2017 (Haushaltsgesetz 2017)",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9806</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9808</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9809 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9809</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9810 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9810</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9811 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9811</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9812 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9812</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9813 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9813</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9814</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9815</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9822</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9823 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9823</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9824 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9824</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9825</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a>",
+                  "- namentliche Abstimmung -"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809806.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809807.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809808.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809809.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809810.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809811.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809812.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809813.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809814.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809815.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809822.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809823.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809824.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809825.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zum Haushaltsgesetz 2017 (<a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9200</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9202 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9202</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9802</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9805 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9805</a> bis <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9816</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9821</a> bis <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9826 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9826</a>)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809200.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/092/1809202.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809802.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809805.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809816.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809821.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809826.pdf"
+                ]
+              },
+              {
+                "line": "12:51:48: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "12:55:11: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 573   Ja: 458   Nein: 115",
+                "documents": []
+              },
+              {
+                "line": "Haushaltsgesetz 2017 angenommen",
+                "documents": []
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810371.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10371 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10371</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810372.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10372 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10372</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810373.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10373 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10373</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810374.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10374 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10374</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810375.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10375 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10375</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810388.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10388 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10388</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810389.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10389 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10389</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810391.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10391 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10391</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810392.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10392 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10392</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810404.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10404 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10404</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810409.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10409 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10409</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810410.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10410 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10410</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810411.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10411 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10411</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810417.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10417 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10417</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810376.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10376 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10376</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810405.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10405 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10405</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810406.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10406 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10406</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810407.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10407 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10407</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810412.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10412 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10412</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810418.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10418 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10418</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810419.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10419 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10419</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810420.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10420 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10420</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810371.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810372.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810373.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810374.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810375.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810388.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810389.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810391.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810392.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810404.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810409.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810410.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810411.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810417.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810376.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810405.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810406.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810407.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810412.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810418.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810419.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810420.pdf"
+                ]
+              },
+              {
+                "line": "13:00:47: Beginn der Sitzungsunterbrechung",
+                "documents": []
+              },
+              {
+                "line": "13:03:26: Ende der Sitzungsunterbrechung",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:05",
+            "time": "2016-11-25T13:05:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 30. November 2016, 13 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 30. November 2016, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

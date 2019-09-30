@@ -19,212 +19,821 @@
     },
     "sessions": [
       {
-        "date": "8. April 2014 ",
+        "date": "2014-04-08T00:00:00.000Z",
+        "dateText": "8. April 2014",
         "session": "28",
         "tops": [
           {
-            "time": "11:00",
+            "time": "2014-04-08T11:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:00",
+            "time": "2014-04-08T11:00:00.000Z",
             "top": "1",
-            "topic": "a) Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2014 (Haushaltsgesetz 2014)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/700 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/700</a><br/><br/>b) Beratung der Unterrichtung durch die Bundesregierung <br/>Finanzplan des Bundes 2013 bis 2017<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14301 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14301</a> <br/><br/><br/><br/>",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2014 (Haushaltsgesetz 2014)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/700 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/700</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Unterrichtung durch die Bundesregierung",
+                  "Finanzplan des Bundes 2013 bis 2017",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14301 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14301</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:50",
+            "time": "2014-04-08T11:50:00.000Z",
             "top": "2",
-            "topic": "Allgemeine Finanzdebatte <br/>(einschl. Einzelpläne 08, 20, 32, 60)<br/> i.V.m. HBeglG 2014<br/><br/>Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Haushaltsbegleitgesetzes 2014 (HBeglG 2014) <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1050</a><br/><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1050</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Allgemeine Finanzdebatte",
+                  "(einschl. Einzelpläne 08, 20, 32, 60)",
+                  "i.V.m. HBeglG 2014"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Haushaltsbegleitgesetzes 2014 (HBeglG 2014)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1050</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1050</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:40",
+            "time": "2014-04-08T13:40:00.000Z",
             "top": "Epl 06",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 06 (Inneres)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 06 (Inneres)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "15:30",
+            "time": "2014-04-08T15:30:00.000Z",
             "top": "Epl 07",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 07 (Justiz)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 07 (Justiz)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "17:15",
+            "time": "2014-04-08T17:15:00.000Z",
             "top": "Epl 10",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 10 (Ernährung und Landwirtschaft)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 10 (Ernährung und Landwirtschaft)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "19:05",
+            "time": "2014-04-08T19:05:00.000Z",
             "top": "3",
-            "topic": "Beratung des Antrags der Bundesregierung <br/>Entsendung bewaffneter deutscher Streitkräfte zur Beteiligung an der Europäischen Überbrückungsmission in der Zentralafrikanischen Republik (EUFOR RCA) auf Grundlage der Beschlüsse 2014/73/GASP sowie 2014/183/GASP des Rates der Europäischen Union vom 10. Februar 2014 und vom 1. April 2014 in Verbindung mit den Resolutionen 2127 (2013) und 2134 (2014) des Sicherheitsrates der Vereinten Nationen vom 5. Dezember 2013 und vom 28. Januar 2014<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Bundesregierung",
+                  "Entsendung bewaffneter deutscher Streitkräfte zur Beteiligung an der Europäischen Überbrückungsmission in der Zentralafrikanischen Republik (EUFOR RCA) auf Grundlage der Beschlüsse 2014/73/GASP sowie 2014/183/GASP des Rates der Europäischen Union vom 10. Februar 2014 und vom 1. April 2014 in Verbindung mit den Resolutionen 2127 (2013) und 2134 (2014) des Sicherheitsrates der Vereinten Nationen vom 5. Dezember 2013 und vom 28. Januar 2014",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "19:50",
+            "time": "2014-04-08T19:50:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 9. April 2014, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 9. April 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "9. April 2014 ",
+        "date": "2014-04-09T00:00:00.000Z",
+        "dateText": "9. April 2014",
         "session": "29",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2014-04-09T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:00",
+            "time": "2014-04-09T09:00:00.000Z",
             "top": "Epl 04",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 04 (Bundeskanzlerin und Bundeskanzleramt)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 04 (Bundeskanzlerin und Bundeskanzleramt)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:00",
+            "time": "2014-04-09T13:00:00.000Z",
             "top": "Epl 05",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 05 (Auswärtiges Amt)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 05 (Auswärtiges Amt)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "14:45",
+            "time": "2014-04-09T14:45:00.000Z",
             "top": "4",
-            "topic": "–\tBeratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung <br/>Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz bei der Hydrolyse syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen VN/OVCW-Mission zur Vernichtung der syrischen Chemiewaffen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/984</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a><br/>–\tBericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>\tDrucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801096.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1096 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1096</a><br/>",
-            "status": "Namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/984</a> annehmen)<br />Gesamt: 589 Ja: 535 Nein: 35 Enthaltungen: 19<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a> angenommen<br />Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801078.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1078 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1078</a> abgelehnt<br />"
+            "topic": [
+              {
+                "lines": [
+                  "–\tBeratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) zu dem Antrag der Bundesregierung",
+                  "Beteiligung bewaffneter deutscher Streitkräfte am maritimen Begleitschutz bei der Hydrolyse syrischer Chemiewaffen an Bord der CAPE RAY im Rahmen der gemeinsamen VN/OVCW-Mission zur Vernichtung der syrischen Chemiewaffen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/984</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a>",
+                  "–\tBericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801096.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1096 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1096</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801096.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/984</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf"
+                ]
+              },
+              {
+                "line": "Gesamt: 589 Ja: 535 Nein: 35 Enthaltungen: 19",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801078.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1078 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1078</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801078.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "15:35",
+            "time": "2014-04-09T15:35:00.000Z",
             "top": "Epl 14",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 14 (Verteidigung)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 14 (Verteidigung)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "17:25",
+            "time": "2014-04-09T17:25:00.000Z",
             "top": "Epl 23",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 23 (Wirtschaftliche Zusammenarbeit und Entwicklung)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 23 (Wirtschaftliche Zusammenarbeit und Entwicklung)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "19:15",
+            "time": "2014-04-09T19:15:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Donnerstag, 10. April 2014, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 10. April 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "10. April 2014 ",
+        "date": "2014-04-10T00:00:00.000Z",
+        "dateText": "10. April 2014",
         "session": "30",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2014-04-10T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:05",
+            "time": "2014-04-10T09:05:00.000Z",
             "top": "Epl 09",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 09 (Wirtschaft und Energie)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 09 (Wirtschaft und Energie)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:25",
+            "time": "2014-04-10T11:25:00.000Z",
             "top": "Epl 30",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 30 (Bildung und Forschung)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 30 (Bildung und Forschung)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:15",
+            "time": "2014-04-10T13:15:00.000Z",
             "top": "7",
-            "topic": "Überweisungen im vereinfachten Verfahren",
-            "status": "Überweisungen beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Überweisungen im vereinfachten Verfahren"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisungen beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:15",
+            "time": "2014-04-10T13:15:00.000Z",
             "top": "8+ZP a-f",
-            "topic": "Abschließende Beratungen ohne Aussprache",
-            "status": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801068.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1068 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1068</a> angenommen<br />Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801069.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1069 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1069</a> abgelehnt<br />Sammelübersicht 33 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800985.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/985 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/985</a> angenommen<br />Sammelübersicht 34 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800986.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/986 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/986</a> angenommen<br />Sammelübersicht 35 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800987.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/987 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/987</a> angenommen<br />Sammelübersicht 36 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800988.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/988 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/988</a> angenommen<br />Sammelübersicht 37 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800989.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/989 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/989</a> angenommen<br />Sammelübersicht 38 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/990</a> angenommen<br />Sammelübersicht 39 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800991.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/991 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/991</a> angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800794.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/794 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/794</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/004/1800493.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/493 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/493</a> ablehnen) angenommen<br />Sammelübersicht 40 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801098.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1098 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1098</a> angenommen<br />Sammelübersicht 41 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801099.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1099 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1099</a> angenommen<br />Sammelübersicht 42 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801100.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1100 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1100</a> angenommen<br />Sammelübersicht 43 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801101.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1101 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1101</a> angenommen<br />Sammelübersicht 44 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801102.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1102 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1102</a> angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Abschließende Beratungen ohne Aussprache"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801068.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1068 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1068</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801068.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801069.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1069 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1069</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801069.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 33 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800985.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/985 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/985</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800985.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 34 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800986.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/986 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/986</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800986.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 35 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800987.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/987 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/987</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800987.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 36 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800988.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/988 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/988</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800988.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 37 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800989.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/989 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/989</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800989.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 38 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/990</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800990.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 39 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800991.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/991 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/991</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800991.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800794.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/794 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/794</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/004/1800493.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/493 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/493</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800794.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/004/1800493.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 40 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801098.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1098 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1098</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801098.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 41 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801099.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1099 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1099</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801099.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 42 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801100.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1100 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1100</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/011/1801100.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 43 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801101.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1101 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1101</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/011/1801101.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 44 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801102.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1102 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1102</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/011/1801102.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:20",
+            "time": "2014-04-10T13:20:00.000Z",
             "top": "5",
-            "topic": "a) Wahl der Mitglieder der \"Kommission Lagerung hoch radioaktiver Abfallstoffe\" gemäß § 3 Absatz 1 Satz 2 Nummer 1 und 2, Satz 3 des Standortauswahlgesetzes<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1070 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1070</a><br/><br/>b) Wahl der Mitglieder der \"Kommission Lagerung hoch radioaktiver Abfallstoffe\" gemäß § 3 Absatz 1 Satz 2 Nummer 3, Satz 4 und 5 des Standortauswahlgesetzes <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1071 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1071</a>",
-            "status": "Wahlvorschlag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1070 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1070</a> angenommen<br />Wahlvorschlag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1071 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1071</a> angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Wahl der Mitglieder der \"Kommission Lagerung hoch radioaktiver Abfallstoffe\" gemäß § 3 Absatz 1 Satz 2 Nummer 1 und 2, Satz 3 des Standortauswahlgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1070 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1070</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Wahl der Mitglieder der \"Kommission Lagerung hoch radioaktiver Abfallstoffe\" gemäß § 3 Absatz 1 Satz 2 Nummer 3, Satz 4 und 5 des Standortauswahlgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1071 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1071</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Wahlvorschlag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1070 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1070</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf"
+                ]
+              },
+              {
+                "line": "Wahlvorschlag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1071 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1071</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:25",
+            "time": "2014-04-10T13:25:00.000Z",
             "top": "Epl 17",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 17 (Familie, Frauen, Senioren und Jugend)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 17 (Familie, Frauen, Senioren und Jugend)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "15:15",
+            "time": "2014-04-10T15:15:00.000Z",
             "top": "Epl 15",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>Einzelplan 15 (Gesundheit)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "Einzelplan 15 (Gesundheit)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "17:10",
+            "time": "2014-04-10T17:10:00.000Z",
             "top": "6",
-            "topic": "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Entsendung bewaffneter deutscher Streitkräfte zur Beteiligung an der Europäischen Überbrückungsmission in der Zentralafrikanischen Republik (EUFOR RCA) auf Grundlage der Beschlüsse 2014/73/GASP sowie 2014/183/GASP des Rates der Europäischen Union vom 10. Februar 2014 und vom 1. April 2014 in Verbindung mit den Resolutionen 2127 (2013) und 2134 (2014) des Sicherheitsrates der Vereinten Nationen vom 5. Dezember 2013 und vom 28. Januar 2014<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a><br/>– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801097.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1097 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1097</a> <br/>",
-            "status": "Namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a> annehmen)<br />17:58:39: Beginn der namentlichen Abstimmung<br />18:02:50: Ende der namentlichen Abstimmung<br />Gesamt: 576 Ja: 514 Nein: 59 Enthaltungen: 3<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a> angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "– Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)",
+                  "zu dem Antrag der Bundesregierung",
+                  "Entsendung bewaffneter deutscher Streitkräfte zur Beteiligung an der Europäischen Überbrückungsmission in der Zentralafrikanischen Republik (EUFOR RCA) auf Grundlage der Beschlüsse 2014/73/GASP sowie 2014/183/GASP des Rates der Europäischen Union vom 10. Februar 2014 und vom 1. April 2014 in Verbindung mit den Resolutionen 2127 (2013) und 2134 (2014) des Sicherheitsrates der Vereinten Nationen vom 5. Dezember 2013 und vom 28. Januar 2014",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a>",
+                  "– Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801097.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1097 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1097</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801097.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf"
+                ]
+              },
+              {
+                "line": "17:58:39: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "18:02:50: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 576 Ja: 514 Nein: 59 Enthaltungen: 3",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "18:05",
+            "time": "2014-04-10T18:05:00.000Z",
             "top": "Epl 11",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 11 (Arbeit und Soziales)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 11 (Arbeit und Soziales)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "20:00",
+            "time": "2014-04-10T20:00:00.000Z",
             "top": "Epl 16",
-            "topic": "Erste Beratung der Bundesregierung <br/>Einzelplan 16 (Umwelt, Naturschutz, Bau und Reaktorsicherheit)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung der Bundesregierung",
+                  "Einzelplan 16 (Umwelt, Naturschutz, Bau und Reaktorsicherheit)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "21:50",
+            "time": "2014-04-10T21:50:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Freitag, 11. April 2014, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 11. April 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "11. April 2014 ",
+        "date": "2014-04-11T00:00:00.000Z",
+        "dateText": "11. April 2014",
         "session": "31",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2014-04-11T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "begrüßt Myanmars Oppositionsführerin und Friedensnobelpreisträgerin von 1991, Aung San Suu Kyi (Tribüne)"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "begrüßt Myanmars Oppositionsführerin und Friedensnobelpreisträgerin von 1991, Aung San Suu Kyi (Tribüne)",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:05",
+            "time": "2014-04-11T09:05:00.000Z",
             "top": "Epl 12",
-            "topic": "Beratung Antrag der Bundesregierung<br/>Einzelplan 12 (Verkehr und digitale Infrastruktur)",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung Antrag der Bundesregierung",
+                  "Einzelplan 12 (Verkehr und digitale Infrastruktur)"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:50",
+            "time": "2014-04-11T10:50:00.000Z",
             "top": "1",
-            "topic": "Schlussrunde Haushaltsgesetz 2014",
-            "status": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/700 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/700</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14301 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14301</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Schlussrunde Haushaltsgesetz 2014"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/700 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/700</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14301 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14301</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:10",
+            "time": "2014-04-11T13:10:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 7. Mai 2014, 13 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 7. Mai 2014, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

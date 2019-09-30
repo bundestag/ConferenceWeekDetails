@@ -19,260 +19,1490 @@
     },
     "sessions": [
       {
-        "date": "25. Januar 2017 ",
+        "date": "2017-01-25T00:00:00.000Z",
+        "dateText": "25. Januar 2017",
         "session": "214",
         "tops": [
           {
-            "time": "13:00",
+            "time": "2017-01-25T13:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:00",
+            "time": "2017-01-25T13:00:00.000Z",
             "top": "1",
-            "topic": "Befragung der Bundesregierung<br/>Thema: Entwurf eines Gesetzes zur Änderung der materiellen Zulässigkeitsvoraussetzungen von ärztlichen Zwangsmaßnahmen und zur Stärkung des Selbstbestimmungsrechts von Betreuten",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Befragung der Bundesregierung",
+                  "Thema: Entwurf eines Gesetzes zur Änderung der materiellen Zulässigkeitsvoraussetzungen von ärztlichen Zwangsmaßnahmen und zur Stärkung des Selbstbestimmungsrechts von Betreuten"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:40",
+            "time": "2017-01-25T13:40:00.000Z",
             "top": "2",
-            "topic": "Fragestunde<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810922.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10922 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10922</a>",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Fragestunde",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810922.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10922 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10922</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810922.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "15:05",
+            "time": "2017-01-25T15:05:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Donnerstag, 26. Januar 2017, 9 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 26. Januar 2017, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "26. Januar 2017 ",
+        "date": "2017-01-26T00:00:00.000Z",
+        "dateText": "26. Januar 2017",
         "session": "215",
         "tops": [
           {
-            "time": "09:00",
+            "time": "2017-01-26T09:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "09:05",
+            "time": "2017-01-26T09:05:00.000Z",
             "top": "3",
-            "topic": "a) Abgabe einer Regierungserklärung durch den Bundesminister für Wirtschaft und Energie<br/>Für inklusives Wachstum in Deutschland und Europa<br/><br/>b) Beratung der Unterrichtung durch die Bundesregierung<br/>Jahreswirtschaftsbericht 2017 der Bundesregierung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10990</a><br/><br/>c) Beratung der Unterrichtung durch die Bundesregierung<br/>Jahresgutachten 2016/2017 des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810230.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10230 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10230</a><br/><br/>d) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss)<br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN Jahreswohlstandsbericht einführen <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/073/1807368.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7368 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7368</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807599.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7599 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7599</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10990</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810230.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10230 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10230</a> beschlossen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807599.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7599 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7599</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/073/1807368.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7368 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7368</a> ablehnen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Abgabe einer Regierungserklärung durch den Bundesminister für Wirtschaft und Energie",
+                  "Für inklusives Wachstum in Deutschland und Europa"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "b) Beratung der Unterrichtung durch die Bundesregierung",
+                  "Jahreswirtschaftsbericht 2017 der Bundesregierung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10990</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810990.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung der Unterrichtung durch die Bundesregierung",
+                  "Jahresgutachten 2016/2017 des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810230.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10230 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10230</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810230.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "d) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN Jahreswohlstandsbericht einführen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/073/1807368.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7368 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7368</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807599.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7599 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7599</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/073/1807368.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/075/1807599.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10990</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810230.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10230 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10230</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810990.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810230.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807599.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7599 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7599</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/073/1807368.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7368 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7368</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/075/1807599.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/073/1807368.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "11:05",
+            "time": "2017-01-26T11:05:00.000Z",
             "top": "4",
-            "topic": "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Ergänzung des Finanzdienstleistungsaufsichtsrechts im Bereich der Maßnahmen bei Gefahren für die Stabilität des Finanzsystems und zur Änderung der Umsetzung der Wohnimmobilienkreditrichtlinie (Finanzaufsichtsrechtergänzungsgesetz)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810935.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10935 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10935</a>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810935.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10935 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10935</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Ergänzung des Finanzdienstleistungsaufsichtsrechts im Bereich der Maßnahmen bei Gefahren für die Stabilität des Finanzsystems und zur Änderung der Umsetzung der Wohnimmobilienkreditrichtlinie (Finanzaufsichtsrechtergänzungsgesetz)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810935.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10935 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10935</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810935.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810935.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10935 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10935</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810935.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "12:10",
+            "time": "2017-01-26T12:10:00.000Z",
             "top": "5",
-            "topic": "a) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Zukunftsfähige Unternehmensverantwortung – Wirksame Sanktionen bei Rechtsverstößen von Unternehmen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810038.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10038 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10038</a><br/><br/>b) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Zukunftsfähige Unternehmensverantwortung – Menschenrechtliche Sorgfaltspflichten im deutschen Recht verankern<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810255.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10255 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10255</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810038.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10038 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10038</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810255.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10255 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10255</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Zukunftsfähige Unternehmensverantwortung – Wirksame Sanktionen bei Rechtsverstößen von Unternehmen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810038.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10038 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10038</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/100/1810038.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Zukunftsfähige Unternehmensverantwortung – Menschenrechtliche Sorgfaltspflichten im deutschen Recht verankern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810255.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10255 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10255</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810255.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/100/1810038.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10038 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10038</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/102/1810255.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10255 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10255</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/100/1810038.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/102/1810255.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:15",
+            "time": "2017-01-26T13:15:00.000Z",
             "top": "33 + ZP 1",
-            "topic": "a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur weiteren Verbesserung des Hochwasserschutzes und zur Vereinfachung von Verfahren des Hochwasserschutzes (Hochwasserschutzgesetz II)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810879.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10879 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10879</a><br/><br/>b) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung raumordnungsrechtlicher Vorschriften<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810883.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10883 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10883</a><br/><br/>c) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Neuregelung des Rechts zur Sicherstellung der Ernährung in einer Versorgungskrise<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810943.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10943 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10943</a><br/><br/>d) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zehnten Gesetzes zur Änderung des Weingesetzes <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810944.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10944 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10944</a><br/><br/>e) Beratung des Antrags der Fraktion DIE LINKE. <br/>Entkriminalisierung des Fahrens ohne Fahrschein – Polizei und Justiz entlasten<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/073/1807374.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7374 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7374</a><br/><br/>f) Beratung des Antrags der Fraktion DIE LINKE. <br/>Verordnung gegen Stress in der Arbeitswelt erlassen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810892.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10892 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10892</a><br/><br/>g) Beratung der Unterrichtung durch die Bundesregierung<br/>Bericht über die Tätigkeit der Verkehrsinfrastrukturfinanzierungsgesellschaft im Jahr 2015<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/095/1809545.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9545 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9545</a><br/><br/>h) Beratung des Antrags des Bundesministeriums für Wirtschaft und Energie <br/>Anpassungsvertrag ERP-Förderrücklage<br/>Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 6 Absatz 3 des ERP-Verwaltungsgesetzes<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10825</a><br/><br/>ZP 1) Weitere Überweisung im vereinfachten Verfahren<br/><br/>Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Klare CO2-Reduktionen im Flugverkehr schaffen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809801.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9801 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9801</a><br/>",
-            "status": "Überweisung beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur weiteren Verbesserung des Hochwasserschutzes und zur Vereinfachung von Verfahren des Hochwasserschutzes (Hochwasserschutzgesetz II)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810879.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10879 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10879</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810879.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung raumordnungsrechtlicher Vorschriften",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810883.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10883 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10883</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810883.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Neuregelung des Rechts zur Sicherstellung der Ernährung in einer Versorgungskrise",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810943.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10943 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10943</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810943.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "d) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Zehnten Gesetzes zur Änderung des Weingesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810944.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10944 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10944</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810944.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "e) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Entkriminalisierung des Fahrens ohne Fahrschein – Polizei und Justiz entlasten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/073/1807374.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7374 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7374</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/073/1807374.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "f) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Verordnung gegen Stress in der Arbeitswelt erlassen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810892.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10892 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10892</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810892.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g) Beratung der Unterrichtung durch die Bundesregierung",
+                  "Bericht über die Tätigkeit der Verkehrsinfrastrukturfinanzierungsgesellschaft im Jahr 2015",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/095/1809545.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9545 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9545</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/095/1809545.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "h) Beratung des Antrags des Bundesministeriums für Wirtschaft und Energie",
+                  "Anpassungsvertrag ERP-Förderrücklage",
+                  "Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 6 Absatz 3 des ERP-Verwaltungsgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810825.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 1) Weitere Überweisung im vereinfachten Verfahren"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Klare CO2-Reduktionen im Flugverkehr schaffen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/098/1809801.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9801 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9801</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/098/1809801.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "13:15",
+            "time": "2017-01-26T13:15:00.000Z",
             "top": "34, 21",
-            "topic": "a) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Abbau verzichtbarer Anordnungen der Schriftform im Verwaltungsrecht des Bundes<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/101/1810183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10183</a><br/>Beschlussempfehlung und Bericht des Innenausschusses (4. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811007.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11007 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11007</a><br/><br/>b) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Energiestatistikgesetzes (EnStatG)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810350.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10350 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10350</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810999.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10999 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10999</a><br/><br/>c) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Vorschlag für einen Beschluss des Rates über die Unterzeichnung des Abkommens zwischen der Europäischen Union und der Regierung von Kanada über die Anwendung ihres Wettbewerbsrechts im Namen der Europäischen Union und zu dem Vorschlag für eine Beschluss des Rates über den Abschluss des Abkommens zwischen der Europäischen Union und der Regierung von Kanada über die Anwendung ihres Wettbewerbsrechts<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10808</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811002.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11002 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11002</a><br/><br/>d) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss) <br/>zu der Verordnung der Bundesregierung<br/>Verordnung zur Umsetzung der Richtlinie 2014/99/EU und zur Änderung und Anpassung weiterer immissionsschutzrechtlicher Verordnungen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/107/1810756.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10756 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10756</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 2.1, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810998.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10998 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10998</a><br/><br/>e) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)<br/>zu der Verordnung der Bundesregierung<br/>Verordnung zur Änderung der Chemikalien-Klimaschutzverordnung<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810837.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10837 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10837</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 2.3, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810997.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10997 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10997</a><br/><br/>f) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 400 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810885.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10885 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10885</a><br/><br/>g) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 401 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810886.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10886 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10886</a><br/><br/>h) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 402 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10887</a><br/><br/>i) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 403 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810888.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10888 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10888</a><br/><br/>j) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)<br/>Sammelübersicht 404 zu Petitionen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810889.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10889 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10889</a><br/><br/>TOP 21<br/><br/>Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Fünften Gesetzes zur Änderung des Sprengstoffgesetzes<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810455.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10455 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10455</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 1.18<br/>Beschlussempfehlung und Bericht des Innenausschusses (4. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811005.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11005 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11005</a>",
-            "status": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/101/1810183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10183</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811007.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11007 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11007</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen<br />Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810350.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10350 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10350</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810999.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10999 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10999</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen<br />Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10808</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811002.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11002 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11002</a>: Gesetzentwurf annnehmen) angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810998.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10998 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10998</a> (Verordnung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/107/1810756.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10756 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10756</a> zustimmen) angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810997.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10997 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10997</a> (Verordnung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810837.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10837 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10837</a> zustimmen) angenommen<br /><br />Sammelübersicht 400 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810885.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10885 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10885</a> angenommen<br />Sammelübersicht 401 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810886.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10886 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10886</a> angenommen<br />Sammelübersicht 402 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10887</a> angenommen<br />Sammelübersicht 403 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810888.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10888 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10888</a> angenommen<br />Sammelübersicht 404 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810889.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10889 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10889</a> angenommen<br /><br />Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810455.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10455 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10455</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10821</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811005.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11005 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11005</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zum Abbau verzichtbarer Anordnungen der Schriftform im Verwaltungsrecht des Bundes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/101/1810183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10183</a>",
+                  "Beschlussempfehlung und Bericht des Innenausschusses (4. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811007.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11007 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11007</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/101/1810183.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811007.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Energiestatistikgesetzes (EnStatG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810350.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10350 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10350</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810999.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10999 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10999</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810350.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810999.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Vorschlag für einen Beschluss des Rates über die Unterzeichnung des Abkommens zwischen der Europäischen Union und der Regierung von Kanada über die Anwendung ihres Wettbewerbsrechts im Namen der Europäischen Union und zu dem Vorschlag für eine Beschluss des Rates über den Abschluss des Abkommens zwischen der Europäischen Union und der Regierung von Kanada über die Anwendung ihres Wettbewerbsrechts",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10808</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811002.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11002 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11002</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810808.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811002.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "d) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)",
+                  "zu der Verordnung der Bundesregierung",
+                  "Verordnung zur Umsetzung der Richtlinie 2014/99/EU und zur Änderung und Anpassung weiterer immissionsschutzrechtlicher Verordnungen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/107/1810756.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10756 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10756</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 2.1, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810998.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10998 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10998</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/107/1810756.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810998.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "e) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)",
+                  "zu der Verordnung der Bundesregierung",
+                  "Verordnung zur Änderung der Chemikalien-Klimaschutzverordnung",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810837.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10837 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10837</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 2.3, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810997.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10997 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10997</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810837.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810997.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "f) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 400 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810885.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10885 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10885</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810885.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 401 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810886.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10886 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10886</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810886.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "h) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 402 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10887</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810887.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "i) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 403 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810888.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10888 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10888</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810888.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "j) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 404 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810889.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10889 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10889</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810889.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "TOP 21"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Fünften Gesetzes zur Änderung des Sprengstoffgesetzes",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810455.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10455 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10455</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10821</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 1.18",
+                  "Beschlussempfehlung und Bericht des Innenausschusses (4. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811005.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11005 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11005</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810455.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810821.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811005.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/101/1810183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10183</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811007.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11007 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11007</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/101/1810183.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811007.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810350.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10350 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10350</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810999.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10999 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10999</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810350.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810999.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810808.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10808 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10808</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811002.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11002 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11002</a>: Gesetzentwurf annnehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810808.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811002.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810998.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10998 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10998</a> (Verordnung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/107/1810756.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10756 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10756</a> zustimmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810998.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/107/1810756.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810997.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10997 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10997</a> (Verordnung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810837.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10837 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10837</a> zustimmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810997.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810837.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 400 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810885.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10885 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10885</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810885.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 401 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810886.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10886 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10886</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810886.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 402 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10887</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810887.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 403 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810888.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10888 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10888</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810888.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 404 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810889.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10889 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10889</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810889.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810455.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10455 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10455</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810821.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10821 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10821</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811005.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11005 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11005</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810455.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810821.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811005.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:25",
+            "time": "2017-01-26T13:25:00.000Z",
             "top": "7",
-            "topic": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung und Erweiterung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) auf Grundlage der Resolutionen 2100 (2013), 2164 (2014), 2227 (2015) und 2295 (2016) des Sicherheitsrates der Vereinten Nationen vom 25. April 2013, 25. Juni 2014, 29. Juni 2015 und 29. Juni 2016<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810988.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10988 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10988</a><br/>- Namentliche Abstimmung -",
-            "status": "namentliche Abstimmung Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a> annehmen) angenommen<br />14:10:37: Beginn der Abstimmung<br />14:13:26: Ende der Abstimmung<br />Gesamt: 556 Ja: 498 Nein: 55 Enthaltungen: 3<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a> annehmen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)",
+                  "zu dem Antrag der Bundesregierung",
+                  "Fortsetzung und Erweiterung der Beteiligung bewaffneter deutscher Streitkräfte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali (MINUSMA) auf Grundlage der Resolutionen 2100 (2013), 2164 (2014), 2227 (2015) und 2295 (2016) des Sicherheitsrates der Vereinten Nationen vom 25. April 2013, 25. Juni 2014, 29. Juni 2015 und 29. Juni 2016",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a>",
+                  "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810988.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10988 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10988</a>",
+                  "- Namentliche Abstimmung -"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810988.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "namentliche Abstimmung Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a> annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf"
+                ]
+              },
+              {
+                "line": "14:10:37: Beginn der Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "14:13:26: Ende der Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 556 Ja: 498 Nein: 55 Enthaltungen: 3",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10967</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10819</a> annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810967.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810819.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "14:15",
+            "time": "2017-01-26T14:15:00.000Z",
             "top": "6",
-            "topic": "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss) <br/>zu dem Antrag der Bundesregierung <br/>Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak und der irakischen Streitkräfte<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10820 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10820</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10968 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10968</a><br/>- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810989.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10989 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10989</a><br/>- Namentliche Abstimmung -",
-            "status": "namentliche Abstimmung Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10968 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10968</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10820 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10820</a> annehmen) angenommen<br />15:08:06: Beginn der Abstimmung<br />15:11:06: Ende der Abstimmung<br />Gesamt: 557 Ja: 444 Nein: 67 Enthaltungen: 46<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10968 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10968</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10820 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10820</a> annehmen) angenommen<br />"
+            "topic": [
+              {
+                "lines": [
+                  "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)",
+                  "zu dem Antrag der Bundesregierung",
+                  "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte zur Ausbildungsunterstützung der Sicherheitskräfte der Regierung der Region Kurdistan-Irak und der irakischen Streitkräfte",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10820 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10820</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10968 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10968</a>",
+                  "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810989.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10989 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10989</a>",
+                  "- Namentliche Abstimmung -"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810989.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "namentliche Abstimmung Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10968 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10968</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10820 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10820</a> annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf"
+                ]
+              },
+              {
+                "line": "15:08:06: Beginn der Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "15:11:06: Ende der Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 557 Ja: 444 Nein: 67 Enthaltungen: 46",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10968 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10968</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10820 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10820</a> annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810968.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810820.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "15:10",
+            "time": "2017-01-26T15:10:00.000Z",
             "top": "8",
-            "topic": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Bundeseinheitliche Netzentgelte für Strom<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3050</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/037/1803749.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3749 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3749</a><br/>",
-            "status": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/037/1803749.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3749 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3749</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3050</a> ablehnen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wirtschaft und Energie (9. Ausschuss)",
+                  "zu dem Antrag der Fraktion DIE LINKE.",
+                  "Bundeseinheitliche Netzentgelte für Strom",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3050</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/037/1803749.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3749 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3749</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/030/1803050.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/037/1803749.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/037/1803749.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3749 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3749</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3050</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/037/1803749.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/030/1803050.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "15:55",
+            "time": "2017-01-26T15:55:00.000Z",
             "top": "9",
-            "topic": "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)<br/>zu der Verordnung der Bundesregierung<br/>Zweite Verordnung zur Änderung der Sportanlagenlärmschutzverordnung<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810483.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10483 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10483</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810696.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10696 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10696</a> Nr. 2, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a><br/><br/>b) Zweite und dritte Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>eingebrachten Entwurfs eines Dreizehntes Gesetzes <br/>zur Änderung des Bundes-Immissionsschutzgesetzes<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810859.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10859 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10859</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a><br/><br/>c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>Sport und Alltag verbinden - Lärmschutzregeln für Sportanlagen den heutigen Anforderungen anpassen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/043/1804329.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4329 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4329</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a>",
-            "status": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a> Buchstabe a (Verordnung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810483.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10483 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10483</a> zustimmen) angenommen<br />Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810859.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10859 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10859</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a> Buchstabe b: Gesetzentwurf ablehnen) ablehnen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a> Buchstabe c (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/043/1804329.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4329 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4329</a> ablehnen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)",
+                  "zu der Verordnung der Bundesregierung",
+                  "Zweite Verordnung zur Änderung der Sportanlagenlärmschutzverordnung",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810483.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10483 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10483</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810696.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10696 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10696</a> Nr. 2, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810483.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810696.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Zweite und dritte Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "eingebrachten Entwurfs eines Dreizehntes Gesetzes",
+                  "zur Änderung des Bundes-Immissionsschutzgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810859.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10859 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10859</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810859.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Umwelt, Naturschutz, Bau und Reaktorsicherheit (16. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Sport und Alltag verbinden - Lärmschutzregeln für Sportanlagen den heutigen Anforderungen anpassen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/043/1804329.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4329 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4329</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/043/1804329.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a> Buchstabe a (Verordnung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/104/1810483.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10483 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10483</a> zustimmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/104/1810483.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810859.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10859 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10859</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a> Buchstabe b: Gesetzentwurf ablehnen) ablehnen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810859.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11006</a> Buchstabe c (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/043/1804329.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/4329 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/4329</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811006.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/043/1804329.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "16:35",
+            "time": "2017-01-26T16:35:00.000Z",
             "top": "ZP 2",
-            "topic": "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>zu den Entwürfen für eine Durchführungsverordnung und zwei Durchführungsbeschlüsse der Europäischen Kommission über das Inverkehrbringen von Saatgut zum Anbau der gentechnisch veränderten Maislinien MON 810, 1507 und Bt11 <br/>(Dokumente SANTE/10702/2016 CIS Rev. 3, SANTE/<br/>10703/2016 CIS Rev. 3, SANTE/10704/2016 CIS Rev. 3)<br/>hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes<br/>Keine Zulassung der gentechnisch veränderten Maislinien MON 810, 1507 und Bt11 für den Anbau in der EU<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10976</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10976</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "zu den Entwürfen für eine Durchführungsverordnung und zwei Durchführungsbeschlüsse der Europäischen Kommission über das Inverkehrbringen von Saatgut zum Anbau der gentechnisch veränderten Maislinien MON 810, 1507 und Bt11",
+                  "(Dokumente SANTE/10702/2016 CIS Rev. 3, SANTE/",
+                  "10703/2016 CIS Rev. 3, SANTE/10704/2016 CIS Rev. 3)",
+                  "hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes",
+                  "Keine Zulassung der gentechnisch veränderten Maislinien MON 810, 1507 und Bt11 für den Anbau in der EU",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10976</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810976.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10976</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810976.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "17:20",
+            "time": "2017-01-26T17:20:00.000Z",
             "top": "11",
-            "topic": "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes<br/>über die Feststellung eines Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2016 <br/>(Nachtragshaushaltsgesetz 2016)<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/105/1810500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10500</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 1.16",
-            "status": "Rücküberweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/105/1810500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10500</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10807</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes",
+                  "über die Feststellung eines Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2016",
+                  "(Nachtragshaushaltsgesetz 2016)",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/105/1810500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10500</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10807</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 1.16"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/105/1810500.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810807.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Rücküberweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/105/1810500.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10500 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10500</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810807.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10807 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10807</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/105/1810500.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810807.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "17:50",
+            "time": "2017-01-26T17:50:00.000Z",
             "top": "12",
-            "topic": "Beratung der Antwort der Bundesregierung auf die Große Anfrage der Fraktion DIE LINKE. <br/>Erfahrungen aus 14 Jahren Krieg gegen den Terror -<br/>Eine Bilanz in Irak, Afghanistan, Pakistan<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/079/1807991.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7991 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7991</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810364.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10364 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10364</a><br/>",
-            "status": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810977.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10977 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10977</a> abgelehnt"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung der Antwort der Bundesregierung auf die Große Anfrage der Fraktion DIE LINKE.",
+                  "Erfahrungen aus 14 Jahren Krieg gegen den Terror -",
+                  "Eine Bilanz in Irak, Afghanistan, Pakistan",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/079/1807991.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7991 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7991</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/103/1810364.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10364 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10364</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/079/1807991.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/103/1810364.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810977.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10977 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10977</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810977.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "18:30",
+            "time": "2017-01-26T18:30:00.000Z",
             "top": "15",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Zweiten Gesetzes zur Novellierung von Finanzmarktvorschriften auf Grund europäischer Rechtsakte (Zweites Finanzmarktnovellierungsgesetz  – 2. FiMaNoG)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810936.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10936 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10936</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810936.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10936 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10936</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Zweiten Gesetzes zur Novellierung von Finanzmarktvorschriften auf Grund europäischer Rechtsakte (Zweites Finanzmarktnovellierungsgesetz  – 2. FiMaNoG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810936.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10936 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10936</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810936.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810936.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10936 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10936</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810936.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "18:55",
+            "time": "2017-01-26T18:55:00.000Z",
             "top": "14",
-            "topic": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Wohnungslosigkeit wirkungsvoll angehen – Bundesweite Statistik einführen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807547.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7547 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7547</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11000</a>",
-            "status": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11000</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807547.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7547 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7547</a> ablehnen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Wohnungslosigkeit wirkungsvoll angehen – Bundesweite Statistik einführen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807547.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7547 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7547</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11000</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/075/1807547.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811000.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811000.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11000 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11000</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/075/1807547.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7547 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7547</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811000.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/075/1807547.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "19:25",
+            "time": "2017-01-26T19:25:00.000Z",
             "top": "ZP 3",
-            "topic": "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Sicherung der Sozialkassenverfahren im Baugewerbe (Sozialkassenverfahrensicherungsgesetz – SoKaSiG)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810631.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10631 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10631</a><br/>Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales (11. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811001.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11001 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11001</a>",
-            "status": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810631.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10631 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10631</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811001.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11001 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11001</a>: Gesetzentwurf annnehmen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Sicherung der Sozialkassenverfahren im Baugewerbe (Sozialkassenverfahrensicherungsgesetz – SoKaSiG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810631.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10631 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10631</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales (11. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811001.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11001 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11001</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810631.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811001.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810631.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10631 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10631</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811001.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11001 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11001</a>: Gesetzentwurf annnehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810631.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811001.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "19:55",
+            "time": "2017-01-26T19:55:00.000Z",
             "top": "16",
-            "topic": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Patientenberatung unabhängig und gemeinnützig ausgestalten<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/070/1807042.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7042 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7042</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9979</a><br/><br/>",
-            "status": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9979</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/070/1807042.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7042 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7042</a> ablehnen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion DIE LINKE.",
+                  "Patientenberatung unabhängig und gemeinnützig ausgestalten",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/070/1807042.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7042 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7042</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9979</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/070/1807042.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/099/1809979.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9979</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/070/1807042.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7042 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7042</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/099/1809979.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/070/1807042.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "20:30",
+            "time": "2017-01-26T20:30:00.000Z",
             "top": "19 *",
-            "topic": "a) Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Handlungsfähigkeit der Selbstverwaltung der Spitzenorganisationen in der gesetzlichen Krankenversicherung sowie zur Stärkung der über sie geführten Aufsicht (GKV-Selbstverwaltungsstärkungsgesetz) <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810605.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10605 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10605</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10817</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 1.17<br/>Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (14. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) <br/>– zu dem Antrag der Fraktion DIE LINKE. <br/>Patientenvertretung in der Gesundheitsversorgung stärken<br/>– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Mit Beitragsgeldern der gesetzlich Versicherten sorgsam umgehen – Mehr Transparenz und bessere Aufsicht über die Selbstverwaltung im Gesundheitswesen<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810630.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10630 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10630</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808394.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8394 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8394</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a><br/>",
-            "status": "Reden zu Protokoll<br />Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810605.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10605 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10605</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10817</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen) angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a> Buchstabe b: (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810630.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10630 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10630</a> ablehnen) angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a> Buchstabe c: (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808394.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8394 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8394</a> ablehnen) angenommen<br />"
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Handlungsfähigkeit der Selbstverwaltung der Spitzenorganisationen in der gesetzlichen Krankenversicherung sowie zur Stärkung der über sie geführten Aufsicht (GKV-Selbstverwaltungsstärkungsgesetz)",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810605.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10605 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10605</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10817</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10924 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10924</a> Nr. 1.17",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810605.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810817.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "– zu dem Antrag der Fraktion DIE LINKE.",
+                  "Patientenvertretung in der Gesundheitsversorgung stärken",
+                  "– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Mit Beitragsgeldern der gesetzlich Versicherten sorgsam umgehen – Mehr Transparenz und bessere Aufsicht über die Selbstverwaltung im Gesundheitswesen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810630.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10630 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10630</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808394.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8394 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8394</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810630.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/083/1808394.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810605.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10605 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10605</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10817</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810605.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810817.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a> Buchstabe b: (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810630.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10630 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10630</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810630.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11009</a> Buchstabe c: (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/083/1808394.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8394 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8394</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811009.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/083/1808394.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "20:35",
+            "time": "2017-01-26T20:35:00.000Z",
             "top": "18",
-            "topic": "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) <br/>zu dem Antrag der Fraktion DIE LINKE. <br/>Gute Ausbildung – Gute Arbeit – Gute Pflege<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/074/1807414.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7414 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7414</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811003.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11003 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11003</a><br/><br/>b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss) <br/>zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN<br/>Integrative Pflegeausbildung – Pflegeberuf aufwerten, Fachkenntnisse erhalten<br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807880.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7880 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7880</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811004.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11004 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11004</a>",
-            "status": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811003.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11003 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11003</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/074/1807414.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7414 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7414</a> ablehnen) angenommen<br />Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811004.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11004 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11004</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807880.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7880 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7880</a> ablehnen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion DIE LINKE.",
+                  "Gute Ausbildung – Gute Arbeit – Gute Pflege",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/074/1807414.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7414 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7414</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811003.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11003 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11003</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/074/1807414.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811003.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Integrative Pflegeausbildung – Pflegeberuf aufwerten, Fachkenntnisse erhalten",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807880.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7880 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7880</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811004.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11004 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11004</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/078/1807880.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811004.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811003.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11003 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11003</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/074/1807414.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7414 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7414</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811003.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/074/1807414.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/110/1811004.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/11004 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/11004</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/078/1807880.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/7880 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/7880</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/110/1811004.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/078/1807880.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:10",
+            "time": "2017-01-26T21:10:00.000Z",
             "top": "22 *",
-            "topic": "Zweite und dritte Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zu den Vorschlägen der Europäischen Kommission vom 7. März 2016 für Beschlüsse des Rates zur Festlegung von Standpunkten der Union in den Stabilitäts- und Assoziierungsräten EU – Republik Albanien sowie EU – Republik Serbien im Hinblick auf die Beteiligung der Republik Albanien sowie der Republik Serbien als Beobachter an den Arbeiten der Agentur der Europäischen Union für Grundrechte und die entsprechenden Modalitäten im Rahmen der Verordnung (EG) Nr. 168/2007 des Rates<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9990</a><br/>Beschlussempfehlung und Bericht des Ausschusses für die Angelegenheiten der Europäischen Union (21. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10966</a><br/>",
-            "status": "Reden zu Protokoll<br />Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9990</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10966</a>: Gesetzentwurf annnehmen) angenommen<br />"
+            "topic": [
+              {
+                "lines": [
+                  "Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zu den Vorschlägen der Europäischen Kommission vom 7. März 2016 für Beschlüsse des Rates zur Festlegung von Standpunkten der Union in den Stabilitäts- und Assoziierungsräten EU – Republik Albanien sowie EU – Republik Serbien im Hinblick auf die Beteiligung der Republik Albanien sowie der Republik Serbien als Beobachter an den Arbeiten der Agentur der Europäischen Union für Grundrechte und die entsprechenden Modalitäten im Rahmen der Verordnung (EG) Nr. 168/2007 des Rates",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9990</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für die Angelegenheiten der Europäischen Union (21. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10966</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/099/1809990.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810966.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/099/1809990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/9990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/9990</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10966</a>: Gesetzentwurf annnehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/099/1809990.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810966.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:10",
+            "time": "2017-01-26T21:10:00.000Z",
             "top": "20 *",
-            "topic": "Beratung des Antrags der Fraktion DIE LINKE.<br/>Angleichung der Entschädigungsleistungen für NS-Opfer <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810969.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10969 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10969</a><br/>",
-            "status": "Reden zu Protokoll<br />Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810969.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10969 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10969</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Angleichung der Entschädigungsleistungen für NS-Opfer",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810969.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10969 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10969</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810969.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810969.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10969 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10969</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810969.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:15",
+            "time": "2017-01-26T21:15:00.000Z",
             "top": "23 *",
-            "topic": "Beratung des Antrags der Fraktionen der CDU/CSU und SPD<br/>Biodiversität schützen – Taxonomische Forschung ausbauen<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810971.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10971 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10971</a><br/>",
-            "status": "Reden zu Protokoll<br />Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810971.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10971 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10971</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktionen der CDU/CSU und SPD",
+                  "Biodiversität schützen – Taxonomische Forschung ausbauen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810971.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10971 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10971</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810971.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810971.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10971 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10971</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810971.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:15",
+            "time": "2017-01-26T21:15:00.000Z",
             "top": "24 *",
-            "topic": "Beratung des Antrags der Fraktionen der CDU/CSU und SPD<br/>Pharmazeutische Forschung gegen Infektionskrankheiten stärken – Nationale Wirkstoffoffensive starten <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10972</a><br/>",
-            "status": "Reden zu Protokoll<br />Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10972</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktionen der CDU/CSU und SPD",
+                  "Pharmazeutische Forschung gegen Infektionskrankheiten stärken – Nationale Wirkstoffoffensive starten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10972</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810972.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10972</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810972.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:15",
+            "time": "2017-01-26T21:15:00.000Z",
             "top": "25 *",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes über das Fahrlehrerwesen und zur Änderung anderer straßenverkehrsrechtlicher Vorschriften<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810937.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10937 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10937</a><br/>",
-            "status": "Reden zu Protokoll<br />Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810937.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10937 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10937</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes über das Fahrlehrerwesen und zur Änderung anderer straßenverkehrsrechtlicher Vorschriften",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810937.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10937 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10937</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810937.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810937.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10937 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10937</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810937.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:15",
+            "time": "2017-01-26T21:15:00.000Z",
             "top": "26 *",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Änderung des Güterkraftverkehrsgesetzes, des Fahrpersonalgesetzes, des Gesetzes zur Regelung der Arbeitszeit von selbständigen Kraftfahrern, des Straßenverkehrsgesetzes und des Gesetzes über die Errichtung eines Kraftfahrt-Bundesamtes<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10882 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10882</a><br/>",
-            "status": "Reden zu Protokoll<br />Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10882 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10882</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Güterkraftverkehrsgesetzes, des Fahrpersonalgesetzes, des Gesetzes zur Regelung der Arbeitszeit von selbständigen Kraftfahrern, des Straßenverkehrsgesetzes und des Gesetzes über die Errichtung eines Kraftfahrt-Bundesamtes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10882 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10882</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10882 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10882</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:15",
+            "time": "2017-01-26T21:15:00.000Z",
             "top": "27 *",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Modernisierung der epidemiologischen Überwachung übertragbarer Krankheiten<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810938.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10938 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10938</a><br/>",
-            "status": "Reden zu Protokoll<br />Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810938.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10938 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10938</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Modernisierung der epidemiologischen Überwachung übertragbarer Krankheiten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810938.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10938 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10938</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810938.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810938.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10938 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10938</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810938.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:15",
+            "time": "2017-01-26T21:15:00.000Z",
             "top": "ZP  4 *",
-            "topic": "Zweite Beratung und Schlussabstimmung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zu dem Wirtschaftspartnerschaftsabkommen vom 15. Oktober 2008 zwischen den CARIFORUM-Staaten einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/082/1808297.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8297 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8297</a><br/>Beschlussempfehlung und Bericht des Ausschusses für wirtschaftliche Zusammenarbeit und Entwicklung (19. Ausschuss)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810950.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10950 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10950</a>",
-            "status": "Reden zu Protokoll<br />Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810950.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10950 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10950</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/082/1808297.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8297 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8297</a>: Gesetzentwurf annnehmen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Zweite Beratung und Schlussabstimmung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zu dem Wirtschaftspartnerschaftsabkommen vom 15. Oktober 2008 zwischen den CARIFORUM-Staaten einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/082/1808297.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8297 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8297</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für wirtschaftliche Zusammenarbeit und Entwicklung (19. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810950.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10950 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10950</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/082/1808297.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810950.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll",
+                "documents": []
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810950.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10950 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10950</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/082/1808297.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/8297 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/8297</a>: Gesetzentwurf annnehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810950.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/082/1808297.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "21:20",
+            "time": "2017-01-26T21:20:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Freitag, 27. Januar 2017, 10.30 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 27. Januar 2017, 10.30 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
       {
-        "date": "27. Januar 2017 ",
+        "date": "2017-01-27T00:00:00.000Z",
+        "dateText": "27. Januar 2017",
         "session": "216",
         "tops": [
           {
-            "time": "10:30",
+            "time": "2017-01-27T10:30:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:30",
+            "time": "2017-01-27T10:30:00.000Z",
             "top": "28",
-            "topic": "a) Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Fahndung bei besonderen Gefahrenlagen und zum Schutz von Beamtinnen und Beamten der Bundespolizei durch den Einsatz von mobiler Videotechnik<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10939</a><br/><br/>b) Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Änderung des Bundesdatenschutzgesetzes – Erhöhung der Sicherheit in öffentlich zugänglichen großflächigen Anlagen und im öffentlichen Personenverkehr durch optisch-elektronische Einrichtungen (Videoüberwachungsverbesserungsgesetz)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810941.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10941 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10941</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10939</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810941.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10941 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10941</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Verbesserung der Fahndung bei besonderen Gefahrenlagen und zum Schutz von Beamtinnen und Beamten der Bundespolizei durch den Einsatz von mobiler Videotechnik",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10939</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Bundesdatenschutzgesetzes – Erhöhung der Sicherheit in öffentlich zugänglichen großflächigen Anlagen und im öffentlichen Personenverkehr durch optisch-elektronische Einrichtungen (Videoüberwachungsverbesserungsgesetz)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810941.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10941 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10941</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810941.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10939</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810941.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10941 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10941</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810941.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "11:40",
+            "time": "2017-01-27T11:40:00.000Z",
             "top": "ZP 5",
-            "topic": "Eidesleistung der Bundesministerin für Wirtschaft und Energie",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Eidesleistung der Bundesministerin für Wirtschaft und Energie"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:45",
+            "time": "2017-01-27T11:45:00.000Z",
             "top": "29",
-            "topic": "Beratung des Antrags der Fraktion DIE LINKE.<br/>Europa- und Verfassungsrecht wahren – Vorläufige Anwendung von CETA verhindern <br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810970.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10970 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10970</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810970.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10970 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10970</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Europa- und Verfassungsrecht wahren – Vorläufige Anwendung von CETA verhindern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810970.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10970 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10970</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810970.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810970.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10970 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10970</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810970.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:00",
+            "time": "2017-01-27T13:00:00.000Z",
             "top": "30",
-            "topic": "Erste Beratung des von der Bundesregierung <br/>eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810942.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10942 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10942</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810942.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10942 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10942</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Richtlinie 2014/52/EU im Städtebaurecht und zur Stärkung des neuen Zusammenlebens in der Stadt",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810942.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10942 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10942</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810942.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810942.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10942 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10942</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810942.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:45",
+            "time": "2017-01-27T13:45:00.000Z",
             "top": "31",
-            "topic": "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) <br/>zu dem Antrag der Fraktionen der CDU/CSU und SPD<br/>Wissenschaftskooperation mit Partnern in Subsahara-Afrika stärken <br/>Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810632.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10632 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10632</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810973.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10973 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10973</a><br/>",
-            "status": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810973.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10973 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10973</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810632.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10632 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10632</a> annehmen) angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss)",
+                  "zu dem Antrag der Fraktionen der CDU/CSU und SPD",
+                  "Wissenschaftskooperation mit Partnern in Subsahara-Afrika stärken",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810632.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10632 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10632</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810973.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10973 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10973</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810632.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810973.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810973.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10973 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10973</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/106/1810632.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10632 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10632</a> annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810973.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/106/1810632.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "14:30",
+            "time": "2017-01-27T14:30:00.000Z",
             "top": "32",
-            "topic": "Erste Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN <br/>eingebrachten Entwurfs eines Gesetzes zur Änderung des Gesetzes über die Entschädigung für Opfer von Gewalttaten (Opferentschädigungsgesetz – OEG)<br/>Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810965.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10965 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10965</a><br/>",
-            "status": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810965.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10965 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10965</a> beschlossen"
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Gesetzes über die Entschädigung für Opfer von Gewalttaten (Opferentschädigungsgesetz – OEG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810965.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10965 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10965</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810965.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/109/1810965.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/10965 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/10965</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/109/1810965.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "15:05",
+            "time": "2017-01-27T15:05:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 15. Februar 2017, 13 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 15. Februar 2017, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

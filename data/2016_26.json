@@ -19,26 +19,64 @@
     },
     "sessions": [
       {
-        "date": "28. Juni 2016 ",
+        "date": "2016-06-28T00:00:00.000Z",
+        "dateText": "28. Juni 2016",
         "session": "181",
         "tops": [
           {
-            "time": "10:30",
+            "time": "2016-06-28T10:30:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "10:30",
+            "time": "2016-06-28T10:30:00.000Z",
             "top": "1",
-            "topic": "Abgabe einer Regierungserklärung durch die Bundeskanzlerin <br/>Ausgang des Referendums über den Verbleib des Vereinigten Königreichs in der EU mit Blick auf den Europäischen Rat am 28./29. Juni 2016 in Brüssel<br/>",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Abgabe einer Regierungserklärung durch die Bundeskanzlerin",
+                  "Ausgang des Referendums über den Verbleib des Vereinigten Königreichs in der EU mit Blick auf den Europäischen Rat am 28./29. Juni 2016 in Brüssel"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "12:20",
+            "time": "2016-06-28T12:20:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 6. Juli 2016, 13 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 6. Juli 2016, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

@@ -19,26 +19,72 @@
     },
     "sessions": [
       {
-        "date": "22. Januar 2018 ",
+        "date": "2018-01-22T00:00:00.000Z",
+        "dateText": "22. Januar 2018",
         "session": "9",
         "tops": [
           {
-            "time": "11:00",
+            "time": "2018-01-22T11:00:00.000Z",
             "top": "",
-            "topic": "Sitzungseröffnung",
-            "status": "beendet"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "11:05",
+            "time": "2018-01-22T11:05:00.000Z",
             "top": "1",
-            "topic": "Vereinbarte Debatte<br/>55 Jahre Élysée-Vertrag",
-            "status": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900495.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/495 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/495</a> abgelehnt<br />Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900440.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/440 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/440</a> angenommen"
+            "topic": [
+              {
+                "lines": [
+                  "Vereinbarte Debatte",
+                  "55 Jahre Élysée-Vertrag"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900495.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/495 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/495</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900495.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900440.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/440 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/440</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900440.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "13:10",
+            "time": "2018-01-22T13:10:00.000Z",
             "top": "",
-            "topic": "Sitzungsende",
-            "status": "nächste Sitzung Mittwoch, 31. Januar, 14.30 Uhr"
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 31. Januar, 14.30 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
