@@ -27,15 +27,7 @@
             "time": "2017-09-05T09:00:00.000Z",
             "top": "",
             "heading": "Sitzungseröffnung",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": [],
-                "isVote": null
-              }
-            ],
+            "topic": [],
             "status": []
           },
           {
@@ -84,7 +76,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/134/1813490.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -164,7 +156,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/134/1813497.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []

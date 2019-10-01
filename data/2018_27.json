@@ -53,7 +53,7 @@
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901700.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901701.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -418,15 +418,7 @@
             "time": "2018-07-05T09:00:00.000Z",
             "top": "",
             "heading": "Sitzungseröffnung",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": [],
-                "isVote": null
-              }
-            ],
+            "topic": [],
             "status": []
           },
           {
@@ -510,7 +502,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903071.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -590,7 +582,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/025/1902592.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []
@@ -612,7 +604,7 @@
                   "http://dip21.bundestag.de/dip21/btd/19/026/1902630.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/031/1903129.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -814,7 +806,7 @@
                   "http://dip21.bundestag.de/dip21/btd/19/031/1903112.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/032/1903232.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []
@@ -1003,15 +995,7 @@
             "time": "2018-07-05T20:25:00.000Z",
             "top": "",
             "heading": "Sitzungsende",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": [],
-                "isVote": null
-              }
-            ],
+            "topic": [],
             "status": []
           }
         ]

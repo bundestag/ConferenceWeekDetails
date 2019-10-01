@@ -94,15 +94,7 @@
             "time": "2017-03-08T14:50:00.000Z",
             "top": "-",
             "heading": "Sitzungsunterbrechung",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": [],
-                "isVote": null
-              }
-            ],
+            "topic": [],
             "status": []
           },
           {
@@ -190,7 +182,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/110/1811049.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -257,7 +249,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811446.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -273,7 +265,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804817.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811446.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []
@@ -288,7 +280,7 @@
                   "Überweisungen im vereinfachten Verfahren"
                 ],
                 "documents": [],
-                "isVote": null
+                "isVote": false
               },
               {
                 "lines": [
@@ -436,7 +428,7 @@
                   "Abschließende Beratungen ohne Aussprache"
                 ],
                 "documents": [],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -560,7 +552,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811413.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -628,7 +620,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/091/1809122.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811347.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -639,7 +631,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811414.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []
@@ -657,7 +649,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811325.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -705,7 +697,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811397.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -824,7 +816,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811125.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811439.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               }
             ],
             "status": []
@@ -843,7 +835,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808402.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               }
             ],
             "status": []
@@ -862,7 +854,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811399.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -873,13 +865,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811411.pdf"
                 ],
-                "isVote": null
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": [],
                 "isVote": null
               }
             ],
@@ -901,7 +886,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/104/1810431.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               }
             ],
             "status": []
@@ -941,7 +926,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811285.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -959,7 +944,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811272.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1024,7 +1009,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811242.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1042,7 +1027,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811279.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1063,7 +1048,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811438.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -1078,7 +1063,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811125.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811435.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []
@@ -1097,7 +1082,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811139.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -1148,7 +1133,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811233.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1166,7 +1151,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811234.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1184,7 +1169,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811291.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1244,7 +1229,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811240.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1265,7 +1250,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808486.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811437.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               }
             ],
             "status": []
@@ -1285,7 +1270,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/088/1808831.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               }
             ],
             "status": []
@@ -1308,7 +1293,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/104/1810444.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811450.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -1341,7 +1326,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811137.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811451.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -1356,7 +1341,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/095/1809596.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811451.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []
@@ -1377,7 +1362,7 @@
                   "http://dip21.bundestag.de/dip21/btd/18/004/1800407.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811436.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               }
             ],
             "status": []
@@ -1395,7 +1380,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811275.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1452,7 +1437,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811278.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               },
               {
                 "lines": [
@@ -1517,7 +1502,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800237.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               },
               {
                 "lines": [
@@ -1555,7 +1540,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811286.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -1577,7 +1562,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/103/1810384.pdf"
                 ],
-                "isVote": true
+                "isVote": null
               }
             ],
             "status": []
@@ -1596,7 +1581,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811417.pdf"
                 ],
-                "isVote": null
+                "isVote": true
               },
               {
                 "lines": [
@@ -1638,7 +1623,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811300.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
@@ -1656,7 +1641,7 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811274.pdf"
                 ],
-                "isVote": null
+                "isVote": false
               }
             ],
             "status": []
