@@ -26,12 +26,14 @@
           {
             "time": "2015-05-06T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2015-05-06T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "zum Thema: Bundesbericht Energieforschung 2015"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2015-05-06T13:55:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804773.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +75,7 @@
           {
             "time": "2015-05-06T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Sunde zur internationalen Zusammenarbeit von NSA und BND",
             "topic": [
               {
                 "lines": [
@@ -76,7 +83,8 @@
                   "auf Verlangen der Fraktionen der CDU/CSU und SPD",
                   "BND und NSA - Notwendigkeit und Grenzen der internationalen Zusammenarbeit"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -84,12 +92,14 @@
           {
             "time": "2015-05-06T16:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -104,12 +114,14 @@
           {
             "time": "2015-05-07T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,6 +129,7 @@
           {
             "time": "2015-05-07T09:00:00.000Z",
             "top": "3",
+            "heading": "Fracking, Bergschadenshaftung, Bergbaurecht",
             "topic": [
               {
                 "lines": [
@@ -126,7 +139,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804713.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -136,7 +150,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804714.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -146,7 +161,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804810.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -158,7 +174,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800848.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/011/1801124.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -166,6 +183,7 @@
           {
             "time": "2015-05-07T11:00:00.000Z",
             "top": "4 + ZP 2",
+            "heading": "50 Jahre diplomatische Beziehungen zu Israel",
             "topic": [
               {
                 "lines": [
@@ -175,7 +193,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804803.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -185,7 +204,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804818.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -193,6 +213,7 @@
           {
             "time": "2015-05-07T12:45:00.000Z",
             "top": "5 + 19a",
+            "heading": "Asylpolitik, finanzielle Verantwortungsteilung",
             "topic": [
               {
                 "lines": [
@@ -202,7 +223,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/038/1803839.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -212,7 +234,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804694.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -220,12 +243,14 @@
           {
             "time": "2015-05-07T14:10:00.000Z",
             "top": "23 + ZP 3",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -233,12 +258,14 @@
           {
             "time": "2015-05-07T14:10:00.000Z",
             "top": "24",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -246,6 +273,7 @@
           {
             "time": "2015-05-07T14:10:00.000Z",
             "top": "6",
+            "heading": "Europäische Hochschulbildung",
             "topic": [
               {
                 "lines": [
@@ -255,7 +283,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804801.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -265,7 +294,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/043/1804385.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -275,7 +305,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804802.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -285,7 +316,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804815.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -293,6 +325,7 @@
           {
             "time": "2015-05-07T14:55:00.000Z",
             "top": "7",
+            "heading": "Informationsweiterverwendungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -305,7 +338,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804614.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804844.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -313,6 +347,7 @@
           {
             "time": "2015-05-07T15:35:00.000Z",
             "top": "8",
+            "heading": "Völkermord in Ruanda - Historische Aufarbeitung",
             "topic": [
               {
                 "lines": [
@@ -322,7 +357,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804811.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -330,6 +366,7 @@
           {
             "time": "2015-05-07T16:20:00.000Z",
             "top": "9",
+            "heading": "Bundeswehreinsatz Operation Atalanta vor Somalia",
             "topic": [
               {
                 "lines": [
@@ -339,13 +376,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804769.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -353,6 +392,7 @@
           {
             "time": "2015-05-07T17:05:00.000Z",
             "top": "10",
+            "heading": "Arbeit in der Wissenschaft",
             "topic": [
               {
                 "lines": [
@@ -362,7 +402,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804804.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -370,6 +411,7 @@
           {
             "time": "2015-05-07T17:50:00.000Z",
             "top": "11",
+            "heading": "Richtlinie des Europäischen Parlament",
             "topic": [
               {
                 "lines": [
@@ -382,13 +424,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/015/1801524.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804843.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -396,6 +440,7 @@
           {
             "time": "2015-05-07T18:20:00.000Z",
             "top": "12",
+            "heading": "Tierhaltungskennzeichnung für Fleisch",
             "topic": [
               {
                 "lines": [
@@ -405,7 +450,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804812.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -413,6 +459,7 @@
           {
             "time": "2015-05-07T18:50:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz in Liberia",
             "topic": [
               {
                 "lines": [
@@ -422,7 +469,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804768.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -430,6 +478,7 @@
           {
             "time": "2015-05-07T19:20:00.000Z",
             "top": "22",
+            "heading": "Geschichte des Bundeskanzleramtes",
             "topic": [
               {
                 "lines": [
@@ -439,7 +488,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/030/1803049.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -447,6 +497,7 @@
           {
             "time": "2015-05-07T20:00:00.000Z",
             "top": "15 *",
+            "heading": "Rindfleischetikettierungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -459,7 +510,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804615.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804800.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -467,6 +519,7 @@
           {
             "time": "2015-05-07T20:00:00.000Z",
             "top": "16",
+            "heading": "Empfehlung der VN zur Behindertenrechtskonvention",
             "topic": [
               {
                 "lines": [
@@ -476,7 +529,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804813.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -484,6 +538,7 @@
           {
             "time": "2015-05-07T20:30:00.000Z",
             "top": "ZP 4 *",
+            "heading": "Grünbuch zur Schaffung einer Kapitalmarktunion",
             "topic": [
               {
                 "lines": [
@@ -497,13 +552,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/043/1804375.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804807.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -511,6 +568,7 @@
           {
             "time": "2015-05-07T20:30:00.000Z",
             "top": "17 *",
+            "heading": "EU-Lateinamerika-Gipfel",
             "topic": [
               {
                 "lines": [
@@ -520,7 +578,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804799.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -528,12 +587,14 @@
           {
             "time": "2015-05-07T20:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -548,12 +609,14 @@
           {
             "time": "2015-05-08T10:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -561,6 +624,7 @@
           {
             "time": "2015-05-08T10:30:00.000Z",
             "top": "18",
+            "heading": "Deutsche humanitäre Hilfe im Ausland 2010/2013",
             "topic": [
               {
                 "lines": [
@@ -573,7 +637,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/029/1802900.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/031/1803108.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/044/1804416.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -581,6 +646,7 @@
           {
             "time": "2015-05-08T11:45:00.000Z",
             "top": "ZP 5 + 6",
+            "heading": "Meeresschutz",
             "topic": [
               {
                 "lines": [
@@ -590,7 +656,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804814.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -600,7 +667,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804809.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -608,6 +676,7 @@
           {
             "time": "2015-05-08T12:55:00.000Z",
             "top": "20",
+            "heading": "Städtebauförderung",
             "topic": [
               {
                 "lines": [
@@ -617,7 +686,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804806.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -625,6 +695,7 @@
           {
             "time": "2015-05-08T13:40:00.000Z",
             "top": "21",
+            "heading": "EU-Richtlinie über das Klonen von Nutztieren",
             "topic": [
               {
                 "lines": [
@@ -640,7 +711,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804808.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -648,6 +720,7 @@
           {
             "time": "2015-05-08T14:20:00.000Z",
             "top": "14",
+            "heading": "Tag der Befreiung als Gedenktag",
             "topic": [
               {
                 "lines": [
@@ -657,7 +730,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/043/1804333.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -665,12 +739,14 @@
           {
             "time": "2015-05-08T14:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

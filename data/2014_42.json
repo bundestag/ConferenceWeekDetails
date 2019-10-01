@@ -26,12 +26,14 @@
           {
             "time": "2014-10-15T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,12 +41,14 @@
           {
             "time": "2014-10-15T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -52,6 +56,7 @@
           {
             "time": "2014-10-15T14:05:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -60,7 +65,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802831.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -68,12 +74,14 @@
           {
             "time": "2014-10-15T15:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -88,12 +96,14 @@
           {
             "time": "2014-10-16T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -101,13 +111,15 @@
           {
             "time": "2014-10-16T09:00:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zum ASEM- und Euro-Gipfel und zum Europäischen Rat",
             "topic": [
               {
                 "lines": [
                   "Abgabe einer Regierungserklärung durch die Bundeskanzlerin",
                   "zum ASEM-Gipfel am 16./17. Oktober 2014, zum Europäischen Rat am 23./24. Oktober 2014 und zum Euro-Gipfel am 24. Oktober 2104 in Brüssel"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -115,6 +127,7 @@
           {
             "time": "2014-10-16T11:20:00.000Z",
             "top": "4",
+            "heading": "Digitale Agenda 2014 bis 2017",
             "topic": [
               {
                 "lines": [
@@ -124,7 +137,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/023/1802390.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -134,7 +148,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802880.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -142,6 +157,7 @@
           {
             "time": "2014-10-16T13:30:00.000Z",
             "top": "5",
+            "heading": "Gesetzliche Tarifeinheit",
             "topic": [
               {
                 "lines": [
@@ -151,7 +167,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802875.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -159,13 +176,15 @@
           {
             "time": "2014-10-16T14:50:00.000Z",
             "top": "27 + ZP 1",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren",
                   "Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -173,13 +192,15 @@
           {
             "time": "2014-10-16T14:50:00.000Z",
             "top": "28",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache",
                   "Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -187,6 +208,7 @@
           {
             "time": "2014-10-16T15:00:00.000Z",
             "top": "6",
+            "heading": "EU-Verordnung über ökologische/biologische Produktion",
             "topic": [
               {
                 "lines": [
@@ -199,7 +221,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801393.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802839.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -212,7 +235,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802873.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -220,6 +244,7 @@
           {
             "time": "2014-10-16T15:50:00.000Z",
             "top": "7",
+            "heading": "EU-Jahresberichte über Menschenrechte und Demokratie",
             "topic": [
               {
                 "lines": [
@@ -234,13 +259,15 @@
                   "http://dip21.bundestag.de/dip21/btd/18/004/1800419.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/025/1802533.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802866.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -248,6 +275,7 @@
           {
             "time": "2014-10-16T16:30:00.000Z",
             "top": "8",
+            "heading": "Schulsozialarbeit",
             "topic": [
               {
                 "lines": [
@@ -257,7 +285,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802013.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -265,6 +294,7 @@
           {
             "time": "2014-10-16T17:20:00.000Z",
             "top": "9",
+            "heading": "Änderung des Antiterrordateigesetzes",
             "topic": [
               {
                 "lines": [
@@ -276,7 +306,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/015/1801565.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/029/1802902.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -284,6 +315,7 @@
           {
             "time": "2014-10-16T18:05:00.000Z",
             "top": "10",
+            "heading": "Bekämpfung von Steuerbetrug",
             "topic": [
               {
                 "lines": [
@@ -293,7 +325,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802877.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -301,6 +334,7 @@
           {
             "time": "2014-10-16T18:50:00.000Z",
             "top": "11",
+            "heading": "ERP-Wirtschaftsplangesetz 2015",
             "topic": [
               {
                 "lines": [
@@ -310,7 +344,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802662.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -319,7 +354,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/029/1802903.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -327,6 +363,7 @@
           {
             "time": "2014-10-16T19:20:00.000Z",
             "top": "12",
+            "heading": "Arbeitslosengeld für kurzzeitig Beschäftigte",
             "topic": [
               {
                 "lines": [
@@ -336,13 +373,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802786.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -350,6 +389,7 @@
           {
             "time": "2014-10-16T19:50:00.000Z",
             "top": "13",
+            "heading": "Berufliche Bildung zukunftssicher gestalten",
             "topic": [
               {
                 "lines": [
@@ -367,7 +407,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/014/1801454.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/014/1801456.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802856.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -375,6 +416,7 @@
           {
             "time": "2014-10-16T20:20:00.000Z",
             "top": "14",
+            "heading": "Entschädigung von Einsatzunfällen",
             "topic": [
               {
                 "lines": [
@@ -384,7 +426,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802874.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -392,6 +435,7 @@
           {
             "time": "2014-10-16T20:45:00.000Z",
             "top": "15",
+            "heading": "Änderung des Bundesfernstraßenmautgesetzes",
             "topic": [
               {
                 "lines": [
@@ -404,7 +448,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/024/1802444.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802657.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802857.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -413,7 +458,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802858.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -424,7 +470,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801620.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802857.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -432,6 +479,7 @@
           {
             "time": "2014-10-16T21:20:00.000Z",
             "top": "16 *",
+            "heading": "Änderung des Bundesdatenschutzgesetzes",
             "topic": [
               {
                 "lines": [
@@ -440,7 +488,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802848.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -448,6 +497,7 @@
           {
             "time": "2014-10-16T21:20:00.000Z",
             "top": "17 *",
+            "heading": "Unionsrechtliche Vorschriften über Agrarzahlungen",
             "topic": [
               {
                 "lines": [
@@ -459,7 +509,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802708.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802894.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -467,6 +518,7 @@
           {
             "time": "2014-10-16T21:20:00.000Z",
             "top": "18 *",
+            "heading": "Vertrag mit der Weltgemeinschaft Reformierter Kirchen",
             "topic": [
               {
                 "lines": [
@@ -478,7 +530,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/025/1802587.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802785.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -486,6 +539,7 @@
           {
             "time": "2014-10-16T21:25:00.000Z",
             "top": "19 *",
+            "heading": "Änderung  des AKP-EG-Partnerschaftsabkommen",
             "topic": [
               {
                 "lines": [
@@ -503,7 +557,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/025/1802588.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802840.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802843.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -511,12 +566,14 @@
           {
             "time": "2014-10-16T21:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -531,12 +588,14 @@
           {
             "time": "2014-10-17T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -544,6 +603,7 @@
           {
             "time": "2014-10-17T09:00:00.000Z",
             "top": "21",
+            "heading": "Pflegeversicherung",
             "topic": [
               {
                 "lines": [
@@ -559,7 +619,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/023/1802379.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/029/1802909.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/029/1802910.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -570,7 +631,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801953.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/029/1802909.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -581,7 +643,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800591.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/029/1802901.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -589,6 +652,7 @@
           {
             "time": "2014-10-17T11:25:00.000Z",
             "top": "22",
+            "heading": "Wohnungsnot in Hochschulstädten",
             "topic": [
               {
                 "lines": [
@@ -598,7 +662,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802870.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -606,6 +671,7 @@
           {
             "time": "2014-10-17T13:15:00.000Z",
             "top": "23",
+            "heading": "Ebola-Epidemie",
             "topic": [
               {
                 "lines": [
@@ -617,7 +683,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802607.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802841.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -625,6 +692,7 @@
           {
             "time": "2014-10-17T14:10:00.000Z",
             "top": "26",
+            "heading": "Fernerkundung in Afrika",
             "topic": [
               {
                 "lines": [
@@ -635,7 +703,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800581.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -643,6 +712,7 @@
           {
             "time": "2014-10-17T14:50:00.000Z",
             "top": "25",
+            "heading": "Bekämpfung des Antiziganismus",
             "topic": [
               {
                 "lines": [
@@ -652,7 +722,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801967.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -660,12 +731,14 @@
           {
             "time": "2014-10-17T15:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

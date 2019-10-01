@@ -26,12 +26,14 @@
           {
             "time": "2015-04-22T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2015-04-22T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: Bericht der Bundesregierung 2014 nach § 7 des Gesetzes zur Einsetzung eines Nationalen Normenkontrollrates"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2015-04-22T14:00:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -62,7 +67,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804641.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804678.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -70,13 +76,15 @@
           {
             "time": "2015-04-22T15:00:00.000Z",
             "top": "ZP 1",
+            "heading": "Vereinbarte Debatte zur Flüchtlingskatastrophe im Mittelmeer",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "Flüchtlingskatastrophe im Mittelmeer"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -84,12 +92,14 @@
           {
             "time": "2015-04-22T16:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -104,12 +114,14 @@
           {
             "time": "2015-04-23T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,6 +129,7 @@
           {
             "time": "2015-04-23T09:05:00.000Z",
             "top": "3 + ZP 2",
+            "heading": "Nachtragshaushalt und Unterstützung von Kommunen",
             "topic": [
               {
                 "lines": [
@@ -126,7 +139,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804600.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -135,7 +149,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804653.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -145,13 +160,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804689.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -159,6 +176,7 @@
           {
             "time": "2015-04-23T10:55:00.000Z",
             "top": "4",
+            "heading": "Kleinanlegerschutzgesetz",
             "topic": [
               {
                 "lines": [
@@ -173,7 +191,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/039/1803994.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804708.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804709.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -181,6 +200,7 @@
           {
             "time": "2015-04-23T12:45:00.000Z",
             "top": "5",
+            "heading": "Geburtsrecht im Staatsangehörigkeitsrecht",
             "topic": [
               {
                 "lines": [
@@ -189,7 +209,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804612.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -197,12 +218,14 @@
           {
             "time": "2015-04-23T13:50:00.000Z",
             "top": "30 + ZP 3",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -210,6 +233,7 @@
           {
             "time": "2015-04-23T13:50:00.000Z",
             "top": "ZP 4",
+            "heading": "Aktuelle Stunde: Einfluss von Interessenvertretern auf die Infrastrukturpolitik",
             "topic": [
               {
                 "lines": [
@@ -217,7 +241,8 @@
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Einfluss von Interessenvertretern auf die Infrastrukturpolitik der Bundesregierung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -225,6 +250,7 @@
           {
             "time": "2015-04-23T15:10:00.000Z",
             "top": "6",
+            "heading": "Jahresbericht 2014 des Wehrbeauftragten",
             "topic": [
               {
                 "lines": [
@@ -234,7 +260,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/037/1803750.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -242,6 +269,7 @@
           {
             "time": "2015-04-23T16:05:00.000Z",
             "top": "7",
+            "heading": "Grundfreibetrag, Kinderfreibetrag und -geld",
             "topic": [
               {
                 "lines": [
@@ -250,7 +278,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804649.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -258,6 +287,7 @@
           {
             "time": "2015-04-23T16:50:00.000Z",
             "top": "8",
+            "heading": "Bilanz des Krieges in Afghanistan",
             "topic": [
               {
                 "lines": [
@@ -268,7 +298,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/021/1802144.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/041/1804168.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -276,6 +307,7 @@
           {
             "time": "2015-04-23T17:35:00.000Z",
             "top": "9",
+            "heading": "Karenzzeit für Regierungsmitglieder",
             "topic": [
               {
                 "lines": [
@@ -284,7 +316,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804630.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -292,6 +325,7 @@
           {
             "time": "2015-04-23T18:15:00.000Z",
             "top": "10",
+            "heading": "Aufnahme syrischer und irakischer Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -302,7 +336,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/031/1803154.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/041/1804163.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -313,7 +348,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802742.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/044/1804417.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -321,6 +357,7 @@
           {
             "time": "2015-04-23T19:05:00.000Z",
             "top": "11",
+            "heading": "Verbraucherschutz im Datenschutzrecht",
             "topic": [
               {
                 "lines": [
@@ -329,7 +366,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804631.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -337,6 +375,7 @@
           {
             "time": "2015-04-23T19:35:00.000Z",
             "top": "16",
+            "heading": "Status Palästinas in der UNO",
             "topic": [
               {
                 "lines": [
@@ -346,7 +385,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/043/1804334.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -354,6 +394,7 @@
           {
             "time": "2015-04-23T20:00:00.000Z",
             "top": "13",
+            "heading": "Verfolgung schwerer staatsgefährdender Gewalttaten",
             "topic": [
               {
                 "lines": [
@@ -370,7 +411,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/040/1804087.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/042/1804279.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804705.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -378,6 +420,7 @@
           {
             "time": "2015-04-23T20:35:00.000Z",
             "top": "14",
+            "heading": "Fluglärm",
             "topic": [
               {
                 "lines": [
@@ -387,7 +430,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/043/1804331.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -395,6 +439,7 @@
           {
             "time": "2015-04-23T21:10:00.000Z",
             "top": "15 *",
+            "heading": "Einführung eines Ersatzpersonalausweises",
             "topic": [
               {
                 "lines": [
@@ -409,7 +454,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/038/1803831.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/042/1804280.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804706.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -417,6 +463,7 @@
           {
             "time": "2015-04-23T21:15:00.000Z",
             "top": "12 *",
+            "heading": "EU-Polizeimission in der Ukraine",
             "topic": [
               {
                 "lines": [
@@ -427,7 +474,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/033/1803314.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/039/1803932.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -435,6 +483,7 @@
           {
             "time": "2015-04-23T21:15:00.000Z",
             "top": "17 *",
+            "heading": "Personalrecht der früheren Bundespostbeamten",
             "topic": [
               {
                 "lines": [
@@ -446,7 +495,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/035/1803512.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804707.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -454,6 +504,7 @@
           {
             "time": "2015-04-23T21:15:00.000Z",
             "top": "19 *",
+            "heading": "UN-Ziele für nachhaltige Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -471,7 +522,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/040/1804091.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/031/1803156.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804669.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -479,6 +531,7 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "20 *",
+            "heading": "Opferrechte im Strafverfahren",
             "topic": [
               {
                 "lines": [
@@ -487,7 +540,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804621.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -495,6 +549,7 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "21 *",
+            "heading": "Gesetzes gegen den unlauteren Wettbewerb",
             "topic": [
               {
                 "lines": [
@@ -503,7 +558,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/045/1804535.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -511,6 +567,7 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "22 *",
+            "heading": "Änderung soldatenrechtlicher Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -520,7 +577,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804632.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -528,12 +586,14 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -548,12 +608,14 @@
           {
             "time": "2015-04-24T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -561,6 +623,7 @@
           {
             "time": "2015-04-24T09:05:00.000Z",
             "top": "25 + ZP 5",
+            "heading": "Vertreibung und Massaker an Armeniern 1915/16",
             "topic": [
               {
                 "lines": [
@@ -570,7 +633,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804684.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -580,7 +644,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/043/1804335.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -590,13 +655,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804687.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -604,6 +671,7 @@
           {
             "time": "2015-04-24T10:20:00.000Z",
             "top": "24",
+            "heading": "Öffentlich geförderte Beschäftigung",
             "topic": [
               {
                 "lines": [
@@ -613,7 +681,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/044/1804449.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -621,6 +690,7 @@
           {
             "time": "2015-04-24T12:10:00.000Z",
             "top": "23 + ZP 6",
+            "heading": "Zusammenarbeit im Bereich des Verfassungsschutzes",
             "topic": [
               {
                 "lines": [
@@ -629,7 +699,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804654.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -639,7 +710,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800710.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -649,7 +721,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804682.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -659,13 +732,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804690.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -673,6 +748,7 @@
           {
             "time": "2015-04-24T14:00:00.000Z",
             "top": "26 + ZP 7",
+            "heading": "NVV-Überprüfungskonferenz (Atomwaffensperrvertrag)",
             "topic": [
               {
                 "lines": [
@@ -682,7 +758,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804685.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -692,7 +769,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804681.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -700,6 +778,7 @@
           {
             "time": "2015-04-24T14:40:00.000Z",
             "top": "27",
+            "heading": "Palliativ- und Hospizversorgung",
             "topic": [
               {
                 "lines": [
@@ -709,7 +788,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/045/1804563.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -717,6 +797,7 @@
           {
             "time": "2015-04-24T15:25:00.000Z",
             "top": "28",
+            "heading": "Recht des Energieleitungsbaus",
             "topic": [
               {
                 "lines": [
@@ -725,7 +806,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804655.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -733,6 +815,7 @@
           {
             "time": "2015-04-24T15:50:00.000Z",
             "top": "29",
+            "heading": "Änderung des Erneuerbare-Energien-Gesetzes",
             "topic": [
               {
                 "lines": [
@@ -741,7 +824,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804683.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -749,12 +833,14 @@
           {
             "time": "2015-04-24T16:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

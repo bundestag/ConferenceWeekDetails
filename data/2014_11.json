@@ -26,12 +26,14 @@
           {
             "time": "2014-03-12T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2014-03-12T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "\"Fortschrittsbericht 2013 zum Fachkräftekonzept der Bundesregierung\""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2014-03-12T13:50:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800728.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +75,7 @@
           {
             "time": "2014-03-12T16:05:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zum Staatsangehörigkeitsrecht",
             "topic": [
               {
                 "lines": [
@@ -76,7 +83,8 @@
                   "auf Verlangen BÜNDNIS 90/DIE GRÜNEN",
                   "Haltung der Bundesregierung zur Abschaffung des Optionszwangs im Staatsangehörigkeitsrecht"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -84,12 +92,14 @@
           {
             "time": "2014-03-12T17:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -104,12 +114,14 @@
           {
             "time": "2014-03-13T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,13 +129,15 @@
           {
             "time": "2014-03-13T09:05:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zur Lage in der Ukraine",
             "topic": [
               {
                 "lines": [
                   "Abgabe einer Regierungserklärung durch die Bundeskanzlerin",
                   "zum Treffen der Staats- und Regierungschefs der Europäischen Union zur Lage in der Ukraine am 6. März 2014"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -131,6 +145,7 @@
           {
             "time": "2014-03-13T11:20:00.000Z",
             "top": "4",
+            "heading": "Energiewende",
             "topic": [
               {
                 "lines": [
@@ -140,7 +155,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800777.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -148,6 +164,7 @@
           {
             "time": "2014-03-13T13:20:00.000Z",
             "top": "5",
+            "heading": "Gründungsbedingungen in der digitalen Wirtschaft",
             "topic": [
               {
                 "lines": [
@@ -157,7 +174,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800764.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -167,7 +185,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800771.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -175,12 +194,14 @@
           {
             "time": "2014-03-13T14:35:00.000Z",
             "top": "14",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -188,12 +209,14 @@
           {
             "time": "2014-03-13T14:35:00.000Z",
             "top": "15",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -201,6 +224,7 @@
           {
             "time": "2014-03-13T14:40:00.000Z",
             "top": "8",
+            "heading": "Abkommen mit Uruguay über Soziale Sicherheit",
             "topic": [
               {
                 "lines": [
@@ -209,7 +233,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800272.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -217,6 +242,7 @@
           {
             "time": "2014-03-13T15:20:00.000Z",
             "top": "7",
+            "heading": "Regulierung des Grauen Kapitalmarktes",
             "topic": [
               {
                 "lines": [
@@ -226,7 +252,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800769.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -234,6 +261,7 @@
           {
             "time": "2014-03-13T16:05:00.000Z",
             "top": "9",
+            "heading": "EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)",
             "topic": [
               {
                 "lines": [
@@ -248,7 +276,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -256,6 +285,7 @@
           {
             "time": "2014-03-13T16:50:00.000Z",
             "top": "10+ZP3",
+            "heading": "Waffenexporte in die Golfregion",
             "topic": [
               {
                 "lines": [
@@ -265,7 +295,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800768.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -275,7 +306,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/001/1800105.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -287,7 +319,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800576.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800793.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -295,12 +328,14 @@
           {
             "time": "2014-03-13T17:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -315,12 +350,14 @@
           {
             "time": "2014-03-14T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -328,6 +365,7 @@
           {
             "time": "2014-03-14T09:00:00.000Z",
             "top": "11+ZP4",
+            "heading": "Kommission zu Auslandseinsätzen der Bundeswehr",
             "topic": [
               {
                 "lines": [
@@ -337,7 +375,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800766.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -347,13 +386,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800775.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -361,6 +402,7 @@
           {
             "time": "2014-03-14T10:50:00.000Z",
             "top": "12",
+            "heading": "Chancengleichheit für Frauen und Männer im Beruf",
             "topic": [
               {
                 "lines": [
@@ -370,7 +412,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800763.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -380,7 +423,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800773.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -388,6 +432,7 @@
           {
             "time": "2014-03-14T12:45:00.000Z",
             "top": "13",
+            "heading": "Rentenniveau in der gesetzlichen Rentenversicherung",
             "topic": [
               {
                 "lines": [
@@ -397,7 +442,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800767.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -407,7 +453,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800765.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -415,6 +462,7 @@
           {
             "time": "2014-03-14T13:30:00.000Z",
             "top": "ZP 5",
+            "heading": "Europäische Bankenunion",
             "topic": [
               {
                 "lines": [
@@ -425,7 +473,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800774.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -433,12 +482,14 @@
           {
             "time": "2014-03-14T14:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

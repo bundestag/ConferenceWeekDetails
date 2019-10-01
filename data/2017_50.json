@@ -26,12 +26,14 @@
           {
             "time": "2017-12-12T09:00:00.000Z",
             "top": "",
+            "heading": "Sitzungseröffnung",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2017-12-12T09:10:00.000Z",
             "top": "1",
+            "heading": "Bundeswehreinsatz im Mittelmeer (SEA GUARDIAN)",
             "topic": [
               {
                 "lines": [
@@ -51,7 +54,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900022.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900176.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -59,6 +63,7 @@
           {
             "time": "2017-12-12T09:50:00.000Z",
             "top": "2",
+            "heading": "Bundeswehreinsatz gegen die Terrororganisation IS",
             "topic": [
               {
                 "lines": [
@@ -72,7 +77,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900023.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900205.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -80,6 +86,7 @@
           {
             "time": "2017-12-12T10:35:00.000Z",
             "top": "3",
+            "heading": "Bundeswehreinsatz im Irak",
             "topic": [
               {
                 "lines": [
@@ -92,7 +99,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900025.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -100,6 +108,7 @@
           {
             "time": "2017-12-12T11:15:00.000Z",
             "top": "4",
+            "heading": "Bundeswehreinsatz in Afghanistan",
             "topic": [
               {
                 "lines": [
@@ -113,7 +122,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900021.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900193.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900206.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -121,6 +131,7 @@
           {
             "time": "2017-12-12T11:55:00.000Z",
             "top": "5",
+            "heading": "Bundeswehreinsatz in Mali (MINUSMA)",
             "topic": [
               {
                 "lines": [
@@ -133,7 +144,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900024.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900177.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -141,13 +153,15 @@
           {
             "time": "2017-12-12T12:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu Ständiger Strukturierter Zusammenarbeit, Brexit, Europäischer Rat",
             "topic": [
               {
                 "lines": [
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Positionierung der Bundesregierung zu Fragen der ständigen Strukturierten Zusammenarbeit sowie zum Brexit und weiteren Fragen beim Europäischen Rat am 14./15. Dezember 2017 in Brüssel"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -155,6 +169,7 @@
           {
             "time": "2017-12-12T13:50:00.000Z",
             "top": "14, ZP 2",
+            "heading": "ERP-Wirtschaftsplangesetz 2018",
             "topic": [
               {
                 "lines": [
@@ -165,7 +180,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900164.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -175,13 +191,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900196.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -189,6 +207,7 @@
           {
             "time": "2017-12-12T14:20:00.000Z",
             "top": "15",
+            "heading": "Netzwerkdurchsetzungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -199,7 +218,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900081.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -210,7 +230,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900218.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -218,6 +239,7 @@
           {
             "time": "2017-12-12T15:15:00.000Z",
             "top": "7",
+            "heading": "Gesetz zur Stärkung der Bürgerrechte",
             "topic": [
               {
                 "lines": [
@@ -227,7 +249,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900204.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -235,6 +258,7 @@
           {
             "time": "2017-12-12T16:05:00.000Z",
             "top": "8",
+            "heading": "Einschränkung von Massenentlassungen",
             "topic": [
               {
                 "lines": [
@@ -245,7 +269,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900217.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -253,6 +278,7 @@
           {
             "time": "2017-12-12T16:55:00.000Z",
             "top": "9, ZP 3, 4",
+            "heading": "Glyphosat",
             "topic": [
               {
                 "lines": [
@@ -262,7 +288,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900230.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -272,7 +299,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900216.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -282,7 +310,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900226.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -292,20 +321,23 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900232.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "ZP 4) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "zu dem Vorschlag der EU-Kommission für eine Änderung der Durchführungsverordnung hinsichtlich der Zulassungsbedingungen für die Wirkstoffe Imidacloprid, Clothianidin, und Thiamethoxam; SANTE/12105/2016 Rev5, SANTE/12106/2016 Rev5, SANTE/10834/2016 Rev8 (Entwürfe)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
                   "hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -314,13 +346,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900231.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -328,12 +362,14 @@
           {
             "time": "2017-12-12T18:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -348,12 +384,14 @@
           {
             "time": "2017-12-13T11:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -361,13 +399,15 @@
           {
             "time": "2017-12-13T11:05:00.000Z",
             "top": "10",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: Bericht der Bundesregierung gemäß § 29a Absatz 2a Asylgesetz zu der Überprüfung der Voraussetzungen zur Einstufung der in Anlage II zum Asylgesetz bezeichneten sicheren Herkunftsstaaten"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -375,6 +415,7 @@
           {
             "time": "2017-12-13T11:45:00.000Z",
             "top": "11",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -383,7 +424,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900188.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -391,6 +433,7 @@
           {
             "time": "2017-12-13T12:30:00.000Z",
             "top": "12",
+            "heading": "Bundeswehreinsatz in Darfur (UNAMID)",
             "topic": [
               {
                 "lines": [
@@ -403,7 +446,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900019.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -411,6 +455,7 @@
           {
             "time": "2017-12-13T13:10:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz in Südsudan (UNMISS)",
             "topic": [
               {
                 "lines": [
@@ -423,7 +468,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900020.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900175.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -431,6 +477,7 @@
           {
             "time": "2017-12-13T13:50:00.000Z",
             "top": "ZP 10",
+            "heading": "Aufhebung der Immunität",
             "topic": [
               {
                 "lines": [
@@ -441,7 +488,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900251.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900252.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -449,6 +497,7 @@
           {
             "time": "2017-12-13T13:50:00.000Z",
             "top": "19",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -457,7 +506,8 @@
                   "Einführung von Gruppenverfahren",
                   "Drucksache 19/…(abgesetzt)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -467,7 +517,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900220.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -478,7 +529,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900240.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -486,6 +538,7 @@
           {
             "time": "2017-12-13T13:55:00.000Z",
             "top": "20, ZP 5b",
+            "heading": "Abschließende Beratung ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -496,7 +549,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900235.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -506,7 +560,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900250.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -514,6 +569,7 @@
           {
             "time": "2017-12-13T13:55:00.000Z",
             "top": "ZP 5a",
+            "heading": "Anpassungsverfahren § 11 des Abgeordnetengesetzes",
             "topic": [
               {
                 "lines": [
@@ -524,7 +580,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -532,13 +589,15 @@
           {
             "time": "2017-12-13T14:25:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zu linksextremen Gewalttaten gegen demokratische Parteien",
             "topic": [
               {
                 "lines": [
                   "auf Verlangen der Fraktion der AfD",
                   "Linksextreme Gewalttaten gegen die politische Betätigung demokratischer Parteien"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -546,6 +605,7 @@
           {
             "time": "2017-12-13T15:40:00.000Z",
             "top": "ZP 7",
+            "heading": "Opferentschädigung verbessern",
             "topic": [
               {
                 "lines": [
@@ -555,7 +615,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900234.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -563,6 +624,7 @@
           {
             "time": "2017-12-13T16:25:00.000Z",
             "top": "6",
+            "heading": "Einführung umfassender Grenzkontrollen",
             "topic": [
               {
                 "lines": [
@@ -572,7 +634,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900041.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -580,6 +643,7 @@
           {
             "time": "2017-12-13T17:20:00.000Z",
             "top": "16",
+            "heading": "Stabilität und Wachstum in Europa",
             "topic": [
               {
                 "lines": [
@@ -589,7 +653,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900228.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -597,6 +662,7 @@
           {
             "time": "2017-12-13T18:10:00.000Z",
             "top": "17",
+            "heading": "Mindestlohn",
             "topic": [
               {
                 "lines": [
@@ -606,7 +672,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900096.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -614,6 +681,7 @@
           {
             "time": "2017-12-13T18:55:00.000Z",
             "top": "18, ZP 8,9",
+            "heading": "Paradise Papers -Steuervermeidung und Geldwäsche",
             "topic": [
               {
                 "lines": [
@@ -623,7 +691,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900239.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -633,7 +702,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900219.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -643,7 +713,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900233.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -653,13 +724,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900227.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -667,12 +740,14 @@
           {
             "time": "2017-12-13T19:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

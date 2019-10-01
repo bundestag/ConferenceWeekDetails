@@ -26,12 +26,14 @@
           {
             "time": "2014-05-07T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2014-05-07T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: Gesetzentwurf zur Reform der Besonderen Ausgleichsregelung für stromkosten- und handelsintensive Unternehmen"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2014-05-07T13:45:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/012/1801293.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,13 +75,15 @@
           {
             "time": "2014-05-07T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zur Lage in der Ukraine",
             "topic": [
               {
                 "lines": [
                   "Aktuelle Stunde auf Verlangen der Fraktionen CDU/CSU, SPD",
                   "Zur aktuellen Lage in der Ukraine"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -83,13 +91,15 @@
           {
             "time": "2014-05-07T17:10:00.000Z",
             "top": "3",
+            "heading": "Friedliche Revolution in der DDR",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "Friedliche Revolution in der DDR – Die Rolle der Kommunalwahl am 7. Mai 1989"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -97,12 +107,14 @@
           {
             "time": "2014-05-07T18:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,12 +129,14 @@
           {
             "time": "2014-05-08T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -130,6 +144,7 @@
           {
             "time": "2014-05-08T09:05:00.000Z",
             "top": "4",
+            "heading": "Reform des Erneuerbare-Energien-Gesetzes",
             "topic": [
               {
                 "lines": [
@@ -138,7 +153,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801304.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -148,7 +164,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801331.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -156,6 +173,7 @@
           {
             "time": "2014-05-08T11:00:00.000Z",
             "top": "5, ZP 2",
+            "heading": "Soziales Europa",
             "topic": [
               {
                 "lines": [
@@ -165,7 +183,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/011/1801116.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -175,13 +194,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801343.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -189,6 +210,7 @@
           {
             "time": "2014-05-08T12:55:00.000Z",
             "top": "6, ZP 3",
+            "heading": "Hilfe für Flüchtlinge aus Syrien",
             "topic": [
               {
                 "lines": [
@@ -198,7 +220,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801333.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -208,7 +231,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801335.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -216,12 +240,14 @@
           {
             "time": "2014-05-08T14:10:00.000Z",
             "top": "24, ZP 4",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -229,12 +255,14 @@
           {
             "time": "2014-05-08T14:10:00.000Z",
             "top": "25, ZP 5",
+            "heading": "Abschließende Beratung ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratung ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -242,6 +270,7 @@
           {
             "time": "2014-05-08T14:15:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zu Ergebnissen des Treffens der Bundeskanzlerin mit dem US-Präsidenten",
             "topic": [
               {
                 "lines": [
@@ -249,7 +278,8 @@
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Ergebnisse des Treffens von Bundeskanzlerin Dr. Angela Merkel mit US-Präsident Barack Obama"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -257,6 +287,7 @@
           {
             "time": "2014-05-08T15:25:00.000Z",
             "top": "7",
+            "heading": "Bundeswehreinsatz EU-Operation Atalanta",
             "topic": [
               {
                 "lines": [
@@ -265,7 +296,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/012/1801282.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -273,6 +305,7 @@
           {
             "time": "2014-05-08T16:05:00.000Z",
             "top": "ZP 7",
+            "heading": "Kooperationen bei Nutzung atomarer Technologien",
             "topic": [
               {
                 "lines": [
@@ -282,7 +315,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801336.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -290,6 +324,7 @@
           {
             "time": "2014-05-08T17:05:00.000Z",
             "top": "9",
+            "heading": "Arbeitnehmer-Entsendegesetz (Fleischwirtschaft)",
             "topic": [
               {
                 "lines": [
@@ -302,7 +337,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800910.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/012/1801283.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801359.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -310,6 +346,7 @@
           {
             "time": "2014-05-08T18:00:00.000Z",
             "top": "23",
+            "heading": "Zwangsverrentung",
             "topic": [
               {
                 "lines": [
@@ -319,7 +356,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800589.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -327,6 +365,7 @@
           {
             "time": "2014-05-08T18:45:00.000Z",
             "top": "11, ZP 9, 10",
+            "heading": "Transparenz bei Rüstungsexportentscheidungen",
             "topic": [
               {
                 "lines": [
@@ -336,7 +375,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801334.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -346,7 +386,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801348.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -356,13 +397,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801360.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -370,12 +413,14 @@
           {
             "time": "2014-05-08T19:35:00.000Z",
             "top": "ZP 8",
+            "heading": "Tag zur Gleichstellung von Menschen mit Behinderung",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte zum Europäischen Tag zur Gleichstellung von Menschen mit Behinderung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -383,6 +428,7 @@
           {
             "time": "2014-05-08T20:20:00.000Z",
             "top": "12",
+            "heading": "Hochschulpakt",
             "topic": [
               {
                 "lines": [
@@ -392,7 +438,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801337.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -400,6 +447,7 @@
           {
             "time": "2014-05-08T20:50:00.000Z",
             "top": "13",
+            "heading": "Fortentwicklung des Meldewesens",
             "topic": [
               {
                 "lines": [
@@ -408,7 +456,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/012/1801284.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -416,6 +465,7 @@
           {
             "time": "2014-05-08T21:15:00.000Z",
             "top": "14",
+            "heading": "Unterhaltsvorschuss",
             "topic": [
               {
                 "lines": [
@@ -425,7 +475,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800983.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -433,6 +484,7 @@
           {
             "time": "2014-05-08T21:50:00.000Z",
             "top": "15",
+            "heading": "Anpassung von Finanzmarktregelungen",
             "topic": [
               {
                 "lines": [
@@ -441,7 +493,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801305.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -449,6 +502,7 @@
           {
             "time": "2014-05-08T22:20:00.000Z",
             "top": "ZP 11, 12",
+            "heading": "Einsatz von Düngemitteln",
             "topic": [
               {
                 "lines": [
@@ -458,7 +512,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801338.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -468,7 +523,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801332.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -476,6 +532,7 @@
           {
             "time": "2014-05-08T22:50:00.000Z",
             "top": "17 *",
+            "heading": "Anpassung steuerlicher Regelungen",
             "topic": [
               {
                 "lines": [
@@ -484,7 +541,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801306.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -492,6 +550,7 @@
           {
             "time": "2014-05-08T22:50:00.000Z",
             "top": "16 *",
+            "heading": "Entwicklungsziele der Vereinten Nationen",
             "topic": [
               {
                 "lines": [
@@ -501,7 +560,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801328.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -509,12 +569,14 @@
           {
             "time": "2014-05-08T22:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -529,12 +591,14 @@
           {
             "time": "2014-05-09T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -542,6 +606,7 @@
           {
             "time": "2014-05-09T09:05:00.000Z",
             "top": "18",
+            "heading": "Finanzstruktur und Qualität in der GKV",
             "topic": [
               {
                 "lines": [
@@ -550,7 +615,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801307.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -558,13 +624,15 @@
           {
             "time": "2014-05-09T10:55:00.000Z",
             "top": "19",
+            "heading": "10 Jahre \"EU-Osterweiterung\"",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "10 Jahre \"EU-Osterweiterung\""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -572,6 +640,7 @@
           {
             "time": "2014-05-09T12:45:00.000Z",
             "top": "20",
+            "heading": "Vorratsdatenspeicherung",
             "topic": [
               {
                 "lines": [
@@ -581,7 +650,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801339.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -596,7 +666,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/003/1800302.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/003/1800381.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800999.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -604,6 +675,7 @@
           {
             "time": "2014-05-09T13:35:00.000Z",
             "top": "21",
+            "heading": "Renten aus Beschäftigung in einem Ghetto",
             "topic": [
               {
                 "lines": [
@@ -612,7 +684,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801308.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -620,6 +693,7 @@
           {
             "time": "2014-05-09T14:20:00.000Z",
             "top": "22",
+            "heading": "Bekämpfung von Zahlungsverzug im Geschäftsverkehr",
             "topic": [
               {
                 "lines": [
@@ -628,7 +702,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801309.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -636,12 +711,14 @@
           {
             "time": "2014-05-09T14:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

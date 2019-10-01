@@ -26,12 +26,14 @@
           {
             "time": "2014-09-01T14:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2014-09-01T14:05:00.000Z",
             "top": "1",
+            "heading": "Regierungserklärung Humanitäre Hilfe im Irak",
             "topic": [
               {
                 "lines": [
@@ -47,7 +50,8 @@
                   "Humanitäre Hilfe für Flüchtlinge im Irak und Kampf",
                   "gegen die Terrororganisation IS"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -55,12 +59,14 @@
           {
             "time": "2014-09-01T17:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

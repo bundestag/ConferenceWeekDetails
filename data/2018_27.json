@@ -26,12 +26,14 @@
           {
             "time": "2018-07-03T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2018-07-03T09:00:00.000Z",
             "top": "I",
+            "heading": "Haushaltsgesetz 2018",
             "topic": [
               {
                 "lines": [
@@ -49,7 +52,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901700.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901701.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -61,7 +65,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/130/1813001.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902427.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +74,7 @@
           {
             "time": "2018-07-03T09:00:00.000Z",
             "top": "I.1-I.3",
+            "heading": "Bundespräsident, Bundestag, Bundesrat",
             "topic": [
               {
                 "lines": [
@@ -80,7 +86,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -92,7 +99,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902402.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -104,7 +112,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -112,6 +121,7 @@
           {
             "time": "2018-07-03T09:05:00.000Z",
             "top": "I.4",
+            "heading": "Finanzen, Bundesrechungshof",
             "topic": [
               {
                 "lines": [
@@ -123,7 +133,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -135,7 +146,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -143,6 +155,7 @@
           {
             "time": "2018-07-03T10:45:00.000Z",
             "top": "I.5",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
@@ -154,7 +167,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902412.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -162,6 +176,7 @@
           {
             "time": "2018-07-03T12:30:00.000Z",
             "top": "I.6",
+            "heading": "Umwelt, Naturschutz und nukleare Sicherheit",
             "topic": [
               {
                 "lines": [
@@ -173,7 +188,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -181,6 +197,7 @@
           {
             "time": "2018-07-03T14:20:00.000Z",
             "top": "I.7",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
@@ -192,7 +209,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902409.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -200,6 +218,7 @@
           {
             "time": "2018-07-03T16:10:00.000Z",
             "top": "I.8",
+            "heading": "Familie, Senioren, Frauen und Jugend",
             "topic": [
               {
                 "lines": [
@@ -211,7 +230,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -219,6 +239,7 @@
           {
             "time": "2018-07-03T17:55:00.000Z",
             "top": "I.9",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
@@ -230,7 +251,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -238,12 +260,14 @@
           {
             "time": "2018-07-03T19:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -258,12 +282,14 @@
           {
             "time": "2018-07-04T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -271,6 +297,7 @@
           {
             "time": "2018-07-04T09:00:00.000Z",
             "top": "I.10",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
@@ -282,13 +309,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -296,6 +325,7 @@
           {
             "time": "2018-07-04T13:00:00.000Z",
             "top": "I.11",
+            "heading": "Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
@@ -307,7 +337,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902405.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -315,6 +346,7 @@
           {
             "time": "2018-07-04T15:00:00.000Z",
             "top": "I.12",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
@@ -326,13 +358,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902413.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmungen"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -340,6 +374,7 @@
           {
             "time": "2018-07-04T17:05:00.000Z",
             "top": "I.13",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -351,7 +386,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902420.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -359,12 +395,14 @@
           {
             "time": "2018-07-04T19:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -379,12 +417,14 @@
           {
             "time": "2018-07-05T09:00:00.000Z",
             "top": "",
+            "heading": "Sitzungseröffnung",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -392,6 +432,7 @@
           {
             "time": "2018-07-05T09:00:00.000Z",
             "top": "I.14",
+            "heading": "Inneres, Datenschutz und Informationsfreiheit",
             "topic": [
               {
                 "lines": [
@@ -403,7 +444,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902406.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -415,7 +457,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -423,6 +466,7 @@
           {
             "time": "2018-07-05T10:55:00.000Z",
             "top": "I.15",
+            "heading": "Justiz und Verbraucherschutz",
             "topic": [
               {
                 "lines": [
@@ -434,7 +478,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -446,7 +491,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -454,6 +500,7 @@
           {
             "time": "2018-07-05T12:40:00.000Z",
             "top": "III, ZP 1",
+            "heading": "Überweisung im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -462,7 +509,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903071.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -472,7 +520,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/029/1902987.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -482,7 +531,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/130/1813054.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -493,7 +543,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/131/1813120.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -503,7 +554,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/132/1813280.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -513,7 +565,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/137/1813700.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -524,7 +577,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902471.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -535,7 +589,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/025/1902592.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -543,6 +598,7 @@
           {
             "time": "2018-07-05T12:40:00.000Z",
             "top": "IV, ZP 2",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -555,7 +611,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/026/1902630.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/031/1903129.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -567,7 +624,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/011/1901177.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/019/1901928.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -579,7 +637,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/004/1900456.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/019/1901968.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -591,7 +650,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/009/1900978.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/021/1902117.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -603,7 +663,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/031/1903187.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -616,7 +677,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/031/1903188.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -626,7 +688,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903050.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -636,7 +699,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903017.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -646,7 +710,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903018.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -656,7 +721,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903019.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -666,7 +732,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903020.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -676,7 +743,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903021.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -686,7 +754,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903022.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -696,7 +765,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903023.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -706,7 +776,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903024.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -716,7 +787,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903025.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -726,7 +798,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903026.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -740,7 +813,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/031/1903112.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/032/1903232.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -748,13 +822,15 @@
           {
             "time": "2018-07-05T12:50:00.000Z",
             "top": "ZP 3",
+            "heading": "Einspruch gem. § 39 GO-BT",
             "topic": [
               {
                 "lines": [
                   "Einspruch gegen eine Ordnungsmaßnahme",
                   "gemäß § 39 der Geschäftsordnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -762,6 +838,7 @@
           {
             "time": "2018-07-05T12:55:00.000Z",
             "top": "I.16",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
@@ -773,7 +850,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -781,6 +859,7 @@
           {
             "time": "2018-07-05T14:50:00.000Z",
             "top": "I.17",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -792,7 +871,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902410.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -800,6 +880,7 @@
           {
             "time": "2018-07-05T16:40:00.000Z",
             "top": "I.18",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -811,7 +892,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902421.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -819,6 +901,7 @@
           {
             "time": "2018-07-05T18:25:00.000Z",
             "top": "I.19",
+            "heading": "Bundesschuld",
             "topic": [
               {
                 "lines": [
@@ -829,7 +912,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902422.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -837,6 +921,7 @@
           {
             "time": "2018-07-05T18:25:00.000Z",
             "top": "I.20",
+            "heading": "Allgemeine Finanzverwaltung",
             "topic": [
               {
                 "lines": [
@@ -847,7 +932,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902423.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -855,6 +941,7 @@
           {
             "time": "2018-07-05T18:25:00.000Z",
             "top": "I.21",
+            "heading": "Haushaltsgesetz 2018, Finanzplan 2017 bis 2021",
             "topic": [
               {
                 "lines": [
@@ -865,7 +952,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902426.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -873,6 +961,7 @@
           {
             "time": "2018-07-05T18:30:00.000Z",
             "top": "II",
+            "heading": "Haushaltsgesetz 2018",
             "topic": [
               {
                 "lines": [
@@ -897,13 +986,15 @@
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902424.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902425.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/024/1902426.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -911,12 +1002,14 @@
           {
             "time": "2018-07-05T20:25:00.000Z",
             "top": "",
+            "heading": "Sitzungsende",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

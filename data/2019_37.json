@@ -26,12 +26,14 @@
           {
             "time": "2019-09-10T10:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2019-09-10T10:10:00.000Z",
             "top": "1",
+            "heading": "Einbringung Haushaltsgesetz 2020, Finanzplan des Bundes 2019 bis 2023",
             "topic": [
               {
                 "lines": [
@@ -47,7 +50,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/118/1911800.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -57,7 +61,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/118/1911801.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -65,13 +70,15 @@
           {
             "time": "2019-09-10T10:55:00.000Z",
             "top": "1 Epl 08, ...",
+            "heading": "Allgemeine Finanzdebatte",
             "topic": [
               {
                 "lines": [
                   "Allgemeine Finanzdebatte",
                   "(einschl. Einzelpläne 08, 20, 32, 60)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -79,13 +86,15 @@
           {
             "time": "2019-09-10T12:35:00.000Z",
             "top": "1 Epl 09",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 09 (Wirtschaft und Energie)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -93,13 +102,15 @@
           {
             "time": "2019-09-10T14:15:00.000Z",
             "top": "1 Epl 16",
+            "heading": "Umwelt, Naturschutz und nukleare Sicherheit",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 16 (Umwelt, Naturschutz und nukleare Sicherheit)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -107,13 +118,15 @@
           {
             "time": "2019-09-10T15:50:00.000Z",
             "top": "1 Epl 10",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 10 (Ernährung und Landwirtschaft)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -121,12 +134,14 @@
           {
             "time": "2019-09-10T17:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -141,12 +156,14 @@
           {
             "time": "2019-09-11T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -154,13 +171,15 @@
           {
             "time": "2019-09-11T09:00:00.000Z",
             "top": "1 Epl 04",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 04 (Bundeskanzlerin und Bundeskanzleramt)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -168,13 +187,15 @@
           {
             "time": "2019-09-11T12:45:00.000Z",
             "top": "1 Epl 05",
+            "heading": "Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 05 (Auswärtiges Amt)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -182,13 +203,15 @@
           {
             "time": "2019-09-11T14:30:00.000Z",
             "top": "1 Epl 14",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 14 (Verteidigung)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -196,13 +219,15 @@
           {
             "time": "2019-09-11T16:10:00.000Z",
             "top": "1 Epl 23",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 23 (Wirtschaftliche Zusammenarbeit und Entwicklung)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -210,12 +235,14 @@
           {
             "time": "2019-09-11T17:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -230,12 +257,14 @@
           {
             "time": "2019-09-12T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -243,13 +272,15 @@
           {
             "time": "2019-09-12T09:05:00.000Z",
             "top": "1 Epl 06",
+            "heading": "Inneres, Bau und Heimat",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 06 (Inneres, Bau und Heimat)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -257,13 +288,15 @@
           {
             "time": "2019-09-12T10:40:00.000Z",
             "top": "1 Epl 07",
+            "heading": "Justiz und Verbraucherschutz",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 07 (Justiz und Verbraucherschutz)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -271,6 +304,7 @@
           {
             "time": "2019-09-12T12:25:00.000Z",
             "top": "2, ZP 1",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -279,7 +313,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/113/1911329.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -289,7 +324,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/092/1909295.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -299,7 +335,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/112/1911232.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -309,7 +346,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/112/1911234.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -319,7 +357,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913044.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -327,7 +366,8 @@
                   "Aktionsplan für einen gesunden und artenreichen Wald",
                   "Drucksache 19/… (abgesetzt)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -337,13 +377,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913072.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "ZP 1) Weitere Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -352,7 +394,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/120/1912089.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -361,7 +404,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/122/1912200.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -370,7 +414,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/125/1912557.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -380,7 +425,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913097.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -390,7 +436,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913096.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -400,7 +447,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913069.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -410,7 +458,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913071.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -420,7 +469,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913070.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -430,7 +480,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/131/1913101.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -438,6 +489,7 @@
           {
             "time": "2019-09-12T12:25:00.000Z",
             "top": "3, ZP 2",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -447,7 +499,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/112/1911231.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -457,7 +510,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/112/1911237.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -479,7 +533,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/091/1909100.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/100/1910066.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/112/1911229.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -492,13 +547,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/098/1909860.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/112/1911230.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "ZP 2) Weitere abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -510,7 +567,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910521.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913093.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -525,7 +583,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910620.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910623.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/130/1913093.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -533,13 +592,15 @@
           {
             "time": "2019-09-12T12:30:00.000Z",
             "top": "1 Epl 12",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 12 (Verkehr und digitale Infrastruktur)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -547,13 +608,15 @@
           {
             "time": "2019-09-12T14:10:00.000Z",
             "top": "1 Epl 17",
+            "heading": "Familie, Senioren, Frauen und Jugend",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 17 (Familie, Senioren, Frauen und Jugend)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -561,13 +624,15 @@
           {
             "time": "2019-09-12T15:55:00.000Z",
             "top": "1 Epl 30",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 30 (Bildung und Forschung)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -575,12 +640,14 @@
           {
             "time": "2019-09-12T17:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -595,12 +662,14 @@
           {
             "time": "2019-09-13T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -608,13 +677,15 @@
           {
             "time": "2019-09-13T09:00:00.000Z",
             "top": "1 Epl 11",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 11 (Arbeit und Soziales)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -622,13 +693,15 @@
           {
             "time": "2019-09-13T10:45:00.000Z",
             "top": "1 Epl 15",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 15 (Gesundheit)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -636,12 +709,14 @@
           {
             "time": "2019-09-13T12:25:00.000Z",
             "top": "1",
+            "heading": "Schlussrunde Haushaltsgesetz 2020",
             "topic": [
               {
                 "lines": [
                   "Schlussrunde Haushaltsgesetz 2020"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -649,12 +724,14 @@
           {
             "time": "2019-09-13T14:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

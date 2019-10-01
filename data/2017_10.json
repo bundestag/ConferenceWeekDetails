@@ -26,12 +26,14 @@
           {
             "time": "2017-03-08T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2017-03-08T13:00:00.000Z",
             "top": "ZP 1",
+            "heading": "Fortentwicklung des Standortauswahlgesetzes",
             "topic": [
               {
                 "lines": [
@@ -47,7 +50,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811398.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -55,13 +59,15 @@
           {
             "time": "2017-03-08T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: Bericht über die Regelungen zu den Anerkennungsverfahren in Heilberufen des Bundes"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +75,7 @@
           {
             "time": "2017-03-08T13:40:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -77,7 +84,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811364.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -85,12 +93,14 @@
           {
             "time": "2017-03-08T14:50:00.000Z",
             "top": "-",
+            "heading": "Sitzungsunterbrechung",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -98,6 +108,7 @@
           {
             "time": "2017-03-08T15:35:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zu dem Thema: Ehe für alle",
             "topic": [
               {
                 "lines": [
@@ -105,7 +116,8 @@
                   "auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "\"Ehe für alle\""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -113,12 +125,14 @@
           {
             "time": "2017-03-08T16:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -133,12 +147,14 @@
           {
             "time": "2017-03-09T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -146,6 +162,7 @@
           {
             "time": "2017-03-09T09:05:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zum Europäischen Rat",
             "topic": [
               {
                 "lines": [
@@ -153,7 +170,8 @@
                   "zum Europäischen Rat am 9. März 2017 und zum Vorbereitungstreffen der 27 Staats- und Regierungschefs für den Jubiläumsgipfel in Rom am 25. März 2017",
                   "- Namentliche Abstimmung -"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -161,6 +179,7 @@
           {
             "time": "2017-03-09T11:55:00.000Z",
             "top": "4 + ZP 3 u. 4",
+            "heading": "Kündigungsschutz für Mieter und Mietpreisbremse",
             "topic": [
               {
                 "lines": [
@@ -170,7 +189,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/110/1811049.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -182,7 +202,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/091/1809123.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810089.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -193,7 +214,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/108/1810810.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -211,7 +233,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/088/1808856.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/088/1808857.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811440.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -219,6 +242,7 @@
           {
             "time": "2017-03-09T13:40:00.000Z",
             "top": "5",
+            "heading": "Gesetz gegen Wettbewerbsbeschränkungen",
             "topic": [
               {
                 "lines": [
@@ -232,7 +256,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/106/1810650.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/109/1810924.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811446.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -247,7 +272,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/102/1810240.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804817.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811446.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -255,12 +281,14 @@
           {
             "time": "2017-03-09T14:45:00.000Z",
             "top": "56 +ZP 5",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -269,7 +297,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811140.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -278,7 +307,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811236.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -287,7 +317,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811238.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -296,7 +327,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811241.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -305,7 +337,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811257.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -314,7 +347,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811258.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -323,7 +357,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811276.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -332,7 +367,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811287.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -341,7 +377,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811288.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -350,7 +387,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811292.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -359,7 +397,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811326.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -381,7 +420,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811415.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -389,12 +429,14 @@
           {
             "time": "2017-03-09T14:55:00.000Z",
             "top": "57",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -406,7 +448,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811138.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811421.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -416,7 +459,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811191.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -426,7 +470,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811192.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -436,7 +481,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811193.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -446,7 +492,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811194.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -456,7 +503,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811195.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -464,6 +512,7 @@
           {
             "time": "2017-03-09T15:00:00.000Z",
             "top": "6",
+            "heading": "Wahl: Stiftung Fonds kerntechnische Entsorgung",
             "topic": [
               {
                 "lines": [
@@ -473,7 +522,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811406.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -481,6 +531,7 @@
           {
             "time": "2017-03-09T15:00:00.000Z",
             "top": "7",
+            "heading": "Effektivere und praxistauglichere Strafverfahren",
             "topic": [
               {
                 "lines": [
@@ -489,7 +540,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811277.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -497,6 +549,7 @@
           {
             "time": "2017-03-09T15:40:00.000Z",
             "top": "ZP 6 - 8",
+            "heading": "Frauen- und Gleichstellungspolitik",
             "topic": [
               {
                 "lines": [
@@ -506,7 +559,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811413.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -516,7 +570,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811412.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -528,7 +583,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/096/1809667.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811447.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -536,6 +592,7 @@
           {
             "time": "2017-03-09T16:25:00.000Z",
             "top": "9",
+            "heading": "Stärkung der Arzneimittelversorgung in der GKV",
             "topic": [
               {
                 "lines": [
@@ -549,7 +606,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/106/1810608.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/106/1810696.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811449.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -557,6 +615,7 @@
           {
             "time": "2017-03-09T17:10:00.000Z",
             "top": "10 + ZP 9",
+            "heading": "Personalbemessung in der Altenpflege",
             "topic": [
               {
                 "lines": [
@@ -568,7 +627,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/091/1809122.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811347.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -578,7 +638,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811414.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -586,6 +647,7 @@
           {
             "time": "2017-03-09T18:00:00.000Z",
             "top": "11",
+            "heading": "Datenschutzrecht",
             "topic": [
               {
                 "lines": [
@@ -594,7 +656,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811325.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -604,7 +667,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811401.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -612,6 +676,7 @@
           {
             "time": "2017-03-09T18:40:00.000Z",
             "top": "8",
+            "heading": "Öffentliches Vermögen",
             "topic": [
               {
                 "lines": [
@@ -621,7 +686,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811188.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -629,6 +695,7 @@
           {
             "time": "2017-03-09T19:10:00.000Z",
             "top": "13",
+            "heading": "Einführung eines Anspruchs auf Hinterbliebenengeld",
             "topic": [
               {
                 "lines": [
@@ -637,7 +704,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811397.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -645,6 +713,7 @@
           {
             "time": "2017-03-09T19:50:00.000Z",
             "top": "14",
+            "heading": "Novellierung des Berufsbildungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -654,7 +723,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/102/1810281.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -662,6 +732,7 @@
           {
             "time": "2017-03-09T20:20:00.000Z",
             "top": "15",
+            "heading": "Bundeswehreinsatz EUTM Somalia",
             "topic": [
               {
                 "lines": [
@@ -671,7 +742,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811273.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -679,6 +751,7 @@
           {
             "time": "2017-03-09T20:50:00.000Z",
             "top": "12",
+            "heading": "Globale Investitionen",
             "topic": [
               {
                 "lines": [
@@ -688,7 +761,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811410.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -696,6 +770,7 @@
           {
             "time": "2017-03-09T21:15:00.000Z",
             "top": "17 *",
+            "heading": "Gesetz zu Regelungen der Gesichtsverhüllung",
             "topic": [
               {
                 "lines": [
@@ -704,7 +779,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811180.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -712,6 +788,7 @@
           {
             "time": "2017-03-09T21:20:00.000Z",
             "top": "18 *",
+            "heading": "Evaluierung der Staatsleistungen an Kirchen",
             "topic": [
               {
                 "lines": [
@@ -723,7 +800,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804842.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811428.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -731,6 +809,7 @@
           {
             "time": "2017-03-09T21:20:00.000Z",
             "top": "19",
+            "heading": "Umsetzung einer EU-Richtlinie im Städtebaurecht",
             "topic": [
               {
                 "lines": [
@@ -744,7 +823,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811181.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811125.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811439.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -752,6 +832,7 @@
           {
             "time": "2017-03-09T21:55:00.000Z",
             "top": "16",
+            "heading": "Zeit- und Kostenrahmen bei Großprojekten des Bundes",
             "topic": [
               {
                 "lines": [
@@ -761,7 +842,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808402.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -769,6 +851,7 @@
           {
             "time": "2017-03-09T22:25:00.000Z",
             "top": "20 + ZP 10 *",
+            "heading": "Wachstumschancen der kollaborativen Wirtschaft",
             "topic": [
               {
                 "lines": [
@@ -778,7 +861,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811399.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -788,13 +872,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811411.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -802,6 +888,7 @@
           {
             "time": "2017-03-09T22:25:00.000Z",
             "top": "21 *",
+            "heading": "Änderungen im Straßenverkehrsrecht",
             "topic": [
               {
                 "lines": [
@@ -813,7 +900,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/108/1810882.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/104/1810431.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -821,6 +909,7 @@
           {
             "time": "2017-03-09T22:30:00.000Z",
             "top": "22",
+            "heading": "Neuordnung der Klärschlammverwertung",
             "topic": [
               {
                 "lines": [
@@ -833,7 +922,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/108/1810884.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/110/1811025.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811443.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -841,6 +931,7 @@
           {
             "time": "2017-03-09T22:55:00.000Z",
             "top": "23",
+            "heading": "Carsharinggesetz",
             "topic": [
               {
                 "lines": [
@@ -849,7 +940,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811285.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -857,6 +949,7 @@
           {
             "time": "2017-03-09T23:20:00.000Z",
             "top": "24 *",
+            "heading": "Änderungen im Straf- und Strafprozessrecht",
             "topic": [
               {
                 "lines": [
@@ -865,7 +958,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811272.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -873,6 +967,7 @@
           {
             "time": "2017-03-09T23:20:00.000Z",
             "top": "25 *",
+            "heading": "Änderung des Sicherheitsüberprüfungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -882,7 +977,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811281.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811407.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -890,6 +986,7 @@
           {
             "time": "2017-03-09T23:20:00.000Z",
             "top": "26",
+            "heading": "EU-Regelungen über Dienstleistungen",
             "topic": [
               {
                 "lines": [
@@ -908,7 +1005,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811229.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811442.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -916,6 +1014,7 @@
           {
             "time": "2017-03-09T23:50:00.000Z",
             "top": "27 *",
+            "heading": "EU-Richtlinie zu Netz- und Informationssystemen",
             "topic": [
               {
                 "lines": [
@@ -924,7 +1023,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811242.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -932,6 +1032,7 @@
           {
             "time": "2017-03-09T23:50:00.000Z",
             "top": "28 *",
+            "heading": "Förderung des elektronischen Identitätsnachweises",
             "topic": [
               {
                 "lines": [
@@ -940,7 +1041,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811279.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -948,6 +1050,7 @@
           {
             "time": "2017-03-09T23:50:00.000Z",
             "top": "30",
+            "heading": "Erhöhung der Sicherheit durch Videotechnologie",
             "topic": [
               {
                 "lines": [
@@ -959,7 +1062,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/109/1810939.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811438.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -973,7 +1077,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811183.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811125.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811435.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -981,6 +1086,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "31 + ZP 11 *",
+            "heading": "Staatliche Kommunikationsinfrastruktur",
             "topic": [
               {
                 "lines": [
@@ -990,7 +1096,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811139.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1000,7 +1107,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811409.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1008,6 +1116,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "32 *",
+            "heading": "Umsetzung von EU-Richtlinien zur Arbeitsmigration",
             "topic": [
               {
                 "lines": [
@@ -1020,7 +1129,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811136.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811182.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811441.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1028,6 +1138,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "33 *",
+            "heading": "Schädliche Steuerpraktiken bei Rechteüberlassungen",
             "topic": [
               {
                 "lines": [
@@ -1036,7 +1147,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811233.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1044,6 +1156,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "34 *",
+            "heading": "Änderung des Kraftfahrzeugsteuergesetzes",
             "topic": [
               {
                 "lines": [
@@ -1052,7 +1165,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811234.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1060,6 +1174,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "35 *",
+            "heading": "Recht auf Kenntnis der Abstammung bei Samenspende",
             "topic": [
               {
                 "lines": [
@@ -1068,7 +1183,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811291.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1076,6 +1192,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "36 *",
+            "heading": "Änderung raumordnungsrechtlicher Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -1087,7 +1204,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/108/1810883.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/104/1810432.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1095,6 +1213,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "37 *",
+            "heading": "Änderung des Binnenschifffahrtsaufgabengesetzes",
             "topic": [
               {
                 "lines": [
@@ -1106,7 +1225,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/108/1810818.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811200.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1114,6 +1234,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "38 *",
+            "heading": "Ärztliche Zwangsbehandlung bei Betreuten",
             "topic": [
               {
                 "lines": [
@@ -1122,7 +1243,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811240.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1130,6 +1252,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "39 *",
+            "heading": "Reform des Bauvertragsrechts",
             "topic": [
               {
                 "lines": [
@@ -1141,7 +1264,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808486.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811437.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1149,6 +1273,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "40",
+            "heading": "Strafbarkeit von Sportwettbetrug",
             "topic": [
               {
                 "lines": [
@@ -1159,7 +1284,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/088/1808831.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1167,6 +1293,7 @@
           {
             "time": "2017-03-09T01:00:00.000Z",
             "top": "41",
+            "heading": "CSR-Richtlinie-Umsetzungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1180,7 +1307,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/103/1810344.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/104/1810444.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811450.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1191,7 +1319,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810030.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811450.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1199,6 +1328,7 @@
           {
             "time": "2017-03-09T01:30:00.000Z",
             "top": "42 *",
+            "heading": "Europäische Patentreform",
             "topic": [
               {
                 "lines": [
@@ -1210,7 +1340,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811137.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811451.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1224,7 +1355,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/092/1809238.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/095/1809596.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811451.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1232,6 +1364,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "43 *",
+            "heading": "Bewältigung von Konzerninsolvenzen",
             "topic": [
               {
                 "lines": [
@@ -1243,7 +1376,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/004/1800407.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811436.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1251,6 +1385,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "44 *",
+            "heading": "Bekämpfung der organisierten Kriminalität",
             "topic": [
               {
                 "lines": [
@@ -1259,7 +1394,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811275.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1267,6 +1403,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "46 *",
+            "heading": "Trilaterale Partnerschaften in der ASEAN-Region",
             "topic": [
               {
                 "lines": [
@@ -1278,7 +1415,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/106/1810651.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811226.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1286,6 +1424,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "47 *",
+            "heading": "Abkommen zu militärischen Hauptquartieren",
             "topic": [
               {
                 "lines": [
@@ -1294,7 +1433,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811280.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -1302,6 +1442,7 @@
           {
             "time": "2017-03-09T01:40:00.000Z",
             "top": "48 *",
+            "heading": "Freiheitsbeschränkende Maßnahmen gegenüber Kindern",
             "topic": [
               {
                 "lines": [
@@ -1310,7 +1451,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811278.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1319,7 +1461,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809804.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1327,12 +1470,14 @@
           {
             "time": "2017-03-09T01:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1347,12 +1492,14 @@
           {
             "time": "2017-03-10T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1360,6 +1507,7 @@
           {
             "time": "2017-03-10T09:00:00.000Z",
             "top": "50",
+            "heading": "Infrastrukturabgaben und Verkehrsteuern",
             "topic": [
               {
                 "lines": [
@@ -1368,7 +1516,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800237.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1377,7 +1526,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811235.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1386,7 +1536,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/110/1811012.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1394,6 +1545,7 @@
           {
             "time": "2017-03-10T10:10:00.000Z",
             "top": "51",
+            "heading": "Stärkung der betrieblichen Altersversorgung",
             "topic": [
               {
                 "lines": [
@@ -1402,7 +1554,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811286.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1412,7 +1565,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811402.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1422,7 +1576,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/103/1810384.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1430,6 +1585,7 @@
           {
             "time": "2017-03-10T11:25:00.000Z",
             "top": "52 + TOP 29",
+            "heading": "Gefahren durch Waffen",
             "topic": [
               {
                 "lines": [
@@ -1439,7 +1595,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811417.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1451,7 +1608,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/096/1809674.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811444.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1461,7 +1619,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811239.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1469,6 +1628,7 @@
           {
             "time": "2017-03-10T12:05:00.000Z",
             "top": "53",
+            "heading": "Änderung des Straßenverkehrsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1477,7 +1637,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/113/1811300.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1485,6 +1646,7 @@
           {
             "time": "2017-03-10T12:45:00.000Z",
             "top": "54",
+            "heading": "Getrennterfassung von wertstoffhaltigen Abfällen",
             "topic": [
               {
                 "lines": [
@@ -1493,7 +1655,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/112/1811274.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1501,6 +1664,7 @@
           {
             "time": "2017-03-10T13:25:00.000Z",
             "top": "55",
+            "heading": "Entlastung Alleinerziehender",
             "topic": [
               {
                 "lines": [
@@ -1512,7 +1676,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/102/1810283.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811434.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1520,12 +1685,14 @@
           {
             "time": "2017-03-10T14:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

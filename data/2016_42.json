@@ -26,12 +26,14 @@
           {
             "time": "2016-10-19T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2016-10-19T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: 6. Bericht \"Bildung in Deutschland 2016\""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2016-10-19T13:50:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809971.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,12 +75,14 @@
           {
             "time": "2016-10-19T14:45:00.000Z",
             "top": "",
+            "heading": "Sitzungsunterbrechung",
             "topic": [
               {
                 "lines": [
                   "Sitzungsunterbrechung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -82,6 +90,7 @@
           {
             "time": "2016-10-19T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zur Lage in Syrien und im Irak",
             "topic": [
               {
                 "lines": [
@@ -89,7 +98,8 @@
                   "auf Verlangen der Fraktionen CDU/CSU und SPD",
                   "Lage in Syrien und Irak und die internationalen Bemühungen um eine Stabilisierung der Region"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -97,12 +107,14 @@
           {
             "time": "2016-10-19T16:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,12 +129,14 @@
           {
             "time": "2016-10-20T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -130,6 +144,7 @@
           {
             "time": "2016-10-20T09:05:00.000Z",
             "top": "3",
+            "heading": "Bundesbeteiligung an den Kosten der Integration",
             "topic": [
               {
                 "lines": [
@@ -138,7 +153,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809980.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -146,6 +162,7 @@
           {
             "time": "2016-10-20T10:30:00.000Z",
             "top": "4",
+            "heading": "Bezahlbares Wohnen",
             "topic": [
               {
                 "lines": [
@@ -155,7 +172,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810027.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -163,6 +181,7 @@
           {
             "time": "2016-10-20T12:05:00.000Z",
             "top": "5",
+            "heading": "Verbesserung des Schutzes gegen Nachstellungen",
             "topic": [
               {
                 "lines": [
@@ -171,7 +190,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809946.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -179,12 +199,14 @@
           {
             "time": "2016-10-20T13:05:00.000Z",
             "top": "33 + ZP 2",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -193,7 +215,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/097/1809759.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -202,7 +225,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809877.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -211,7 +235,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809878.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -220,7 +245,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809945.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -229,7 +255,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809950.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -238,7 +265,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809951.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -247,7 +275,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809987.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -256,7 +285,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809988.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -265,7 +295,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809989.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -274,7 +305,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809990.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -284,7 +316,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810014.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -294,7 +327,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809856.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -304,7 +338,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810033.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -312,12 +347,14 @@
           {
             "time": "2016-10-20T13:10:00.000Z",
             "top": "34 + ZP 3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -329,7 +366,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/092/1809235.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809800.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -341,7 +379,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/092/1809234.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809850.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -356,7 +395,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/095/1809533.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809865.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809866.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -366,7 +406,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809828.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -376,7 +417,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809829.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -386,7 +428,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809830.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -398,7 +441,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/085/1808573.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810062.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -406,6 +450,7 @@
           {
             "time": "2016-10-20T13:15:00.000Z",
             "top": "ZP  4",
+            "heading": "Wahl der Mitglieder des Stiftungsrates der Bundesstiftung Baukultur",
             "topic": [
               {
                 "lines": [
@@ -416,7 +461,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810021.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -424,6 +470,7 @@
           {
             "time": "2016-10-20T13:15:00.000Z",
             "top": "ZP   5",
+            "heading": "Aktuelle Stunde Auflagen des Bundesverfassungsgerichts zu CETA",
             "topic": [
               {
                 "lines": [
@@ -431,7 +478,8 @@
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Umsetzung der Auflagen des Bundesverfassungsgerichts zu CETA durch die Bundesregierung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -439,6 +487,7 @@
           {
             "time": "2016-10-20T14:35:00.000Z",
             "top": "28",
+            "heading": "Steuerliche Verlustrechnung bei Körperschaften",
             "topic": [
               {
                 "lines": [
@@ -448,7 +497,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809986.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -456,6 +506,7 @@
           {
             "time": "2016-10-20T15:20:00.000Z",
             "top": "7",
+            "heading": "Berufsausbildungsförderung",
             "topic": [
               {
                 "lines": [
@@ -465,7 +516,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810012.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -473,6 +525,7 @@
           {
             "time": "2016-10-20T16:05:00.000Z",
             "top": "6",
+            "heading": "Bundeswehreinsatz in Syrien",
             "topic": [
               {
                 "lines": [
@@ -482,7 +535,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809960.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -490,6 +544,7 @@
           {
             "time": "2016-10-20T16:55:00.000Z",
             "top": "9 + ZP 6",
+            "heading": "Novelle des Gentechnikgesetzes",
             "topic": [
               {
                 "lines": [
@@ -499,7 +554,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810028.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -509,7 +565,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806664.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -521,7 +578,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810029.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -529,6 +587,7 @@
           {
             "time": "2016-10-20T17:40:00.000Z",
             "top": "8",
+            "heading": "Entlastung der Wirtschaft von Bürokratie",
             "topic": [
               {
                 "lines": [
@@ -538,7 +597,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809949.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -546,6 +606,7 @@
           {
             "time": "2016-10-20T18:20:00.000Z",
             "top": "11",
+            "heading": "Medizinische Versorgung für Geflüchtete",
             "topic": [
               {
                 "lines": [
@@ -560,7 +621,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/074/1807413.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806067.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809933.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -568,6 +630,7 @@
           {
             "time": "2016-10-20T18:55:00.000Z",
             "top": "10",
+            "heading": "Bildungschancen für benachteiligte Kinder",
             "topic": [
               {
                 "lines": [
@@ -577,7 +640,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810016.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -589,7 +653,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808181.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810063.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -597,6 +662,7 @@
           {
             "time": "2016-10-20T19:40:00.000Z",
             "top": "13",
+            "heading": "Völkerstrafrechtliche Sühnung von Verbrechen",
             "topic": [
               {
                 "lines": [
@@ -606,7 +672,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810031.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -617,7 +684,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/096/1809687.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809939.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -625,6 +693,7 @@
           {
             "time": "2016-10-20T20:15:00.000Z",
             "top": "12",
+            "heading": "Biowaffenübereinkommen",
             "topic": [
               {
                 "lines": [
@@ -635,7 +704,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810017.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -643,6 +713,7 @@
           {
             "time": "2016-10-20T20:45:00.000Z",
             "top": "15",
+            "heading": "Berlin/Bonn-Gesetz",
             "topic": [
               {
                 "lines": [
@@ -652,7 +723,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808130.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -660,6 +732,7 @@
           {
             "time": "2016-10-20T21:15:00.000Z",
             "top": "14 + ZP 7",
+            "heading": "Nichtfinanzielle Berichterstattung der Unternehmen",
             "topic": [
               {
                 "lines": [
@@ -668,7 +741,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809982.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -678,7 +752,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810030.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -686,6 +761,7 @@
           {
             "time": "2016-10-20T21:45:00.000Z",
             "top": "17",
+            "heading": "Absetzung der Präsidentin in Brasilien",
             "topic": [
               {
                 "lines": [
@@ -695,7 +771,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810013.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -703,6 +780,7 @@
           {
             "time": "2016-10-20T22:15:00.000Z",
             "top": "16 *",
+            "heading": "Menschenrechte in Burundi",
             "topic": [
               {
                 "lines": [
@@ -713,7 +791,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/087/1808706.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809938.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -721,6 +800,7 @@
           {
             "time": "2016-10-20T22:15:00.000Z",
             "top": "ZP  8 + 9 *",
+            "heading": "Schutz von Walen und Delfinen",
             "topic": [
               {
                 "lines": [
@@ -730,7 +810,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810019.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -740,7 +821,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810032.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -748,6 +830,7 @@
           {
             "time": "2016-10-20T22:15:00.000Z",
             "top": "19 *",
+            "heading": "Schulprogramm für Obst, Gemüse und Milch",
             "topic": [
               {
                 "lines": [
@@ -759,7 +842,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/095/1809519.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810058.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -767,6 +851,7 @@
           {
             "time": "2016-10-20T22:20:00.000Z",
             "top": "20 *",
+            "heading": "Gefahren schwerer Unfälle mit gefährlichen Stoffen",
             "topic": [
               {
                 "lines": [
@@ -778,7 +863,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/094/1809417.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810057.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -786,6 +872,7 @@
           {
             "time": "2016-10-20T22:20:00.000Z",
             "top": "21 *",
+            "heading": "Familienkassen des öffentlichen Dienstes",
             "topic": [
               {
                 "lines": [
@@ -800,7 +887,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/094/1809441.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810045.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810059.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -808,6 +896,7 @@
           {
             "time": "2016-10-20T22:20:00.000Z",
             "top": "22 *",
+            "heading": "Neuregelung des Mikrozensus",
             "topic": [
               {
                 "lines": [
@@ -819,7 +908,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/094/1809418.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810067.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -827,6 +917,7 @@
           {
             "time": "2016-10-20T22:25:00.000Z",
             "top": "23 *",
+            "heading": "Änderung des Regionalisierungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -835,7 +926,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809981.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -843,6 +935,7 @@
           {
             "time": "2016-10-20T22:25:00.000Z",
             "top": "24 *",
+            "heading": "Bekämpfung der Schwarzarbeit",
             "topic": [
               {
                 "lines": [
@@ -851,7 +944,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809958.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -859,6 +953,7 @@
           {
             "time": "2016-10-20T22:25:00.000Z",
             "top": "25 *",
+            "heading": "Änderung der Insolvenzordnung",
             "topic": [
               {
                 "lines": [
@@ -867,7 +962,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809983.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -875,12 +971,14 @@
           {
             "time": "2016-10-20T22:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -895,12 +993,14 @@
           {
             "time": "2016-10-21T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -908,6 +1008,7 @@
           {
             "time": "2016-10-21T09:00:00.000Z",
             "top": "26",
+            "heading": "Parlamentarische Kontrolle der Nachrichtendienste",
             "topic": [
               {
                 "lines": [
@@ -923,7 +1024,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/090/1809040.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806640.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810069.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -938,7 +1040,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806645.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808163.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810069.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -946,6 +1049,7 @@
           {
             "time": "2016-10-21T09:55:00.000Z",
             "top": "27",
+            "heading": "Ausland-Ausland-Fernmeldeaufklärung des BND",
             "topic": [
               {
                 "lines": [
@@ -962,7 +1066,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809854.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809879.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810068.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -970,6 +1075,7 @@
           {
             "time": "2016-10-21T10:45:00.000Z",
             "top": "ZP 10",
+            "heading": "Flexi-Rentengesetz",
             "topic": [
               {
                 "lines": [
@@ -985,7 +1091,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/097/1809787.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810065.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810066.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1003,7 +1110,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805212.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805213.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810065.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1011,6 +1119,7 @@
           {
             "time": "2016-10-21T11:50:00.000Z",
             "top": "29",
+            "heading": "Managergehälter",
             "topic": [
               {
                 "lines": [
@@ -1020,7 +1129,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/098/1809838.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1028,6 +1138,7 @@
           {
             "time": "2016-10-21T12:40:00.000Z",
             "top": "ZP 11",
+            "heading": "Änderung des Arbeitnehmerüberlassungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1040,7 +1151,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/092/1809232.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810064.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1055,13 +1167,15 @@
                   "http://dip21.bundestag.de/dip21/btd/18/096/1809664.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/073/1807370.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810064.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1069,6 +1183,7 @@
           {
             "time": "2016-10-21T13:30:00.000Z",
             "top": "30",
+            "heading": "Gesetz zur Ermittlung von Regelbedarfen",
             "topic": [
               {
                 "lines": [
@@ -1077,7 +1192,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809984.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1086,7 +1202,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/099/1809985.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1094,6 +1211,7 @@
           {
             "time": "2016-10-21T14:15:00.000Z",
             "top": "32",
+            "heading": "Kinderschutz und Prävention",
             "topic": [
               {
                 "lines": [
@@ -1103,7 +1221,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/090/1809054.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1111,6 +1230,7 @@
           {
             "time": "2016-10-21T15:00:00.000Z",
             "top": "31",
+            "heading": "Innovativer Garten- und Landschaftsbau",
             "topic": [
               {
                 "lines": [
@@ -1120,7 +1240,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/100/1810018.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1128,12 +1249,14 @@
           {
             "time": "2016-10-21T15:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

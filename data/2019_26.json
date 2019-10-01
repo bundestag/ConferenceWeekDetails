@@ -26,12 +26,14 @@
           {
             "time": "2019-06-26T13:00:00.000Z",
             "top": "",
+            "heading": "Sitzungseröffnung",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,12 +41,14 @@
           {
             "time": "2019-06-26T13:05:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -52,6 +56,7 @@
           {
             "time": "2019-06-26T14:10:00.000Z",
             "top": "2, ZP 1",
+            "heading": "Organspende",
             "topic": [
               {
                 "lines": [
@@ -65,7 +70,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911096.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911087.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -75,7 +81,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911124.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -83,6 +90,7 @@
           {
             "time": "2019-06-26T16:25:00.000Z",
             "top": "3",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -91,7 +99,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911018.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -99,6 +108,7 @@
           {
             "time": "2019-06-26T17:45:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zum Scheitern der PKW-Maut und Kosten für den Steuerzahler",
             "topic": [
               {
                 "lines": [
@@ -106,7 +116,8 @@
                   "auf Verlangen der Fraktion der FDP",
                   "Scheitern der PKW-Maut und Kosten für den Steuerzahler"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -114,12 +125,14 @@
           {
             "time": "2019-06-26T19:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -134,12 +147,14 @@
           {
             "time": "2019-06-27T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -147,12 +162,14 @@
           {
             "time": "2019-06-27T09:00:00.000Z",
             "top": "ZP 3",
+            "heading": "Eidesleistung der Bundesministerin der Justiz und für Verbraucherschutz",
             "topic": [
               {
                 "lines": [
                   "Eidesleistung der Bundesministerin der Justiz und für Verbraucherschutz"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -160,6 +177,7 @@
           {
             "time": "2019-06-27T09:05:00.000Z",
             "top": "4, ZP 4-6",
+            "heading": "Grundsteuerreform",
             "topic": [
               {
                 "lines": [
@@ -169,7 +187,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911084.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -179,7 +198,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911085.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -193,7 +213,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911086.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911125.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -203,7 +224,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/079/1907980.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -213,7 +235,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/083/1908358.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -223,13 +246,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911144.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -237,6 +262,7 @@
           {
             "time": "2019-06-27T10:20:00.000Z",
             "top": "5, ZP 7",
+            "heading": "Vorgehen gegen kriminelle Clans",
             "topic": [
               {
                 "lines": [
@@ -246,7 +272,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911121.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -256,7 +283,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911105.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -264,6 +292,7 @@
           {
             "time": "2019-06-27T11:25:00.000Z",
             "top": "6, ZP 8",
+            "heading": "Berufliche Bildung",
             "topic": [
               {
                 "lines": [
@@ -273,7 +302,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/108/1910815.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -283,7 +313,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/095/1909515.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -293,7 +324,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911154.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -303,7 +335,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911119.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -313,7 +346,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910757.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -323,7 +357,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/102/1910219.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -333,7 +368,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911106.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -341,6 +377,7 @@
           {
             "time": "2019-06-27T12:35:00.000Z",
             "top": "7",
+            "heading": "Untersuchungsausschuss zur Treuhandanstalt",
             "topic": [
               {
                 "lines": [
@@ -350,7 +387,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/097/1909793.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -360,7 +398,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911126.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -368,6 +407,7 @@
           {
             "time": "2019-06-27T13:45:00.000Z",
             "top": "35, ZP 9",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -377,7 +417,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/085/1908581.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -387,7 +428,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910759.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -397,7 +439,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/071/1907121.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -407,7 +450,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908969.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -417,7 +461,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911035.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -427,7 +472,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911093.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -437,7 +483,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911122.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -447,7 +494,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911123.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -457,7 +505,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911117.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -467,7 +516,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911103.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -477,7 +527,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911097.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -487,7 +538,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911100.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -497,13 +549,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911099.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "ZP 9) Weitere Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -513,7 +567,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911151.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -523,7 +578,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911095.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -533,7 +589,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911090.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -543,7 +600,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/085/1908565.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -553,7 +611,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/099/1909957.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -563,7 +622,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911039.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -573,7 +633,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911109.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -583,7 +644,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911110.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -593,7 +655,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911111.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -603,7 +666,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911112.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -613,7 +677,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911113.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -623,7 +688,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/098/1909856.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -633,7 +699,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911116.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -643,7 +710,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911104.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -653,7 +721,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911147.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -663,7 +732,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911148.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -673,7 +743,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911118.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -683,7 +754,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911130.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -691,6 +763,7 @@
           {
             "time": "2019-06-27T13:50:00.000Z",
             "top": "36, ZP 10",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -702,7 +775,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901878.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/091/1909116.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -717,7 +791,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/101/1910148.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/101/1910186.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911187.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -732,7 +807,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/101/1910156.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/101/1910150.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911189.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -743,7 +819,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911156.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -753,7 +830,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910662.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -763,7 +841,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910664.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -773,7 +852,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910665.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -783,7 +863,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910666.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -793,7 +874,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910667.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -803,7 +885,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910668.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -813,7 +896,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910669.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -823,7 +907,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910670.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -833,7 +918,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910671.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -843,7 +929,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910672.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -853,7 +940,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910673.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -863,7 +951,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910674.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -873,13 +962,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910675.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "ZP 10) Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -889,7 +980,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911114.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -906,7 +998,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/012/1901252.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911192.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -916,7 +1009,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911160.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -926,7 +1020,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911161.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -936,7 +1031,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911162.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -946,7 +1042,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911163.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -956,7 +1053,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911164.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -966,7 +1064,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911165.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -976,7 +1075,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911166.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -986,7 +1086,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911167.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -996,7 +1097,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911168.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1006,7 +1108,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911169.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1016,7 +1119,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911170.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1026,7 +1130,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911171.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1034,6 +1139,7 @@
           {
             "time": "2019-06-27T14:10:00.000Z",
             "top": "ZP 11",
+            "heading": "Aktuelle Stunde: Für den Schutz unserer Demokratie - Gegen Hass und rechtsextreme Gewalt",
             "topic": [
               {
                 "lines": [
@@ -1041,7 +1147,8 @@
                   "auf Verlangen der Fraktionen der CDU/CSU und der SPD",
                   "Für den Schutz unserer Demokratie - Gegen Hass und rechtsextreme Gewalt"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1049,6 +1156,7 @@
           {
             "time": "2019-06-27T15:55:00.000Z",
             "top": "ZP 12",
+            "heading": "Wahlen zu Gremien",
             "topic": [
               {
                 "lines": [
@@ -1058,7 +1166,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910563.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1068,7 +1177,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910564.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1078,7 +1188,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910565.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1088,7 +1199,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910566.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1098,7 +1210,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910567.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1106,6 +1219,7 @@
           {
             "time": "2019-06-27T16:35:00.000Z",
             "top": "8",
+            "heading": "Forschungszulagengesetz",
             "topic": [
               {
                 "lines": [
@@ -1114,7 +1228,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/109/1910940.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1122,6 +1237,7 @@
           {
             "time": "2019-06-27T17:20:00.000Z",
             "top": "9",
+            "heading": "Gründungspolitik in Ostdeutschland",
             "topic": [
               {
                 "lines": [
@@ -1131,7 +1247,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911052.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1139,6 +1256,7 @@
           {
             "time": "2019-06-27T18:05:00.000Z",
             "top": "10",
+            "heading": "Bericht über Förderung der Kulturarbeit",
             "topic": [
               {
                 "lines": [
@@ -1148,7 +1266,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/108/1910836.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1156,12 +1275,14 @@
           {
             "time": "2019-06-27T18:50:00.000Z",
             "top": "ZP 22",
+            "heading": "Immunitätsangelegenheit",
             "topic": [
               {
                 "lines": [
                   "Immunitätsangelegenheit"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1169,6 +1290,7 @@
           {
             "time": "2019-06-27T18:50:00.000Z",
             "top": "11",
+            "heading": "Änderung des Staatsangehörigkeitsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1182,7 +1304,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/097/1909736.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910518.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911083.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1192,7 +1315,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911127.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -1200,6 +1324,7 @@
           {
             "time": "2019-06-27T19:40:00.000Z",
             "top": "12",
+            "heading": "Geldwäsche",
             "topic": [
               {
                 "lines": [
@@ -1209,7 +1334,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/102/1910218.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1219,13 +1345,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911098.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1233,6 +1361,7 @@
           {
             "time": "2019-06-27T20:30:00.000Z",
             "top": "13",
+            "heading": "Änderung des Telekommunikationsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1246,7 +1375,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/063/1906336.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/064/1906437.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911180.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1258,13 +1388,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/063/1906398.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/073/1907389.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1272,6 +1404,7 @@
           {
             "time": "2019-06-27T21:20:00.000Z",
             "top": "ZP 13",
+            "heading": "Urheberrecht im digitalen Binnenmarkt",
             "topic": [
               {
                 "lines": [
@@ -1283,7 +1416,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911129.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1291,6 +1425,7 @@
           {
             "time": "2019-06-27T22:05:00.000Z",
             "top": "15, ZP 14",
+            "heading": "Bahnpolitik",
             "topic": [
               {
                 "lines": [
@@ -1314,7 +1449,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/070/1907024.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/074/1907452.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911076.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1324,7 +1460,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/109/1910993.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1336,7 +1473,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/090/1909076.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/105/1910586.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1346,13 +1484,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910638.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1360,6 +1500,7 @@
           {
             "time": "2019-06-27T22:50:00.000Z",
             "top": "16",
+            "heading": "Start-Ups und Mittelstand - Urheberrechtsreform",
             "topic": [
               {
                 "lines": [
@@ -1369,7 +1510,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911054.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1377,6 +1519,7 @@
           {
             "time": "2019-06-27T23:20:00.000Z",
             "top": "17, ZP 15",
+            "heading": "Nationale Tourismusstrategie",
             "topic": [
               {
                 "lines": [
@@ -1386,7 +1529,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911088.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1396,7 +1540,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/098/1909810.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1411,7 +1556,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/101/1910169.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/078/1907899.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911196.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1421,7 +1567,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911152.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1429,6 +1576,7 @@
           {
             "time": "2019-06-27T23:50:00.000Z",
             "top": "18, ZP 16-18",
+            "heading": "Atomabkommen mit dem Iran und INF-Vertrag",
             "topic": [
               {
                 "lines": [
@@ -1438,13 +1586,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911101.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "TOP 18)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1456,7 +1606,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/021/1902131.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/073/1907386.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1468,7 +1619,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/064/1906422.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/070/1907083.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1478,7 +1630,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908991.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1488,7 +1641,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910637.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1500,7 +1654,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/025/1902529.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/061/1906191.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1510,13 +1665,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911102.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1524,6 +1681,7 @@
           {
             "time": "2019-06-27T00:10:00.000Z",
             "top": "19",
+            "heading": "Baukulturbericht 2018/19",
             "topic": [
               {
                 "lines": [
@@ -1537,7 +1695,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/053/1905300.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/056/1905647.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911191.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1545,6 +1704,7 @@
           {
             "time": "2019-06-27T00:30:00.000Z",
             "top": "20",
+            "heading": "Agrarökologie",
             "topic": [
               {
                 "lines": [
@@ -1556,7 +1716,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908941.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911022.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1564,6 +1725,7 @@
           {
             "time": "2019-06-27T00:45:00.000Z",
             "top": "21",
+            "heading": "Internationale Lage der Menschenrechte von LSBTTI",
             "topic": [
               {
                 "lines": [
@@ -1574,7 +1736,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903061.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/090/1909077.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1586,13 +1749,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/090/1909056.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/103/1910304.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1600,6 +1765,7 @@
           {
             "time": "2019-06-27T01:15:00.000Z",
             "top": "22",
+            "heading": "Anpassung des Datenschutzrechts",
             "topic": [
               {
                 "lines": [
@@ -1613,7 +1779,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/046/1904674.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/054/1905414.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/056/1905647.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1628,7 +1795,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/055/1905554.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/059/1905993.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911190.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -1636,6 +1804,7 @@
           {
             "time": "2019-06-27T01:35:00.000Z",
             "top": "23",
+            "heading": "Ferkelbetäubungssachkundeverordnung",
             "topic": [
               {
                 "lines": [
@@ -1648,7 +1817,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/100/1910082.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/103/1910315.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910776.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1656,6 +1826,7 @@
           {
             "time": "2019-06-27T01:50:00.000Z",
             "top": "ZP 19",
+            "heading": "Gesetz über Energiedienstleistungen",
             "topic": [
               {
                 "lines": [
@@ -1668,7 +1839,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/097/1909769.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911186.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1676,6 +1848,7 @@
           {
             "time": "2019-06-27T02:00:00.000Z",
             "top": "24",
+            "heading": "Änderung des SGB IX und SGB XII",
             "topic": [
               {
                 "lines": [
@@ -1685,7 +1858,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911006.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1693,12 +1867,14 @@
           {
             "time": "2019-06-27T02:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1713,12 +1889,14 @@
           {
             "time": "2019-06-28T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1726,6 +1904,7 @@
           {
             "time": "2019-06-28T09:00:00.000Z",
             "top": "25",
+            "heading": "Bundeswehreinsatz in Kosovo (KFOR)",
             "topic": [
               {
                 "lines": [
@@ -1740,13 +1919,15 @@
                   "http://dip21.bundestag.de/dip21/btd/19/104/1910421.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911182.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911183.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1754,6 +1935,7 @@
           {
             "time": "2019-06-28T09:50:00.000Z",
             "top": "26",
+            "heading": "Bundeswehreinsatz in Libanon (UNIFIL)",
             "topic": [
               {
                 "lines": [
@@ -1768,13 +1950,15 @@
                   "http://dip21.bundestag.de/dip21/btd/19/099/1909956.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910722.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910723.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1782,6 +1966,7 @@
           {
             "time": "2019-06-28T10:30:00.000Z",
             "top": "27",
+            "heading": "Förderung von Unternehmensgründungen",
             "topic": [
               {
                 "lines": [
@@ -1791,7 +1976,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911055.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1801,7 +1987,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911053.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1811,7 +1998,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911150.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -1819,6 +2007,7 @@
           {
             "time": "2019-06-28T11:40:00.000Z",
             "top": "28",
+            "heading": "Rehabilitierung von Opfern von SED-Unrecht",
             "topic": [
               {
                 "lines": [
@@ -1828,7 +2017,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/108/1910817.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1838,7 +2028,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911091.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1848,7 +2039,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908981.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1858,7 +2050,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908982.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1868,13 +2061,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908983.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -1882,6 +2077,7 @@
           {
             "time": "2019-06-28T12:40:00.000Z",
             "top": "29",
+            "heading": "Klimapolitik",
             "topic": [
               {
                 "lines": [
@@ -1891,7 +2087,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/096/1909698.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1904,7 +2101,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/045/1904522.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911158.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1917,7 +2115,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/099/1909920.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911174.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1929,7 +2128,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/099/1909963.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911174.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1939,7 +2139,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911094.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1949,7 +2150,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/102/1910290.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1959,7 +2161,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911153.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1969,7 +2172,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911149.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1980,7 +2184,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/077/1907720.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -1998,7 +2203,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/076/1907696.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/077/1907733.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910761.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2010,7 +2216,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/062/1906286.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911178.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2022,13 +2229,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/099/1909953.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911188.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -2036,6 +2245,7 @@
           {
             "time": "2019-06-28T14:20:00.000Z",
             "top": "32, ZP 20",
+            "heading": "Wohngeldstärkungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -2045,7 +2255,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/108/1910816.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2055,7 +2266,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910752.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2065,7 +2277,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911107.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -2073,6 +2286,7 @@
           {
             "time": "2019-06-28T15:10:00.000Z",
             "top": "31",
+            "heading": "Wiedereinführung der Meisterpflicht",
             "topic": [
               {
                 "lines": [
@@ -2082,7 +2296,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911120.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -2090,6 +2305,7 @@
           {
             "time": "2019-06-28T15:55:00.000Z",
             "top": "33",
+            "heading": "Frauen im Widerstand gegen den Nationalsozialismus",
             "topic": [
               {
                 "lines": [
@@ -2099,7 +2315,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911092.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -2107,6 +2324,7 @@
           {
             "time": "2019-06-28T16:30:00.000Z",
             "top": "34, ZP 21",
+            "heading": "Förderung des Ländlichen Raumes",
             "topic": [
               {
                 "lines": [
@@ -2116,7 +2334,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/102/1910288.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2126,7 +2345,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910639.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2136,7 +2356,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910640.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2148,7 +2369,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/031/1903164.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/077/1907768.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -2158,7 +2380,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911108.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -2166,12 +2389,14 @@
           {
             "time": "2019-06-28T17:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

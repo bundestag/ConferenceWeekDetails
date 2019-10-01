@@ -26,12 +26,14 @@
           {
             "time": "2016-05-11T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2016-05-11T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Entwurf eines Vierten Gesetzes zur Änderung des Bundesfernstraßenmautgesetzes"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2016-05-11T13:45:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808351.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,12 +75,14 @@
           {
             "time": "2016-05-11T15:00:00.000Z",
             "top": "-",
+            "heading": "Sitzungsunterbrechung",
             "topic": [
               {
                 "lines": [
                   "Sitzungsunterbrechung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -82,6 +90,7 @@
           {
             "time": "2016-05-11T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zur Haltung der Bundesregierung zu TTIP",
             "topic": [
               {
                 "lines": [
@@ -89,7 +98,8 @@
                   "auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Haltung der Bundesregierung zu TTIP"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -97,12 +107,14 @@
           {
             "time": "2016-05-11T17:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,12 +129,14 @@
           {
             "time": "2016-05-12T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -130,6 +144,7 @@
           {
             "time": "2016-05-12T09:05:00.000Z",
             "top": "3",
+            "heading": "Ausbau digitaler Hochgeschwindigkeitsnetze",
             "topic": [
               {
                 "lines": [
@@ -138,7 +153,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808332.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -146,6 +162,7 @@
           {
             "time": "2016-05-12T10:10:00.000Z",
             "top": "4",
+            "heading": "Bekämpfung von Fluchtursachen",
             "topic": [
               {
                 "lines": [
@@ -155,7 +172,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808393.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -165,7 +183,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808247.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -176,7 +195,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/067/1806772.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808430.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -184,6 +204,7 @@
           {
             "time": "2016-05-12T11:25:00.000Z",
             "top": "ZP 2+3",
+            "heading": "Streichung des § 103 StGB",
             "topic": [
               {
                 "lines": [
@@ -193,7 +214,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808123.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -203,7 +225,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808272.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -211,12 +234,14 @@
           {
             "time": "2016-05-12T12:45:00.000Z",
             "top": "23+ZP4",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -224,12 +249,14 @@
           {
             "time": "2016-05-12T12:45:00.000Z",
             "top": "24",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -237,6 +264,7 @@
           {
             "time": "2016-05-12T12:50:00.000Z",
             "top": "ZP 5",
+            "heading": "Aktuelle Stunde zu Entwicklungen beim EU-Türkei-Abkommen",
             "topic": [
               {
                 "lines": [
@@ -244,7 +272,8 @@
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Aktuelle Entwicklungen beim EU-Türkei-Abkommen"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -252,6 +281,7 @@
           {
             "time": "2016-05-12T14:00:00.000Z",
             "top": "6",
+            "heading": "Behindertengleichstellungsrecht",
             "topic": [
               {
                 "lines": [
@@ -263,7 +293,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/078/1807824.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808428.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -278,7 +309,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/078/1807874.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/078/1807877.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808428.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -286,6 +318,7 @@
           {
             "time": "2016-05-12T15:10:00.000Z",
             "top": "8",
+            "heading": "Bahnstreckenstilllegungen",
             "topic": [
               {
                 "lines": [
@@ -295,7 +328,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808392.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -306,7 +340,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/080/1808074.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808362.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -314,6 +349,7 @@
           {
             "time": "2016-05-12T16:05:00.000Z",
             "top": "7",
+            "heading": "Modernisierung des Besteuerungsverfahrens",
             "topic": [
               {
                 "lines": [
@@ -328,7 +364,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/074/1807457.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808434.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808434.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -336,6 +373,7 @@
           {
             "time": "2016-05-12T16:50:00.000Z",
             "top": "9",
+            "heading": "Soldatenbeteiligungs- und Personalvertretungsrecht",
             "topic": [
               {
                 "lines": [
@@ -344,7 +382,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808298.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -352,6 +391,7 @@
           {
             "time": "2016-05-12T17:30:00.000Z",
             "top": "10",
+            "heading": "Zukunft der Hebammen",
             "topic": [
               {
                 "lines": [
@@ -366,7 +406,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/014/1801483.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800850.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808426.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -374,6 +415,7 @@
           {
             "time": "2016-05-12T18:20:00.000Z",
             "top": "11",
+            "heading": "Bundeswehreinsatz in Mali (EUTM Mali)",
             "topic": [
               {
                 "lines": [
@@ -387,7 +429,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/080/1808090.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808284.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808285.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -395,6 +438,7 @@
           {
             "time": "2016-05-12T19:10:00.000Z",
             "top": "12",
+            "heading": "Rentenrecht für DDR-Altübersiedler und -Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -406,7 +450,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/076/1807699.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/084/1808429.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -414,6 +459,7 @@
           {
             "time": "2016-05-12T19:50:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz vor Somalia (EU NAVFOR Atalanta)",
             "topic": [
               {
                 "lines": [
@@ -427,7 +473,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/080/1808091.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808286.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808287.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -435,6 +482,7 @@
           {
             "time": "2016-05-12T20:20:00.000Z",
             "top": "14",
+            "heading": "Erneuerung der Zulassung von Glyphosat",
             "topic": [
               {
                 "lines": [
@@ -444,7 +492,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808395.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -452,6 +501,7 @@
           {
             "time": "2016-05-12T21:10:00.000Z",
             "top": "15+ZP6",
+            "heading": "Kohleausstieg und Braunkohlesanierung",
             "topic": [
               {
                 "lines": [
@@ -461,7 +511,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808131.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -471,7 +522,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808112.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -481,7 +533,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808396.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -489,6 +542,7 @@
           {
             "time": "2016-05-12T21:45:00.000Z",
             "top": "16",
+            "heading": "Willy-Brandt-Korps für humanitäre Hilfe",
             "topic": [
               {
                 "lines": [
@@ -498,7 +552,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808390.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -506,12 +561,14 @@
           {
             "time": "2016-05-12T22:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -526,12 +583,14 @@
           {
             "time": "2016-05-13T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -539,6 +598,7 @@
           {
             "time": "2016-05-13T09:00:00.000Z",
             "top": "17",
+            "heading": "Einstufung von Algerien, Marokko und Tunesien",
             "topic": [
               {
                 "lines": [
@@ -550,7 +610,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/080/1808039.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808311.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -558,6 +619,7 @@
           {
             "time": "2016-05-13T10:10:00.000Z",
             "top": "18",
+            "heading": "CETA-Abkommen",
             "topic": [
               {
                 "lines": [
@@ -567,7 +629,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808391.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -579,7 +642,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/068/1806818.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808128.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -587,6 +651,7 @@
           {
             "time": "2016-05-13T11:40:00.000Z",
             "top": "19",
+            "heading": "Stärkung des Wettbewerbs im Eisenbahnbereich",
             "topic": [
               {
                 "lines": [
@@ -595,7 +660,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/083/1808334.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -603,6 +669,7 @@
           {
             "time": "2016-05-13T12:20:00.000Z",
             "top": "20",
+            "heading": "Bericht zum Deutschlandstipendium",
             "topic": [
               {
                 "lines": [
@@ -612,7 +679,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/078/1807890.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -620,6 +688,7 @@
           {
             "time": "2016-05-13T13:10:00.000Z",
             "top": "21",
+            "heading": "Neuordnung der Bund-Länder-Finanzbeziehungen",
             "topic": [
               {
                 "lines": [
@@ -629,7 +698,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/080/1808079.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -637,6 +707,7 @@
           {
             "time": "2016-05-13T14:00:00.000Z",
             "top": "22",
+            "heading": "Einsetzung eines Untersuchungsausschusses",
             "topic": [
               {
                 "lines": [
@@ -646,7 +717,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/082/1808273.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -654,12 +726,14 @@
           {
             "time": "2016-05-13T14:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

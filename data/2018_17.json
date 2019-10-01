@@ -26,12 +26,14 @@
           {
             "time": "2018-04-25T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2018-04-25T13:00:00.000Z",
             "top": "1, ZP 1",
+            "heading": "Einsetzung von Ausschüssen",
             "topic": [
               {
                 "lines": [
@@ -48,7 +51,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901825.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -58,7 +62,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900150.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -68,7 +73,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901826.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -76,6 +82,7 @@
           {
             "time": "2018-04-25T13:05:00.000Z",
             "top": "2",
+            "heading": "Parlamentarischer Beirat für nachhaltige Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -85,7 +92,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901837.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -93,13 +101,15 @@
           {
             "time": "2018-04-25T13:05:00.000Z",
             "top": "3",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: Nationales Reformprogramm 2018"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -107,6 +117,7 @@
           {
             "time": "2018-04-25T14:05:00.000Z",
             "top": "4",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -115,7 +126,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901762.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -123,6 +135,7 @@
           {
             "time": "2018-04-25T15:45:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zur Haltung der Bundesregierung zu einer CO2-Abgabe",
             "topic": [
               {
                 "lines": [
@@ -130,7 +143,8 @@
                   "auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Klimaschutz umsetzen - Haltung der Bundesregierung zu einer CO2-Abgabe"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -138,12 +152,14 @@
           {
             "time": "2018-04-25T17:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -158,12 +174,14 @@
           {
             "time": "2018-04-26T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -171,6 +189,7 @@
           {
             "time": "2018-04-26T09:05:00.000Z",
             "top": "5, ZP 3",
+            "heading": "70 Jahre Gründung des Staates Israel",
             "topic": [
               {
                 "lines": [
@@ -180,7 +199,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901823.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -190,7 +210,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901850.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -198,6 +219,7 @@
           {
             "time": "2018-04-26T10:20:00.000Z",
             "top": "6",
+            "heading": "Steuermehrbelastung durch kalte Progression",
             "topic": [
               {
                 "lines": [
@@ -207,7 +229,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901844.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -215,6 +238,7 @@
           {
             "time": "2018-04-26T11:30:00.000Z",
             "top": "7",
+            "heading": "Berufsbildungsbericht 2018",
             "topic": [
               {
                 "lines": [
@@ -224,7 +248,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901740.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -234,7 +259,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901835.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -244,7 +270,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901830.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -255,7 +282,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901795.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -263,6 +291,7 @@
           {
             "time": "2018-04-26T12:40:00.000Z",
             "top": "8",
+            "heading": "Änderung des Schwerbehindertenausweises",
             "topic": [
               {
                 "lines": [
@@ -272,7 +301,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901836.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -280,6 +310,7 @@
           {
             "time": "2018-04-26T14:00:00.000Z",
             "top": "25, ZP 4",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -290,7 +321,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900011.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -301,7 +333,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900012.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -311,7 +344,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901831.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -321,7 +355,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901829.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -331,13 +366,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901828.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "ZP 4) Weitere Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -346,7 +383,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/013/1901320.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -355,7 +393,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901832.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -365,13 +404,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/013/1901369.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -379,6 +420,7 @@
           {
             "time": "2018-04-26T14:30:00.000Z",
             "top": "26",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -388,7 +430,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/010/1901007.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -399,7 +442,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901840.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -420,7 +464,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901855.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -431,7 +476,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901722.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -442,7 +488,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901723.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -453,7 +500,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901724.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -464,7 +512,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901725.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -475,7 +524,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901726.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -486,7 +536,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901727.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -497,7 +548,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901728.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -508,7 +560,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901729.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -519,7 +572,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901730.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -527,6 +581,7 @@
           {
             "time": "2018-04-26T14:40:00.000Z",
             "top": "ZP 5",
+            "heading": "Wahl: Deutsche Stiftung Friedensforschung",
             "topic": [
               {
                 "lines": [
@@ -537,7 +592,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901845.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -545,6 +601,7 @@
           {
             "time": "2018-04-26T14:40:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zu den Korruptionsvorwürfen beim Bundesamt für Migration und Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -552,7 +609,8 @@
                   "auf Verlangen der Fraktion der FDP",
                   "Haltung der Bundesregierung zu den Korruptionsvorwürfen beim Bundesamt für Migration und Flüchtlinge (BAMF)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -560,6 +618,7 @@
           {
             "time": "2018-04-26T16:05:00.000Z",
             "top": "9",
+            "heading": "Bundeswehreinsatz in Mali (MINUSMA)",
             "topic": [
               {
                 "lines": [
@@ -571,7 +630,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/010/1901098.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901742.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -581,13 +641,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901743.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -595,6 +657,7 @@
           {
             "time": "2018-04-26T17:00:00.000Z",
             "top": "10",
+            "heading": "Armutsfeste Ausbildungsförderung",
             "topic": [
               {
                 "lines": [
@@ -604,7 +667,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901748.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -612,6 +676,7 @@
           {
             "time": "2018-04-26T17:55:00.000Z",
             "top": "11",
+            "heading": "Bundeswehreinsatz vor Somalia (EU NAVFOR)",
             "topic": [
               {
                 "lines": [
@@ -623,7 +688,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/015/1901596.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901833.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -633,13 +699,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901879.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -647,6 +715,7 @@
           {
             "time": "2018-04-26T18:45:00.000Z",
             "top": "12",
+            "heading": "Wettbewerb und Datenschutz auf digitalen Märkten",
             "topic": [
               {
                 "lines": [
@@ -656,7 +725,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901852.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -664,6 +734,7 @@
           {
             "time": "2018-04-26T19:35:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz in Mali (EUTM Mali)",
             "topic": [
               {
                 "lines": [
@@ -675,7 +746,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/015/1901597.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901834.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -685,13 +757,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901880.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -699,6 +773,7 @@
           {
             "time": "2018-04-26T20:25:00.000Z",
             "top": "14, ZP 7",
+            "heading": "Ausschluss der NPD von der Parteienfinanzierung",
             "topic": [
               {
                 "lines": [
@@ -708,7 +783,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901824.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -718,13 +794,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901851.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "Namentliche Abstimmung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -732,6 +810,7 @@
           {
             "time": "2018-04-26T21:20:00.000Z",
             "top": "15",
+            "heading": "Änderung der GOBT - Überschneidung von Sitzungen-",
             "topic": [
               {
                 "lines": [
@@ -741,7 +820,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901843.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -749,6 +829,7 @@
           {
             "time": "2018-04-26T22:10:00.000Z",
             "top": "ZP 8",
+            "heading": "Bürokratieentlastung für Unternehmen",
             "topic": [
               {
                 "lines": [
@@ -758,7 +839,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901838.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -766,6 +848,7 @@
           {
             "time": "2018-04-26T22:55:00.000Z",
             "top": "17",
+            "heading": "Zugang für Beamte in die gesetzliche KV",
             "topic": [
               {
                 "lines": [
@@ -775,7 +858,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901827.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -783,6 +867,7 @@
           {
             "time": "2018-04-26T23:45:00.000Z",
             "top": "18",
+            "heading": "Atomausstieg",
             "topic": [
               {
                 "lines": [
@@ -792,7 +877,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/017/1901731.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -800,6 +886,7 @@
           {
             "time": "2018-04-26T00:30:00.000Z",
             "top": "19",
+            "heading": "Änderung des Teilzeit- und Befristungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -809,7 +896,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901841.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -817,12 +905,14 @@
           {
             "time": "2018-04-26T01:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -837,12 +927,14 @@
           {
             "time": "2018-04-27T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -850,6 +942,7 @@
           {
             "time": "2018-04-27T09:00:00.000Z",
             "top": "20",
+            "heading": "Lage der Religions- und Weltanschauungsfreiheit",
             "topic": [
               {
                 "lines": [
@@ -862,7 +955,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/087/1808740.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/013/1901381.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901894.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -870,6 +964,7 @@
           {
             "time": "2018-04-27T10:10:00.000Z",
             "top": "21",
+            "heading": "Legaldefinition in §130 StGB - Volksverhetzung-",
             "topic": [
               {
                 "lines": [
@@ -879,7 +974,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901842.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -887,6 +983,7 @@
           {
             "time": "2018-04-27T11:05:00.000Z",
             "top": "ZP 9",
+            "heading": "Rheintalstreckensperrung 2017 - Notfallmanagement",
             "topic": [
               {
                 "lines": [
@@ -896,7 +993,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901839.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -904,6 +1002,7 @@
           {
             "time": "2018-04-27T12:00:00.000Z",
             "top": "23",
+            "heading": "Export von Rüstungsgütern",
             "topic": [
               {
                 "lines": [
@@ -913,7 +1012,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/013/1901339.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -923,7 +1023,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901849.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -931,6 +1032,7 @@
           {
             "time": "2018-04-27T12:50:00.000Z",
             "top": "24",
+            "heading": "Kinderzuschlag",
             "topic": [
               {
                 "lines": [
@@ -940,7 +1042,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901854.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -948,12 +1051,14 @@
           {
             "time": "2018-04-27T13:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

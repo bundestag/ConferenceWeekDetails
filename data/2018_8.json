@@ -26,12 +26,14 @@
           {
             "time": "2018-02-21T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2018-02-21T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "zum Thema: Verordnung zur Änderung der Schweinepest-Verordnung und der Verordnung über die Jagdzeiten"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2018-02-21T14:10:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/007/1900776.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +75,7 @@
           {
             "time": "2018-02-21T15:40:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde: Demonstrationsrechte von Frauen stärken",
             "topic": [
               {
                 "lines": [
@@ -76,7 +83,8 @@
                   "auf Verlangen der Fraktion der AfD",
                   "Demonstrationsrechte von Frauen stärken"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -84,12 +92,14 @@
           {
             "time": "2018-02-21T16:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -104,12 +114,14 @@
           {
             "time": "2018-02-22T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,13 +129,15 @@
           {
             "time": "2018-02-22T09:05:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zur Tagung der Staats- und Regierungschefs der EU-27",
             "topic": [
               {
                 "lines": [
                   "Abgabe einer Regierungserklärung durch die Bundeskanzlerin",
                   "zum informellen Treffen der 27 Staats- und Regierungschefs der Europäischen Union am 23. Februar 2018 in Brüssel"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -131,13 +145,15 @@
           {
             "time": "2018-02-22T11:10:00.000Z",
             "top": "4",
+            "heading": "Aktuelle Entwicklung im Nahen und Mittleren Osten",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "zur aktuellen Entwicklung im Nahen und Mittleren Osten"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -145,6 +161,7 @@
           {
             "time": "2018-02-22T12:25:00.000Z",
             "top": "5",
+            "heading": "Vollverschleierung im öffentlichen Raum",
             "topic": [
               {
                 "lines": [
@@ -154,7 +171,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900829.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -162,6 +180,7 @@
           {
             "time": "2018-02-22T13:15:00.000Z",
             "top": "6",
+            "heading": "ERP-Wirtschaftsplangesetz 2018",
             "topic": [
               {
                 "lines": [
@@ -175,7 +194,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900164.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900855.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -183,6 +203,7 @@
           {
             "time": "2018-02-22T14:00:00.000Z",
             "top": "7",
+            "heading": "Klimaziele",
             "topic": [
               {
                 "lines": [
@@ -192,7 +213,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900821.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -203,7 +225,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900830.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -218,7 +241,8 @@
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900083.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/004/1900449.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900856.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -229,7 +253,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/004/1900450.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900857.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -237,6 +262,7 @@
           {
             "time": "2018-02-22T15:00:00.000Z",
             "top": "8",
+            "heading": "Sachgrundlose Befristung von Arbeitsverträgen",
             "topic": [
               {
                 "lines": [
@@ -246,7 +272,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900831.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -254,6 +281,7 @@
           {
             "time": "2018-02-22T15:55:00.000Z",
             "top": "9",
+            "heading": "Reduzierung von Pestiziden",
             "topic": [
               {
                 "lines": [
@@ -263,7 +291,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900835.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -271,6 +300,7 @@
           {
             "time": "2018-02-22T16:45:00.000Z",
             "top": "19, ZP 2",
+            "heading": "Überweisung im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -280,13 +310,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/006/1900699.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   "ZP 2) Weitere Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -297,7 +329,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900010.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -308,7 +341,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/088/1808833.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -319,7 +353,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/123/1812350.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -327,19 +362,22 @@
           {
             "time": "2018-02-22T16:45:00.000Z",
             "top": "20",
+            "heading": "Abschließende Beratung ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratung ohne Aussprache",
                   "Beratung der Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
                   "Übersicht 1"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
@@ -348,7 +386,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900845.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -356,6 +395,7 @@
           {
             "time": "2018-02-22T16:50:00.000Z",
             "top": "10",
+            "heading": "Wahlen zu Gremien",
             "topic": [
               {
                 "lines": [
@@ -365,7 +405,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900823.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -375,7 +416,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900824.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -385,7 +427,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900825.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -395,7 +438,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900826.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -405,7 +449,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900827.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -413,6 +458,7 @@
           {
             "time": "2018-02-22T16:50:00.000Z",
             "top": "ZP 3",
+            "heading": "Aktuelle Stunde zu kostenlosem Öffentlichen Personennahverkehr",
             "topic": [
               {
                 "lines": [
@@ -421,7 +467,8 @@
                   "Positionierung der Bundesregierung zu kostenlosem",
                   "Öffentlichen Personennahverkehr"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -429,6 +476,7 @@
           {
             "time": "2018-02-22T18:15:00.000Z",
             "top": "ZP 7",
+            "heading": "Aufhebung Immunität",
             "topic": [
               {
                 "lines": [
@@ -437,7 +485,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900881.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -445,6 +494,7 @@
           {
             "time": "2018-02-22T18:15:00.000Z",
             "top": "ZP 4",
+            "heading": "Verhalten der Bundesregierung im Fall Deniz Yücel",
             "topic": [
               {
                 "lines": [
@@ -454,7 +504,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900846.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -462,6 +513,7 @@
           {
             "time": "2018-02-22T19:20:00.000Z",
             "top": "11, ZP 5",
+            "heading": "Cannabis-Modellprojekte",
             "topic": [
               {
                 "lines": [
@@ -471,7 +523,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/005/1900515.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -481,7 +534,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900819.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -491,7 +545,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900832.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -499,6 +554,7 @@
           {
             "time": "2018-02-22T20:20:00.000Z",
             "top": "12",
+            "heading": "Lobbyregistergesetz",
             "topic": [
               {
                 "lines": [
@@ -508,7 +564,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900015.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -518,7 +575,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900836.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -526,6 +584,7 @@
           {
             "time": "2018-02-22T21:05:00.000Z",
             "top": "13",
+            "heading": "Werbung für Schwangerschaftsabbruch - § 219a StGB",
             "topic": [
               {
                 "lines": [
@@ -535,7 +594,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/006/1900630.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -545,7 +605,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900820.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -555,7 +616,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900093.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -563,12 +625,14 @@
           {
             "time": "2018-02-22T22:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -583,12 +647,14 @@
           {
             "time": "2018-02-23T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -596,6 +662,7 @@
           {
             "time": "2018-02-23T09:00:00.000Z",
             "top": "14",
+            "heading": "Elterngeld Plus, Partnerschaftsbonus, Elternzeit",
             "topic": [
               {
                 "lines": [
@@ -605,7 +672,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/004/1900400.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -613,6 +681,7 @@
           {
             "time": "2018-02-23T10:10:00.000Z",
             "top": "15",
+            "heading": "Verbraucherrichtlinie - Handwerkerwiderruf",
             "topic": [
               {
                 "lines": [
@@ -622,7 +691,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900828.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -630,6 +700,7 @@
           {
             "time": "2018-02-23T10:55:00.000Z",
             "top": "16",
+            "heading": "Europäische Außenpolitik - Rolle der Hohen Vertreterin",
             "topic": [
               {
                 "lines": [
@@ -639,7 +710,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900822.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -647,6 +719,7 @@
           {
             "time": "2018-02-23T11:45:00.000Z",
             "top": "17",
+            "heading": "Atomwaffenverbotsvertrag",
             "topic": [
               {
                 "lines": [
@@ -656,7 +729,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900098.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -664,6 +738,7 @@
           {
             "time": "2018-02-23T12:35:00.000Z",
             "top": "18",
+            "heading": "Humanitäre Katastrophe im Jemen",
             "topic": [
               {
                 "lines": [
@@ -673,7 +748,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900834.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -683,7 +759,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/008/1900833.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -691,6 +768,7 @@
           {
             "time": "2018-02-23T13:25:00.000Z",
             "top": "ZP  6",
+            "heading": "Aktuelle Stunde: Demokratie und Erinnerungskultur angesichts rechtsextremistischer Angriffe",
             "topic": [
               {
                 "lines": [
@@ -698,7 +776,8 @@
                   "auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Demokratie und Erinnerungskultur in Deutschland angesichts rechtsextremistischer Angriffe"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -706,12 +785,14 @@
           {
             "time": "2018-02-23T14:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

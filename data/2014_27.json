@@ -26,12 +26,14 @@
           {
             "time": "2014-07-02T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,12 +41,14 @@
           {
             "time": "2014-07-02T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -52,6 +56,7 @@
           {
             "time": "2014-07-02T13:35:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -60,7 +65,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801920.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -68,13 +74,15 @@
           {
             "time": "2014-07-02T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Bedrohung der regionalen Stabilität durch ISIS",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "Bedrohung der regionalen Stabilität durch das Vorgehen der ISIS-Truppen"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -82,6 +90,7 @@
           {
             "time": "2014-07-02T16:20:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zur Beschaffung von Drohnen",
             "topic": [
               {
                 "lines": [
@@ -89,7 +98,8 @@
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Beschaffungsprogramm von Drohnen für die Bundeswehr"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -97,6 +107,7 @@
           {
             "time": "2014-07-02T17:35:00.000Z",
             "top": "3",
+            "heading": "Einsetzung eines Untersuchungsausschusses",
             "topic": [
               {
                 "lines": [
@@ -108,7 +119,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/014/1801475.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801948.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -116,12 +128,14 @@
           {
             "time": "2014-07-02T18:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -136,12 +150,14 @@
           {
             "time": "2014-07-03T10:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -149,6 +165,7 @@
           {
             "time": "2014-07-03T10:30:00.000Z",
             "top": "4",
+            "heading": "Einführung eines Mindestlohnes",
             "topic": [
               {
                 "lines": [
@@ -164,7 +181,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/015/1801558.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802010.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802011.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -176,13 +194,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800590.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802010.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -190,6 +210,7 @@
           {
             "time": "2014-07-03T13:05:00.000Z",
             "top": "5",
+            "heading": "Ausbau des schnellen Internets",
             "topic": [
               {
                 "lines": [
@@ -199,7 +220,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801973.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -207,6 +229,7 @@
           {
             "time": "2014-07-03T14:55:00.000Z",
             "top": "6",
+            "heading": "Befristung von Arbeitsverhältnissen",
             "topic": [
               {
                 "lines": [
@@ -216,7 +239,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/018/1801874.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -229,13 +253,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/000/1800007.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800879.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -243,12 +269,14 @@
           {
             "time": "2014-07-03T15:55:00.000Z",
             "top": "32, ZP 3",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -256,12 +284,14 @@
           {
             "time": "2014-07-03T15:55:00.000Z",
             "top": "33, ZP 4",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -269,6 +299,7 @@
           {
             "time": "2014-07-03T16:10:00.000Z",
             "top": "7",
+            "heading": "Gremienwahl (Standortauswahlgesetz)",
             "topic": [
               {
                 "lines": [
@@ -277,7 +308,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801961.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -285,6 +317,7 @@
           {
             "time": "2014-07-03T16:10:00.000Z",
             "top": "ZP 5",
+            "heading": "Aktuelle Stunde zu EU-Einwänden gegen PKW-Maut",
             "topic": [
               {
                 "lines": [
@@ -293,7 +326,8 @@
                   "Haltung der Bundesregierung zu Einwänden der",
                   "EU-Kommission in Bezug auf die Einführung einer Pkw-Maut in Deutschland"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -301,6 +335,7 @@
           {
             "time": "2014-07-03T17:30:00.000Z",
             "top": "ZP 6",
+            "heading": "Einstufung sicherer Herkunftsstaaten",
             "topic": [
               {
                 "lines": [
@@ -314,7 +349,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801766.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801954.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802004.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -325,7 +361,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801616.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802004.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -333,6 +370,7 @@
           {
             "time": "2014-07-03T18:15:00.000Z",
             "top": "ZP 7",
+            "heading": "Staatsangehörigkeitsgesetz",
             "topic": [
               {
                 "lines": [
@@ -354,7 +392,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/001/1800185.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801955.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802005.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -365,7 +404,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800286.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802005.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -373,6 +413,7 @@
           {
             "time": "2014-07-03T19:20:00.000Z",
             "top": "10",
+            "heading": "Geschlechtergerechte Besetzung von Führungsgremien",
             "topic": [
               {
                 "lines": [
@@ -382,13 +423,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/018/1801878.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -396,6 +439,7 @@
           {
             "time": "2014-07-03T20:10:00.000Z",
             "top": "30",
+            "heading": "Renten in Ostdeutschland",
             "topic": [
               {
                 "lines": [
@@ -405,7 +449,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -417,7 +462,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800982.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801994.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -425,6 +471,7 @@
           {
             "time": "2014-07-03T21:05:00.000Z",
             "top": "12",
+            "heading": "100 Jahre Erster Weltkrieg",
             "topic": [
               {
                 "lines": [
@@ -434,7 +481,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801950.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -442,6 +490,7 @@
           {
             "time": "2014-07-03T21:50:00.000Z",
             "top": "13",
+            "heading": "Fortentwicklung des Meldewesens",
             "topic": [
               {
                 "lines": [
@@ -454,7 +503,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/012/1801284.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802009.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -462,6 +512,7 @@
           {
             "time": "2014-07-03T22:20:00.000Z",
             "top": "14",
+            "heading": "Erkenntnisse des NSU-Untersuchungsausschusses",
             "topic": [
               {
                 "lines": [
@@ -472,13 +523,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800776.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -486,6 +539,7 @@
           {
             "time": "2014-07-03T22:45:00.000Z",
             "top": "9 *",
+            "heading": "Bundesbesoldungs- und -versorgungsanpassungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -496,7 +550,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801797.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -504,6 +559,7 @@
           {
             "time": "2014-07-03T22:45:00.000Z",
             "top": "16 *",
+            "heading": "Teilhabesicherung",
             "topic": [
               {
                 "lines": [
@@ -513,7 +569,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801949.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -521,6 +578,7 @@
           {
             "time": "2014-07-03T22:50:00.000Z",
             "top": "15",
+            "heading": "Weingesetz",
             "topic": [
               {
                 "lines": [
@@ -534,7 +592,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801780.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801966.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801983.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -542,6 +601,7 @@
           {
             "time": "2014-07-03T23:20:00.000Z",
             "top": "18 *",
+            "heading": "Aufnahme syrischer Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -556,13 +616,15 @@
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800840.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800846.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801760.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -570,6 +632,7 @@
           {
             "time": "2014-07-03T23:20:00.000Z",
             "top": "17 *",
+            "heading": "Anpassung steuerrechtlicher Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -586,7 +649,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801776.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801995.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802006.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -594,6 +658,7 @@
           {
             "time": "2014-07-03T23:20:00.000Z",
             "top": "20 *",
+            "heading": "Bestandsobergrenzen für Tierhaltungen",
             "topic": [
               {
                 "lines": [
@@ -603,13 +668,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/018/1801872.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -617,6 +684,7 @@
           {
             "time": "2014-07-03T23:20:00.000Z",
             "top": "19 *",
+            "heading": "Bericht der Stelle zur Verhütung von Folter",
             "topic": [
               {
                 "lines": [
@@ -628,7 +696,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/011/1801178.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802003.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -636,6 +705,7 @@
           {
             "time": "2014-07-03T23:25:00.000Z",
             "top": "22 *",
+            "heading": "LKW-Maut",
             "topic": [
               {
                 "lines": [
@@ -645,13 +715,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801620.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -659,6 +731,7 @@
           {
             "time": "2014-07-03T23:25:00.000Z",
             "top": "21 *",
+            "heading": "Stabilisierung des Künstlersozialabgabesatzes",
             "topic": [
               {
                 "lines": [
@@ -672,7 +745,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/015/1801530.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801770.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801985.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -680,6 +754,7 @@
           {
             "time": "2014-07-03T23:25:00.000Z",
             "top": "23 *",
+            "heading": "Europäische Perspektive für die Republik Moldau",
             "topic": [
               {
                 "lines": [
@@ -689,7 +764,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801956.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -697,6 +773,7 @@
           {
             "time": "2014-07-03T23:25:00.000Z",
             "top": "24 *",
+            "heading": "Schutz von Elefanten und Nashörnern vor Wilderei",
             "topic": [
               {
                 "lines": [
@@ -706,7 +783,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801951.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -716,7 +794,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801960.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -724,6 +803,7 @@
           {
             "time": "2014-07-03T23:30:00.000Z",
             "top": "25 *",
+            "heading": "Verringerung der Abhängigkeit von Ratings",
             "topic": [
               {
                 "lines": [
@@ -734,13 +814,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801774.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -748,6 +830,7 @@
           {
             "time": "2014-07-03T23:30:00.000Z",
             "top": "31 *",
+            "heading": "Bevölkerungspolitik 20 Jahre nach Kairo",
             "topic": [
               {
                 "lines": [
@@ -757,7 +840,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801958.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -765,12 +849,14 @@
           {
             "time": "2014-07-03T23:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -785,12 +871,14 @@
           {
             "time": "2014-07-04T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -798,6 +886,7 @@
           {
             "time": "2014-07-04T09:00:00.000Z",
             "top": "26",
+            "heading": "Pflegeversicherung",
             "topic": [
               {
                 "lines": [
@@ -807,7 +896,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801798.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -817,7 +907,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801600.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -827,7 +918,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801953.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -835,6 +927,7 @@
           {
             "time": "2014-07-04T10:50:00.000Z",
             "top": "27",
+            "heading": "Verstromung von Kohle",
             "topic": [
               {
                 "lines": [
@@ -844,7 +937,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801962.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -854,7 +948,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801673.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -862,6 +957,7 @@
           {
             "time": "2014-07-04T12:40:00.000Z",
             "top": "11",
+            "heading": "Zahlungsverzug im Geschäftsverkehr",
             "topic": [
               {
                 "lines": [
@@ -875,7 +971,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801309.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/015/1801576.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802037.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -883,6 +980,7 @@
           {
             "time": "2014-07-04T13:40:00.000Z",
             "top": "29",
+            "heading": "Lebensversicherungsreformgesetz",
             "topic": [
               {
                 "lines": [
@@ -894,7 +992,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801772.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -906,13 +1005,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/018/1801815.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802016.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -920,6 +1021,7 @@
           {
             "time": "2014-07-04T14:35:00.000Z",
             "top": "28",
+            "heading": "Kommission zur Zukunft der Stasi-Unterlagenbehörde",
             "topic": [
               {
                 "lines": [
@@ -929,7 +1031,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801957.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -937,12 +1040,14 @@
           {
             "time": "2014-07-04T15:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

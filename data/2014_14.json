@@ -26,12 +26,14 @@
           {
             "time": "2014-04-02T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2014-04-02T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: Bericht zum Anerkennungsgesetz"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2014-04-02T13:35:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800947.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +75,7 @@
           {
             "time": "2014-04-02T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zum IPCC-Weltklimabericht",
             "topic": [
               {
                 "lines": [
@@ -76,7 +83,8 @@
                   "auf Verlangen der Fraktion Bündnis 90/ Die Grünen",
                   "Konsequenzen der Bundesregierung au dem IPCC-Weltklimabericht"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -84,12 +92,14 @@
           {
             "time": "2014-04-02T16:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -104,12 +114,14 @@
           {
             "time": "2014-04-03T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,6 +129,7 @@
           {
             "time": "2014-04-03T09:05:00.000Z",
             "top": "3",
+            "heading": "Leistungsverbesserungen in der Rentenversicherung",
             "topic": [
               {
                 "lines": [
@@ -125,7 +138,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800909.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -133,6 +147,7 @@
           {
             "time": "2014-04-03T10:55:00.000Z",
             "top": "4",
+            "heading": "Direktzahlungen an landwirtschaftliche Betriebe",
             "topic": [
               {
                 "lines": [
@@ -141,7 +156,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800908.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -149,6 +165,7 @@
           {
             "time": "2014-04-03T12:45:00.000Z",
             "top": "5",
+            "heading": "Kooperationsverbot im Bildungswesen",
             "topic": [
               {
                 "lines": [
@@ -158,7 +175,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800588.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -166,12 +184,14 @@
           {
             "time": "2014-04-03T13:55:00.000Z",
             "top": "22",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -179,12 +199,14 @@
           {
             "time": "2014-04-03T13:55:00.000Z",
             "top": "23",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -192,6 +214,7 @@
           {
             "time": "2014-04-03T14:00:00.000Z",
             "top": "6",
+            "heading": "Bundeswehreinsatz EUTM Somalia",
             "topic": [
               {
                 "lines": [
@@ -205,7 +228,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800857.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800994.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800995.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -213,6 +237,7 @@
           {
             "time": "2014-04-03T14:50:00.000Z",
             "top": "7",
+            "heading": "Minderheitenrechte in der 18. Wahlperiode",
             "topic": [
               {
                 "lines": [
@@ -223,7 +248,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/004/1800481.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800997.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -235,7 +261,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/003/1800380.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800997.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -245,7 +272,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800838.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -254,7 +282,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800997.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -265,7 +294,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/003/1800379.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800997.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -273,6 +303,7 @@
           {
             "time": "2014-04-03T16:20:00.000Z",
             "top": "8",
+            "heading": "Arbeitnehmer-Entsendegesetz",
             "topic": [
               {
                 "lines": [
@@ -281,7 +312,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800910.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -289,6 +321,7 @@
           {
             "time": "2014-04-03T17:05:00.000Z",
             "top": "9",
+            "heading": "Entlastung der Kommunen",
             "topic": [
               {
                 "lines": [
@@ -298,7 +331,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800975.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -306,6 +340,7 @@
           {
             "time": "2014-04-03T18:00:00.000Z",
             "top": "10",
+            "heading": "Bundesnetzagentur Telekommunikationsbericht 2012/13",
             "topic": [
               {
                 "lines": [
@@ -317,7 +352,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800209.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -325,6 +361,7 @@
           {
             "time": "2014-04-03T18:45:00.000Z",
             "top": "11",
+            "heading": "Nachtruhe am Flughafen BER",
             "topic": [
               {
                 "lines": [
@@ -334,7 +371,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800971.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -342,6 +380,7 @@
           {
             "time": "2014-04-03T19:25:00.000Z",
             "top": "ZP 2",
+            "heading": "Sachverständigenbestellung Rechtsextremismus-Datei-G",
             "topic": [
               {
                 "lines": [
@@ -351,7 +390,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800974.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -359,6 +399,7 @@
           {
             "time": "2014-04-03T19:55:00.000Z",
             "top": "12",
+            "heading": "Kontoeröffnungen für Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -368,7 +409,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800905.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -376,6 +418,7 @@
           {
             "time": "2014-04-03T20:25:00.000Z",
             "top": "13",
+            "heading": "Atomwaffen",
             "topic": [
               {
                 "lines": [
@@ -386,7 +429,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800287.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/003/1800399.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -394,6 +438,7 @@
           {
             "time": "2014-04-03T20:55:00.000Z",
             "top": "14",
+            "heading": "Zukunft der bäuerlichen Milchviehhaltung",
             "topic": [
               {
                 "lines": [
@@ -403,7 +448,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800976.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -411,6 +457,7 @@
           {
             "time": "2014-04-03T21:25:00.000Z",
             "top": "15",
+            "heading": "Aufsichtsrat der Deutsche Bahn AG",
             "topic": [
               {
                 "lines": [
@@ -420,7 +467,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800592.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -428,6 +476,7 @@
           {
             "time": "2014-04-03T21:55:00.000Z",
             "top": "16",
+            "heading": "Makroökonomische Ungleichgewichte",
             "topic": [
               {
                 "lines": [
@@ -437,7 +486,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800978.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -445,6 +495,7 @@
           {
             "time": "2014-04-03T22:20:00.000Z",
             "top": "17 *",
+            "heading": "Fördermitteltransparenz",
             "topic": [
               {
                 "lines": [
@@ -454,7 +505,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800980.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -462,12 +514,14 @@
           {
             "time": "2014-04-03T22:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -482,12 +536,14 @@
           {
             "time": "2014-04-04T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -495,6 +551,7 @@
           {
             "time": "2014-04-04T09:00:00.000Z",
             "top": "18",
+            "heading": "Gedenken an die Opfer des Völkermordes in Ruanda",
             "topic": [
               {
                 "lines": [
@@ -504,7 +561,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800973.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -512,6 +570,7 @@
           {
             "time": "2014-04-04T10:50:00.000Z",
             "top": "19",
+            "heading": "Programm für Barrierefreiheit",
             "topic": [
               {
                 "lines": [
@@ -521,7 +580,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800977.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -531,7 +591,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800972.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -539,6 +600,7 @@
           {
             "time": "2014-04-04T12:45:00.000Z",
             "top": "ZP 3",
+            "heading": "Bundeswehreinsatz Vernichtung syrischer Chemiewaffen",
             "topic": [
               {
                 "lines": [
@@ -548,7 +610,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -556,6 +619,7 @@
           {
             "time": "2014-04-04T13:40:00.000Z",
             "top": "21",
+            "heading": "Soziale Pflegeversicherung",
             "topic": [
               {
                 "lines": [
@@ -565,7 +629,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800591.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -573,12 +638,14 @@
           {
             "time": "2014-04-04T14:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

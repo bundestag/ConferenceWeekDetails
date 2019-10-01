@@ -26,12 +26,14 @@
           {
             "time": "2015-09-08T10:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2015-09-08T10:10:00.000Z",
             "top": "1",
+            "heading": "Einbringung Haushaltsgesetz 2015, Finanzplan",
             "topic": [
               {
                 "lines": [
@@ -48,7 +51,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -58,7 +62,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -66,13 +71,15 @@
           {
             "time": "2015-09-08T10:50:00.000Z",
             "top": "1 Epl 08, ...",
+            "heading": "Allgemeine Finanzdebatte",
             "topic": [
               {
                 "lines": [
                   "Allgemeine Finanzdebatte",
                   "(einschl. Einzelpläne 08, 20, 32, 60)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -80,13 +87,15 @@
           {
             "time": "2015-09-08T12:35:00.000Z",
             "top": "1 Epl 15",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung des von der Bundesregierung",
                   "Einzelplan 15 (Gesundheit)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -94,13 +103,15 @@
           {
             "time": "2015-09-08T14:25:00.000Z",
             "top": "1 Epl 07",
+            "heading": "Justiz und Verbraucherschutz",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung des von der Bundesregierung",
                   "Einzelplan 07 (Justiz und Verbraucherschutz)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -108,13 +119,15 @@
           {
             "time": "2015-09-08T16:15:00.000Z",
             "top": "1 Epl 06",
+            "heading": "Innen",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung des von der Bundesregierung",
                   "Einzelplan 06 (Inneres)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -122,12 +135,14 @@
           {
             "time": "2015-09-08T18:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -142,12 +157,14 @@
           {
             "time": "2015-09-09T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -155,13 +172,15 @@
           {
             "time": "2015-09-09T09:00:00.000Z",
             "top": "1 Epl 04",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung des von der Bundesregierung",
                   "Einzelplan 04 (Bundeskanzlerin und Bundeskanzleramt)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -169,13 +188,15 @@
           {
             "time": "2015-09-09T13:00:00.000Z",
             "top": "1 Epl 05",
+            "heading": "Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung des von der Bundesregierung",
                   "Einzelplan 05 (Auswärtiges Amt)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -183,13 +204,15 @@
           {
             "time": "2015-09-09T14:55:00.000Z",
             "top": "1 Epl 14",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung des von der Bundesregierung",
                   "Einzelplan 14 (Verteidigung)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -197,13 +220,15 @@
           {
             "time": "2015-09-09T16:40:00.000Z",
             "top": "1 Epl 23",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung des von der Bundesregierung",
                   "Einzelplan 23 (Wirtschaftliche Zusammenarbeit und Entwicklung)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -211,12 +236,14 @@
           {
             "time": "2015-09-09T18:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -231,12 +258,14 @@
           {
             "time": "2015-09-10T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -244,13 +273,15 @@
           {
             "time": "2015-09-10T09:00:00.000Z",
             "top": "1 Epl 09",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 09 (Wirtschaft und Energie)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -258,13 +289,15 @@
           {
             "time": "2015-09-10T11:25:00.000Z",
             "top": "1 Epl 30",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 30 (Bildung und Forschung)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -272,12 +305,14 @@
           {
             "time": "2015-09-10T13:15:00.000Z",
             "top": "2 + ZP 1",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -285,12 +320,14 @@
           {
             "time": "2015-09-10T13:15:00.000Z",
             "top": "3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -298,13 +335,15 @@
           {
             "time": "2015-09-10T13:15:00.000Z",
             "top": "1 Epl 11",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 11 (Arbeit und Soziales)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -312,13 +351,15 @@
           {
             "time": "2015-09-10T15:05:00.000Z",
             "top": "1 Epl 10",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 10 (Ernährung und Landwirtschaft)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -326,13 +367,15 @@
           {
             "time": "2015-09-10T17:00:00.000Z",
             "top": "1 Epl 17",
+            "heading": "Familie, Senioren, Frauen und Jugend",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 17 (Familie, Senioren, Frauen und Jugend)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -340,12 +383,14 @@
           {
             "time": "2015-09-10T18:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -360,12 +405,14 @@
           {
             "time": "2015-09-11T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -373,13 +420,15 @@
           {
             "time": "2015-09-11T09:00:00.000Z",
             "top": "1 Epl 12",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 12 (Verkehr und digitale Infrastruktur)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -387,13 +436,15 @@
           {
             "time": "2015-09-11T10:55:00.000Z",
             "top": "1 Epl 16",
+            "heading": "Umwelt Naturschutz, Bau und Reaktorsicherheit",
             "topic": [
               {
                 "lines": [
                   "Erste Beratung der Bundesregierung",
                   "Einzelplan 16 (Umwelt Naturschutz, Bau und Reaktorsicherheit)"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": false
               }
             ],
             "status": []
@@ -401,12 +452,14 @@
           {
             "time": "2015-09-11T12:45:00.000Z",
             "top": "1",
+            "heading": "Schlussrunde Haushaltsgesetz 2016",
             "topic": [
               {
                 "lines": [
                   "Schlussrunde Haushaltsgesetz 2016"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -414,12 +467,14 @@
           {
             "time": "2015-09-11T14:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

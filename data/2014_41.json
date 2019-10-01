@@ -26,12 +26,14 @@
           {
             "time": "2014-10-08T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2014-10-08T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: Maßnahmen im Bauplanungsrecht zur Erleichterung der Unterbringung von Flüchtlingen - Stellungnahme der Bundesregierung zum Gesetzentwurf des Bundesrates"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2014-10-08T13:45:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802702.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +75,7 @@
           {
             "time": "2014-10-08T15:50:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zum Rüstungsbericht und Beschaffungswesen der Bundeswehr",
             "topic": [
               {
                 "lines": [
@@ -76,7 +83,8 @@
                   "auf Verlangen DIE LINKE., BÜNDNIS 90/DIE GRÜNEN",
                   "Reaktion der Bundesregierung auf den Rüstungsbericht und die schwierige Situation des Beschaffungswesens der Bundeswehr"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -84,6 +92,7 @@
           {
             "time": "2014-10-08T17:10:00.000Z",
             "top": "3",
+            "heading": "Irland: Vorzeitige Rückzahlung der IWF-Finanzhilfe",
             "topic": [
               {
                 "lines": [
@@ -94,7 +103,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802683.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -102,12 +112,14 @@
           {
             "time": "2014-10-08T17:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -122,12 +134,14 @@
           {
             "time": "2014-10-09T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -135,6 +149,7 @@
           {
             "time": "2014-10-09T09:05:00.000Z",
             "top": "4",
+            "heading": "Änderung des Bundesausbildungsförderungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -143,7 +158,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802663.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -153,7 +169,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/004/1800460.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -163,7 +180,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802745.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -171,6 +189,7 @@
           {
             "time": "2014-10-09T10:55:00.000Z",
             "top": "5",
+            "heading": "Klimapolitik",
             "topic": [
               {
                 "lines": [
@@ -180,7 +199,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802744.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -188,6 +208,7 @@
           {
             "time": "2014-10-09T13:00:00.000Z",
             "top": "6",
+            "heading": "Verantwortung für Produktion in Entwicklungsländern",
             "topic": [
               {
                 "lines": [
@@ -197,7 +218,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802739.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -207,7 +229,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802746.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -215,12 +238,14 @@
           {
             "time": "2014-10-09T14:15:00.000Z",
             "top": "27+ ZP 2",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -228,12 +253,14 @@
           {
             "time": "2014-10-09T14:15:00.000Z",
             "top": "28+ZP 3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -241,6 +268,7 @@
           {
             "time": "2014-10-09T14:25:00.000Z",
             "top": "7",
+            "heading": "Einsprüche gegen die Gültigkeit der Bundestagswahl",
             "topic": [
               {
                 "lines": [
@@ -250,7 +278,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802700.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -258,6 +287,7 @@
           {
             "time": "2014-10-09T14:30:00.000Z",
             "top": "8",
+            "heading": "Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums",
             "topic": [
               {
                 "lines": [
@@ -266,7 +296,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802743.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -274,6 +305,7 @@
           {
             "time": "2014-10-09T14:40:00.000Z",
             "top": "11",
+            "heading": "Änderung des Bundesverfassungsgerichtsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -282,7 +314,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802737.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -290,6 +323,7 @@
           {
             "time": "2014-10-09T15:20:00.000Z",
             "top": "10",
+            "heading": "Besteuerung von Kapitalerträgen",
             "topic": [
               {
                 "lines": [
@@ -299,7 +333,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802014.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -307,6 +342,7 @@
           {
             "time": "2014-10-09T16:05:00.000Z",
             "top": "13 + ZP 4",
+            "heading": "Änderung des Asylbewerberleistungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -315,7 +351,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/025/1802592.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -325,7 +362,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802736.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -333,6 +371,7 @@
           {
             "time": "2014-10-09T16:45:00.000Z",
             "top": "12",
+            "heading": "Psychiatrisches Entgeltsystem",
             "topic": [
               {
                 "lines": [
@@ -344,7 +383,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800849.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801713.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -352,6 +392,7 @@
           {
             "time": "2014-10-09T17:30:00.000Z",
             "top": "15",
+            "heading": "Bundesbesoldungs- und Versorgungsanpassungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -361,7 +402,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801797.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/021/1802136.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -370,7 +412,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802639.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -379,7 +422,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802641.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -387,6 +431,7 @@
           {
             "time": "2014-10-09T18:10:00.000Z",
             "top": "14 + ZP 5",
+            "heading": "Hungerbekämpfung",
             "topic": [
               {
                 "lines": [
@@ -396,7 +441,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/014/1801482.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -408,13 +454,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800979.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/017/1801788.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -422,6 +470,7 @@
           {
             "time": "2014-10-09T18:40:00.000Z",
             "top": "17",
+            "heading": "Änderung mautrechtlicher Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -430,7 +479,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802656.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -438,6 +488,7 @@
           {
             "time": "2014-10-09T19:10:00.000Z",
             "top": "ZP 6",
+            "heading": "Karenzzeit für ausscheidende Regierungsmitglieder",
             "topic": [
               {
                 "lines": [
@@ -452,13 +503,15 @@
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800285.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/002/1800292.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802762.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -466,6 +519,7 @@
           {
             "time": "2014-10-09T19:40:00.000Z",
             "top": "18",
+            "heading": "Änderung des Bundes-Immissionsschutzgesetzes",
             "topic": [
               {
                 "lines": [
@@ -475,7 +529,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/024/1802442.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802709.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -484,7 +539,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802776.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -492,6 +548,7 @@
           {
             "time": "2014-10-09T20:10:00.000Z",
             "top": "19 *",
+            "heading": "Änderung des Straßenverkehrsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -500,7 +557,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/021/1802134.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -509,7 +567,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802775.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -517,6 +576,7 @@
           {
             "time": "2014-10-09T20:15:00.000Z",
             "top": "20",
+            "heading": "Ausbau der Breitbandinfrastruktur",
             "topic": [
               {
                 "lines": [
@@ -527,7 +587,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801973.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802778.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -535,12 +596,14 @@
           {
             "time": "2014-10-09T20:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -555,12 +618,14 @@
           {
             "time": "2014-10-10T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -568,6 +633,7 @@
           {
             "time": "2014-10-10T09:00:00.000Z",
             "top": "21",
+            "heading": "Jahresbericht zum Stand der Deutschen Einheit",
             "topic": [
               {
                 "lines": [
@@ -577,7 +643,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802665.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -585,6 +652,7 @@
           {
             "time": "2014-10-10T10:55:00.000Z",
             "top": "22",
+            "heading": "Änderung des Grundgesetzes (Artikel 91b)",
             "topic": [
               {
                 "lines": [
@@ -593,7 +661,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802710.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -603,7 +672,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802747.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -611,6 +681,7 @@
           {
             "time": "2014-10-10T12:45:00.000Z",
             "top": "23",
+            "heading": "Zinssätze für Dispo- und Überziehungskredite",
             "topic": [
               {
                 "lines": [
@@ -620,7 +691,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802741.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -635,7 +707,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/008/1800807.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/013/1801342.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802777.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -643,6 +716,7 @@
           {
             "time": "2014-10-10T13:30:00.000Z",
             "top": "24",
+            "heading": "Kampf gegen die Todesstrafe",
             "topic": [
               {
                 "lines": [
@@ -652,7 +726,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802738.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -662,7 +737,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802740.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -670,13 +746,15 @@
           {
             "time": "2014-10-10T14:10:00.000Z",
             "top": "25",
+            "heading": "Vereinbarte Debatte zum Weltmädchentag",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "Weltmädchentag - Bildung und Gesundheit von Mädchen als Voraussetzung für Entwicklung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -684,6 +762,7 @@
           {
             "time": "2014-10-10T15:00:00.000Z",
             "top": "26",
+            "heading": "Fördermitteltransparenz",
             "topic": [
               {
                 "lines": [
@@ -694,7 +773,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/009/1800980.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801676.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -702,12 +782,14 @@
           {
             "time": "2014-10-10T15:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

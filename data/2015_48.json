@@ -26,12 +26,14 @@
           {
             "time": "2015-11-24T10:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2015-11-24T10:10:00.000Z",
             "top": "I",
+            "heading": "Haushaltsgesetz 2016",
             "topic": [
               {
                 "lines": [
@@ -49,7 +52,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805500.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805502.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -62,19 +66,22 @@
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805501.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805502.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806127.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -82,6 +89,7 @@
           {
             "time": "2015-11-24T10:10:00.000Z",
             "top": "I.1-I.3",
+            "heading": "Einzelpläne Bundespräsident, Bundestag, Bundesrat",
             "topic": [
               {
                 "lines": [
@@ -93,7 +101,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -104,7 +113,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806102.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -116,7 +126,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -124,6 +135,7 @@
           {
             "time": "2015-11-24T10:10:00.000Z",
             "top": "I.4",
+            "heading": "Einzelpläne Finanzen, Bundesrechnungshof",
             "topic": [
               {
                 "lines": [
@@ -135,7 +147,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806108.pdf",
                   "http://dip21.bundestag.de/dip21/btd/16/061/1606124.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -147,7 +160,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -155,6 +169,7 @@
           {
             "time": "2015-11-24T12:05:00.000Z",
             "top": "I.5",
+            "heading": "Einzelplan Umwelt, Naturschutz, Bau und Reaktorsicherheit",
             "topic": [
               {
                 "lines": [
@@ -166,7 +181,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806115.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -174,6 +190,7 @@
           {
             "time": "2015-11-24T13:55:00.000Z",
             "top": "I.6",
+            "heading": "Einzelpläne Innen, Datenschutz und Informationsfreiheit",
             "topic": [
               {
                 "lines": [
@@ -185,7 +202,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806106.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -197,13 +215,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806119.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -211,6 +231,7 @@
           {
             "time": "2015-11-24T15:50:00.000Z",
             "top": "I.7",
+            "heading": "Einzelpläne Justiz und Verbraucherschutz, Bundesverfassungsgericht",
             "topic": [
               {
                 "lines": [
@@ -222,7 +243,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806107.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -234,7 +256,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -242,6 +265,7 @@
           {
             "time": "2015-11-24T17:40:00.000Z",
             "top": "I.8",
+            "heading": "Einzelplan Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -253,7 +277,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -261,12 +286,14 @@
           {
             "time": "2015-11-24T19:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -281,12 +308,14 @@
           {
             "time": "2015-11-25T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -294,6 +323,7 @@
           {
             "time": "2015-11-25T09:00:00.000Z",
             "top": "I.9",
+            "heading": "Einzelplan Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
@@ -305,7 +335,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -313,6 +344,7 @@
           {
             "time": "2015-11-25T13:05:00.000Z",
             "top": "I.10",
+            "heading": "Einzelplan Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
@@ -324,7 +356,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806105.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -332,6 +365,7 @@
           {
             "time": "2015-11-25T15:10:00.000Z",
             "top": "I.11",
+            "heading": "Einzelplan Verteidigung",
             "topic": [
               {
                 "lines": [
@@ -343,7 +377,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806113.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -351,6 +386,7 @@
           {
             "time": "2015-11-25T16:55:00.000Z",
             "top": "I.12",
+            "heading": "Einzelplan Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -362,7 +398,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806120.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -370,12 +407,14 @@
           {
             "time": "2015-11-25T18:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -390,12 +429,14 @@
           {
             "time": "2015-11-26T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -403,6 +444,7 @@
           {
             "time": "2015-11-26T09:05:00.000Z",
             "top": "I.13",
+            "heading": "Einzelplan Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
@@ -414,7 +456,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806109.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -422,6 +465,7 @@
           {
             "time": "2015-11-26T11:30:00.000Z",
             "top": "I.14",
+            "heading": "Einzelplan Gesundheit",
             "topic": [
               {
                 "lines": [
@@ -433,7 +477,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806114.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -441,12 +486,14 @@
           {
             "time": "2015-11-26T13:15:00.000Z",
             "top": "III",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -454,12 +501,14 @@
           {
             "time": "2015-11-26T13:15:00.000Z",
             "top": "IV",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -467,6 +516,7 @@
           {
             "time": "2015-11-26T13:20:00.000Z",
             "top": "I.15",
+            "heading": "Einzelplan Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
@@ -478,7 +528,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806111.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -486,6 +537,7 @@
           {
             "time": "2015-11-26T15:10:00.000Z",
             "top": "I.16",
+            "heading": "Einzelplan 17 Familie, Senioren, Frauen und Jugend",
             "topic": [
               {
                 "lines": [
@@ -497,7 +549,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -505,12 +558,14 @@
           {
             "time": "2015-11-26T17:00:00.000Z",
             "top": "",
+            "heading": "Sitzungsunterbrechung",
             "topic": [
               {
                 "lines": [
                   "Sitzungsunterbrechung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -518,6 +573,7 @@
           {
             "time": "2015-11-26T18:20:00.000Z",
             "top": "I.17",
+            "heading": "Einzelplan 10 Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -529,7 +585,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806110.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -537,12 +594,14 @@
           {
             "time": "2015-11-26T20:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -557,12 +616,14 @@
           {
             "time": "2015-11-27T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -570,6 +631,7 @@
           {
             "time": "2015-11-27T09:00:00.000Z",
             "top": "I.18",
+            "heading": "Einzelplan 12 Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
@@ -581,7 +643,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806112.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -589,6 +652,7 @@
           {
             "time": "2015-11-27T11:00:00.000Z",
             "top": "I.19",
+            "heading": "Einzelplan 32 Bundesschuld",
             "topic": [
               {
                 "lines": [
@@ -599,7 +663,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806122.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -607,6 +672,7 @@
           {
             "time": "2015-11-27T11:00:00.000Z",
             "top": "I.20",
+            "heading": "Einzelplan 60 Allgemeine Finanzverwaltung",
             "topic": [
               {
                 "lines": [
@@ -617,7 +683,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806123.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -625,6 +692,7 @@
           {
             "time": "2015-11-27T11:00:00.000Z",
             "top": "I.21",
+            "heading": "Haushaltsgesetz 2016",
             "topic": [
               {
                 "lines": [
@@ -635,7 +703,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806126.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -643,6 +712,7 @@
           {
             "time": "2015-11-27T11:05:00.000Z",
             "top": "II",
+            "heading": "Haushaltsgesetz 2016",
             "topic": [
               {
                 "lines": [
@@ -673,7 +743,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806124.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806125.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806126.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -681,12 +752,14 @@
           {
             "time": "2015-11-27T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

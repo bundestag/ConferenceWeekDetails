@@ -26,12 +26,14 @@
           {
             "time": "2017-11-21T10:00:00.000Z",
             "top": "",
+            "heading": "Sitzungseröffnung",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2017-11-21T10:10:00.000Z",
             "top": "1",
+            "heading": "Einsetzung von Ausschüssen",
             "topic": [
               {
                 "lines": [
@@ -48,7 +51,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900085.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -58,7 +62,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900078.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -66,6 +71,7 @@
           {
             "time": "2017-11-21T10:35:00.000Z",
             "top": "2",
+            "heading": "Bundeswehreinsatz im Mittelmeer (SEA GUARDIAN)",
             "topic": [
               {
                 "lines": [
@@ -75,7 +81,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900022.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -83,6 +90,7 @@
           {
             "time": "2017-11-21T11:20:00.000Z",
             "top": "3",
+            "heading": "Bundeswehreinsatz gegen die Terrororganisation IS (COUNTER DAESH)",
             "topic": [
               {
                 "lines": [
@@ -92,7 +100,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900023.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -100,6 +109,7 @@
           {
             "time": "2017-11-21T12:05:00.000Z",
             "top": "4",
+            "heading": "Bundeswehreinsatz in Afghanistan (Resolute Support)",
             "topic": [
               {
                 "lines": [
@@ -109,7 +119,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900021.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -117,6 +128,7 @@
           {
             "time": "2017-11-21T12:50:00.000Z",
             "top": "5",
+            "heading": "Bundeswehreinsatz in Darfur (UNAMID)",
             "topic": [
               {
                 "lines": [
@@ -126,7 +138,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900019.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -134,6 +147,7 @@
           {
             "time": "2017-11-21T13:30:00.000Z",
             "top": "6",
+            "heading": "Bundeswehreinsatz in Südsudan (UNMISS)",
             "topic": [
               {
                 "lines": [
@@ -143,7 +157,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900020.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -151,6 +166,7 @@
           {
             "time": "2017-11-21T14:15:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu Arbeitsplatzverlusten bei Siemens",
             "topic": [
               {
                 "lines": [
@@ -158,7 +174,8 @@
                   "auf Verlangen der Fraktion der SPD",
                   "Arbeitsplatzverlust bei Siemens vermeiden - Neue Perspektiven für Beschäftigte schaffen"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -166,6 +183,7 @@
           {
             "time": "2017-11-21T15:25:00.000Z",
             "top": "7",
+            "heading": "Irland: Vorzeitige Kreditrückzahlungen",
             "topic": [
               {
                 "lines": [
@@ -176,7 +194,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900039.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -184,6 +203,7 @@
           {
             "time": "2017-11-21T16:30:00.000Z",
             "top": "8",
+            "heading": "Erhalt der Stahlstandorte in Deutschland",
             "topic": [
               {
                 "lines": [
@@ -193,7 +213,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900018.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -201,6 +222,7 @@
           {
             "time": "2017-11-21T17:15:00.000Z",
             "top": "9",
+            "heading": "Rechtskonformität der Euro-Stabilisierung",
             "topic": [
               {
                 "lines": [
@@ -210,7 +232,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900027.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -218,6 +241,7 @@
           {
             "time": "2017-11-21T18:05:00.000Z",
             "top": "10 + ZP 2",
+            "heading": "Personalbemessung in Krankenhäusern",
             "topic": [
               {
                 "lines": [
@@ -227,7 +251,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900030.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -237,7 +262,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900079.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -245,6 +271,7 @@
           {
             "time": "2017-11-21T18:55:00.000Z",
             "top": "ZP 3",
+            "heading": "Ausstieg aus der Kohle",
             "topic": [
               {
                 "lines": [
@@ -254,7 +281,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900083.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -262,6 +290,7 @@
           {
             "time": "2017-11-21T19:40:00.000Z",
             "top": "ZP 4",
+            "heading": "Militarisierung der EU",
             "topic": [
               {
                 "lines": [
@@ -274,7 +303,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900082.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -282,12 +312,14 @@
           {
             "time": "2017-11-21T19:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -302,12 +334,14 @@
           {
             "time": "2017-11-22T12:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -315,6 +349,7 @@
           {
             "time": "2017-11-22T12:30:00.000Z",
             "top": "11",
+            "heading": "Bundeswehreinsatz in Mali (MINUSMA)",
             "topic": [
               {
                 "lines": [
@@ -324,7 +359,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900024.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -332,6 +368,7 @@
           {
             "time": "2017-11-22T13:15:00.000Z",
             "top": "",
+            "heading": "Geschäftsordnungsantrag zur Aufhebung der Immunität",
             "topic": [
               {
                 "lines": [
@@ -341,7 +378,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900090.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900091.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -349,6 +387,7 @@
           {
             "time": "2017-11-22T13:15:00.000Z",
             "top": "12",
+            "heading": "Bundeswehreinsatz im Irak",
             "topic": [
               {
                 "lines": [
@@ -358,7 +397,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900025.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -366,6 +406,7 @@
           {
             "time": "2017-11-22T13:55:00.000Z",
             "top": "ZP 5",
+            "heading": "Aktuelle Stunde zur Lage im Nahen- und Mittleren Osten",
             "topic": [
               {
                 "lines": [
@@ -373,7 +414,8 @@
                   "auf Verlangen der Fraktion CDU/CSU",
                   "Lage im Nahen- und Mittleren Osten"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -381,6 +423,7 @@
           {
             "time": "2017-11-22T15:05:00.000Z",
             "top": "13",
+            "heading": "Entwurf eines Einwanderungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -390,7 +433,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900044.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -398,6 +442,7 @@
           {
             "time": "2017-11-22T15:50:00.000Z",
             "top": "14",
+            "heading": "Rückführung syrischer Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -407,7 +452,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900048.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -415,6 +461,7 @@
           {
             "time": "2017-11-22T16:40:00.000Z",
             "top": "15",
+            "heading": "Kooperationsverbot in der Bildung",
             "topic": [
               {
                 "lines": [
@@ -424,7 +471,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900013.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -432,12 +480,14 @@
           {
             "time": "2017-11-22T17:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

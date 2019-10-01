@@ -26,12 +26,14 @@
           {
             "time": "2017-10-24T11:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2017-10-24T11:05:00.000Z",
             "top": "1",
+            "heading": "Eröffnung der Sitzung durch den Alterspräsidenten",
             "topic": [
               {
                 "lines": [
@@ -47,7 +50,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900002.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -55,6 +59,7 @@
           {
             "time": "2017-10-24T11:25:00.000Z",
             "top": "2",
+            "heading": "Beschlussfassung über die Geschäftsordnung",
             "topic": [
               {
                 "lines": [
@@ -68,7 +73,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900001.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -76,6 +82,7 @@
           {
             "time": "2017-10-24T12:05:00.000Z",
             "top": "3",
+            "heading": "Wahl des Präsidenten",
             "topic": [
               {
                 "lines": [
@@ -83,7 +90,8 @@
                   "verbunden mit Namensaufruf",
                   "und Feststellung der Beschlussfähigkeit"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -91,13 +99,15 @@
           {
             "time": "2017-10-24T13:15:00.000Z",
             "top": "4",
+            "heading": "Amtsübernahme durch den Präsidenten mit Ansprache",
             "topic": [
               {
                 "lines": [
                   "Amtsübernahme durch den Präsidenten",
                   "mit Ansprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -105,6 +115,7 @@
           {
             "time": "2017-10-24T13:40:00.000Z",
             "top": "5",
+            "heading": "Festlegung der Zahl der Stellvertreter des Präsidenten",
             "topic": [
               {
                 "lines": [
@@ -113,7 +124,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/000/1900003.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -121,12 +133,14 @@
           {
             "time": "2017-10-24T13:40:00.000Z",
             "top": "6",
+            "heading": "Wahl der Stellvertreter des Präsidenten",
             "topic": [
               {
                 "lines": [
                   "Wahl der Stellvertreterinnen und Stellvertreter des Präsidenten"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -134,12 +148,14 @@
           {
             "time": "2017-10-24T17:00:00.000Z",
             "top": "7",
+            "heading": "Nationalhymne",
             "topic": [
               {
                 "lines": [
                   "Nationalhymne"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -147,12 +163,14 @@
           {
             "time": "2017-10-24T17:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

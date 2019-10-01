@@ -26,12 +26,14 @@
           {
             "time": "2015-09-30T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2015-09-30T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "zum Thema: Entwurf eines Asylverfahrensbeschleunigungsgesetzes und Verordnung zum Asylverfahrensbeschleunigungsgesetz"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2015-09-30T13:50:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806136.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,12 +75,14 @@
           {
             "time": "2015-09-30T15:20:00.000Z",
             "top": "-",
+            "heading": "Sitzungsunterbrechung",
             "topic": [
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -82,6 +90,7 @@
           {
             "time": "2015-09-30T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu Atombomben in Rheinland-Pfalz",
             "topic": [
               {
                 "lines": [
@@ -89,7 +98,8 @@
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Haltung der Bundesregierung zur Stationierung von 20 modernisierten Atombomben in Rheinland-Pfalz"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -97,12 +107,14 @@
           {
             "time": "2015-09-30T16:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -117,12 +129,14 @@
           {
             "time": "2015-10-01T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -130,6 +144,7 @@
           {
             "time": "2015-10-01T09:00:00.000Z",
             "top": "3 + ZP 2",
+            "heading": "Maßnahmen zur Bewältigung der Flüchtlingskrise",
             "topic": [
               {
                 "lines": [
@@ -139,7 +154,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806185.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -149,7 +165,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806172.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -159,7 +176,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806190.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -169,7 +187,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806090.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -177,6 +196,7 @@
           {
             "time": "2015-10-01T11:05:00.000Z",
             "top": "4",
+            "heading": "Handelspolitik und Handelsabkommen TTIP und CETA",
             "topic": [
               {
                 "lines": [
@@ -186,7 +206,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806197.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -211,7 +232,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/040/1804090.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/026/1802620.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/049/1804969.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -219,6 +241,7 @@
           {
             "time": "2015-10-01T13:05:00.000Z",
             "top": "5",
+            "heading": "Bericht der Regierung zur Menschenrechtspolitik",
             "topic": [
               {
                 "lines": [
@@ -230,7 +253,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/034/1803494.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806183.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -238,12 +262,14 @@
           {
             "time": "2015-10-01T14:15:00.000Z",
             "top": "23 + ZP 3",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -251,12 +277,14 @@
           {
             "time": "2015-10-01T14:15:00.000Z",
             "top": "24",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -264,6 +292,7 @@
           {
             "time": "2015-10-01T14:20:00.000Z",
             "top": "6",
+            "heading": "Bundeswehreinsatz EU-Operation EUNAVFOR MED",
             "topic": [
               {
                 "lines": [
@@ -278,7 +307,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806013.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806189.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806213.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -286,6 +316,7 @@
           {
             "time": "2015-10-01T15:20:00.000Z",
             "top": "7",
+            "heading": "Sanktionen bei Hartz IV und Sozialhilfe",
             "topic": [
               {
                 "lines": [
@@ -303,7 +334,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/035/1803549.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/019/1801963.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806128.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -311,6 +343,7 @@
           {
             "time": "2015-10-01T16:15:00.000Z",
             "top": "10",
+            "heading": "Stärkung der Kultur im ländlichen Raum",
             "topic": [
               {
                 "lines": [
@@ -322,7 +355,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/050/1805091.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806167.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -330,6 +364,7 @@
           {
             "time": "2015-10-01T17:00:00.000Z",
             "top": "9",
+            "heading": "Verbesserung des Schutzes vor sexueller Misshandlung",
             "topic": [
               {
                 "lines": [
@@ -338,7 +373,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/053/1805384.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -346,6 +382,7 @@
           {
             "time": "2015-10-01T17:45:00.000Z",
             "top": "12",
+            "heading": "Umsetzung der Änderung der Transparenzrichtlinie",
             "topic": [
               {
                 "lines": [
@@ -359,7 +396,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805272.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/054/1805458.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806220.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -367,6 +405,7 @@
           {
             "time": "2015-10-01T18:30:00.000Z",
             "top": "11",
+            "heading": "Armuts- und Reichtumsberichterstattung",
             "topic": [
               {
                 "lines": [
@@ -378,7 +417,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/051/1805109.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806218.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -386,6 +426,7 @@
           {
             "time": "2015-10-01T19:00:00.000Z",
             "top": "14",
+            "heading": "Internationale Luftverkehrsabkommen",
             "topic": [
               {
                 "lines": [
@@ -397,7 +438,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805271.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806161.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -409,7 +451,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805580.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806072.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -417,6 +460,7 @@
           {
             "time": "2015-10-01T19:30:00.000Z",
             "top": "13",
+            "heading": "Umgestaltung der Arbeitslosenversicherung",
             "topic": [
               {
                 "lines": [
@@ -426,7 +470,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/053/1805386.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -434,6 +479,7 @@
           {
             "time": "2015-10-01T20:00:00.000Z",
             "top": "16",
+            "heading": "Asiatische Infrastruktur-Investitionsbank",
             "topic": [
               {
                 "lines": [
@@ -443,7 +489,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806163.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -451,6 +498,7 @@
           {
             "time": "2015-10-01T20:30:00.000Z",
             "top": "15",
+            "heading": "Deutscher Vorsitz 2016 in der OSZE",
             "topic": [
               {
                 "lines": [
@@ -460,7 +508,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/051/1805108.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -470,7 +519,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806199.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -478,12 +528,14 @@
           {
             "time": "2015-10-01T21:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -498,12 +550,14 @@
           {
             "time": "2015-10-02T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -511,6 +565,7 @@
           {
             "time": "2015-10-02T09:00:00.000Z",
             "top": "17",
+            "heading": "Jahresbericht zum Stand der Deutschen Einheit 2015",
             "topic": [
               {
                 "lines": [
@@ -520,7 +575,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806100.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -530,7 +586,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806188.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -538,6 +595,7 @@
           {
             "time": "2015-10-02T10:40:00.000Z",
             "top": "18",
+            "heading": "Berichte zur Auswärtigen Kultur- und Bildungspolitik",
             "topic": [
               {
                 "lines": [
@@ -547,7 +605,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/050/1805057.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -557,7 +616,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/005/1800579.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -565,6 +625,7 @@
           {
             "time": "2015-10-02T12:10:00.000Z",
             "top": "19",
+            "heading": "Renten in Ostdeutschland",
             "topic": [
               {
                 "lines": [
@@ -574,7 +635,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/049/1804972.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -586,7 +648,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801644.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805290.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -594,6 +657,7 @@
           {
             "time": "2015-10-02T13:00:00.000Z",
             "top": "8",
+            "heading": "Alphabetisierung in Deutschland",
             "topic": [
               {
                 "lines": [
@@ -605,7 +669,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/050/1805090.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806179.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -613,6 +678,7 @@
           {
             "time": "2015-10-02T13:45:00.000Z",
             "top": "21",
+            "heading": "Ziele der Alpenkonvention",
             "topic": [
               {
                 "lines": [
@@ -622,7 +688,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806187.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -632,7 +699,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804816.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -640,6 +708,7 @@
           {
             "time": "2015-10-02T14:30:00.000Z",
             "top": "22",
+            "heading": "Bildung und Ausbildung für junge Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -649,7 +718,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806198.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -659,7 +729,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806192.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -667,12 +738,14 @@
           {
             "time": "2015-10-02T15:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

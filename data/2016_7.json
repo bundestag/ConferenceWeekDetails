@@ -26,12 +26,14 @@
           {
             "time": "2016-02-17T13:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2016-02-17T13:30:00.000Z",
             "top": "1",
+            "heading": "Regierungserklärung zum Europäischen Rat am 18./19. Februar 2016 in Brüssel",
             "topic": [
               {
                 "lines": [
                   "Abgabe einer Regierungserklärung durch die Bundeskanzlerin",
                   "zum Europäischen Rat am 18./19. Februar 2016 in Brüssel"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,13 +57,15 @@
           {
             "time": "2016-02-17T15:35:00.000Z",
             "top": "2",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "zum Thema: Vierter Bericht zur Tragfähigkeit der öffentlichen Finanzen"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -67,6 +73,7 @@
           {
             "time": "2016-02-17T16:05:00.000Z",
             "top": "3",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -75,7 +82,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807509.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -83,6 +91,7 @@
           {
             "time": "2016-02-17T17:20:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu der Verschärfung der kriegerischen Auseinandersetzungen in Syrien",
             "topic": [
               {
                 "lines": [
@@ -90,7 +99,8 @@
                   "auf Verlangen der Fraktion DIE LINKE.",
                   "Verschärfung kriegerischer Auseinandersetzungen in Syrien nach den Angriffen der Türkei auf syrisch-kurdisches Gebiet"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -98,12 +108,14 @@
           {
             "time": "2016-02-17T18:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -118,12 +130,14 @@
           {
             "time": "2016-02-18T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -131,6 +145,7 @@
           {
             "time": "2016-02-18T09:05:00.000Z",
             "top": "4",
+            "heading": "Novellierung von Finanzmarktvorschriften",
             "topic": [
               {
                 "lines": [
@@ -140,7 +155,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/074/1807482.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -148,6 +164,7 @@
           {
             "time": "2016-02-18T10:30:00.000Z",
             "top": "ZP 2",
+            "heading": "Maßnahmen gegen Rassismus, Hetze und Gewalt",
             "topic": [
               {
                 "lines": [
@@ -157,7 +174,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807553.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -165,13 +183,15 @@
           {
             "time": "2016-02-18T12:05:00.000Z",
             "top": "6",
+            "heading": "25 Jahre Technikfolgenabschätzung beim Deutschen Bundestag",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "25 Jahre wissenschaftliche Politikberatung – Technikfolgenabschätzung beim Deutschen Bundestag"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -179,12 +199,14 @@
           {
             "time": "2016-02-18T13:15:00.000Z",
             "top": "22",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisungen im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -192,12 +214,14 @@
           {
             "time": "2016-02-18T13:15:00.000Z",
             "top": "23 + 22c",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -205,6 +229,7 @@
           {
             "time": "2016-02-18T13:20:00.000Z",
             "top": "ZP 3",
+            "heading": "Aktuelle Stunde zum Abgasskandal",
             "topic": [
               {
                 "lines": [
@@ -212,7 +237,8 @@
                   "auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Stand der Aufklärung und Konsequenzen aus dem Abgasskandal"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -220,6 +246,7 @@
           {
             "time": "2016-02-18T14:40:00.000Z",
             "top": "7",
+            "heading": "Europäisches System der Finanzaufsicht",
             "topic": [
               {
                 "lines": [
@@ -229,7 +256,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807539.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -237,6 +265,7 @@
           {
             "time": "2016-02-18T15:25:00.000Z",
             "top": "8",
+            "heading": "Recht auf gleichgeschlechtliche Eheschließung",
             "topic": [
               {
                 "lines": [
@@ -246,7 +275,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/000/1800008.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/073/1807375.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -256,7 +286,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/050/1805098.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/072/1807257.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -264,6 +295,7 @@
           {
             "time": "2016-02-18T16:10:00.000Z",
             "top": "9",
+            "heading": "Neuregelung des Kulturgutschutzrechts",
             "topic": [
               {
                 "lines": [
@@ -272,7 +304,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/074/1807456.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -280,6 +313,7 @@
           {
             "time": "2016-02-18T16:50:00.000Z",
             "top": "20",
+            "heading": "Rüstungsexportkontrolle",
             "topic": [
               {
                 "lines": [
@@ -289,7 +323,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807546.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -300,7 +335,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/049/1804940.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/070/1807030.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -308,6 +344,7 @@
           {
             "time": "2016-02-18T17:45:00.000Z",
             "top": "11",
+            "heading": "Umsetzung der Wohnimmobilienkreditrichtlinie",
             "topic": [
               {
                 "lines": [
@@ -320,7 +357,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/059/1805922.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806286.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807584.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -331,7 +369,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802741.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807584.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -339,6 +378,7 @@
           {
             "time": "2016-02-18T18:30:00.000Z",
             "top": "12",
+            "heading": "Schutz und Hilfe für von Gewalt betroffene Frauen",
             "topic": [
               {
                 "lines": [
@@ -348,7 +388,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807540.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -356,6 +397,7 @@
           {
             "time": "2016-02-18T19:00:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz (EUTM Somalia)",
             "topic": [
               {
                 "lines": [
@@ -366,7 +408,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807556.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -374,6 +417,7 @@
           {
             "time": "2016-02-18T19:30:00.000Z",
             "top": "ZP 4",
+            "heading": "Wohnungslosigkeit",
             "topic": [
               {
                 "lines": [
@@ -383,7 +427,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807547.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -391,6 +436,7 @@
           {
             "time": "2016-02-18T19:55:00.000Z",
             "top": "15",
+            "heading": "Änderung des Wasserhaushaltsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -402,7 +448,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/069/1806986.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807578.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -410,6 +457,7 @@
           {
             "time": "2016-02-18T20:25:00.000Z",
             "top": "16",
+            "heading": "Beziehungen zu Kuba",
             "topic": [
               {
                 "lines": [
@@ -419,7 +467,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807541.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -427,12 +476,14 @@
           {
             "time": "2016-02-18T20:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -447,12 +498,14 @@
           {
             "time": "2016-02-19T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -460,6 +513,7 @@
           {
             "time": "2016-02-19T09:00:00.000Z",
             "top": "ZP 5,TOP17,ZP6",
+            "heading": "Einführung beschleunigter Asylverfahren",
             "topic": [
               {
                 "lines": [
@@ -468,7 +522,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807538.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -477,7 +532,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807537.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -487,13 +543,15 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807549.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -501,6 +559,7 @@
           {
             "time": "2016-02-19T11:10:00.000Z",
             "top": "18",
+            "heading": "EU-Jahresbericht über Menschenrechte und Demokratie",
             "topic": [
               {
                 "lines": [
@@ -512,7 +571,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/059/1805982.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/075/1807552.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -520,6 +580,7 @@
           {
             "time": "2016-02-19T12:20:00.000Z",
             "top": "19",
+            "heading": "Schutzfunktion der Arbeitslosenversicherung",
             "topic": [
               {
                 "lines": [
@@ -529,7 +590,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/074/1807425.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -540,7 +602,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/044/1804449.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/051/1805158.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -548,6 +611,7 @@
           {
             "time": "2016-02-19T13:05:00.000Z",
             "top": "10",
+            "heading": "Gleichstellung im Kulturbetrieb",
             "topic": [
               {
                 "lines": [
@@ -559,13 +623,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802881.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/073/1807351.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -573,6 +639,7 @@
           {
             "time": "2016-02-19T13:50:00.000Z",
             "top": "21",
+            "heading": "Einsetzung eines Untersuchungsausschusses (cum-ex)",
             "topic": [
               {
                 "lines": [
@@ -583,7 +650,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/068/1806839.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/076/1807601.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -591,12 +659,14 @@
           {
             "time": "2016-02-19T14:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

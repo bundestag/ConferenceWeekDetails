@@ -26,12 +26,14 @@
           {
             "time": "2015-11-11T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,13 +41,15 @@
           {
             "time": "2015-11-11T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
                   "Befragung der Bundesregierung",
                   "Thema: ,,Entwurf eines Gesetzes zur Umsetzung der Richtlinie 2014/26/EU über die kollektive Wahrnehmung von Urheber- und verwandten Schutzrechten und die Vergabe von Mehrgebietslizenzen für Rechte an Musikwerken für die Online-Nutzung im Binnenmarkt sowie zur Änderung des Verfahrens betreffend die Geräte - und Speichermedienvergütung (VG-Richtlinie-Umsetzungsgesetz)\""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -53,6 +57,7 @@
           {
             "time": "2015-11-11T13:50:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -61,7 +66,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806602.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -69,6 +75,7 @@
           {
             "time": "2015-11-11T15:10:00.000Z",
             "top": "3",
+            "heading": "Einsetzung des 3. Untersuchungsausschusses",
             "topic": [
               {
                 "lines": [
@@ -79,7 +86,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/063/1806330.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806601.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -87,6 +95,7 @@
           {
             "time": "2015-11-11T15:55:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zur Statusfrage syrischer Flüchtlinge und zum Familiennachzug",
             "topic": [
               {
                 "lines": [
@@ -94,7 +103,8 @@
                   "auf Verlangen der Fraktionen DIE LINKE. und BÜNDNIS 90/DIE GRÜNEN",
                   "Haltung der Bundesregierung zur Statusfrage syrischer Flüchtlinge und zur Einschränkung des Familiennachzuges"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -102,12 +112,14 @@
           {
             "time": "2015-11-11T17:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -122,12 +134,14 @@
           {
             "time": "2015-11-12T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -135,13 +149,15 @@
           {
             "time": "2015-11-12T09:15:00.000Z",
             "top": "4",
+            "heading": "Vereinbarte Debatte: 60 Jahre Bundeswehr",
             "topic": [
               {
                 "lines": [
                   "Vereinbarte Debatte",
                   "60 Jahre Bundeswehr"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -149,6 +165,7 @@
           {
             "time": "2015-11-12T10:40:00.000Z",
             "top": "5",
+            "heading": "Unterstützung von Flüchtlingen",
             "topic": [
               {
                 "lines": [
@@ -158,7 +175,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806644.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -166,6 +184,7 @@
           {
             "time": "2015-11-12T12:20:00.000Z",
             "top": "6",
+            "heading": "Deutscher OSZE-Vorsitz 2016",
             "topic": [
               {
                 "lines": [
@@ -175,7 +194,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806641.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -186,7 +206,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/051/1805108.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/063/1806377.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -197,7 +218,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806199.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/063/1806375.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -205,12 +227,14 @@
           {
             "time": "2015-11-12T13:30:00.000Z",
             "top": "33 + ZP 2",
+            "heading": "Überweisung im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
                   "Überweisung im vereinfachten Verfahren"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -218,12 +242,14 @@
           {
             "time": "2015-11-12T13:30:00.000Z",
             "top": "34",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
                   "Abschließende Beratungen ohne Aussprache"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -231,6 +257,7 @@
           {
             "time": "2015-11-12T13:40:00.000Z",
             "top": "7",
+            "heading": "Wahl Vertrauensgremiums",
             "topic": [
               {
                 "lines": [
@@ -239,7 +266,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806629.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -247,6 +275,7 @@
           {
             "time": "2015-11-12T13:50:00.000Z",
             "top": "8",
+            "heading": "Wahl Sondergremium gemäß StabMechG",
             "topic": [
               {
                 "lines": [
@@ -255,7 +284,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806630.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -263,6 +293,7 @@
           {
             "time": "2015-11-12T14:15:00.000Z",
             "top": "9",
+            "heading": "Klimakonferenz in Paris",
             "topic": [
               {
                 "lines": [
@@ -272,7 +303,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806642.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -282,7 +314,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806648.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -292,7 +325,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/033/1803313.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -300,6 +334,7 @@
           {
             "time": "2015-11-12T15:05:00.000Z",
             "top": "10",
+            "heading": "Schutz besonders gefährdeter Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -309,7 +344,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806646.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -317,6 +353,7 @@
           {
             "time": "2015-11-12T15:50:00.000Z",
             "top": "11",
+            "heading": "Austausch von Informationen über Finanzkonten",
             "topic": [
               {
                 "lines": [
@@ -336,7 +373,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806291.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806667.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806682.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -354,7 +392,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806064.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806065.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806667.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -362,6 +401,7 @@
           {
             "time": "2015-11-12T16:35:00.000Z",
             "top": "12",
+            "heading": "Menschenwürdiges Existenz- und Teilhabeminimum",
             "topic": [
               {
                 "lines": [
@@ -371,7 +411,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/065/1806589.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -379,6 +420,7 @@
           {
             "time": "2015-11-12T17:20:00.000Z",
             "top": "13",
+            "heading": "Aktienrechtsnovelle 2014",
             "topic": [
               {
                 "lines": [
@@ -390,7 +432,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/043/1804349.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806681.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -398,6 +441,7 @@
           {
             "time": "2015-11-12T18:10:00.000Z",
             "top": "14",
+            "heading": "Panzerlieferung nach Katar",
             "topic": [
               {
                 "lines": [
@@ -407,7 +451,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806647.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -415,6 +460,7 @@
           {
             "time": "2015-11-12T19:25:00.000Z",
             "top": "15",
+            "heading": "Bundeswehreinsatz in Südsudan (UNMISS)",
             "topic": [
               {
                 "lines": [
@@ -428,7 +474,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/065/1806504.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806638.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806683.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -436,6 +483,7 @@
           {
             "time": "2015-11-12T20:00:00.000Z",
             "top": "16",
+            "heading": "Kontrolle bundesnachrichtendienstlicher Tätigkeit",
             "topic": [
               {
                 "lines": [
@@ -444,7 +492,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806640.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -454,7 +503,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806645.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -462,6 +512,7 @@
           {
             "time": "2015-11-12T20:30:00.000Z",
             "top": "17",
+            "heading": "Bundeswehreinsatz in Darfur (UNAMID)",
             "topic": [
               {
                 "lines": [
@@ -475,7 +526,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/065/1806503.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806639.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806684.pdf"
-                ]
+                ],
+                "isVote": null
               }
             ],
             "status": []
@@ -483,6 +535,7 @@
           {
             "time": "2015-11-12T21:05:00.000Z",
             "top": "18",
+            "heading": "Netzneutralität",
             "topic": [
               {
                 "lines": [
@@ -493,7 +546,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/053/1805382.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/064/1806402.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -501,6 +555,7 @@
           {
             "time": "2015-11-12T21:35:00.000Z",
             "top": "19 *",
+            "heading": "Berufsqualifikationsfeststellungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -512,7 +567,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/053/1805326.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806632.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -520,6 +576,7 @@
           {
             "time": "2015-11-12T21:35:00.000Z",
             "top": "20 *",
+            "heading": "Anerkennung von Kriegsdienstverweigerungen",
             "topic": [
               {
                 "lines": [
@@ -529,7 +586,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/063/1806363.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -537,6 +595,7 @@
           {
             "time": "2015-11-12T21:35:00.000Z",
             "top": "21 *",
+            "heading": "Umsetzung der EU-Mobilitäts-Richtlinie",
             "topic": [
               {
                 "lines": [
@@ -551,7 +610,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806283.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806673.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806685.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -559,6 +619,7 @@
           {
             "time": "2015-11-12T21:35:00.000Z",
             "top": "22 + ZP 3 *",
+            "heading": "Änderung des SGB XII und weiterer Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -570,7 +631,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806284.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806674.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -581,13 +643,15 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/031/1803170.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805278.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
                   ""
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -595,6 +659,7 @@
           {
             "time": "2015-11-12T21:40:00.000Z",
             "top": "23 *",
+            "heading": "Änderung des Seearbeitsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -606,7 +671,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/061/1806162.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806675.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -614,6 +680,7 @@
           {
             "time": "2015-11-12T21:40:00.000Z",
             "top": "24 *",
+            "heading": "Nachhaftung für Rückbau im Kernenergiebereich",
             "topic": [
               {
                 "lines": [
@@ -623,7 +690,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806615.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806671.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -631,6 +699,7 @@
           {
             "time": "2015-11-12T21:40:00.000Z",
             "top": "25 *",
+            "heading": "Änderung des Hochschulstatistikgesetzes",
             "topic": [
               {
                 "lines": [
@@ -639,7 +708,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/065/1806560.pdf"
-                ]
+                ],
+                "isVote": false
               }
             ],
             "status": []
@@ -647,6 +717,7 @@
           {
             "time": "2015-11-12T21:40:00.000Z",
             "top": "26 *",
+            "heading": "Finanzierung Verkehrsinfrastruktur",
             "topic": [
               {
                 "lines": [
@@ -658,7 +729,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/064/1806487.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806669.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -666,12 +738,14 @@
           {
             "time": "2015-11-12T21:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -686,12 +760,14 @@
           {
             "time": "2015-11-13T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -699,6 +775,7 @@
           {
             "time": "2015-11-13T09:05:00.000Z",
             "top": "27",
+            "heading": "Stärkung der pflegerischen Versorgung",
             "topic": [
               {
                 "lines": [
@@ -716,7 +793,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/064/1806410.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806688.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806689.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -731,7 +809,8 @@
                   "http://dip21.bundestag.de/dip21/btd/18/051/1805110.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806066.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806688.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -739,6 +818,7 @@
           {
             "time": "2015-11-13T10:30:00.000Z",
             "top": "28",
+            "heading": "Bekämpfung von Doping im Sport",
             "topic": [
               {
                 "lines": [
@@ -750,7 +830,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/048/1804898.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806677.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -761,7 +842,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/023/1802308.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806678.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -769,6 +851,7 @@
           {
             "time": "2015-11-13T11:40:00.000Z",
             "top": "29",
+            "heading": "CETA-Abkommen",
             "topic": [
               {
                 "lines": [
@@ -778,7 +861,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/062/1806201.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -786,6 +870,7 @@
           {
             "time": "2015-11-13T12:50:00.000Z",
             "top": "30",
+            "heading": "Industrie 4.0 und Smart-Services",
             "topic": [
               {
                 "lines": [
@@ -795,7 +880,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/066/1806643.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -803,6 +889,7 @@
           {
             "time": "2015-11-13T14:05:00.000Z",
             "top": "31",
+            "heading": "Bekämpfung von Korruption im Gesundheitswesen",
             "topic": [
               {
                 "lines": [
@@ -811,7 +898,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/064/1806446.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -821,7 +909,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/054/1805452.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -829,6 +918,7 @@
           {
             "time": "2015-11-13T14:50:00.000Z",
             "top": "32",
+            "heading": "Weiterentwicklung der Gewerbesteuer",
             "topic": [
               {
                 "lines": [
@@ -839,7 +929,8 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/038/1803838.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/063/1806396.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -847,12 +938,14 @@
           {
             "time": "2015-11-13T15:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []

@@ -26,12 +26,14 @@
           {
             "time": "2015-07-17T10:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungseröffnung"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
@@ -39,6 +41,7 @@
           {
             "time": "2015-07-17T10:05:00.000Z",
             "top": "1",
+            "heading": "Stabilitätshilfe zugunsten Griechenlands",
             "topic": [
               {
                 "lines": [
@@ -49,7 +52,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805590.pdf"
-                ]
+                ],
+                "isVote": null
               },
               {
                 "lines": [
@@ -59,7 +63,8 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/055/1805595.pdf"
-                ]
+                ],
+                "isVote": true
               }
             ],
             "status": []
@@ -67,12 +72,14 @@
           {
             "time": "2015-07-17T13:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
                   "Sitzungsende"
                 ],
-                "documents": []
+                "documents": [],
+                "isVote": null
               }
             ],
             "status": []
