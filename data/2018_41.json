@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=41",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=41",
     "description": "2018_41"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-10-10T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-10-10T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2018-10-10T14:00:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -69,6 +72,7 @@
           {
             "time": "2018-10-10T15:40:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu notwendigen Maßnahmen zur Einhaltung des 1,5-Grad-Klimaziels",
             "topic": [
               {
                 "lines": [
@@ -84,6 +88,7 @@
           {
             "time": "2018-10-10T17:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -104,19 +109,14 @@
           {
             "time": "2018-10-11T09:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2018-10-11T09:00:00.000Z",
             "top": "3",
+            "heading": "Steuerliche Entlastung von Familien",
             "topic": [
               {
                 "lines": [
@@ -134,6 +134,7 @@
           {
             "time": "2018-10-11T10:15:00.000Z",
             "top": "4",
+            "heading": "Islam",
             "topic": [
               {
                 "lines": [
@@ -151,6 +152,7 @@
           {
             "time": "2018-10-11T11:35:00.000Z",
             "top": "5",
+            "heading": "SGB II - Teilhabechancen für Langzeitarbeitslose",
             "topic": [
               {
                 "lines": [
@@ -168,6 +170,7 @@
           {
             "time": "2018-10-11T12:50:00.000Z",
             "top": "6",
+            "heading": "Krankenversicherungsbeiträge für Betriebsrenten",
             "topic": [
               {
                 "lines": [
@@ -188,6 +191,7 @@
           {
             "time": "2018-10-11T13:55:00.000Z",
             "top": "30, ZP 2",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -382,6 +386,7 @@
           {
             "time": "2018-10-11T14:00:00.000Z",
             "top": "31, ZP 3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -575,6 +580,7 @@
           {
             "time": "2018-10-11T14:10:00.000Z",
             "top": "ZP 4",
+            "heading": "Aktuelle Stunde zu Dieselfahrverboten in deutschen Großstädten",
             "topic": [
               {
                 "lines": [
@@ -590,6 +596,7 @@
           {
             "time": "2018-10-11T15:40:00.000Z",
             "top": "7",
+            "heading": "Bundeswehreinsatz zur Bekämpfung des IS-Terrors",
             "topic": [
               {
                 "lines": [
@@ -637,6 +644,7 @@
           {
             "time": "2018-10-11T16:30:00.000Z",
             "top": "8",
+            "heading": "Eckpunkte eines Einwanderungsgesetzbuches",
             "topic": [
               {
                 "lines": [
@@ -654,6 +662,7 @@
           {
             "time": "2018-10-11T17:15:00.000Z",
             "top": "9",
+            "heading": "Europäischer Bildungsraum",
             "topic": [
               {
                 "lines": [
@@ -681,6 +690,7 @@
           {
             "time": "2018-10-11T18:05:00.000Z",
             "top": "ZP 9",
+            "heading": "Aufhebung Immunität",
             "topic": [
               {
                 "lines": [
@@ -697,6 +707,7 @@
           {
             "time": "2018-10-11T18:10:00.000Z",
             "top": "10",
+            "heading": "Einzutragende Angaben in das Geburtenregister",
             "topic": [
               {
                 "lines": [
@@ -724,6 +735,7 @@
           {
             "time": "2018-10-11T18:55:00.000Z",
             "top": "11",
+            "heading": "Kamerun",
             "topic": [
               {
                 "lines": [
@@ -752,6 +764,7 @@
           {
             "time": "2018-10-11T19:45:00.000Z",
             "top": "12",
+            "heading": "Änderung bewachungsrechtlicher Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -772,6 +785,7 @@
           {
             "time": "2018-10-11T20:15:00.000Z",
             "top": "13",
+            "heading": "Gleichgeschlechtliche Ehe",
             "topic": [
               {
                 "lines": [
@@ -789,6 +803,7 @@
           {
             "time": "2018-10-11T21:00:00.000Z",
             "top": "14",
+            "heading": "Änderung des Akkreditierungsstellengesetzes",
             "topic": [
               {
                 "lines": [
@@ -809,6 +824,7 @@
           {
             "time": "2018-10-11T21:25:00.000Z",
             "top": "15, ZP 5,6",
+            "heading": "Solidaritätszuschlag",
             "topic": [
               {
                 "lines": [
@@ -860,6 +876,7 @@
           {
             "time": "2018-10-11T22:20:00.000Z",
             "top": "16 *",
+            "heading": "EU-Richtlinie - Betriebliche Altersversorgung",
             "topic": [
               {
                 "lines": [
@@ -877,6 +894,7 @@
           {
             "time": "2018-10-11T22:25:00.000Z",
             "top": "17",
+            "heading": "Soziale Menschenrechte",
             "topic": [
               {
                 "lines": [
@@ -894,6 +912,7 @@
           {
             "time": "2018-10-11T23:10:00.000Z",
             "top": "18",
+            "heading": "Umsetzung des Rechts auf gleichgeschlechtliche Ehe",
             "topic": [
               {
                 "lines": [
@@ -911,6 +930,7 @@
           {
             "time": "2018-10-11T23:45:00.000Z",
             "top": "19",
+            "heading": "Anwesenheitsrecht des Angeklagten in der Verhandlung",
             "topic": [
               {
                 "lines": [
@@ -928,6 +948,7 @@
           {
             "time": "2018-10-11T00:15:00.000Z",
             "top": "20, ZP 7",
+            "heading": "KMU-Forschungsförderungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -965,6 +986,7 @@
           {
             "time": "2018-10-11T00:55:00.000Z",
             "top": "21",
+            "heading": "Schutz von Geschäftsgeheimnissen",
             "topic": [
               {
                 "lines": [
@@ -985,12 +1007,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/045/1904558.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -998,14 +1014,8 @@
           {
             "time": "2018-10-11T01:30:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungsende",
+            "topic": [],
             "status": []
           }
         ]
@@ -1018,19 +1028,14 @@
           {
             "time": "2018-10-12T09:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2018-10-12T09:00:00.000Z",
             "top": "22",
+            "heading": "Gesetzliche Rentenversicherung",
             "topic": [
               {
                 "lines": [
@@ -1069,6 +1074,7 @@
           {
             "time": "2018-10-12T10:20:00.000Z",
             "top": "23",
+            "heading": "Verdienstgrenzen bei geringfügiger Beschäftigung",
             "topic": [
               {
                 "lines": [
@@ -1086,6 +1092,7 @@
           {
             "time": "2018-10-12T11:40:00.000Z",
             "top": "24, ZP 8",
+            "heading": "Friedensprozess zwischen Äthiopien und Eritrea",
             "topic": [
               {
                 "lines": [
@@ -1113,6 +1120,7 @@
           {
             "time": "2018-10-12T12:50:00.000Z",
             "top": "25",
+            "heading": "Sofortprogramm Wohnoffensive, Mietpreisstopp",
             "topic": [
               {
                 "lines": [
@@ -1150,6 +1158,7 @@
           {
             "time": "2018-10-12T14:10:00.000Z",
             "top": "26",
+            "heading": "Datenschutz-Anpassungs- und Umsetzungsgesetz EU",
             "topic": [
               {
                 "lines": [
@@ -1177,6 +1186,7 @@
           {
             "time": "2018-10-12T14:45:00.000Z",
             "top": "27",
+            "heading": "Aussetzung der Budgetierung für Ärzte",
             "topic": [
               {
                 "lines": [
@@ -1204,6 +1214,7 @@
           {
             "time": "2018-10-12T15:35:00.000Z",
             "top": "28",
+            "heading": "Lebensmittel- und Futtermittelgesetzbuch",
             "topic": [
               {
                 "lines": [
@@ -1231,14 +1242,8 @@
           {
             "time": "2018-10-12T16:40:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungsende",
+            "topic": [],
             "status": []
           }
         ]

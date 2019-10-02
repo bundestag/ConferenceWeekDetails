@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2014&week=45",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2014&week=45",
     "description": "2014_45"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2014-11-05T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2014-11-05T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2014-11-05T13:50:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -69,6 +72,7 @@
           {
             "time": "2014-11-05T15:45:00.000Z",
             "top": "3",
+            "heading": "Vereinbarte Debatte anlässlich der Aufdeckung der NSU-Verbrechen",
             "topic": [
               {
                 "lines": [
@@ -84,6 +88,7 @@
           {
             "time": "2014-11-05T16:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -104,6 +109,7 @@
           {
             "time": "2014-11-06T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -117,6 +123,7 @@
           {
             "time": "2014-11-06T09:05:00.000Z",
             "top": "4",
+            "heading": "Regierungserklärung zur Einigung auf wirksamere Regeln zur Bekämpfung von Steuerflucht",
             "topic": [
               {
                 "lines": [
@@ -141,6 +148,7 @@
           {
             "time": "2014-11-06T11:20:00.000Z",
             "top": "5 + ZP 1",
+            "heading": "Europäische Bankenunion",
             "topic": [
               {
                 "lines": [
@@ -219,6 +227,7 @@
           {
             "time": "2014-11-06T13:20:00.000Z",
             "top": "6",
+            "heading": "Flüchtlingspolitik der Europäischen Union",
             "topic": [
               {
                 "lines": [
@@ -238,6 +247,7 @@
           {
             "time": "2014-11-06T14:30:00.000Z",
             "top": "36",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -251,6 +261,7 @@
           {
             "time": "2014-11-06T14:35:00.000Z",
             "top": "37 + ZP 2",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -264,6 +275,7 @@
           {
             "time": "2014-11-06T14:40:00.000Z",
             "top": "ZP 3",
+            "heading": "Aktuelle Stunde zu den Ergebnissen des Weltklimaberichts",
             "topic": [
               {
                 "lines": [
@@ -279,6 +291,7 @@
           {
             "time": "2014-11-06T16:00:00.000Z",
             "top": "7",
+            "heading": "Änderung des Freizügigkeitsgesetzes/EU",
             "topic": [
               {
                 "lines": [
@@ -303,6 +316,7 @@
           {
             "time": "2014-11-06T16:50:00.000Z",
             "top": "8",
+            "heading": "Asylbewerberleistungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -345,12 +359,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/028/1802871.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/030/1803073.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -358,6 +366,7 @@
           {
             "time": "2014-11-06T17:40:00.000Z",
             "top": "9",
+            "heading": "Gleichstellung im Kulturbetrieb",
             "topic": [
               {
                 "lines": [
@@ -375,6 +384,7 @@
           {
             "time": "2014-11-06T18:20:00.000Z",
             "top": "10",
+            "heading": "Flüchtlingsunterbringung",
             "topic": [
               {
                 "lines": [
@@ -395,6 +405,7 @@
           {
             "time": "2014-11-06T19:05:00.000Z",
             "top": "11",
+            "heading": "Pkw-Maut",
             "topic": [
               {
                 "lines": [
@@ -415,6 +426,7 @@
           {
             "time": "2014-11-06T19:55:00.000Z",
             "top": "12",
+            "heading": "Bundeswehreinsatz in Südsudan (UNMISS)",
             "topic": [
               {
                 "lines": [
@@ -432,6 +444,7 @@
           {
             "time": "2014-11-06T20:25:00.000Z",
             "top": "13",
+            "heading": "Atomabkommen mit Brasilien",
             "topic": [
               {
                 "lines": [
@@ -451,6 +464,7 @@
           {
             "time": "2014-11-06T20:50:00.000Z",
             "top": "14",
+            "heading": "Bundeswehreinsatz in Dafur (UNAMID)",
             "topic": [
               {
                 "lines": [
@@ -468,6 +482,7 @@
           {
             "time": "2014-11-06T21:20:00.000Z",
             "top": "15 *",
+            "heading": "Beitragssätze in der Rentenversicherung",
             "topic": [
               {
                 "lines": [
@@ -485,6 +500,7 @@
           {
             "time": "2014-11-06T21:20:00.000Z",
             "top": "18 *",
+            "heading": "Gesetz zur Verringerung der Abhängigkeit von Ratings",
             "topic": [
               {
                 "lines": [
@@ -505,6 +521,7 @@
           {
             "time": "2014-11-06T21:20:00.000Z",
             "top": "17 *",
+            "heading": "Bekämpfung des Umsatzsteuerbetrugs",
             "topic": [
               {
                 "lines": [
@@ -522,6 +539,7 @@
           {
             "time": "2014-11-06T21:20:00.000Z",
             "top": "20 *",
+            "heading": "Änderung des Agrarstatistikgesetzes",
             "topic": [
               {
                 "lines": [
@@ -542,6 +560,7 @@
           {
             "time": "2014-11-06T21:25:00.000Z",
             "top": "19 *",
+            "heading": "Bekämpfung von Doping im Sport",
             "topic": [
               {
                 "lines": [
@@ -559,6 +578,7 @@
           {
             "time": "2014-11-06T21:25:00.000Z",
             "top": "21 *",
+            "heading": "Änderung des Urheberrechtsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -578,6 +598,7 @@
           {
             "time": "2014-11-06T21:25:00.000Z",
             "top": "22 *",
+            "heading": "Zusatzprotokoll zum Auslieferungsübereinkommen",
             "topic": [
               {
                 "lines": [
@@ -597,6 +618,7 @@
           {
             "time": "2014-11-06T21:25:00.000Z",
             "top": "23 *",
+            "heading": "Gerichtsstandsvereinbarungen und Arbeitsmarktpolitik",
             "topic": [
               {
                 "lines": [
@@ -622,12 +644,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802786.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/030/1803067.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -635,6 +651,7 @@
           {
             "time": "2014-11-06T21:30:00.000Z",
             "top": "24 *",
+            "heading": "Änderung des Mikrozensusgesetzes 2005",
             "topic": [
               {
                 "lines": [
@@ -655,6 +672,7 @@
           {
             "time": "2014-11-06T21:30:00.000Z",
             "top": "25 *",
+            "heading": "EU-Richtlinie über Europäische Schutzanordnung",
             "topic": [
               {
                 "lines": [
@@ -672,6 +690,7 @@
           {
             "time": "2014-11-06T21:30:00.000Z",
             "top": "26 *",
+            "heading": "Finanzaufsicht über Versicherungen",
             "topic": [
               {
                 "lines": [
@@ -689,6 +708,7 @@
           {
             "time": "2014-11-06T21:30:00.000Z",
             "top": "27 *",
+            "heading": "Anpassung der Abgabenordnung an Zollkodex der EU",
             "topic": [
               {
                 "lines": [
@@ -706,6 +726,7 @@
           {
             "time": "2014-11-06T21:35:00.000Z",
             "top": "28 *",
+            "heading": "Europäisches Übereinkommen über Adoption von Kindern",
             "topic": [
               {
                 "lines": [
@@ -723,6 +744,7 @@
           {
             "time": "2014-11-06T21:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -743,6 +765,7 @@
           {
             "time": "2014-11-07T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -756,6 +779,7 @@
           {
             "time": "2014-11-07T09:00:00.000Z",
             "top": "29",
+            "heading": "Vereinbarte Debatte Friedliche Revolution – 25 Jahre nach Mauerfall",
             "topic": [
               {
                 "lines": [
@@ -770,6 +794,7 @@
           {
             "time": "2014-11-07T10:30:00.000Z",
             "top": "30",
+            "heading": "Elterngeld Plus und flexiblere Elternzeit",
             "topic": [
               {
                 "lines": [
@@ -799,12 +824,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/027/1802749.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/030/1803086.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -812,6 +831,7 @@
           {
             "time": "2014-11-07T11:40:00.000Z",
             "top": "31",
+            "heading": "Schutz von Hinweisgebern",
             "topic": [
               {
                 "lines": [
@@ -839,6 +859,7 @@
           {
             "time": "2014-11-07T13:00:00.000Z",
             "top": "32",
+            "heading": "Strategische Ziele für die Raumfahrt",
             "topic": [
               {
                 "lines": [
@@ -856,6 +877,7 @@
           {
             "time": "2014-11-07T13:45:00.000Z",
             "top": "33",
+            "heading": "Achter Familienbericht - Zeit für Familie",
             "topic": [
               {
                 "lines": [
@@ -868,12 +890,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/17/090/1709000.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -881,6 +897,7 @@
           {
             "time": "2014-11-07T14:30:00.000Z",
             "top": "34",
+            "heading": "Liegenschaftspolitik",
             "topic": [
               {
                 "lines": [
@@ -923,6 +940,7 @@
           {
             "time": "2014-11-07T15:20:00.000Z",
             "top": "35",
+            "heading": "Reform der Wasser- und Schifffahrtsverwaltung",
             "topic": [
               {
                 "lines": [
@@ -940,6 +958,7 @@
           {
             "time": "2014-11-07T16:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

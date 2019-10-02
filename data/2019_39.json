@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=39",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=39",
     "description": "2019_39"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2019-09-25T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2019-09-25T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -52,6 +54,7 @@
           {
             "time": "2019-09-25T14:05:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -68,6 +71,7 @@
           {
             "time": "2019-09-25T15:55:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zur Eskalation in der Golfregion",
             "topic": [
               {
                 "lines": [
@@ -83,6 +87,7 @@
           {
             "time": "2019-09-25T17:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -103,6 +108,7 @@
           {
             "time": "2019-09-26T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -116,6 +122,7 @@
           {
             "time": "2019-09-26T09:05:00.000Z",
             "top": "ZP 2",
+            "heading": "Klimaschutzprogramm 2030",
             "topic": [
               {
                 "lines": [
@@ -130,6 +137,7 @@
           {
             "time": "2019-09-26T10:30:00.000Z",
             "top": "3",
+            "heading": "Strukturhilfen für Kohleregionen",
             "topic": [
               {
                 "lines": [
@@ -158,6 +166,7 @@
           {
             "time": "2019-09-26T11:15:00.000Z",
             "top": "4",
+            "heading": "Förderung von Unternehmensgründungen",
             "topic": [
               {
                 "lines": [
@@ -189,6 +198,7 @@
           {
             "time": "2019-09-26T12:30:00.000Z",
             "top": "5",
+            "heading": "Pflegelöhneverbesserungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -205,6 +215,7 @@
           {
             "time": "2019-09-26T13:20:00.000Z",
             "top": "6, ZP 3 - ZP 6",
+            "heading": "Umwelt-, Klimaschutz und Forstwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -292,6 +303,7 @@
           {
             "time": "2019-09-26T14:50:00.000Z",
             "top": "35, ZP 7",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -525,6 +537,7 @@
           {
             "time": "2019-09-26T14:55:00.000Z",
             "top": "36, ZP 8",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -712,6 +725,7 @@
           {
             "time": "2019-09-26T15:10:00.000Z",
             "top": "ZP 9",
+            "heading": "Wahlgang – Stellvertreter des Präsidenten",
             "topic": [
               {
                 "lines": [
@@ -729,6 +743,7 @@
           {
             "time": "2019-09-26T15:30:00.000Z",
             "top": "ZP 10",
+            "heading": "Aktuelle Stunde - Erhalt der Stasi-Unterlagenbehörde",
             "topic": [
               {
                 "lines": [
@@ -744,6 +759,7 @@
           {
             "time": "2019-09-26T16:40:00.000Z",
             "top": "7, ZP 11",
+            "heading": "Stasi-Unterlagen-Gesetz",
             "topic": [
               {
                 "lines": [
@@ -796,12 +812,6 @@
                   "Namentliche Abstimmung"
                 ],
                 "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -809,6 +819,7 @@
           {
             "time": "2019-09-26T17:35:00.000Z",
             "top": "8",
+            "heading": "Schutz von Rechtsstaat und Demokratie",
             "topic": [
               {
                 "lines": [
@@ -826,6 +837,7 @@
           {
             "time": "2019-09-26T18:25:00.000Z",
             "top": "ZP 12, ZP 13",
+            "heading": "Bundeswehreinsatz zur Bekämpfung des IS-Terrors",
             "topic": [
               {
                 "lines": [
@@ -853,6 +865,7 @@
           {
             "time": "2019-09-26T19:00:00.000Z",
             "top": "10, ZP 14",
+            "heading": "Deutsch-französische Freundschaft",
             "topic": [
               {
                 "lines": [
@@ -902,6 +915,7 @@
           {
             "time": "2019-09-26T19:45:00.000Z",
             "top": "ZP 15, TOP 11 c-e",
+            "heading": "Bezahlbares Wohnen",
             "topic": [
               {
                 "lines": [
@@ -961,6 +975,7 @@
           {
             "time": "2019-09-26T20:35:00.000Z",
             "top": "18, ZP 16",
+            "heading": "EU-Beitrittsantrag Nordmazedoniens und Albaniens",
             "topic": [
               {
                 "lines": [
@@ -1004,6 +1019,7 @@
           {
             "time": "2019-09-26T21:25:00.000Z",
             "top": "ZP 17",
+            "heading": "Programm \"Perspektive Heimat\"",
             "topic": [
               {
                 "lines": [
@@ -1021,6 +1037,7 @@
           {
             "time": "2019-09-26T22:05:00.000Z",
             "top": "12",
+            "heading": "Hebammenreformgesetz",
             "topic": [
               {
                 "lines": [
@@ -1057,6 +1074,7 @@
           {
             "time": "2019-09-26T22:35:00.000Z",
             "top": "15, ZP 18",
+            "heading": "Steuerliche Entlastung für Familien",
             "topic": [
               {
                 "lines": [
@@ -1079,12 +1097,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/076/1907692.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/093/1909346.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1092,6 +1104,7 @@
           {
             "time": "2019-09-26T23:05:00.000Z",
             "top": "14",
+            "heading": "Reform der Psychotherapeutenausbildung",
             "topic": [
               {
                 "lines": [
@@ -1130,6 +1143,7 @@
           {
             "time": "2019-09-26T23:30:00.000Z",
             "top": "17",
+            "heading": "Ausbildungsplatzumlage",
             "topic": [
               {
                 "lines": [
@@ -1147,6 +1161,7 @@
           {
             "time": "2019-09-26T23:50:00.000Z",
             "top": "16",
+            "heading": "Implantateregister-Errichtungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1180,6 +1195,7 @@
           {
             "time": "2019-09-26T00:00:00.000Z",
             "top": "21, ZP 19",
+            "heading": "Besoldungsstrukturenmodernisierungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1207,6 +1223,7 @@
           {
             "time": "2019-09-26T00:25:00.000Z",
             "top": "20, ZP 20",
+            "heading": "Stand der Umsetzung der Agenda 2030",
             "topic": [
               {
                 "lines": [
@@ -1247,6 +1264,7 @@
           {
             "time": "2019-09-26T00:55:00.000Z",
             "top": "22",
+            "heading": "Eindämmung missbräuchlicher Abmahnungen",
             "topic": [
               {
                 "lines": [
@@ -1294,6 +1312,7 @@
           {
             "time": "2019-09-26T01:10:00.000Z",
             "top": "23",
+            "heading": "MDK-Reformgesetz",
             "topic": [
               {
                 "lines": [
@@ -1312,6 +1331,7 @@
           {
             "time": "2019-09-26T01:15:00.000Z",
             "top": "24",
+            "heading": "Neustrukturierung des Zollfahndungsdienstgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1329,6 +1349,7 @@
           {
             "time": "2019-09-26T01:25:00.000Z",
             "top": "25",
+            "heading": "Freizügigkeitsrechte nach dem Brexit",
             "topic": [
               {
                 "lines": [
@@ -1346,6 +1367,7 @@
           {
             "time": "2019-09-26T01:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1366,6 +1388,7 @@
           {
             "time": "2019-09-27T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1379,6 +1402,7 @@
           {
             "time": "2019-09-27T09:00:00.000Z",
             "top": "26",
+            "heading": "Angehörigen-Entlastungsgesetz - Sozialhilfe",
             "topic": [
               {
                 "lines": [
@@ -1396,6 +1420,7 @@
           {
             "time": "2019-09-27T10:05:00.000Z",
             "top": "27",
+            "heading": "Arbeitslosengeld I",
             "topic": [
               {
                 "lines": [
@@ -1413,6 +1438,7 @@
           {
             "time": "2019-09-27T11:10:00.000Z",
             "top": "28",
+            "heading": "Bericht zum Stand der Deutschen Einheit 2019",
             "topic": [
               {
                 "lines": [
@@ -1430,6 +1456,7 @@
           {
             "time": "2019-09-27T12:20:00.000Z",
             "top": "29",
+            "heading": "Herstellung der Renteneinheit",
             "topic": [
               {
                 "lines": [
@@ -1447,6 +1474,7 @@
           {
             "time": "2019-09-27T13:25:00.000Z",
             "top": "30",
+            "heading": "Steuerliche Förderung der Elektromobilität",
             "topic": [
               {
                 "lines": [
@@ -1464,6 +1492,7 @@
           {
             "time": "2019-09-27T14:05:00.000Z",
             "top": "31",
+            "heading": "Begabtenförderung in der beruflichen Bildung",
             "topic": [
               {
                 "lines": [
@@ -1481,6 +1510,7 @@
           {
             "time": "2019-09-27T14:50:00.000Z",
             "top": "32",
+            "heading": "Grunderwerbsteuergesetz (Share Deals)",
             "topic": [
               {
                 "lines": [
@@ -1518,6 +1548,7 @@
           {
             "time": "2019-09-27T15:30:00.000Z",
             "top": "33",
+            "heading": "Digitale-Versorgung-Gesetz",
             "topic": [
               {
                 "lines": [
@@ -1546,6 +1577,7 @@
           {
             "time": "2019-09-27T16:15:00.000Z",
             "top": "34, ZP, 21, ZP 22",
+            "heading": "Stärkung der politischen Partizipationsrechte",
             "topic": [
               {
                 "lines": [
@@ -1613,6 +1645,7 @@
           {
             "time": "2019-09-27T16:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

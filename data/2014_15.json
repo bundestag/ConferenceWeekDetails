@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2014&week=15",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2014&week=15",
     "description": "2014_15"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2014-04-08T11:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2014-04-08T11:00:00.000Z",
             "top": "1",
+            "heading": "Einbringung Haushaltsgesetz 2014, Finanzplan",
             "topic": [
               {
                 "lines": [
@@ -59,18 +61,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -78,6 +68,7 @@
           {
             "time": "2014-04-08T11:50:00.000Z",
             "top": "2",
+            "heading": "Allgemeine Finanzdebatte",
             "topic": [
               {
                 "lines": [
@@ -96,12 +87,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -109,6 +94,7 @@
           {
             "time": "2014-04-08T13:40:00.000Z",
             "top": "Epl 06",
+            "heading": "Innen",
             "topic": [
               {
                 "lines": [
@@ -123,6 +109,7 @@
           {
             "time": "2014-04-08T15:30:00.000Z",
             "top": "Epl 07",
+            "heading": "Justiz",
             "topic": [
               {
                 "lines": [
@@ -137,6 +124,7 @@
           {
             "time": "2014-04-08T17:15:00.000Z",
             "top": "Epl 10",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -151,6 +139,7 @@
           {
             "time": "2014-04-08T19:05:00.000Z",
             "top": "3",
+            "heading": "Bundeswehreinsatz EUFOR RCA",
             "topic": [
               {
                 "lines": [
@@ -168,6 +157,7 @@
           {
             "time": "2014-04-08T19:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -188,6 +178,7 @@
           {
             "time": "2014-04-09T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -201,6 +192,7 @@
           {
             "time": "2014-04-09T09:00:00.000Z",
             "top": "Epl 04",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
@@ -215,6 +207,7 @@
           {
             "time": "2014-04-09T13:00:00.000Z",
             "top": "Epl 05",
+            "heading": "Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
@@ -229,6 +222,7 @@
           {
             "time": "2014-04-09T14:45:00.000Z",
             "top": "4",
+            "heading": "Bundeswehreinsatz VN/OVCW (Syrische C-Waffen)",
             "topic": [
               {
                 "lines": [
@@ -250,6 +244,7 @@
           {
             "time": "2014-04-09T15:35:00.000Z",
             "top": "Epl 14",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
@@ -264,6 +259,7 @@
           {
             "time": "2014-04-09T17:25:00.000Z",
             "top": "Epl 23",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -278,6 +274,7 @@
           {
             "time": "2014-04-09T19:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -298,6 +295,7 @@
           {
             "time": "2014-04-10T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -311,6 +309,7 @@
           {
             "time": "2014-04-10T09:05:00.000Z",
             "top": "Epl 09",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
@@ -325,6 +324,7 @@
           {
             "time": "2014-04-10T11:25:00.000Z",
             "top": "Epl 30",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -339,6 +339,7 @@
           {
             "time": "2014-04-10T13:15:00.000Z",
             "top": "7",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -352,6 +353,7 @@
           {
             "time": "2014-04-10T13:15:00.000Z",
             "top": "8+ZP a-f",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -365,6 +367,7 @@
           {
             "time": "2014-04-10T13:20:00.000Z",
             "top": "5",
+            "heading": "Gremienwahlen (Standortauswahlgesetz)",
             "topic": [
               {
                 "lines": [
@@ -390,6 +393,7 @@
           {
             "time": "2014-04-10T13:25:00.000Z",
             "top": "Epl 17",
+            "heading": "Familie, Frauen, Senioren und Jugend",
             "topic": [
               {
                 "lines": [
@@ -404,6 +408,7 @@
           {
             "time": "2014-04-10T15:15:00.000Z",
             "top": "Epl 15",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
@@ -418,6 +423,7 @@
           {
             "time": "2014-04-10T17:10:00.000Z",
             "top": "6",
+            "heading": "Bundeswehreinsatz EUFOR RCA (Zentralafrik. Rep.)",
             "topic": [
               {
                 "lines": [
@@ -440,6 +446,7 @@
           {
             "time": "2014-04-10T18:05:00.000Z",
             "top": "Epl 11",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
@@ -454,6 +461,7 @@
           {
             "time": "2014-04-10T20:00:00.000Z",
             "top": "Epl 16",
+            "heading": "Umwelt, Naturschutz, Bau und Reaktorsicherheit",
             "topic": [
               {
                 "lines": [
@@ -468,6 +476,7 @@
           {
             "time": "2014-04-10T21:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -488,6 +497,7 @@
           {
             "time": "2014-04-11T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -501,6 +511,7 @@
           {
             "time": "2014-04-11T09:05:00.000Z",
             "top": "Epl 12",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
@@ -515,6 +526,7 @@
           {
             "time": "2014-04-11T10:50:00.000Z",
             "top": "1",
+            "heading": "Schlussrunde Haushaltsgesetz 2014",
             "topic": [
               {
                 "lines": [
@@ -528,6 +540,7 @@
           {
             "time": "2014-04-11T13:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

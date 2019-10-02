@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2015&week=24",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2015&week=24",
     "description": "2015_24"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2015-06-10T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2015-06-10T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2015-06-10T13:50:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -69,6 +72,7 @@
           {
             "time": "2015-06-10T15:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu Menschenrechtsverletzungen in Eritrea",
             "topic": [
               {
                 "lines": [
@@ -84,6 +88,7 @@
           {
             "time": "2015-06-10T16:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -104,6 +109,7 @@
           {
             "time": "2015-06-11T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -117,6 +123,7 @@
           {
             "time": "2015-06-11T09:05:00.000Z",
             "top": "3",
+            "heading": "Bürokratieentlastungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -137,18 +144,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804693.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -156,6 +151,7 @@
           {
             "time": "2015-06-11T10:40:00.000Z",
             "top": "4",
+            "heading": "Arbeitsmarktpolitik für Asylsuchende",
             "topic": [
               {
                 "lines": [
@@ -173,6 +169,7 @@
           {
             "time": "2015-06-11T12:25:00.000Z",
             "top": "5",
+            "heading": "Tätigkeitsbericht 2014 des Petitionsausschusses",
             "topic": [
               {
                 "lines": [
@@ -191,6 +188,7 @@
           {
             "time": "2015-06-11T14:00:00.000Z",
             "top": "ZP 2",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -204,6 +202,7 @@
           {
             "time": "2015-06-11T14:00:00.000Z",
             "top": "30 + ZP 3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -217,6 +216,7 @@
           {
             "time": "2015-06-11T14:15:00.000Z",
             "top": "ZP 4",
+            "heading": "Aktuelle Stunde zu dem Thema \"Ehe für alle\"",
             "topic": [
               {
                 "lines": [
@@ -232,6 +232,7 @@
           {
             "time": "2015-06-11T15:25:00.000Z",
             "top": "6",
+            "heading": "Gesundheitsversorgung",
             "topic": [
               {
                 "lines": [
@@ -266,12 +267,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/014/1801462.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/051/1805123.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -279,6 +274,7 @@
           {
             "time": "2015-06-11T16:50:00.000Z",
             "top": "7",
+            "heading": "Exportüberschüsse",
             "topic": [
               {
                 "lines": [
@@ -296,6 +292,7 @@
           {
             "time": "2015-06-11T17:35:00.000Z",
             "top": "8",
+            "heading": "Gesunde Ernährung",
             "topic": [
               {
                 "lines": [
@@ -321,6 +318,7 @@
           {
             "time": "2015-06-11T18:25:00.000Z",
             "top": "9",
+            "heading": "Rüstungsexportkontrolle",
             "topic": [
               {
                 "lines": [
@@ -338,6 +336,7 @@
           {
             "time": "2015-06-11T19:20:00.000Z",
             "top": "10",
+            "heading": "Bundeswehreinsatz in Kosovo (KFOR)",
             "topic": [
               {
                 "lines": [
@@ -355,6 +354,7 @@
           {
             "time": "2015-06-11T20:05:00.000Z",
             "top": "11",
+            "heading": "Leistungsschutzrecht für Presseverleger",
             "topic": [
               {
                 "lines": [
@@ -375,6 +375,7 @@
           {
             "time": "2015-06-11T20:35:00.000Z",
             "top": "12",
+            "heading": "Bundeswehreinsatz in Mali (MINUSMA)",
             "topic": [
               {
                 "lines": [
@@ -392,6 +393,7 @@
           {
             "time": "2015-06-11T21:05:00.000Z",
             "top": "13",
+            "heading": "Abkommen mit Westafrikanischer Wirtschaftsunion",
             "topic": [
               {
                 "lines": [
@@ -409,6 +411,7 @@
           {
             "time": "2015-06-11T21:30:00.000Z",
             "top": "14",
+            "heading": "Bundeswehreinsatz in Libanon (UNIFIL)",
             "topic": [
               {
                 "lines": [
@@ -426,6 +429,7 @@
           {
             "time": "2015-06-11T22:00:00.000Z",
             "top": "15 *",
+            "heading": "Vertraulichkeit von Äußerungen im Internet",
             "topic": [
               {
                 "lines": [
@@ -443,6 +447,7 @@
           {
             "time": "2015-06-11T22:05:00.000Z",
             "top": "16 *",
+            "heading": "Wirtschaftspolitische Koordinierung in der EU",
             "topic": [
               {
                 "lines": [
@@ -467,18 +472,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/044/1804464.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/047/1804717.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -486,6 +479,7 @@
           {
             "time": "2015-06-11T22:05:00.000Z",
             "top": "17 *",
+            "heading": "Risikoausgleichsrücklage für Agrarbetriebe",
             "topic": [
               {
                 "lines": [
@@ -505,6 +499,7 @@
           {
             "time": "2015-06-11T22:05:00.000Z",
             "top": "18 *",
+            "heading": "Online-Streitbeilegung in Verbraucherangelegenheiten",
             "topic": [
               {
                 "lines": [
@@ -522,6 +517,7 @@
           {
             "time": "2015-06-11T22:05:00.000Z",
             "top": "19 *",
+            "heading": "Alphabetisierung in Deutschland",
             "topic": [
               {
                 "lines": [
@@ -539,6 +535,7 @@
           {
             "time": "2015-06-11T22:10:00.000Z",
             "top": "20 *",
+            "heading": "Stärkung der Kultur im ländlichen Raum",
             "topic": [
               {
                 "lines": [
@@ -556,6 +553,7 @@
           {
             "time": "2015-06-11T22:10:00.000Z",
             "top": "22 *",
+            "heading": "Transparenzrichtlinie-Änderungsrichtlinie",
             "topic": [
               {
                 "lines": [
@@ -573,6 +571,7 @@
           {
             "time": "2015-06-11T22:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -593,6 +592,7 @@
           {
             "time": "2015-06-12T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -606,6 +606,7 @@
           {
             "time": "2015-06-12T09:00:00.000Z",
             "top": "23",
+            "heading": "IT-Sicherheitsgesetz",
             "topic": [
               {
                 "lines": [
@@ -630,6 +631,7 @@
           {
             "time": "2015-06-12T10:50:00.000Z",
             "top": "24",
+            "heading": "Speicherpflicht und -frist für Verkehrsdaten",
             "topic": [
               {
                 "lines": [
@@ -657,6 +659,7 @@
           {
             "time": "2015-06-12T12:40:00.000Z",
             "top": "25",
+            "heading": "Schiedsgerichte in Freihandelsabkommen",
             "topic": [
               {
                 "lines": [
@@ -674,6 +677,7 @@
           {
             "time": "2015-06-12T13:25:00.000Z",
             "top": "26",
+            "heading": "EU-Vorgaben für Bankenabwicklungsrecht",
             "topic": [
               {
                 "lines": [
@@ -691,6 +695,7 @@
           {
             "time": "2015-06-12T14:10:00.000Z",
             "top": "27",
+            "heading": "Menschenrechte und Europaspiele in Aserbaidschan",
             "topic": [
               {
                 "lines": [
@@ -718,6 +723,7 @@
           {
             "time": "2015-06-12T14:45:00.000Z",
             "top": "28",
+            "heading": "Seenotrettung und EU-Asylpolitik",
             "topic": [
               {
                 "lines": [
@@ -745,6 +751,7 @@
           {
             "time": "2015-06-12T15:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

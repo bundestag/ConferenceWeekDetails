@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=37",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=37",
     "description": "2018_37"
   },
   "data": {
@@ -26,19 +26,14 @@
           {
             "time": "2018-09-11T10:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2018-09-11T10:05:00.000Z",
             "top": "",
+            "heading": "Geschäftsordnungsdebatte",
             "topic": [
               {
                 "lines": [
@@ -54,6 +49,7 @@
           {
             "time": "2018-09-11T10:15:00.000Z",
             "top": "1",
+            "heading": "Einbringung Haushaltsgesetz 2019, Finanzplan des Bundes 2018 bis 2022",
             "topic": [
               {
                 "lines": [
@@ -74,12 +70,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/034/1903401.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -87,6 +77,7 @@
           {
             "time": "2018-09-11T10:50:00.000Z",
             "top": "1 Epl 08, ...",
+            "heading": "Allgemeine Finanzdebatte",
             "topic": [
               {
                 "lines": [
@@ -101,6 +92,7 @@
           {
             "time": "2018-09-11T12:30:00.000Z",
             "top": "1 Epl 12",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
@@ -115,6 +107,7 @@
           {
             "time": "2018-09-11T14:20:00.000Z",
             "top": "1 Epl 16",
+            "heading": "Umwelt, Naturschutz und nukleare Sicherheit",
             "topic": [
               {
                 "lines": [
@@ -129,6 +122,7 @@
           {
             "time": "2018-09-11T16:10:00.000Z",
             "top": "1 Epl 10",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -143,6 +137,7 @@
           {
             "time": "2018-09-11T17:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -163,6 +158,7 @@
           {
             "time": "2018-09-12T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -176,6 +172,7 @@
           {
             "time": "2018-09-12T09:00:00.000Z",
             "top": "1 Epl 04",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
@@ -190,6 +187,7 @@
           {
             "time": "2018-09-12T12:55:00.000Z",
             "top": "1 Epl 05",
+            "heading": "Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
@@ -204,6 +202,7 @@
           {
             "time": "2018-09-12T14:50:00.000Z",
             "top": "1 Epl 14",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
@@ -218,6 +217,7 @@
           {
             "time": "2018-09-12T16:30:00.000Z",
             "top": "1 Epl 23",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -232,6 +232,7 @@
           {
             "time": "2018-09-12T18:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -252,19 +253,14 @@
           {
             "time": "2018-09-13T09:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2018-09-13T09:00:00.000Z",
             "top": "1 Epl 06",
+            "heading": "Inneres, Bau und Heimat",
             "topic": [
               {
                 "lines": [
@@ -279,6 +275,7 @@
           {
             "time": "2018-09-13T10:50:00.000Z",
             "top": "1 Epl 07",
+            "heading": "Justiz und Verbraucherschutz",
             "topic": [
               {
                 "lines": [
@@ -293,6 +290,7 @@
           {
             "time": "2018-09-13T12:40:00.000Z",
             "top": "2, ZP 1",
+            "heading": "Überweisung im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -399,6 +397,7 @@
           {
             "time": "2018-09-13T12:40:00.000Z",
             "top": "3, ZP 2",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -459,6 +458,7 @@
           {
             "time": "2018-09-13T12:45:00.000Z",
             "top": "1 Epl 09",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
@@ -473,6 +473,7 @@
           {
             "time": "2018-09-13T14:35:00.000Z",
             "top": "1 Epl 17",
+            "heading": "Familie, Senioren, Frauen und Jugend",
             "topic": [
               {
                 "lines": [
@@ -487,6 +488,7 @@
           {
             "time": "2018-09-13T16:20:00.000Z",
             "top": "1 Epl 30",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -501,14 +503,8 @@
           {
             "time": "2018-09-13T18:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungsende",
+            "topic": [],
             "status": []
           }
         ]
@@ -521,19 +517,14 @@
           {
             "time": "2018-09-14T09:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2018-09-14T09:00:00.000Z",
             "top": "1 Epl 11",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
@@ -548,6 +539,7 @@
           {
             "time": "2018-09-14T10:40:00.000Z",
             "top": "1 Epl 15",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
@@ -562,6 +554,7 @@
           {
             "time": "2018-09-14T12:25:00.000Z",
             "top": "1",
+            "heading": "Schlussrunde Haushaltsgesetz 2019",
             "topic": [
               {
                 "lines": [
@@ -575,14 +568,8 @@
           {
             "time": "2018-09-14T14:10:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungsende",
+            "topic": [],
             "status": []
           }
         ]

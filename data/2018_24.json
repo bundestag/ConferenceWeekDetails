@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=24",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=24",
     "description": "2018_24"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-06-13T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-06-13T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2018-06-13T14:25:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -70,6 +73,7 @@
           {
             "time": "2018-06-13T15:40:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde: Familienförderung ernst nehmen - Kinderarmut bekämpfen",
             "topic": [
               {
                 "lines": [
@@ -85,6 +89,7 @@
           {
             "time": "2018-06-13T17:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -105,19 +110,14 @@
           {
             "time": "2018-06-14T09:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2018-06-14T09:10:00.000Z",
             "top": "3, ZP 2",
+            "heading": "Zivilprozessuale Musterfeststellungsklage",
             "topic": [
               {
                 "lines": [
@@ -162,6 +162,7 @@
           {
             "time": "2018-06-14T10:00:00.000Z",
             "top": "4, ZP 3",
+            "heading": "Handelsabkommen mit Kanada und Japan",
             "topic": [
               {
                 "lines": [
@@ -219,6 +220,7 @@
           {
             "time": "2018-06-14T11:30:00.000Z",
             "top": "",
+            "heading": "Sitzungsunterbrechung",
             "topic": [
               {
                 "lines": [
@@ -232,6 +234,7 @@
           {
             "time": "2018-06-14T15:45:00.000Z",
             "top": "5",
+            "heading": "Bundeswehreinsatz im Mittelmeer (EUNAVFOR MED)",
             "topic": [
               {
                 "lines": [
@@ -260,6 +263,7 @@
           {
             "time": "2018-06-14T16:40:00.000Z",
             "top": "6",
+            "heading": "Menschenrechtsverletzungen - Fußball WM 2018",
             "topic": [
               {
                 "lines": [
@@ -287,6 +291,7 @@
           {
             "time": "2018-06-14T18:00:00.000Z",
             "top": "22, ZP 4",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -381,6 +386,7 @@
           {
             "time": "2018-06-14T18:00:00.000Z",
             "top": "23",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -474,6 +480,7 @@
           {
             "time": "2018-06-14T18:05:00.000Z",
             "top": "ZP  5",
+            "heading": "Vereinbarte Debatte: G7-Gipfel in Kanada",
             "topic": [
               {
                 "lines": [
@@ -488,6 +495,7 @@
           {
             "time": "2018-06-14T19:10:00.000Z",
             "top": "7",
+            "heading": "Bundeswehreinsatz im Libanon (UNIFIL)",
             "topic": [
               {
                 "lines": [
@@ -522,6 +530,7 @@
           {
             "time": "2018-06-14T20:00:00.000Z",
             "top": "8",
+            "heading": "Erfassung von Straftaten mit Messern",
             "topic": [
               {
                 "lines": [
@@ -544,6 +553,7 @@
           {
             "time": "2018-06-14T20:50:00.000Z",
             "top": "9",
+            "heading": "Bundeswehreinsatz in Kosovo (KFOR)",
             "topic": [
               {
                 "lines": [
@@ -578,6 +588,7 @@
           {
             "time": "2018-06-14T21:40:00.000Z",
             "top": "10",
+            "heading": "Arbeitsförderungsrecht",
             "topic": [
               {
                 "lines": [
@@ -610,6 +621,7 @@
           {
             "time": "2018-06-14T22:30:00.000Z",
             "top": "11",
+            "heading": "Beschaffung von bewaffnungsfähigen Drohnen",
             "topic": [
               {
                 "lines": [
@@ -622,12 +634,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901831.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/025/1902582.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -635,6 +641,7 @@
           {
             "time": "2018-06-14T23:15:00.000Z",
             "top": "ZP 6",
+            "heading": "Renten von Vertriebenen und Spät-/Aussiedlern",
             "topic": [
               {
                 "lines": [
@@ -652,6 +659,7 @@
           {
             "time": "2018-06-14T23:55:00.000Z",
             "top": "ZP 7",
+            "heading": "Aberkennung der Gemeinnützigkeit bei Straftaten",
             "topic": [
               {
                 "lines": [
@@ -669,6 +677,7 @@
           {
             "time": "2018-06-14T00:35:00.000Z",
             "top": "14",
+            "heading": "Direkte Demokratie",
             "topic": [
               {
                 "lines": [
@@ -686,6 +695,7 @@
           {
             "time": "2018-06-14T01:25:00.000Z",
             "top": "15",
+            "heading": "Anpassung abstammungsrechtlicher Regelungen",
             "topic": [
               {
                 "lines": [
@@ -703,6 +713,7 @@
           {
             "time": "2018-06-14T02:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -723,6 +734,7 @@
           {
             "time": "2018-06-15T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -736,6 +748,7 @@
           {
             "time": "2018-06-15T09:00:00.000Z",
             "top": "",
+            "heading": "Antrag auf Erweiterung der Tagesordnung",
             "topic": [
               {
                 "lines": [
@@ -749,6 +762,7 @@
           {
             "time": "2018-06-15T09:20:00.000Z",
             "top": "16",
+            "heading": "Änderung des Parteiengesetzes",
             "topic": [
               {
                 "lines": [
@@ -779,6 +793,7 @@
           {
             "time": "2018-06-15T10:20:00.000Z",
             "top": "17",
+            "heading": "Recht der parteinahen Stiftungen",
             "topic": [
               {
                 "lines": [
@@ -796,6 +811,7 @@
           {
             "time": "2018-06-15T11:35:00.000Z",
             "top": "18",
+            "heading": "Familiennachzug zu subsidiär Schutzberechtigten",
             "topic": [
               {
                 "lines": [
@@ -831,6 +847,7 @@
           {
             "time": "2018-06-15T13:00:00.000Z",
             "top": "19",
+            "heading": "Perspektiven für Langzeiterwerbslose",
             "topic": [
               {
                 "lines": [
@@ -848,6 +865,7 @@
           {
             "time": "2018-06-15T14:10:00.000Z",
             "top": "20",
+            "heading": "Agentur für radikale Innovation",
             "topic": [
               {
                 "lines": [
@@ -865,6 +883,7 @@
           {
             "time": "2018-06-15T15:00:00.000Z",
             "top": "21, ZP 8",
+            "heading": "CO2-Vorgaben für neue Pkw",
             "topic": [
               {
                 "lines": [
@@ -908,6 +927,7 @@
           {
             "time": "2018-06-15T15:55:00.000Z",
             "top": "ZP  9",
+            "heading": "Aktuelle Stunde zum sog. Masterplan - Flüchtlings- und Integrationspolitik",
             "topic": [
               {
                 "lines": [
@@ -923,6 +943,7 @@
           {
             "time": "2018-06-15T17:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

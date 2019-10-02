@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2017&week=10",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2017&week=10",
     "description": "2017_10"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2017-03-08T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2017-03-08T13:00:00.000Z",
             "top": "ZP 1",
+            "heading": "Fortentwicklung des Standortauswahlgesetzes",
             "topic": [
               {
                 "lines": [
@@ -55,6 +57,7 @@
           {
             "time": "2017-03-08T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -69,6 +72,7 @@
           {
             "time": "2017-03-08T13:40:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -85,19 +89,14 @@
           {
             "time": "2017-03-08T14:50:00.000Z",
             "top": "-",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungsunterbrechung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2017-03-08T15:35:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zu dem Thema: Ehe für alle",
             "topic": [
               {
                 "lines": [
@@ -113,6 +112,7 @@
           {
             "time": "2017-03-08T16:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -133,6 +133,7 @@
           {
             "time": "2017-03-09T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -146,6 +147,7 @@
           {
             "time": "2017-03-09T09:05:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zum Europäischen Rat",
             "topic": [
               {
                 "lines": [
@@ -161,6 +163,7 @@
           {
             "time": "2017-03-09T11:55:00.000Z",
             "top": "4 + ZP 3 u. 4",
+            "heading": "Kündigungsschutz für Mieter und Mietpreisbremse",
             "topic": [
               {
                 "lines": [
@@ -219,6 +222,7 @@
           {
             "time": "2017-03-09T13:40:00.000Z",
             "top": "5",
+            "heading": "Gesetz gegen Wettbewerbsbeschränkungen",
             "topic": [
               {
                 "lines": [
@@ -255,6 +259,7 @@
           {
             "time": "2017-03-09T14:45:00.000Z",
             "top": "56 +ZP 5",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -389,6 +394,7 @@
           {
             "time": "2017-03-09T14:55:00.000Z",
             "top": "57",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -464,6 +470,7 @@
           {
             "time": "2017-03-09T15:00:00.000Z",
             "top": "6",
+            "heading": "Wahl: Stiftung Fonds kerntechnische Entsorgung",
             "topic": [
               {
                 "lines": [
@@ -481,6 +488,7 @@
           {
             "time": "2017-03-09T15:00:00.000Z",
             "top": "7",
+            "heading": "Effektivere und praxistauglichere Strafverfahren",
             "topic": [
               {
                 "lines": [
@@ -497,6 +505,7 @@
           {
             "time": "2017-03-09T15:40:00.000Z",
             "top": "ZP 6 - 8",
+            "heading": "Frauen- und Gleichstellungspolitik",
             "topic": [
               {
                 "lines": [
@@ -536,6 +545,7 @@
           {
             "time": "2017-03-09T16:25:00.000Z",
             "top": "9",
+            "heading": "Stärkung der Arzneimittelversorgung in der GKV",
             "topic": [
               {
                 "lines": [
@@ -557,6 +567,7 @@
           {
             "time": "2017-03-09T17:10:00.000Z",
             "top": "10 + ZP 9",
+            "heading": "Personalbemessung in der Altenpflege",
             "topic": [
               {
                 "lines": [
@@ -586,6 +597,7 @@
           {
             "time": "2017-03-09T18:00:00.000Z",
             "top": "11",
+            "heading": "Datenschutzrecht",
             "topic": [
               {
                 "lines": [
@@ -612,6 +624,7 @@
           {
             "time": "2017-03-09T18:40:00.000Z",
             "top": "8",
+            "heading": "Öffentliches Vermögen",
             "topic": [
               {
                 "lines": [
@@ -629,6 +642,7 @@
           {
             "time": "2017-03-09T19:10:00.000Z",
             "top": "13",
+            "heading": "Einführung eines Anspruchs auf Hinterbliebenengeld",
             "topic": [
               {
                 "lines": [
@@ -645,6 +659,7 @@
           {
             "time": "2017-03-09T19:50:00.000Z",
             "top": "14",
+            "heading": "Novellierung des Berufsbildungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -662,6 +677,7 @@
           {
             "time": "2017-03-09T20:20:00.000Z",
             "top": "15",
+            "heading": "Bundeswehreinsatz EUTM Somalia",
             "topic": [
               {
                 "lines": [
@@ -679,6 +695,7 @@
           {
             "time": "2017-03-09T20:50:00.000Z",
             "top": "12",
+            "heading": "Globale Investitionen",
             "topic": [
               {
                 "lines": [
@@ -696,6 +713,7 @@
           {
             "time": "2017-03-09T21:15:00.000Z",
             "top": "17 *",
+            "heading": "Gesetz zu Regelungen der Gesichtsverhüllung",
             "topic": [
               {
                 "lines": [
@@ -712,6 +730,7 @@
           {
             "time": "2017-03-09T21:20:00.000Z",
             "top": "18 *",
+            "heading": "Evaluierung der Staatsleistungen an Kirchen",
             "topic": [
               {
                 "lines": [
@@ -731,6 +750,7 @@
           {
             "time": "2017-03-09T21:20:00.000Z",
             "top": "19",
+            "heading": "Umsetzung einer EU-Richtlinie im Städtebaurecht",
             "topic": [
               {
                 "lines": [
@@ -752,6 +772,7 @@
           {
             "time": "2017-03-09T21:55:00.000Z",
             "top": "16",
+            "heading": "Zeit- und Kostenrahmen bei Großprojekten des Bundes",
             "topic": [
               {
                 "lines": [
@@ -769,6 +790,7 @@
           {
             "time": "2017-03-09T22:25:00.000Z",
             "top": "20 + ZP 10 *",
+            "heading": "Wachstumschancen der kollaborativen Wirtschaft",
             "topic": [
               {
                 "lines": [
@@ -789,12 +811,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811411.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -802,6 +818,7 @@
           {
             "time": "2017-03-09T22:25:00.000Z",
             "top": "21 *",
+            "heading": "Änderungen im Straßenverkehrsrecht",
             "topic": [
               {
                 "lines": [
@@ -821,6 +838,7 @@
           {
             "time": "2017-03-09T22:30:00.000Z",
             "top": "22",
+            "heading": "Neuordnung der Klärschlammverwertung",
             "topic": [
               {
                 "lines": [
@@ -841,6 +859,7 @@
           {
             "time": "2017-03-09T22:55:00.000Z",
             "top": "23",
+            "heading": "Carsharinggesetz",
             "topic": [
               {
                 "lines": [
@@ -857,6 +876,7 @@
           {
             "time": "2017-03-09T23:20:00.000Z",
             "top": "24 *",
+            "heading": "Änderungen im Straf- und Strafprozessrecht",
             "topic": [
               {
                 "lines": [
@@ -873,6 +893,7 @@
           {
             "time": "2017-03-09T23:20:00.000Z",
             "top": "25 *",
+            "heading": "Änderung des Sicherheitsüberprüfungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -890,6 +911,7 @@
           {
             "time": "2017-03-09T23:20:00.000Z",
             "top": "26",
+            "heading": "EU-Regelungen über Dienstleistungen",
             "topic": [
               {
                 "lines": [
@@ -916,6 +938,7 @@
           {
             "time": "2017-03-09T23:50:00.000Z",
             "top": "27 *",
+            "heading": "EU-Richtlinie zu Netz- und Informationssystemen",
             "topic": [
               {
                 "lines": [
@@ -932,6 +955,7 @@
           {
             "time": "2017-03-09T23:50:00.000Z",
             "top": "28 *",
+            "heading": "Förderung des elektronischen Identitätsnachweises",
             "topic": [
               {
                 "lines": [
@@ -948,6 +972,7 @@
           {
             "time": "2017-03-09T23:50:00.000Z",
             "top": "30",
+            "heading": "Erhöhung der Sicherheit durch Videotechnologie",
             "topic": [
               {
                 "lines": [
@@ -981,6 +1006,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "31 + ZP 11 *",
+            "heading": "Staatliche Kommunikationsinfrastruktur",
             "topic": [
               {
                 "lines": [
@@ -1008,6 +1034,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "32 *",
+            "heading": "Umsetzung von EU-Richtlinien zur Arbeitsmigration",
             "topic": [
               {
                 "lines": [
@@ -1028,6 +1055,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "33 *",
+            "heading": "Schädliche Steuerpraktiken bei Rechteüberlassungen",
             "topic": [
               {
                 "lines": [
@@ -1044,6 +1072,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "34 *",
+            "heading": "Änderung des Kraftfahrzeugsteuergesetzes",
             "topic": [
               {
                 "lines": [
@@ -1060,6 +1089,7 @@
           {
             "time": "2017-03-09T00:20:00.000Z",
             "top": "35 *",
+            "heading": "Recht auf Kenntnis der Abstammung bei Samenspende",
             "topic": [
               {
                 "lines": [
@@ -1076,6 +1106,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "36 *",
+            "heading": "Änderung raumordnungsrechtlicher Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -1095,6 +1126,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "37 *",
+            "heading": "Änderung des Binnenschifffahrtsaufgabengesetzes",
             "topic": [
               {
                 "lines": [
@@ -1114,6 +1146,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "38 *",
+            "heading": "Ärztliche Zwangsbehandlung bei Betreuten",
             "topic": [
               {
                 "lines": [
@@ -1130,6 +1163,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "39 *",
+            "heading": "Reform des Bauvertragsrechts",
             "topic": [
               {
                 "lines": [
@@ -1149,6 +1183,7 @@
           {
             "time": "2017-03-09T00:25:00.000Z",
             "top": "40",
+            "heading": "Strafbarkeit von Sportwettbetrug",
             "topic": [
               {
                 "lines": [
@@ -1167,6 +1202,7 @@
           {
             "time": "2017-03-09T01:00:00.000Z",
             "top": "41",
+            "heading": "CSR-Richtlinie-Umsetzungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1199,6 +1235,7 @@
           {
             "time": "2017-03-09T01:30:00.000Z",
             "top": "42 *",
+            "heading": "Europäische Patentreform",
             "topic": [
               {
                 "lines": [
@@ -1232,6 +1269,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "43 *",
+            "heading": "Bewältigung von Konzerninsolvenzen",
             "topic": [
               {
                 "lines": [
@@ -1251,6 +1289,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "44 *",
+            "heading": "Bekämpfung der organisierten Kriminalität",
             "topic": [
               {
                 "lines": [
@@ -1267,6 +1306,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "46 *",
+            "heading": "Trilaterale Partnerschaften in der ASEAN-Region",
             "topic": [
               {
                 "lines": [
@@ -1286,6 +1326,7 @@
           {
             "time": "2017-03-09T01:35:00.000Z",
             "top": "47 *",
+            "heading": "Abkommen zu militärischen Hauptquartieren",
             "topic": [
               {
                 "lines": [
@@ -1302,6 +1343,7 @@
           {
             "time": "2017-03-09T01:40:00.000Z",
             "top": "48 *",
+            "heading": "Freiheitsbeschränkende Maßnahmen gegenüber Kindern",
             "topic": [
               {
                 "lines": [
@@ -1327,6 +1369,7 @@
           {
             "time": "2017-03-09T01:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1347,6 +1390,7 @@
           {
             "time": "2017-03-10T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1360,6 +1404,7 @@
           {
             "time": "2017-03-10T09:00:00.000Z",
             "top": "50",
+            "heading": "Infrastrukturabgaben und Verkehrsteuern",
             "topic": [
               {
                 "lines": [
@@ -1394,6 +1439,7 @@
           {
             "time": "2017-03-10T10:10:00.000Z",
             "top": "51",
+            "heading": "Stärkung der betrieblichen Altersversorgung",
             "topic": [
               {
                 "lines": [
@@ -1430,6 +1476,7 @@
           {
             "time": "2017-03-10T11:25:00.000Z",
             "top": "52 + TOP 29",
+            "heading": "Gefahren durch Waffen",
             "topic": [
               {
                 "lines": [
@@ -1469,6 +1516,7 @@
           {
             "time": "2017-03-10T12:05:00.000Z",
             "top": "53",
+            "heading": "Änderung des Straßenverkehrsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1485,6 +1533,7 @@
           {
             "time": "2017-03-10T12:45:00.000Z",
             "top": "54",
+            "heading": "Getrennterfassung von wertstoffhaltigen Abfällen",
             "topic": [
               {
                 "lines": [
@@ -1501,6 +1550,7 @@
           {
             "time": "2017-03-10T13:25:00.000Z",
             "top": "55",
+            "heading": "Entlastung Alleinerziehender",
             "topic": [
               {
                 "lines": [
@@ -1520,6 +1570,7 @@
           {
             "time": "2017-03-10T14:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

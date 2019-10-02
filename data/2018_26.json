@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=26",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=26",
     "description": "2018_26"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-06-27T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-06-27T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2018-06-27T14:05:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -69,6 +72,7 @@
           {
             "time": "2018-06-27T15:35:00.000Z",
             "top": "ZP  1",
+            "heading": "Aktuelle Stunde zur Seenotrettung im Mittelmeer",
             "topic": [
               {
                 "lines": [
@@ -84,6 +88,7 @@
           {
             "time": "2018-06-27T17:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -104,6 +109,7 @@
           {
             "time": "2018-06-28T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -117,6 +123,7 @@
           {
             "time": "2018-06-28T09:00:00.000Z",
             "top": "",
+            "heading": "Feststellung der Tagesordnung",
             "topic": [
               {
                 "lines": [
@@ -131,6 +138,7 @@
           {
             "time": "2018-06-28T09:05:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung: Europäischer Rat und NATO-Gipfel",
             "topic": [
               {
                 "lines": [
@@ -145,6 +153,7 @@
           {
             "time": "2018-06-28T11:10:00.000Z",
             "top": "4",
+            "heading": "Klima- und Energiepolitik",
             "topic": [
               {
                 "lines": [
@@ -155,12 +164,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/029/1902998.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -168,6 +171,7 @@
           {
             "time": "2018-06-28T12:25:00.000Z",
             "top": "5",
+            "heading": "Enquete-Kommission Künstliche Intelligenz",
             "topic": [
               {
                 "lines": [
@@ -185,6 +189,7 @@
           {
             "time": "2018-06-28T13:40:00.000Z",
             "top": "6",
+            "heading": "Sanktionen bei Hartz IV und Sozialhilfe",
             "topic": [
               {
                 "lines": [
@@ -213,6 +218,7 @@
           {
             "time": "2018-06-28T15:00:00.000Z",
             "top": "26, ZP 2",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -302,12 +308,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/030/1903002.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -315,6 +315,7 @@
           {
             "time": "2018-06-28T15:25:00.000Z",
             "top": "27, ZP 3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -497,6 +498,7 @@
           {
             "time": "2018-06-28T15:40:00.000Z",
             "top": "ZP 4",
+            "heading": "Aktuelle Stunde zum Schutz des Wassers vor Nitrateinträgen",
             "topic": [
               {
                 "lines": [
@@ -512,6 +514,7 @@
           {
             "time": "2018-06-28T17:05:00.000Z",
             "top": "7",
+            "heading": "Enquete-Kommission \"Berufliche Bildung\"",
             "topic": [
               {
                 "lines": [
@@ -529,6 +532,7 @@
           {
             "time": "2018-06-28T18:15:00.000Z",
             "top": "8",
+            "heading": "Bürgerentlastungsprogramm",
             "topic": [
               {
                 "lines": [
@@ -546,6 +550,7 @@
           {
             "time": "2018-06-28T19:05:00.000Z",
             "top": "9",
+            "heading": "Ausbildungs- und Prüfungsordnung für Pflegeberufe",
             "topic": [
               {
                 "lines": [
@@ -566,6 +571,7 @@
           {
             "time": "2018-06-28T20:00:00.000Z",
             "top": "10, ZP 5",
+            "heading": "Bundesweit abgestimmtes Wolfsmanagement",
             "topic": [
               {
                 "lines": [
@@ -616,6 +622,7 @@
           {
             "time": "2018-06-28T20:55:00.000Z",
             "top": "11",
+            "heading": "Zugang zu Verhütungsmitteln",
             "topic": [
               {
                 "lines": [
@@ -643,6 +650,7 @@
           {
             "time": "2018-06-28T21:40:00.000Z",
             "top": "12",
+            "heading": "Aufgabenplanung Deutsche Welle 2018 - 2021",
             "topic": [
               {
                 "lines": [
@@ -669,6 +677,7 @@
           {
             "time": "2018-06-28T22:30:00.000Z",
             "top": "ZP 6",
+            "heading": "Kindergeld für im Ausland lebende Kinder",
             "topic": [
               {
                 "lines": [
@@ -686,6 +695,7 @@
           {
             "time": "2018-06-28T23:20:00.000Z",
             "top": "14",
+            "heading": "Änderung des Atomgesetzes",
             "topic": [
               {
                 "lines": [
@@ -714,6 +724,7 @@
           {
             "time": "2018-06-28T23:50:00.000Z",
             "top": "15",
+            "heading": "Beschleunigung der Digitalisierung in Deutschland",
             "topic": [
               {
                 "lines": [
@@ -736,12 +747,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/005/1900588.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/010/1901072.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -749,6 +754,7 @@
           {
             "time": "2018-06-28T00:35:00.000Z",
             "top": "16 *",
+            "heading": "Anpassungen aufgrund der EU-Prospektverordnung",
             "topic": [
               {
                 "lines": [
@@ -771,6 +777,7 @@
           {
             "time": "2018-06-28T00:40:00.000Z",
             "top": "ZP 7",
+            "heading": "Aufhebung der Ersatzfreiheitsstrafe",
             "topic": [
               {
                 "lines": [
@@ -789,6 +796,7 @@
           {
             "time": "2018-06-28T01:20:00.000Z",
             "top": "ZP 8 *",
+            "heading": "Internationaler Strafgerichtshof",
             "topic": [
               {
                 "lines": [
@@ -806,6 +814,7 @@
           {
             "time": "2018-06-28T01:20:00.000Z",
             "top": "ZP 9, ZP 10 *",
+            "heading": "Schutz vor Abbiegeunfällen",
             "topic": [
               {
                 "lines": [
@@ -835,6 +844,7 @@
           {
             "time": "2018-06-28T01:25:00.000Z",
             "top": "18 *",
+            "heading": "Tierschutz in Schlachthöfen",
             "topic": [
               {
                 "lines": [
@@ -852,6 +862,7 @@
           {
             "time": "2018-06-28T01:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -872,6 +883,7 @@
           {
             "time": "2018-06-29T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -885,6 +897,7 @@
           {
             "time": "2018-06-29T09:00:00.000Z",
             "top": "ZP 11",
+            "heading": "Finanzhilfen zugunsten Griechenlands",
             "topic": [
               {
                 "lines": [
@@ -909,6 +922,7 @@
           {
             "time": "2018-06-29T10:20:00.000Z",
             "top": "20",
+            "heading": "Zukunftsfähigkeit Deutschlands - Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -926,6 +940,7 @@
           {
             "time": "2018-06-29T11:30:00.000Z",
             "top": "19",
+            "heading": "Deutschland im Sicherheitsrat der Vereinten Nationen",
             "topic": [
               {
                 "lines": [
@@ -956,12 +971,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/029/1902975.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -969,6 +978,7 @@
           {
             "time": "2018-06-29T12:35:00.000Z",
             "top": "22",
+            "heading": "Mietrecht",
             "topic": [
               {
                 "lines": [
@@ -986,6 +996,7 @@
           {
             "time": "2018-06-29T13:50:00.000Z",
             "top": "21",
+            "heading": "Änderung des Tiergesundheitsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1003,6 +1014,7 @@
           {
             "time": "2018-06-29T14:30:00.000Z",
             "top": "24, ZP 12",
+            "heading": "Gewerbesteuerliche Hinzurechnung - Urlaubssteuer",
             "topic": [
               {
                 "lines": [
@@ -1023,12 +1035,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/029/1902990.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1036,6 +1042,7 @@
           {
             "time": "2018-06-29T15:15:00.000Z",
             "top": "23",
+            "heading": "Meeresschutzgebiet im Weddellmeer der Antarktis",
             "topic": [
               {
                 "lines": [
@@ -1053,6 +1060,7 @@
           {
             "time": "2018-06-29T15:55:00.000Z",
             "top": "25",
+            "heading": "Bekämpfung von Geldwäsche und Terrorfinanzierung",
             "topic": [
               {
                 "lines": [
@@ -1070,6 +1078,7 @@
           {
             "time": "2018-06-29T17:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

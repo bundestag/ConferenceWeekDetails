@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2015&week=17",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2015&week=17",
     "description": "2015_17"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2015-04-22T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2015-04-22T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2015-04-22T14:00:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -70,6 +73,7 @@
           {
             "time": "2015-04-22T15:00:00.000Z",
             "top": "ZP 1",
+            "heading": "Vereinbarte Debatte zur Flüchtlingskatastrophe im Mittelmeer",
             "topic": [
               {
                 "lines": [
@@ -84,6 +88,7 @@
           {
             "time": "2015-04-22T16:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -104,6 +109,7 @@
           {
             "time": "2015-04-23T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -117,6 +123,7 @@
           {
             "time": "2015-04-23T09:05:00.000Z",
             "top": "3 + ZP 2",
+            "heading": "Nachtragshaushalt und Unterstützung von Kommunen",
             "topic": [
               {
                 "lines": [
@@ -146,12 +153,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804689.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -159,6 +160,7 @@
           {
             "time": "2015-04-23T10:55:00.000Z",
             "top": "4",
+            "heading": "Kleinanlegerschutzgesetz",
             "topic": [
               {
                 "lines": [
@@ -181,6 +183,7 @@
           {
             "time": "2015-04-23T12:45:00.000Z",
             "top": "5",
+            "heading": "Geburtsrecht im Staatsangehörigkeitsrecht",
             "topic": [
               {
                 "lines": [
@@ -197,6 +200,7 @@
           {
             "time": "2015-04-23T13:50:00.000Z",
             "top": "30 + ZP 3",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -210,6 +214,7 @@
           {
             "time": "2015-04-23T13:50:00.000Z",
             "top": "ZP 4",
+            "heading": "Aktuelle Stunde: Einfluss von Interessenvertretern auf die Infrastrukturpolitik",
             "topic": [
               {
                 "lines": [
@@ -225,6 +230,7 @@
           {
             "time": "2015-04-23T15:10:00.000Z",
             "top": "6",
+            "heading": "Jahresbericht 2014 des Wehrbeauftragten",
             "topic": [
               {
                 "lines": [
@@ -242,6 +248,7 @@
           {
             "time": "2015-04-23T16:05:00.000Z",
             "top": "7",
+            "heading": "Grundfreibetrag, Kinderfreibetrag und -geld",
             "topic": [
               {
                 "lines": [
@@ -258,6 +265,7 @@
           {
             "time": "2015-04-23T16:50:00.000Z",
             "top": "8",
+            "heading": "Bilanz des Krieges in Afghanistan",
             "topic": [
               {
                 "lines": [
@@ -276,6 +284,7 @@
           {
             "time": "2015-04-23T17:35:00.000Z",
             "top": "9",
+            "heading": "Karenzzeit für Regierungsmitglieder",
             "topic": [
               {
                 "lines": [
@@ -292,6 +301,7 @@
           {
             "time": "2015-04-23T18:15:00.000Z",
             "top": "10",
+            "heading": "Aufnahme syrischer und irakischer Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -321,6 +331,7 @@
           {
             "time": "2015-04-23T19:05:00.000Z",
             "top": "11",
+            "heading": "Verbraucherschutz im Datenschutzrecht",
             "topic": [
               {
                 "lines": [
@@ -337,6 +348,7 @@
           {
             "time": "2015-04-23T19:35:00.000Z",
             "top": "16",
+            "heading": "Status Palästinas in der UNO",
             "topic": [
               {
                 "lines": [
@@ -354,6 +366,7 @@
           {
             "time": "2015-04-23T20:00:00.000Z",
             "top": "13",
+            "heading": "Verfolgung schwerer staatsgefährdender Gewalttaten",
             "topic": [
               {
                 "lines": [
@@ -378,6 +391,7 @@
           {
             "time": "2015-04-23T20:35:00.000Z",
             "top": "14",
+            "heading": "Fluglärm",
             "topic": [
               {
                 "lines": [
@@ -395,6 +409,7 @@
           {
             "time": "2015-04-23T21:10:00.000Z",
             "top": "15 *",
+            "heading": "Einführung eines Ersatzpersonalausweises",
             "topic": [
               {
                 "lines": [
@@ -417,6 +432,7 @@
           {
             "time": "2015-04-23T21:15:00.000Z",
             "top": "12 *",
+            "heading": "EU-Polizeimission in der Ukraine",
             "topic": [
               {
                 "lines": [
@@ -435,6 +451,7 @@
           {
             "time": "2015-04-23T21:15:00.000Z",
             "top": "17 *",
+            "heading": "Personalrecht der früheren Bundespostbeamten",
             "topic": [
               {
                 "lines": [
@@ -454,6 +471,7 @@
           {
             "time": "2015-04-23T21:15:00.000Z",
             "top": "19 *",
+            "heading": "UN-Ziele für nachhaltige Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -479,6 +497,7 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "20 *",
+            "heading": "Opferrechte im Strafverfahren",
             "topic": [
               {
                 "lines": [
@@ -495,6 +514,7 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "21 *",
+            "heading": "Gesetzes gegen den unlauteren Wettbewerb",
             "topic": [
               {
                 "lines": [
@@ -511,6 +531,7 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "22 *",
+            "heading": "Änderung soldatenrechtlicher Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -528,6 +549,7 @@
           {
             "time": "2015-04-23T21:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -548,6 +570,7 @@
           {
             "time": "2015-04-24T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -561,6 +584,7 @@
           {
             "time": "2015-04-24T09:05:00.000Z",
             "top": "25 + ZP 5",
+            "heading": "Vertreibung und Massaker an Armeniern 1915/16",
             "topic": [
               {
                 "lines": [
@@ -591,12 +615,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804687.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -604,6 +622,7 @@
           {
             "time": "2015-04-24T10:20:00.000Z",
             "top": "24",
+            "heading": "Öffentlich geförderte Beschäftigung",
             "topic": [
               {
                 "lines": [
@@ -621,6 +640,7 @@
           {
             "time": "2015-04-24T12:10:00.000Z",
             "top": "23 + ZP 6",
+            "heading": "Zusammenarbeit im Bereich des Verfassungsschutzes",
             "topic": [
               {
                 "lines": [
@@ -660,12 +680,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/046/1804690.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -673,6 +687,7 @@
           {
             "time": "2015-04-24T14:00:00.000Z",
             "top": "26 + ZP 7",
+            "heading": "NVV-Überprüfungskonferenz (Atomwaffensperrvertrag)",
             "topic": [
               {
                 "lines": [
@@ -700,6 +715,7 @@
           {
             "time": "2015-04-24T14:40:00.000Z",
             "top": "27",
+            "heading": "Palliativ- und Hospizversorgung",
             "topic": [
               {
                 "lines": [
@@ -717,6 +733,7 @@
           {
             "time": "2015-04-24T15:25:00.000Z",
             "top": "28",
+            "heading": "Recht des Energieleitungsbaus",
             "topic": [
               {
                 "lines": [
@@ -733,6 +750,7 @@
           {
             "time": "2015-04-24T15:50:00.000Z",
             "top": "29",
+            "heading": "Änderung des Erneuerbare-Energien-Gesetzes",
             "topic": [
               {
                 "lines": [
@@ -749,6 +767,7 @@
           {
             "time": "2015-04-24T16:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

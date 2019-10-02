@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=12",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=12",
     "description": "2018_12"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-03-21T11:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-03-21T11:30:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2018-03-21T12:40:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -69,6 +72,7 @@
           {
             "time": "2018-03-21T13:00:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung durch die Bundeskanzlerin",
             "topic": [
               {
                 "lines": [
@@ -82,6 +86,7 @@
           {
             "time": "2018-03-21T14:00:00.000Z",
             "top": "3.1",
+            "heading": "Generalaussprache (einschl. Kultur sowie Digitales)",
             "topic": [
               {
                 "lines": [
@@ -96,6 +101,7 @@
           {
             "time": "2018-03-21T17:00:00.000Z",
             "top": "4",
+            "heading": "Wahlen zu Gremien",
             "topic": [
               {
                 "lines": [
@@ -191,6 +197,7 @@
           {
             "time": "2018-03-21T17:55:00.000Z",
             "top": "3.2",
+            "heading": "Außen, Europa, Menschenrechte",
             "topic": [
               {
                 "lines": [
@@ -205,6 +212,7 @@
           {
             "time": "2018-03-21T19:15:00.000Z",
             "top": "5",
+            "heading": "Bundeswehreinsatz in Mali (MINUSMA)",
             "topic": [
               {
                 "lines": [
@@ -222,6 +230,7 @@
           {
             "time": "2018-03-21T20:00:00.000Z",
             "top": "3.3",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
@@ -236,6 +245,7 @@
           {
             "time": "2018-03-21T21:10:00.000Z",
             "top": "3.4",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -250,6 +260,7 @@
           {
             "time": "2018-03-21T22:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -270,6 +281,7 @@
           {
             "time": "2018-03-22T09:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -283,6 +295,7 @@
           {
             "time": "2018-03-22T09:15:00.000Z",
             "top": "3.5",
+            "heading": "Finanzen und Haushalt",
             "topic": [
               {
                 "lines": [
@@ -297,6 +310,7 @@
           {
             "time": "2018-03-22T11:35:00.000Z",
             "top": "3.6",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
@@ -311,6 +325,7 @@
           {
             "time": "2018-03-22T12:45:00.000Z",
             "top": "12",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -342,12 +357,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/009/1900965.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -355,6 +364,7 @@
           {
             "time": "2018-03-22T12:50:00.000Z",
             "top": "13",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -439,6 +449,7 @@
           {
             "time": "2018-03-22T12:55:00.000Z",
             "top": "3.7",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
@@ -453,6 +464,7 @@
           {
             "time": "2018-03-22T14:20:00.000Z",
             "top": "3.8",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
@@ -467,6 +479,7 @@
           {
             "time": "2018-03-22T15:45:00.000Z",
             "top": "3.9",
+            "heading": "Familie, Senioren, Frauen und Jugend",
             "topic": [
               {
                 "lines": [
@@ -481,6 +494,7 @@
           {
             "time": "2018-03-22T16:55:00.000Z",
             "top": "3.10",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -495,6 +509,7 @@
           {
             "time": "2018-03-22T18:15:00.000Z",
             "top": "6",
+            "heading": "Weitere Wahlen zu Gremien",
             "topic": [
               {
                 "lines": [
@@ -538,6 +553,7 @@
           {
             "time": "2018-03-22T18:25:00.000Z",
             "top": "7",
+            "heading": "Bundeswehreinsatz zur Stabilisierung Iraks",
             "topic": [
               {
                 "lines": [
@@ -566,6 +582,7 @@
           {
             "time": "2018-03-22T19:30:00.000Z",
             "top": "8",
+            "heading": "Bundeswehreinsatz in Afghanistan (Resolute Support)",
             "topic": [
               {
                 "lines": [
@@ -594,6 +611,7 @@
           {
             "time": "2018-03-22T20:15:00.000Z",
             "top": "9, ZP 3",
+            "heading": "Bundeswehreinsatz im Mittelmeer (SEA GUARDIAN)",
             "topic": [
               {
                 "lines": [
@@ -638,6 +656,7 @@
           {
             "time": "2018-03-22T21:05:00.000Z",
             "top": "10",
+            "heading": "Bundeswehreinsatz in Südsudan (UNMISS)",
             "topic": [
               {
                 "lines": [
@@ -666,6 +685,7 @@
           {
             "time": "2018-03-22T21:55:00.000Z",
             "top": "11",
+            "heading": "Bundeswehreinsatz in Darfur (UNAMID)",
             "topic": [
               {
                 "lines": [
@@ -694,6 +714,7 @@
           {
             "time": "2018-03-22T22:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -714,6 +735,7 @@
           {
             "time": "2018-03-23T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -727,6 +749,7 @@
           {
             "time": "2018-03-23T09:00:00.000Z",
             "top": "",
+            "heading": "Antrag auf Änderung der Tagesordnung",
             "topic": [
               {
                 "lines": [
@@ -740,6 +763,7 @@
           {
             "time": "2018-03-23T09:15:00.000Z",
             "top": "3.11",
+            "heading": "Innen, Bau und Heimat",
             "topic": [
               {
                 "lines": [
@@ -754,6 +778,7 @@
           {
             "time": "2018-03-23T11:00:00.000Z",
             "top": "3.12",
+            "heading": "Recht und Verbraucherschutz",
             "topic": [
               {
                 "lines": [
@@ -768,6 +793,7 @@
           {
             "time": "2018-03-23T12:15:00.000Z",
             "top": "3.13",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -782,6 +808,7 @@
           {
             "time": "2018-03-23T13:35:00.000Z",
             "top": "3.14",
+            "heading": "Umwelt, Naturschutz und nukleare Sicherheit",
             "topic": [
               {
                 "lines": [
@@ -796,6 +823,7 @@
           {
             "time": "2018-03-23T14:50:00.000Z",
             "top": "3.15",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
@@ -810,6 +838,7 @@
           {
             "time": "2018-03-23T16:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

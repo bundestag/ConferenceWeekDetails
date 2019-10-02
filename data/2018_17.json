@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=17",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=17",
     "description": "2018_17"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-04-25T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-04-25T13:00:00.000Z",
             "top": "1, ZP 1",
+            "heading": "Einsetzung von Ausschüssen",
             "topic": [
               {
                 "lines": [
@@ -76,6 +78,7 @@
           {
             "time": "2018-04-25T13:05:00.000Z",
             "top": "2",
+            "heading": "Parlamentarischer Beirat für nachhaltige Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -93,6 +96,7 @@
           {
             "time": "2018-04-25T13:05:00.000Z",
             "top": "3",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -107,6 +111,7 @@
           {
             "time": "2018-04-25T14:05:00.000Z",
             "top": "4",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -123,6 +128,7 @@
           {
             "time": "2018-04-25T15:45:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zur Haltung der Bundesregierung zu einer CO2-Abgabe",
             "topic": [
               {
                 "lines": [
@@ -138,6 +144,7 @@
           {
             "time": "2018-04-25T17:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -158,6 +165,7 @@
           {
             "time": "2018-04-26T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -171,6 +179,7 @@
           {
             "time": "2018-04-26T09:05:00.000Z",
             "top": "5, ZP 3",
+            "heading": "70 Jahre Gründung des Staates Israel",
             "topic": [
               {
                 "lines": [
@@ -198,6 +207,7 @@
           {
             "time": "2018-04-26T10:20:00.000Z",
             "top": "6",
+            "heading": "Steuermehrbelastung durch kalte Progression",
             "topic": [
               {
                 "lines": [
@@ -215,6 +225,7 @@
           {
             "time": "2018-04-26T11:30:00.000Z",
             "top": "7",
+            "heading": "Berufsbildungsbericht 2018",
             "topic": [
               {
                 "lines": [
@@ -263,6 +274,7 @@
           {
             "time": "2018-04-26T12:40:00.000Z",
             "top": "8",
+            "heading": "Änderung des Schwerbehindertenausweises",
             "topic": [
               {
                 "lines": [
@@ -280,6 +292,7 @@
           {
             "time": "2018-04-26T14:00:00.000Z",
             "top": "25, ZP 4",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -366,12 +379,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/013/1901369.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -379,6 +386,7 @@
           {
             "time": "2018-04-26T14:30:00.000Z",
             "top": "26",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -527,6 +535,7 @@
           {
             "time": "2018-04-26T14:40:00.000Z",
             "top": "ZP 5",
+            "heading": "Wahl: Deutsche Stiftung Friedensforschung",
             "topic": [
               {
                 "lines": [
@@ -545,6 +554,7 @@
           {
             "time": "2018-04-26T14:40:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zu den Korruptionsvorwürfen beim Bundesamt für Migration und Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -560,6 +570,7 @@
           {
             "time": "2018-04-26T16:05:00.000Z",
             "top": "9",
+            "heading": "Bundeswehreinsatz in Mali (MINUSMA)",
             "topic": [
               {
                 "lines": [
@@ -595,6 +606,7 @@
           {
             "time": "2018-04-26T17:00:00.000Z",
             "top": "10",
+            "heading": "Armutsfeste Ausbildungsförderung",
             "topic": [
               {
                 "lines": [
@@ -612,6 +624,7 @@
           {
             "time": "2018-04-26T17:55:00.000Z",
             "top": "11",
+            "heading": "Bundeswehreinsatz vor Somalia (EU NAVFOR)",
             "topic": [
               {
                 "lines": [
@@ -647,6 +660,7 @@
           {
             "time": "2018-04-26T18:45:00.000Z",
             "top": "12",
+            "heading": "Wettbewerb und Datenschutz auf digitalen Märkten",
             "topic": [
               {
                 "lines": [
@@ -664,6 +678,7 @@
           {
             "time": "2018-04-26T19:35:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz in Mali (EUTM Mali)",
             "topic": [
               {
                 "lines": [
@@ -699,6 +714,7 @@
           {
             "time": "2018-04-26T20:25:00.000Z",
             "top": "14, ZP 7",
+            "heading": "Ausschluss der NPD von der Parteienfinanzierung",
             "topic": [
               {
                 "lines": [
@@ -732,6 +748,7 @@
           {
             "time": "2018-04-26T21:20:00.000Z",
             "top": "15",
+            "heading": "Änderung der GOBT - Überschneidung von Sitzungen-",
             "topic": [
               {
                 "lines": [
@@ -749,6 +766,7 @@
           {
             "time": "2018-04-26T22:10:00.000Z",
             "top": "ZP 8",
+            "heading": "Bürokratieentlastung für Unternehmen",
             "topic": [
               {
                 "lines": [
@@ -766,6 +784,7 @@
           {
             "time": "2018-04-26T22:55:00.000Z",
             "top": "17",
+            "heading": "Zugang für Beamte in die gesetzliche KV",
             "topic": [
               {
                 "lines": [
@@ -783,6 +802,7 @@
           {
             "time": "2018-04-26T23:45:00.000Z",
             "top": "18",
+            "heading": "Atomausstieg",
             "topic": [
               {
                 "lines": [
@@ -800,6 +820,7 @@
           {
             "time": "2018-04-26T00:30:00.000Z",
             "top": "19",
+            "heading": "Änderung des Teilzeit- und Befristungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -817,6 +838,7 @@
           {
             "time": "2018-04-26T01:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -837,6 +859,7 @@
           {
             "time": "2018-04-27T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -850,6 +873,7 @@
           {
             "time": "2018-04-27T09:00:00.000Z",
             "top": "20",
+            "heading": "Lage der Religions- und Weltanschauungsfreiheit",
             "topic": [
               {
                 "lines": [
@@ -870,6 +894,7 @@
           {
             "time": "2018-04-27T10:10:00.000Z",
             "top": "21",
+            "heading": "Legaldefinition in §130 StGB - Volksverhetzung-",
             "topic": [
               {
                 "lines": [
@@ -887,6 +912,7 @@
           {
             "time": "2018-04-27T11:05:00.000Z",
             "top": "ZP 9",
+            "heading": "Rheintalstreckensperrung 2017 - Notfallmanagement",
             "topic": [
               {
                 "lines": [
@@ -904,6 +930,7 @@
           {
             "time": "2018-04-27T12:00:00.000Z",
             "top": "23",
+            "heading": "Export von Rüstungsgütern",
             "topic": [
               {
                 "lines": [
@@ -931,6 +958,7 @@
           {
             "time": "2018-04-27T12:50:00.000Z",
             "top": "24",
+            "heading": "Kinderzuschlag",
             "topic": [
               {
                 "lines": [
@@ -948,6 +976,7 @@
           {
             "time": "2018-04-27T13:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

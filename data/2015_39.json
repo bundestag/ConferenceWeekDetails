@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2015&week=39",
-    "description": "2015_39"
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2016&week=8",
+    "description": "2016_8"
   },
   "data": {
     "id": "2015_39",
@@ -26,6 +26,7 @@
           {
             "time": "2015-09-23T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2015-09-23T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -54,6 +56,7 @@
           {
             "time": "2015-09-23T13:55:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -70,6 +73,7 @@
           {
             "time": "2015-09-23T15:45:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zur Antwort der Bundesregierung auf Frage 15",
             "topic": [
               {
                 "lines": [
@@ -86,6 +90,7 @@
           {
             "time": "2015-09-23T16:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -106,6 +111,7 @@
           {
             "time": "2015-09-24T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -119,6 +125,7 @@
           {
             "time": "2015-09-24T09:00:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zum Informellen Treffen der EU-Regierungschefs und zum VN-Nachhaltigkeitsgipfel",
             "topic": [
               {
                 "lines": [
@@ -315,6 +322,7 @@
           {
             "time": "2015-09-24T11:25:00.000Z",
             "top": "4",
+            "heading": "Befristete Arbeitsverhältnisse",
             "topic": [
               {
                 "lines": [
@@ -344,6 +352,7 @@
           {
             "time": "2015-09-24T12:55:00.000Z",
             "top": "5 + ZP 3",
+            "heading": "Unterstützung der Kommunen",
             "topic": [
               {
                 "lines": [
@@ -393,6 +402,7 @@
           {
             "time": "2015-09-24T14:15:00.000Z",
             "top": "27 + ZP 4",
+            "heading": "Überweisung im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -406,6 +416,7 @@
           {
             "time": "2015-09-24T14:15:00.000Z",
             "top": "28",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -419,6 +430,7 @@
           {
             "time": "2015-09-24T14:25:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zur Syrienkrise",
             "topic": [
               {
                 "lines": [
@@ -434,6 +446,7 @@
           {
             "time": "2015-09-24T15:35:00.000Z",
             "top": "6",
+            "heading": "Förderung von Integrationsbetrieben",
             "topic": [
               {
                 "lines": [
@@ -453,6 +466,7 @@
           {
             "time": "2015-09-24T16:20:00.000Z",
             "top": "7",
+            "heading": "Investitionen in Kindertagesstätten",
             "topic": [
               {
                 "lines": [
@@ -480,6 +494,7 @@
           {
             "time": "2015-09-24T17:05:00.000Z",
             "top": "8",
+            "heading": "Anpassung des Bankenabwicklungsrechts an EU-Recht",
             "topic": [
               {
                 "lines": [
@@ -505,6 +520,7 @@
           {
             "time": "2015-09-24T17:50:00.000Z",
             "top": "9",
+            "heading": "Erziehungsleistungen und Mutterschutz in der Rente",
             "topic": [
               {
                 "lines": [
@@ -528,12 +544,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/041/1804107.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805279.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -541,6 +551,7 @@
           {
             "time": "2015-09-24T18:40:00.000Z",
             "top": "10",
+            "heading": "Bundeswehreinsatz EUNAVFOR MED",
             "topic": [
               {
                 "lines": [
@@ -551,12 +562,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806013.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -564,6 +569,7 @@
           {
             "time": "2015-09-24T19:30:00.000Z",
             "top": "11",
+            "heading": "Angehörigenschmerzensgeld",
             "topic": [
               {
                 "lines": [
@@ -581,6 +587,7 @@
           {
             "time": "2015-09-24T20:00:00.000Z",
             "top": "12",
+            "heading": "Anpassung der Abgaben",
             "topic": [
               {
                 "lines": [
@@ -604,6 +611,7 @@
           {
             "time": "2015-09-24T20:30:00.000Z",
             "top": "13",
+            "heading": "Verleihbarkeit digitaler Medien in Bibliotheken",
             "topic": [
               {
                 "lines": [
@@ -621,6 +629,7 @@
           {
             "time": "2015-09-24T21:05:00.000Z",
             "top": "14 *",
+            "heading": "Evaluierung von Terrorismusbekämpfungsvorschriften",
             "topic": [
               {
                 "lines": [
@@ -648,6 +657,7 @@
           {
             "time": "2015-09-24T21:05:00.000Z",
             "top": "15 *",
+            "heading": "Aufarbeitung der Cum-Ex-Geschäfte",
             "topic": [
               {
                 "lines": [
@@ -668,6 +678,7 @@
           {
             "time": "2015-09-24T21:05:00.000Z",
             "top": "16",
+            "heading": "Berufliche und akademische Bildung",
             "topic": [
               {
                 "lines": [
@@ -686,12 +697,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/049/1804938.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806040.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -699,6 +704,7 @@
           {
             "time": "2015-09-24T21:40:00.000Z",
             "top": "17",
+            "heading": "Beziehungen zu Namibia",
             "topic": [
               {
                 "lines": [
@@ -726,6 +732,7 @@
           {
             "time": "2015-09-24T22:10:00.000Z",
             "top": "18",
+            "heading": "Gesetz zur Bereinigung des Rechts der Lebenspartner",
             "topic": [
               {
                 "lines": [
@@ -743,6 +750,7 @@
           {
             "time": "2015-09-24T22:40:00.000Z",
             "top": "19 *",
+            "heading": "Austausch von Informationen über Finanzkonten",
             "topic": [
               {
                 "lines": [
@@ -783,12 +791,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806065.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -796,6 +798,7 @@
           {
             "time": "2015-09-24T22:40:00.000Z",
             "top": "20 *",
+            "heading": "Änderung des Atomgesetzes",
             "topic": [
               {
                 "lines": [
@@ -813,6 +816,7 @@
           {
             "time": "2015-09-24T22:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -833,6 +837,7 @@
           {
             "time": "2015-09-25T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -846,6 +851,7 @@
           {
             "time": "2015-09-25T09:00:00.000Z",
             "top": "21",
+            "heading": "Stärkung der pflegerischen Versorgung",
             "topic": [
               {
                 "lines": [
@@ -874,6 +880,7 @@
           {
             "time": "2015-09-25T10:15:00.000Z",
             "top": "22",
+            "heading": "Unbegleitete minderjährige Flüchtlinge",
             "topic": [
               {
                 "lines": [
@@ -894,18 +901,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/059/1805932.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -913,6 +908,7 @@
           {
             "time": "2015-09-25T11:30:00.000Z",
             "top": "23",
+            "heading": "Gesundheitsversorgung von Flüchtlingen",
             "topic": [
               {
                 "lines": [
@@ -923,12 +919,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/060/1806067.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -936,6 +926,7 @@
           {
             "time": "2015-09-25T12:20:00.000Z",
             "top": "24",
+            "heading": "Erbschaft- und Schenkungsteuergesetz",
             "topic": [
               {
                 "lines": [
@@ -953,6 +944,7 @@
           {
             "time": "2015-09-25T13:25:00.000Z",
             "top": "25",
+            "heading": "Umsetzung der Wohnimmobilienkreditrichtlinie",
             "topic": [
               {
                 "lines": [
@@ -970,6 +962,7 @@
           {
             "time": "2015-09-25T14:10:00.000Z",
             "top": "26",
+            "heading": "Kinder- und Jugendrechte",
             "topic": [
               {
                 "lines": [
@@ -992,12 +985,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/031/1803151.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/052/1805276.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1005,6 +992,7 @@
           {
             "time": "2015-09-25T14:50:00.000Z",
             "top": "ZP 5",
+            "heading": "Aktuelle Stunde zu unzutreffenden Angaben beim Spritverbrauch von PKW",
             "topic": [
               {
                 "lines": [
@@ -1020,6 +1008,7 @@
           {
             "time": "2015-09-25T16:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

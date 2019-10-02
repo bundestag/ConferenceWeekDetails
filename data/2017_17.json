@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2017&week=17",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2017&week=17",
     "description": "2017_17"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2017-04-26T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2017-04-26T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2017-04-26T13:45:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -69,6 +72,7 @@
           {
             "time": "2017-04-26T15:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -89,6 +93,7 @@
           {
             "time": "2017-04-27T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -102,6 +107,7 @@
           {
             "time": "2017-04-27T09:05:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zum Europäischen Rat",
             "topic": [
               {
                 "lines": [
@@ -117,6 +123,7 @@
           {
             "time": "2017-04-27T11:00:00.000Z",
             "top": "4",
+            "heading": "Gesetz gegen schädliche Steuerpraktiken",
             "topic": [
               {
                 "lines": [
@@ -168,12 +175,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808132.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -181,6 +182,7 @@
           {
             "time": "2017-04-27T12:15:00.000Z",
             "top": "5 + 38",
+            "heading": "Rentenpolitik",
             "topic": [
               {
                 "lines": [
@@ -208,6 +210,7 @@
           {
             "time": "2017-04-27T13:30:00.000Z",
             "top": "42 + ZP 1",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -483,6 +486,7 @@
           {
             "time": "2017-04-27T13:30:00.000Z",
             "top": "43",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -599,6 +603,7 @@
           {
             "time": "2017-04-27T13:45:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zu verschärften Abgastests in Europa",
             "topic": [
               {
                 "lines": [
@@ -614,6 +619,7 @@
           {
             "time": "2017-04-27T15:00:00.000Z",
             "top": "6",
+            "heading": "Neustrukturierung des Bundeskriminalamtgesetzes",
             "topic": [
               {
                 "lines": [
@@ -642,6 +648,7 @@
           {
             "time": "2017-04-27T15:45:00.000Z",
             "top": "7",
+            "heading": "Stärkung des Schutzes von Vollstreckungsbeamten",
             "topic": [
               {
                 "lines": [
@@ -666,6 +673,7 @@
           {
             "time": "2017-04-27T16:35:00.000Z",
             "top": "ZP 3",
+            "heading": "Abschiebungen nach Afghanistan und Familiennachzug",
             "topic": [
               {
                 "lines": [
@@ -676,18 +684,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/120/1812099.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -695,6 +691,7 @@
           {
             "time": "2017-04-27T17:30:00.000Z",
             "top": "19",
+            "heading": "Ausbau der Kindertagesbetreuung",
             "topic": [
               {
                 "lines": [
@@ -718,6 +715,7 @@
           {
             "time": "2017-04-27T18:15:00.000Z",
             "top": "10",
+            "heading": "Deutsche Ostpolitik",
             "topic": [
               {
                 "lines": [
@@ -737,6 +735,7 @@
           {
             "time": "2017-04-27T19:05:00.000Z",
             "top": "11",
+            "heading": "Datenschutz-Anpassungs- und -Umsetzungsgesetz EU",
             "topic": [
               {
                 "lines": [
@@ -766,12 +765,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/120/1812084.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/121/1812144.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -779,6 +772,7 @@
           {
             "time": "2017-04-27T19:55:00.000Z",
             "top": "12",
+            "heading": "Energieaußenpolitik",
             "topic": [
               {
                 "lines": [
@@ -797,6 +791,7 @@
           {
             "time": "2017-04-27T20:30:00.000Z",
             "top": "13",
+            "heading": "Aufenthaltsüberwachung extremistischer Straftäter",
             "topic": [
               {
                 "lines": [
@@ -820,6 +815,7 @@
           {
             "time": "2017-04-27T21:05:00.000Z",
             "top": "ZP 4",
+            "heading": "Ausstellungsvergütung für Kunstschaffende",
             "topic": [
               {
                 "lines": [
@@ -837,6 +833,7 @@
           {
             "time": "2017-04-27T21:35:00.000Z",
             "top": "15",
+            "heading": "Anpassung des Umwelt-Rechtsbehelfsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -859,6 +856,7 @@
           {
             "time": "2017-04-27T22:05:00.000Z",
             "top": "16 + ZP 5",
+            "heading": "Förderung von Familien und Kindern",
             "topic": [
               {
                 "lines": [
@@ -912,6 +910,7 @@
           {
             "time": "2017-04-27T22:40:00.000Z",
             "top": "17",
+            "heading": "Änderung des Telekommunikationsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -932,6 +931,7 @@
           {
             "time": "2017-04-27T23:10:00.000Z",
             "top": "18 *",
+            "heading": "Lobbyismus in Schulen",
             "topic": [
               {
                 "lines": [
@@ -951,6 +951,7 @@
           {
             "time": "2017-04-27T23:10:00.000Z",
             "top": "20 *",
+            "heading": "Verhütung und Bekämpfung von Gewalt gegen Frauen",
             "topic": [
               {
                 "lines": [
@@ -968,6 +969,7 @@
           {
             "time": "2017-04-27T23:10:00.000Z",
             "top": "21 *",
+            "heading": "Fluggastdatengesetz",
             "topic": [
               {
                 "lines": [
@@ -991,6 +993,7 @@
           {
             "time": "2017-04-27T23:15:00.000Z",
             "top": "22 *",
+            "heading": "Änderung des Europol-Gesetzes",
             "topic": [
               {
                 "lines": [
@@ -1012,6 +1015,7 @@
           {
             "time": "2017-04-27T23:15:00.000Z",
             "top": "23 *",
+            "heading": "Sicherheit von Informationssystemen in der EU",
             "topic": [
               {
                 "lines": [
@@ -1033,6 +1037,7 @@
           {
             "time": "2017-04-27T23:15:00.000Z",
             "top": "24 *",
+            "heading": "Recht zum Schutz vor ionisierender Strahlung",
             "topic": [
               {
                 "lines": [
@@ -1055,6 +1060,7 @@
           {
             "time": "2017-04-27T23:20:00.000Z",
             "top": "25 *",
+            "heading": "Antarktis-Haftungsannex",
             "topic": [
               {
                 "lines": [
@@ -1079,6 +1085,7 @@
           {
             "time": "2017-04-27T23:20:00.000Z",
             "top": "26 *",
+            "heading": "Gesetz zur EU-Verordnung über Insolvenzverfahren",
             "topic": [
               {
                 "lines": [
@@ -1099,6 +1106,7 @@
           {
             "time": "2017-04-27T23:25:00.000Z",
             "top": "27 *",
+            "heading": "Gesetz zu Regelungen der Gesichtsverhüllung",
             "topic": [
               {
                 "lines": [
@@ -1119,6 +1127,7 @@
           {
             "time": "2017-04-27T23:25:00.000Z",
             "top": "30",
+            "heading": "Änderung des Bundesfernstraßengesetzes",
             "topic": [
               {
                 "lines": [
@@ -1144,6 +1153,7 @@
           {
             "time": "2017-04-27T23:45:00.000Z",
             "top": "31 *",
+            "heading": "Änderung des Kraftfahrzeugsteuergesetzes",
             "topic": [
               {
                 "lines": [
@@ -1166,6 +1176,7 @@
           {
             "time": "2017-04-27T23:45:00.000Z",
             "top": "32 *",
+            "heading": "Neuregelung des Schutzes von Geheimnissen",
             "topic": [
               {
                 "lines": [
@@ -1183,6 +1194,7 @@
           {
             "time": "2017-04-27T23:45:00.000Z",
             "top": "33 *",
+            "heading": "Abkommen mit Ägypten und Tunesien",
             "topic": [
               {
                 "lines": [
@@ -1216,6 +1228,7 @@
           {
             "time": "2017-04-27T23:50:00.000Z",
             "top": "35 *",
+            "heading": "Einführung eines Wettbewerbsregisters",
             "topic": [
               {
                 "lines": [
@@ -1233,6 +1246,7 @@
           {
             "time": "2017-04-27T23:50:00.000Z",
             "top": "36 *",
+            "heading": "37. Verordnung zum Bundes-Immissionsschutzgesetz",
             "topic": [
               {
                 "lines": [
@@ -1253,6 +1267,7 @@
           {
             "time": "2017-04-27T23:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1273,6 +1288,7 @@
           {
             "time": "2017-04-28T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1286,6 +1302,7 @@
           {
             "time": "2017-04-28T09:00:00.000Z",
             "top": "37 + ZP 6",
+            "heading": "Renten wegen verminderter Erwerbsfähigkeit",
             "topic": [
               {
                 "lines": [
@@ -1333,6 +1350,7 @@
           {
             "time": "2017-04-28T10:10:00.000Z",
             "top": "ZP 7 + ZP 8",
+            "heading": "Ausfuhr von Brennelementen",
             "topic": [
               {
                 "lines": [
@@ -1360,6 +1378,7 @@
           {
             "time": "2017-04-28T11:40:00.000Z",
             "top": "39",
+            "heading": "Strafrechtliche Rehabilitierung - Homosexualität",
             "topic": [
               {
                 "lines": [
@@ -1390,12 +1409,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/101/1810118.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1403,6 +1416,7 @@
           {
             "time": "2017-04-28T12:45:00.000Z",
             "top": "ZP 9",
+            "heading": "Bekämpfung von Kinderehen",
             "topic": [
               {
                 "lines": [
@@ -1420,6 +1434,7 @@
           {
             "time": "2017-04-28T13:30:00.000Z",
             "top": "41",
+            "heading": "Personalbemessung in den Krankenhäusern",
             "topic": [
               {
                 "lines": [
@@ -1442,12 +1457,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/063/1806326.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/121/1812142.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1455,6 +1464,7 @@
           {
             "time": "2017-04-28T14:15:00.000Z",
             "top": "40",
+            "heading": "Straftaten gegen ausländische Staaten",
             "topic": [
               {
                 "lines": [
@@ -1473,6 +1483,7 @@
           {
             "time": "2017-04-28T14:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

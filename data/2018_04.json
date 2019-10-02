@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=4",
+    "description": "2018_4"
+  },
+  "data": {
+    "id": "2018_04",
+    "previous": {
+      "year": 2018,
+      "week": 3
+    },
+    "this": {
+      "year": 2018,
+      "week": 4
+    },
+    "next": {
+      "year": 2018,
+      "week": 5
+    },
+    "sessions": [
+      {
+        "date": "2018-01-22T00:00:00.000Z",
+        "dateText": "22. Januar 2018",
+        "session": "9",
+        "tops": [
+          {
+            "time": "2018-01-22T11:00:00.000Z",
+            "top": "",
+            "heading": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2018-01-22T11:05:00.000Z",
+            "top": "1",
+            "heading": "55 Jahre Élysée-Vertrag",
+            "topic": [
+              {
+                "lines": [
+                  "Vereinbarte Debatte",
+                  "55 Jahre Élysée-Vertrag"
+                ],
+                "documents": []
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2018-01-22T13:10:00.000Z",
+            "top": "",
+            "heading": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": []
+          }
+        ]
+      }
+    ]
+  }
+}

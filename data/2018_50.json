@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=50",
-    "description": "2018_50"
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=19",
+    "description": "2019_19"
   },
   "data": {
     "id": "2018_50",
@@ -26,6 +26,7 @@
           {
             "time": "2018-12-12T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-12-12T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -54,6 +56,7 @@
           {
             "time": "2018-12-12T14:15:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -70,6 +73,7 @@
           {
             "time": "2018-12-12T16:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -90,6 +94,7 @@
           {
             "time": "2018-12-13T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -103,6 +108,7 @@
           {
             "time": "2018-12-13T09:05:00.000Z",
             "top": "3, ZP 1, 15",
+            "heading": "Brexit",
             "topic": [
               {
                 "lines": [
@@ -143,6 +149,7 @@
           {
             "time": "2018-12-13T10:20:00.000Z",
             "top": "4",
+            "heading": "Wiedereinführung der Meisterpflicht",
             "topic": [
               {
                 "lines": [
@@ -170,6 +177,7 @@
           {
             "time": "2018-12-13T11:30:00.000Z",
             "top": "18, ZP 2-5",
+            "heading": "Terminservice- und Versorgungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -258,6 +266,7 @@
           {
             "time": "2018-12-13T12:45:00.000Z",
             "top": "6",
+            "heading": "Kinderweihnachtsgeld",
             "topic": [
               {
                 "lines": [
@@ -277,6 +286,7 @@
           {
             "time": "2018-12-13T13:50:00.000Z",
             "top": "24, ZP 6",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -379,6 +389,7 @@
           {
             "time": "2018-12-13T13:55:00.000Z",
             "top": "25, ZP 7",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -677,6 +688,7 @@
           {
             "time": "2018-12-13T14:05:00.000Z",
             "top": "ZP 8",
+            "heading": "2. Wahlgang - Stellvertreterin des Präsidenten",
             "topic": [
               {
                 "lines": [
@@ -700,6 +712,7 @@
           {
             "time": "2018-12-13T14:30:00.000Z",
             "top": "ZP 9",
+            "heading": "Wahlen zu weiteren Gremien",
             "topic": [
               {
                 "lines": [
@@ -747,6 +760,7 @@
           {
             "time": "2018-12-13T15:15:00.000Z",
             "top": "ZP 10",
+            "heading": "Aktuelle Stunde - Abschaffung des § 218 StGB",
             "topic": [
               {
                 "lines": [
@@ -762,6 +776,7 @@
           {
             "time": "2018-12-13T16:30:00.000Z",
             "top": "",
+            "heading": "Sitzungsunterbrechung",
             "topic": [
               {
                 "lines": [
@@ -775,6 +790,7 @@
           {
             "time": "2018-12-13T17:25:00.000Z",
             "top": "5",
+            "heading": "70 Jahre Allgemeine Erklärung der Menschenrechte",
             "topic": [
               {
                 "lines": [
@@ -789,6 +805,7 @@
           {
             "time": "2018-12-13T18:40:00.000Z",
             "top": "8",
+            "heading": "Solidaritätszuschlag",
             "topic": [
               {
                 "lines": [
@@ -829,6 +846,7 @@
           {
             "time": "2018-12-13T19:35:00.000Z",
             "top": "7",
+            "heading": "Jahresbericht 2017 des Wehrbeauftragten",
             "topic": [
               {
                 "lines": [
@@ -848,6 +866,7 @@
           {
             "time": "2018-12-13T20:35:00.000Z",
             "top": "9",
+            "heading": "EU-Gas-Geräte-Verordnung; Änderung SGB IX und XII",
             "topic": [
               {
                 "lines": [
@@ -868,6 +887,7 @@
           {
             "time": "2018-12-13T21:20:00.000Z",
             "top": "11, ZP 11",
+            "heading": "Finanzwende",
             "topic": [
               {
                 "lines": [
@@ -892,12 +912,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/042/1904241.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/064/1906469.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -905,6 +919,7 @@
           {
             "time": "2018-12-13T22:05:00.000Z",
             "top": "10",
+            "heading": "Einzutragende Angaben in das Geburtenregister",
             "topic": [
               {
                 "lines": [
@@ -939,6 +954,7 @@
           {
             "time": "2018-12-13T23:00:00.000Z",
             "top": "22",
+            "heading": "Europäische Haftungsrisiken Deutschlands",
             "topic": [
               {
                 "lines": [
@@ -956,6 +972,7 @@
           {
             "time": "2018-12-13T23:20:00.000Z",
             "top": "14, ZP 12",
+            "heading": "Änderung des Telekommunikationsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -984,6 +1001,7 @@
           {
             "time": "2018-12-13T23:35:00.000Z",
             "top": "ZP 13",
+            "heading": "§ 219a StGB Werbung für Schwangerschaftsabbrüche",
             "topic": [
               {
                 "lines": [
@@ -1001,6 +1019,7 @@
           {
             "time": "2018-12-13T00:20:00.000Z",
             "top": "ZP 14",
+            "heading": "USA und INF-Vertrag",
             "topic": [
               {
                 "lines": [
@@ -1018,6 +1037,7 @@
           {
             "time": "2018-12-13T00:40:00.000Z",
             "top": "17",
+            "heading": "Frauen in Führungspositionen im Gesundheitswesen",
             "topic": [
               {
                 "lines": [
@@ -1035,6 +1055,7 @@
           {
             "time": "2018-12-13T01:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1055,6 +1076,7 @@
           {
             "time": "2018-12-14T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1068,6 +1090,7 @@
           {
             "time": "2018-12-14T09:00:00.000Z",
             "top": "ZP 15",
+            "heading": "KiTa-Qualitäts- und -Teilhabeverbesserungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1105,6 +1128,7 @@
           {
             "time": "2018-12-14T10:25:00.000Z",
             "top": "19, ZP 16",
+            "heading": "Gewinnung von Spitzenforschern",
             "topic": [
               {
                 "lines": [
@@ -1152,6 +1176,7 @@
           {
             "time": "2018-12-14T12:20:00.000Z",
             "top": "20",
+            "heading": "Erhalt der Buchpreisbindung",
             "topic": [
               {
                 "lines": [
@@ -1180,6 +1205,7 @@
           {
             "time": "2018-12-14T13:30:00.000Z",
             "top": "21",
+            "heading": "Multilateraler Gerichtshof",
             "topic": [
               {
                 "lines": [
@@ -1212,6 +1238,7 @@
           {
             "time": "2018-12-14T14:40:00.000Z",
             "top": "13",
+            "heading": "Strafschärfung bei Rückfall",
             "topic": [
               {
                 "lines": [
@@ -1229,6 +1256,7 @@
           {
             "time": "2018-12-14T15:20:00.000Z",
             "top": "23",
+            "heading": "Fachkräftemangel in der Kinder- und Jugendhilfe",
             "topic": [
               {
                 "lines": [
@@ -1246,6 +1274,7 @@
           {
             "time": "2018-12-14T16:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

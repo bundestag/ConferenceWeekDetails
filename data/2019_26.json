@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=26",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=26",
     "description": "2019_26"
   },
   "data": {
@@ -26,19 +26,14 @@
           {
             "time": "2019-06-26T13:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2019-06-26T13:05:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -52,6 +47,7 @@
           {
             "time": "2019-06-26T14:10:00.000Z",
             "top": "2, ZP 1",
+            "heading": "Organspende",
             "topic": [
               {
                 "lines": [
@@ -83,6 +79,7 @@
           {
             "time": "2019-06-26T16:25:00.000Z",
             "top": "3",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -99,6 +96,7 @@
           {
             "time": "2019-06-26T17:45:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zum Scheitern der PKW-Maut und Kosten für den Steuerzahler",
             "topic": [
               {
                 "lines": [
@@ -114,6 +112,7 @@
           {
             "time": "2019-06-26T19:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -134,6 +133,7 @@
           {
             "time": "2019-06-27T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -147,6 +147,7 @@
           {
             "time": "2019-06-27T09:00:00.000Z",
             "top": "ZP 3",
+            "heading": "Eidesleistung der Bundesministerin der Justiz und für Verbraucherschutz",
             "topic": [
               {
                 "lines": [
@@ -160,6 +161,7 @@
           {
             "time": "2019-06-27T09:05:00.000Z",
             "top": "4, ZP 4-6",
+            "heading": "Grundsteuerreform",
             "topic": [
               {
                 "lines": [
@@ -224,12 +226,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911144.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -237,6 +233,7 @@
           {
             "time": "2019-06-27T10:20:00.000Z",
             "top": "5, ZP 7",
+            "heading": "Vorgehen gegen kriminelle Clans",
             "topic": [
               {
                 "lines": [
@@ -264,6 +261,7 @@
           {
             "time": "2019-06-27T11:25:00.000Z",
             "top": "6, ZP 8",
+            "heading": "Berufliche Bildung",
             "topic": [
               {
                 "lines": [
@@ -341,6 +339,7 @@
           {
             "time": "2019-06-27T12:35:00.000Z",
             "top": "7",
+            "heading": "Untersuchungsausschuss zur Treuhandanstalt",
             "topic": [
               {
                 "lines": [
@@ -368,6 +367,7 @@
           {
             "time": "2019-06-27T13:45:00.000Z",
             "top": "35, ZP 9",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -691,6 +691,7 @@
           {
             "time": "2019-06-27T13:50:00.000Z",
             "top": "36, ZP 10",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -1034,6 +1035,7 @@
           {
             "time": "2019-06-27T14:10:00.000Z",
             "top": "ZP 11",
+            "heading": "Aktuelle Stunde: Für den Schutz unserer Demokratie - Gegen Hass und rechtsextreme Gewalt",
             "topic": [
               {
                 "lines": [
@@ -1049,6 +1051,7 @@
           {
             "time": "2019-06-27T15:55:00.000Z",
             "top": "ZP 12",
+            "heading": "Wahlen zu Gremien",
             "topic": [
               {
                 "lines": [
@@ -1106,6 +1109,7 @@
           {
             "time": "2019-06-27T16:35:00.000Z",
             "top": "8",
+            "heading": "Forschungszulagengesetz",
             "topic": [
               {
                 "lines": [
@@ -1122,6 +1126,7 @@
           {
             "time": "2019-06-27T17:20:00.000Z",
             "top": "9",
+            "heading": "Gründungspolitik in Ostdeutschland",
             "topic": [
               {
                 "lines": [
@@ -1139,6 +1144,7 @@
           {
             "time": "2019-06-27T18:05:00.000Z",
             "top": "10",
+            "heading": "Bericht über Förderung der Kulturarbeit",
             "topic": [
               {
                 "lines": [
@@ -1156,6 +1162,7 @@
           {
             "time": "2019-06-27T18:50:00.000Z",
             "top": "ZP 22",
+            "heading": "Immunitätsangelegenheit",
             "topic": [
               {
                 "lines": [
@@ -1169,6 +1176,7 @@
           {
             "time": "2019-06-27T18:50:00.000Z",
             "top": "11",
+            "heading": "Änderung des Staatsangehörigkeitsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1200,6 +1208,7 @@
           {
             "time": "2019-06-27T19:40:00.000Z",
             "top": "12",
+            "heading": "Geldwäsche",
             "topic": [
               {
                 "lines": [
@@ -1220,12 +1229,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911098.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1233,6 +1236,7 @@
           {
             "time": "2019-06-27T20:30:00.000Z",
             "top": "13",
+            "heading": "Änderung des Telekommunikationsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1259,12 +1263,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/063/1906398.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/073/1907389.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1272,6 +1270,7 @@
           {
             "time": "2019-06-27T21:20:00.000Z",
             "top": "ZP 13",
+            "heading": "Urheberrecht im digitalen Binnenmarkt",
             "topic": [
               {
                 "lines": [
@@ -1291,6 +1290,7 @@
           {
             "time": "2019-06-27T22:05:00.000Z",
             "top": "15, ZP 14",
+            "heading": "Bahnpolitik",
             "topic": [
               {
                 "lines": [
@@ -1347,12 +1347,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/106/1910638.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1360,6 +1354,7 @@
           {
             "time": "2019-06-27T22:50:00.000Z",
             "top": "16",
+            "heading": "Start-Ups und Mittelstand - Urheberrechtsreform",
             "topic": [
               {
                 "lines": [
@@ -1377,6 +1372,7 @@
           {
             "time": "2019-06-27T23:20:00.000Z",
             "top": "17, ZP 15",
+            "heading": "Nationale Tourismusstrategie",
             "topic": [
               {
                 "lines": [
@@ -1429,6 +1425,7 @@
           {
             "time": "2019-06-27T23:50:00.000Z",
             "top": "18, ZP 16-18",
+            "heading": "Atomabkommen mit dem Iran und INF-Vertrag",
             "topic": [
               {
                 "lines": [
@@ -1511,12 +1508,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/111/1911102.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1524,6 +1515,7 @@
           {
             "time": "2019-06-27T00:10:00.000Z",
             "top": "19",
+            "heading": "Baukulturbericht 2018/19",
             "topic": [
               {
                 "lines": [
@@ -1545,6 +1537,7 @@
           {
             "time": "2019-06-27T00:30:00.000Z",
             "top": "20",
+            "heading": "Agrarökologie",
             "topic": [
               {
                 "lines": [
@@ -1564,6 +1557,7 @@
           {
             "time": "2019-06-27T00:45:00.000Z",
             "top": "21",
+            "heading": "Internationale Lage der Menschenrechte von LSBTTI",
             "topic": [
               {
                 "lines": [
@@ -1587,12 +1581,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/090/1909056.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/103/1910304.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1600,6 +1588,7 @@
           {
             "time": "2019-06-27T01:15:00.000Z",
             "top": "22",
+            "heading": "Anpassung des Datenschutzrechts",
             "topic": [
               {
                 "lines": [
@@ -1636,6 +1625,7 @@
           {
             "time": "2019-06-27T01:35:00.000Z",
             "top": "23",
+            "heading": "Ferkelbetäubungssachkundeverordnung",
             "topic": [
               {
                 "lines": [
@@ -1656,6 +1646,7 @@
           {
             "time": "2019-06-27T01:50:00.000Z",
             "top": "ZP 19",
+            "heading": "Gesetz über Energiedienstleistungen",
             "topic": [
               {
                 "lines": [
@@ -1676,6 +1667,7 @@
           {
             "time": "2019-06-27T02:00:00.000Z",
             "top": "24",
+            "heading": "Änderung des SGB IX und SGB XII",
             "topic": [
               {
                 "lines": [
@@ -1693,6 +1685,7 @@
           {
             "time": "2019-06-27T02:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1713,6 +1706,7 @@
           {
             "time": "2019-06-28T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1726,6 +1720,7 @@
           {
             "time": "2019-06-28T09:00:00.000Z",
             "top": "25",
+            "heading": "Bundeswehreinsatz in Kosovo (KFOR)",
             "topic": [
               {
                 "lines": [
@@ -1754,6 +1749,7 @@
           {
             "time": "2019-06-28T09:50:00.000Z",
             "top": "26",
+            "heading": "Bundeswehreinsatz in Libanon (UNIFIL)",
             "topic": [
               {
                 "lines": [
@@ -1782,6 +1778,7 @@
           {
             "time": "2019-06-28T10:30:00.000Z",
             "top": "27",
+            "heading": "Förderung von Unternehmensgründungen",
             "topic": [
               {
                 "lines": [
@@ -1819,6 +1816,7 @@
           {
             "time": "2019-06-28T11:40:00.000Z",
             "top": "28",
+            "heading": "Rehabilitierung von Opfern von SED-Unrecht",
             "topic": [
               {
                 "lines": [
@@ -1869,12 +1867,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908983.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1882,6 +1874,7 @@
           {
             "time": "2019-06-28T12:40:00.000Z",
             "top": "29",
+            "heading": "Klimapolitik",
             "topic": [
               {
                 "lines": [
@@ -2036,6 +2029,7 @@
           {
             "time": "2019-06-28T14:20:00.000Z",
             "top": "32, ZP 20",
+            "heading": "Wohngeldstärkungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -2073,6 +2067,7 @@
           {
             "time": "2019-06-28T15:10:00.000Z",
             "top": "31",
+            "heading": "Wiedereinführung der Meisterpflicht",
             "topic": [
               {
                 "lines": [
@@ -2090,6 +2085,7 @@
           {
             "time": "2019-06-28T15:55:00.000Z",
             "top": "33",
+            "heading": "Frauen im Widerstand gegen den Nationalsozialismus",
             "topic": [
               {
                 "lines": [
@@ -2107,6 +2103,7 @@
           {
             "time": "2019-06-28T16:30:00.000Z",
             "top": "34, ZP 21",
+            "heading": "Förderung des Ländlichen Raumes",
             "topic": [
               {
                 "lines": [
@@ -2166,6 +2163,7 @@
           {
             "time": "2019-06-28T17:15:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

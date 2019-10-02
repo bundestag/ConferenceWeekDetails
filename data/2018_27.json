@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=27",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=27",
     "description": "2018_27"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-07-03T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-07-03T09:00:00.000Z",
             "top": "I",
+            "heading": "Haushaltsgesetz 2018",
             "topic": [
               {
                 "lines": [
@@ -69,6 +71,7 @@
           {
             "time": "2018-07-03T09:00:00.000Z",
             "top": "I.1-I.3",
+            "heading": "Bundespräsident, Bundestag, Bundesrat",
             "topic": [
               {
                 "lines": [
@@ -112,6 +115,7 @@
           {
             "time": "2018-07-03T09:05:00.000Z",
             "top": "I.4",
+            "heading": "Finanzen, Bundesrechungshof",
             "topic": [
               {
                 "lines": [
@@ -143,6 +147,7 @@
           {
             "time": "2018-07-03T10:45:00.000Z",
             "top": "I.5",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
@@ -162,6 +167,7 @@
           {
             "time": "2018-07-03T12:30:00.000Z",
             "top": "I.6",
+            "heading": "Umwelt, Naturschutz und nukleare Sicherheit",
             "topic": [
               {
                 "lines": [
@@ -181,6 +187,7 @@
           {
             "time": "2018-07-03T14:20:00.000Z",
             "top": "I.7",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
@@ -200,6 +207,7 @@
           {
             "time": "2018-07-03T16:10:00.000Z",
             "top": "I.8",
+            "heading": "Familie, Senioren, Frauen und Jugend",
             "topic": [
               {
                 "lines": [
@@ -219,6 +227,7 @@
           {
             "time": "2018-07-03T17:55:00.000Z",
             "top": "I.9",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
@@ -238,6 +247,7 @@
           {
             "time": "2018-07-03T19:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -258,6 +268,7 @@
           {
             "time": "2018-07-04T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -271,6 +282,7 @@
           {
             "time": "2018-07-04T09:00:00.000Z",
             "top": "I.10",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
@@ -296,6 +308,7 @@
           {
             "time": "2018-07-04T13:00:00.000Z",
             "top": "I.11",
+            "heading": "Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
@@ -315,6 +328,7 @@
           {
             "time": "2018-07-04T15:00:00.000Z",
             "top": "I.12",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
@@ -340,6 +354,7 @@
           {
             "time": "2018-07-04T17:05:00.000Z",
             "top": "I.13",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -359,6 +374,7 @@
           {
             "time": "2018-07-04T19:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -379,19 +395,14 @@
           {
             "time": "2018-07-05T09:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2018-07-05T09:00:00.000Z",
             "top": "I.14",
+            "heading": "Inneres, Datenschutz und Informationsfreiheit",
             "topic": [
               {
                 "lines": [
@@ -423,6 +434,7 @@
           {
             "time": "2018-07-05T10:55:00.000Z",
             "top": "I.15",
+            "heading": "Justiz und Verbraucherschutz",
             "topic": [
               {
                 "lines": [
@@ -454,6 +466,7 @@
           {
             "time": "2018-07-05T12:40:00.000Z",
             "top": "III, ZP 1",
+            "heading": "Überweisung im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -543,6 +556,7 @@
           {
             "time": "2018-07-05T12:40:00.000Z",
             "top": "IV, ZP 2",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -748,6 +762,7 @@
           {
             "time": "2018-07-05T12:50:00.000Z",
             "top": "ZP 3",
+            "heading": "Einspruch gem. § 39 GO-BT",
             "topic": [
               {
                 "lines": [
@@ -762,6 +777,7 @@
           {
             "time": "2018-07-05T12:55:00.000Z",
             "top": "I.16",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
@@ -781,6 +797,7 @@
           {
             "time": "2018-07-05T14:50:00.000Z",
             "top": "I.17",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -800,6 +817,7 @@
           {
             "time": "2018-07-05T16:40:00.000Z",
             "top": "I.18",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -819,6 +837,7 @@
           {
             "time": "2018-07-05T18:25:00.000Z",
             "top": "I.19",
+            "heading": "Bundesschuld",
             "topic": [
               {
                 "lines": [
@@ -837,6 +856,7 @@
           {
             "time": "2018-07-05T18:25:00.000Z",
             "top": "I.20",
+            "heading": "Allgemeine Finanzverwaltung",
             "topic": [
               {
                 "lines": [
@@ -855,6 +875,7 @@
           {
             "time": "2018-07-05T18:25:00.000Z",
             "top": "I.21",
+            "heading": "Haushaltsgesetz 2018, Finanzplan 2017 bis 2021",
             "topic": [
               {
                 "lines": [
@@ -873,6 +894,7 @@
           {
             "time": "2018-07-05T18:30:00.000Z",
             "top": "II",
+            "heading": "Haushaltsgesetz 2018",
             "topic": [
               {
                 "lines": [
@@ -911,14 +933,8 @@
           {
             "time": "2018-07-05T20:25:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungsende",
+            "topic": [],
             "status": []
           }
         ]

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2017&week=13",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2017&week=13",
     "description": "2017_13"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2017-03-29T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2017-03-29T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2017-03-29T14:05:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -70,6 +73,7 @@
           {
             "time": "2017-03-29T15:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -90,6 +94,7 @@
           {
             "time": "2017-03-30T09:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -103,6 +108,7 @@
           {
             "time": "2017-03-30T09:05:00.000Z",
             "top": "3, ZP 1",
+            "heading": "Maritime Wirtschaft",
             "topic": [
               {
                 "lines": [
@@ -144,12 +150,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/117/1811742.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -157,6 +157,7 @@
           {
             "time": "2017-03-30T10:15:00.000Z",
             "top": "4",
+            "heading": "Finanzaufsichtsrecht",
             "topic": [
               {
                 "lines": [
@@ -179,6 +180,7 @@
           {
             "time": "2017-03-30T10:55:00.000Z",
             "top": "5",
+            "heading": "Schienenlärmschutzgesetz",
             "topic": [
               {
                 "lines": [
@@ -199,6 +201,7 @@
           {
             "time": "2017-03-30T11:45:00.000Z",
             "top": "6",
+            "heading": "Öffentlicher Personennahverkehr",
             "topic": [
               {
                 "lines": [
@@ -219,12 +222,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/109/1810978.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -232,6 +229,7 @@
           {
             "time": "2017-03-30T12:55:00.000Z",
             "top": "40",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -381,12 +379,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/108/1810854.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -394,6 +386,7 @@
           {
             "time": "2017-03-30T12:55:00.000Z",
             "top": "41 + ZP 2",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -620,6 +613,7 @@
           {
             "time": "2017-03-30T13:10:00.000Z",
             "top": "7",
+            "heading": "Wahl „Kulturstiftung des Bundes“",
             "topic": [
               {
                 "lines": [
@@ -637,6 +631,7 @@
           {
             "time": "2017-03-30T13:10:00.000Z",
             "top": "8",
+            "heading": "Vereinbarte Debatte zum EU-Austritt Großbritanniens",
             "topic": [
               {
                 "lines": [
@@ -651,6 +646,7 @@
           {
             "time": "2017-03-30T14:35:00.000Z",
             "top": "9",
+            "heading": "Bundeswehreinsatz EUTM Mali",
             "topic": [
               {
                 "lines": [
@@ -668,6 +664,7 @@
           {
             "time": "2017-03-30T15:20:00.000Z",
             "top": "10",
+            "heading": "Änderung des Straßenverkehrsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -690,6 +687,7 @@
           {
             "time": "2017-03-30T16:05:00.000Z",
             "top": "11",
+            "heading": "Zugang und Zulassung zu Hochschulen",
             "topic": [
               {
                 "lines": [
@@ -707,6 +705,7 @@
           {
             "time": "2017-03-30T16:50:00.000Z",
             "top": "12",
+            "heading": "Transparenz von Entgeltstrukturen",
             "topic": [
               {
                 "lines": [
@@ -762,6 +761,7 @@
           {
             "time": "2017-03-30T18:00:00.000Z",
             "top": "13",
+            "heading": "Hungersnot und Völkermord in Südsudan",
             "topic": [
               {
                 "lines": [
@@ -779,6 +779,7 @@
           {
             "time": "2017-03-30T18:50:00.000Z",
             "top": "14",
+            "heading": "Bundeswehreinsatz EUTM Somalia",
             "topic": [
               {
                 "lines": [
@@ -807,6 +808,7 @@
           {
             "time": "2017-03-30T19:25:00.000Z",
             "top": "15",
+            "heading": "Krankenkassenbeiträge für Selbstständige",
             "topic": [
               {
                 "lines": [
@@ -822,12 +824,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/097/1809712.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/117/1811771.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -835,6 +831,7 @@
           {
             "time": "2017-03-30T20:00:00.000Z",
             "top": "16",
+            "heading": "Neuregelung des Mutterschutzrechts",
             "topic": [
               {
                 "lines": [
@@ -855,6 +852,7 @@
           {
             "time": "2017-03-30T20:35:00.000Z",
             "top": "17",
+            "heading": "Nutzungsrechte digitaler Güter",
             "topic": [
               {
                 "lines": [
@@ -884,6 +882,7 @@
           {
             "time": "2017-03-30T21:05:00.000Z",
             "top": "18",
+            "heading": "Carsharing",
             "topic": [
               {
                 "lines": [
@@ -910,12 +909,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/076/1807652.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/117/1811770.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -923,6 +916,7 @@
           {
             "time": "2017-03-30T21:35:00.000Z",
             "top": "19",
+            "heading": "Betäubungsmittelrecht",
             "topic": [
               {
                 "lines": [
@@ -945,12 +939,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/016/1801613.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/104/1810445.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -958,6 +946,7 @@
           {
             "time": "2017-03-30T22:15:00.000Z",
             "top": "20 + ZP 3",
+            "heading": "Getrennterfassung von wertstoffhaltigen Abfällen",
             "topic": [
               {
                 "lines": [
@@ -990,6 +979,7 @@
           {
             "time": "2017-03-30T22:50:00.000Z",
             "top": "21 *",
+            "heading": "Wiederaufbau der Garnisonkirche Potsdam",
             "topic": [
               {
                 "lines": [
@@ -1009,6 +999,7 @@
           {
             "time": "2017-03-30T22:50:00.000Z",
             "top": "22 *",
+            "heading": "Finanzmarktnovellierungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1051,12 +1042,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/086/1808609.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/097/1809734.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1064,6 +1049,7 @@
           {
             "time": "2017-03-30T22:50:00.000Z",
             "top": "23 *",
+            "heading": "G 10-Aufhebungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1082,6 +1068,7 @@
           {
             "time": "2017-03-30T22:55:00.000Z",
             "top": "24 *",
+            "heading": "Anpassungsvertrag ERP-Förderrücklage",
             "topic": [
               {
                 "lines": [
@@ -1103,6 +1090,7 @@
           {
             "time": "2017-03-30T22:55:00.000Z",
             "top": "25 *",
+            "heading": "Willy-Brandt-Korps",
             "topic": [
               {
                 "lines": [
@@ -1122,6 +1110,7 @@
           {
             "time": "2017-03-30T22:55:00.000Z",
             "top": "26 *",
+            "heading": "EU-Binnenmarkt für Elektrizität",
             "topic": [
               {
                 "lines": [
@@ -1144,6 +1133,7 @@
           {
             "time": "2017-03-30T22:55:00.000Z",
             "top": "27 *",
+            "heading": "Gesetz über das Fahrlehrerwesen",
             "topic": [
               {
                 "lines": [
@@ -1166,6 +1156,7 @@
           {
             "time": "2017-03-30T23:00:00.000Z",
             "top": "28 *",
+            "heading": "Zivile Krisenprävention",
             "topic": [
               {
                 "lines": [
@@ -1215,12 +1206,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/111/1811175.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/116/1811668.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1228,6 +1213,7 @@
           {
             "time": "2017-03-30T23:00:00.000Z",
             "top": "ZP  4 *",
+            "heading": "Mittelständische Wirtschaft",
             "topic": [
               {
                 "lines": [
@@ -1252,6 +1238,7 @@
           {
             "time": "2017-03-30T23:00:00.000Z",
             "top": "29",
+            "heading": "Änderung des Atomgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1278,12 +1265,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/067/1806773.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/116/1811690.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1291,6 +1272,7 @@
           {
             "time": "2017-03-30T23:35:00.000Z",
             "top": "30 *",
+            "heading": "Elektronische Meldungen in der Seeschifffahrt",
             "topic": [
               {
                 "lines": [
@@ -1311,6 +1293,7 @@
           {
             "time": "2017-03-30T23:35:00.000Z",
             "top": "31 *",
+            "heading": "Neuordnung der Eisenbahnunfalluntersuchung",
             "topic": [
               {
                 "lines": [
@@ -1331,6 +1314,7 @@
           {
             "time": "2017-03-30T23:35:00.000Z",
             "top": "32 *",
+            "heading": "Abkommen zu militärischen Hauptquartieren",
             "topic": [
               {
                 "lines": [
@@ -1351,6 +1335,7 @@
           {
             "time": "2017-03-30T23:35:00.000Z",
             "top": "33 *",
+            "heading": "EU-Richtlinie über Versicherungsvertrieb",
             "topic": [
               {
                 "lines": [
@@ -1368,6 +1353,7 @@
           {
             "time": "2017-03-30T23:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1388,6 +1374,7 @@
           {
             "time": "2017-03-31T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1401,6 +1388,7 @@
           {
             "time": "2017-03-31T09:00:00.000Z",
             "top": "34",
+            "heading": "Deutsche Nachhaltigkeitsstrategie 2016",
             "topic": [
               {
                 "lines": [
@@ -1419,6 +1407,7 @@
           {
             "time": "2017-03-31T10:10:00.000Z",
             "top": "35",
+            "heading": "Finanzierung von Gesundheitsversorgung und Pflege",
             "topic": [
               {
                 "lines": [
@@ -1439,12 +1428,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/107/1810707.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1452,6 +1435,7 @@
           {
             "time": "2017-03-31T11:30:00.000Z",
             "top": "36",
+            "heading": "Bundeswehreinsatz EU NAVFOR Atalanta vor Somalia",
             "topic": [
               {
                 "lines": [
@@ -1469,6 +1453,7 @@
           {
             "time": "2017-03-31T12:00:00.000Z",
             "top": "37",
+            "heading": "Änderung des E-Government-Gesetzes",
             "topic": [
               {
                 "lines": [
@@ -1486,6 +1471,7 @@
           {
             "time": "2017-03-31T12:25:00.000Z",
             "top": "38",
+            "heading": "Förderung des Radverkehrs",
             "topic": [
               {
                 "lines": [
@@ -1503,6 +1489,7 @@
           {
             "time": "2017-03-31T13:10:00.000Z",
             "top": "39",
+            "heading": "Bildung in Europa - ERASMUS-Programm",
             "topic": [
               {
                 "lines": [
@@ -1523,12 +1510,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/117/1811737.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1536,6 +1517,7 @@
           {
             "time": "2017-03-31T13:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

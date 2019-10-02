@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=11",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=11",
     "description": "2019_11"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2019-03-13T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2019-03-13T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -52,6 +54,7 @@
           {
             "time": "2019-03-13T14:15:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -68,6 +71,7 @@
           {
             "time": "2019-03-13T15:40:00.000Z",
             "top": "ZP  1",
+            "heading": "Aktuelle Stunde zu den Auswirkungen der EU-Urheberrechtsreform",
             "topic": [
               {
                 "lines": [
@@ -83,6 +87,7 @@
           {
             "time": "2019-03-13T17:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -103,19 +108,14 @@
           {
             "time": "2019-03-14T09:00:00.000Z",
             "top": "",
-            "topic": [
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              }
-            ],
+            "heading": "Sitzungseröffnung",
+            "topic": [],
             "status": []
           },
           {
             "time": "2019-03-14T09:10:00.000Z",
             "top": "3",
+            "heading": "Verbesserung der gesundheitlichen Versorgung",
             "topic": [
               {
                 "lines": [
@@ -175,6 +175,7 @@
           {
             "time": "2019-03-14T10:25:00.000Z",
             "top": "ZP 2, ZP 3",
+            "heading": "Fair Play in der digitalen Wirtschaft",
             "topic": [
               {
                 "lines": [
@@ -197,12 +198,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901852.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/047/1904777.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -210,6 +205,7 @@
           {
             "time": "2019-03-14T11:40:00.000Z",
             "top": "5",
+            "heading": "Teilzeitmöglichkeit in den Freiwilligendiensten",
             "topic": [
               {
                 "lines": [
@@ -237,6 +233,7 @@
           {
             "time": "2019-03-14T12:45:00.000Z",
             "top": "6",
+            "heading": "Atomausstieg",
             "topic": [
               {
                 "lines": [
@@ -301,6 +298,7 @@
           {
             "time": "2019-03-14T14:00:00.000Z",
             "top": "26, ZP 4",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -407,6 +405,7 @@
           {
             "time": "2019-03-14T14:00:00.000Z",
             "top": "27, ZP 5",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -565,6 +564,7 @@
           {
             "time": "2019-03-14T14:05:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zur Vermeidung von Migrationsanreizen",
             "topic": [
               {
                 "lines": [
@@ -580,6 +580,7 @@
           {
             "time": "2019-03-14T15:15:00.000Z",
             "top": "7",
+            "heading": "Sportereignis Invictus Games",
             "topic": [
               {
                 "lines": [
@@ -597,6 +598,7 @@
           {
             "time": "2019-03-14T16:00:00.000Z",
             "top": "8, ZP 7",
+            "heading": "Schutz vor unverhältnismäßigen Inkassoforderungen",
             "topic": [
               {
                 "lines": [
@@ -617,12 +619,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/060/1906009.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -630,6 +626,7 @@
           {
             "time": "2019-03-14T16:45:00.000Z",
             "top": "9",
+            "heading": "Änderung des Bundes-Immissionsschutzgesetzes",
             "topic": [
               {
                 "lines": [
@@ -696,6 +693,7 @@
           {
             "time": "2019-03-14T17:50:00.000Z",
             "top": "10",
+            "heading": "Änderung des Straßenverkehrsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -717,6 +715,7 @@
           {
             "time": "2019-03-14T18:40:00.000Z",
             "top": "11, ZP 8",
+            "heading": "Managergehälter",
             "topic": [
               {
                 "lines": [
@@ -764,6 +763,7 @@
           {
             "time": "2019-03-14T19:25:00.000Z",
             "top": "12",
+            "heading": "Satzung der Europäischen Investitionsbank",
             "topic": [
               {
                 "lines": [
@@ -784,6 +784,7 @@
           {
             "time": "2019-03-14T20:00:00.000Z",
             "top": "13",
+            "heading": "Begrenzung der Amtszeit des Bundeskanzlers",
             "topic": [
               {
                 "lines": [
@@ -801,6 +802,7 @@
           {
             "time": "2019-03-14T20:45:00.000Z",
             "top": "14",
+            "heading": "EU-Prospektverordnung",
             "topic": [
               {
                 "lines": [
@@ -817,6 +819,7 @@
           {
             "time": "2019-03-14T21:15:00.000Z",
             "top": "15",
+            "heading": "Deutsche und europäische Israelpolitik",
             "topic": [
               {
                 "lines": [
@@ -840,6 +843,7 @@
           {
             "time": "2019-03-14T22:10:00.000Z",
             "top": "16, ZP 9",
+            "heading": "Neuregelung von Stromsteuerbefreiungen",
             "topic": [
               {
                 "lines": [
@@ -860,12 +864,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/082/1908268.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -873,6 +871,7 @@
           {
             "time": "2019-03-14T22:25:00.000Z",
             "top": "17",
+            "heading": "Polizeibeschwerdestelle auf Bundesebene",
             "topic": [
               {
                 "lines": [
@@ -890,6 +889,7 @@
           {
             "time": "2019-03-14T22:30:00.000Z",
             "top": "18, ZP 10",
+            "heading": "EU-Personalausweis",
             "topic": [
               {
                 "lines": [
@@ -917,6 +917,7 @@
           {
             "time": "2019-03-14T22:50:00.000Z",
             "top": "19",
+            "heading": "Schutz der finanziellen Interessen der EU",
             "topic": [
               {
                 "lines": [
@@ -934,6 +935,7 @@
           {
             "time": "2019-03-14T23:05:00.000Z",
             "top": "20",
+            "heading": "Wirtschafts- und Währungsunion",
             "topic": [
               {
                 "lines": [
@@ -988,6 +990,7 @@
           {
             "time": "2019-03-14T23:35:00.000Z",
             "top": "ZP 11 *",
+            "heading": "Lebensmittel- und Futtermittelgesetzbuch",
             "topic": [
               {
                 "lines": [
@@ -1016,12 +1019,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/074/1907435.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/083/1908349.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1029,6 +1026,7 @@
           {
             "time": "2019-03-14T23:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1049,6 +1047,7 @@
           {
             "time": "2019-03-15T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1062,6 +1061,7 @@
           {
             "time": "2019-03-15T09:00:00.000Z",
             "top": "21",
+            "heading": "Vereinbarte Debatte Internationaler Frauentag",
             "topic": [
               {
                 "lines": [
@@ -1076,6 +1076,7 @@
           {
             "time": "2019-03-15T10:15:00.000Z",
             "top": "ZP 12",
+            "heading": "Ein Europa der Zusammenarbeit souveräner Nationen",
             "topic": [
               {
                 "lines": [
@@ -1095,6 +1096,7 @@
           {
             "time": "2019-03-15T11:25:00.000Z",
             "top": "ZP 13",
+            "heading": "Errichtung der Stiftung Forum Recht",
             "topic": [
               {
                 "lines": [
@@ -1112,6 +1114,7 @@
           {
             "time": "2019-03-15T12:10:00.000Z",
             "top": "23",
+            "heading": "Ost-Quote in Bundesbehörden",
             "topic": [
               {
                 "lines": [
@@ -1139,6 +1142,7 @@
           {
             "time": "2019-03-15T13:25:00.000Z",
             "top": "24",
+            "heading": "Mittelrheintal - alternative Gütertrasse",
             "topic": [
               {
                 "lines": [
@@ -1156,6 +1160,7 @@
           {
             "time": "2019-03-15T14:15:00.000Z",
             "top": "25, ZP 14",
+            "heading": "Teilhabe im Wahlrecht",
             "topic": [
               {
                 "lines": [
@@ -1196,6 +1201,7 @@
           {
             "time": "2019-03-15T15:10:00.000Z",
             "top": "ZP 15",
+            "heading": "Aktuelle Stunde zu den Klimastreiks der Fridays for Future Bewegung",
             "topic": [
               {
                 "lines": [
@@ -1211,6 +1217,7 @@
           {
             "time": "2019-03-15T16:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

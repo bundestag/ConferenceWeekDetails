@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2017&week=25",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2017&week=25",
     "description": "2017_25"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2017-06-21T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2017-06-21T13:05:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -52,6 +54,7 @@
           {
             "time": "2017-06-21T13:45:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -68,6 +71,7 @@
           {
             "time": "2017-06-21T14:35:00.000Z",
             "top": "3 + ZP 1",
+            "heading": "Bericht des Expertenkreises Antisemitismus",
             "topic": [
               {
                 "lines": [
@@ -95,6 +99,7 @@
           {
             "time": "2017-06-21T15:50:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zu Auswirkungen von Privatisierungen und Schwimmbadschließungen",
             "topic": [
               {
                 "lines": [
@@ -110,6 +115,7 @@
           {
             "time": "2017-06-21T17:05:00.000Z",
             "top": "4 + ZP 3",
+            "heading": "Abzug der Bundeswehr aus Incirlik",
             "topic": [
               {
                 "lines": [
@@ -139,6 +145,7 @@
           {
             "time": "2017-06-21T17:45:00.000Z",
             "top": "5",
+            "heading": "Finanzierung und Förderung von Gründungen",
             "topic": [
               {
                 "lines": [
@@ -149,12 +156,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/123/1812369.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -162,6 +163,7 @@
           {
             "time": "2017-06-21T18:15:00.000Z",
             "top": "6",
+            "heading": "Einsatz in internationalen Polizeimissionen 2016",
             "topic": [
               {
                 "lines": [
@@ -179,6 +181,7 @@
           {
             "time": "2017-06-21T19:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -199,6 +202,7 @@
           {
             "time": "2017-06-22T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -212,6 +216,7 @@
           {
             "time": "2017-06-22T09:35:00.000Z",
             "top": "7",
+            "heading": "Reform der Pflegeberufe",
             "topic": [
               {
                 "lines": [
@@ -239,12 +244,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/114/1811414.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -252,6 +251,7 @@
           {
             "time": "2017-06-22T10:50:00.000Z",
             "top": "8",
+            "heading": "Technologische Leistungsfähigkeit Deutschlands",
             "topic": [
               {
                 "lines": [
@@ -312,6 +312,7 @@
           {
             "time": "2017-06-22T12:05:00.000Z",
             "top": "9",
+            "heading": "Klimaschutzpolitik",
             "topic": [
               {
                 "lines": [
@@ -397,6 +398,7 @@
           {
             "time": "2017-06-22T13:25:00.000Z",
             "top": "36 + ZP4 + ZP12",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -519,12 +521,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/120/1812097.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -532,6 +528,7 @@
           {
             "time": "2017-06-22T13:30:00.000Z",
             "top": "37 + 22 + ZP 5",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -874,6 +871,7 @@
           {
             "time": "2017-06-22T13:50:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zur Europapolitik der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -889,6 +887,7 @@
           {
             "time": "2017-06-22T15:00:00.000Z",
             "top": "10",
+            "heading": "Änderung des Grundgesetzes (Parteienfinanzierung)",
             "topic": [
               {
                 "lines": [
@@ -922,6 +921,7 @@
           {
             "time": "2017-06-22T16:05:00.000Z",
             "top": "11",
+            "heading": "Bundeswehreinsatz in Kosovo (KFOR)",
             "topic": [
               {
                 "lines": [
@@ -945,6 +945,7 @@
           {
             "time": "2017-06-22T16:55:00.000Z",
             "top": "12",
+            "heading": "Inklusive Bildung für alle",
             "topic": [
               {
                 "lines": [
@@ -985,6 +986,7 @@
           {
             "time": "2017-06-22T17:45:00.000Z",
             "top": "ZP  7",
+            "heading": "Effektivere und praxistauglichere Strafverfahren",
             "topic": [
               {
                 "lines": [
@@ -1009,6 +1011,7 @@
           {
             "time": "2017-06-22T18:40:00.000Z",
             "top": "14 + 37f",
+            "heading": "Pestizidreduktion in der Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -1061,12 +1064,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/127/1812797.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1074,6 +1071,7 @@
           {
             "time": "2017-06-22T19:25:00.000Z",
             "top": "ZP 8",
+            "heading": "Strafrechtliche Rehabilitierung - Homosexualität",
             "topic": [
               {
                 "lines": [
@@ -1108,12 +1106,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/101/1810118.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/127/1812786.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1121,6 +1113,7 @@
           {
             "time": "2017-06-22T20:20:00.000Z",
             "top": "16",
+            "heading": "Wohnungswirtschaft, Kündigungsschutz",
             "topic": [
               {
                 "lines": [
@@ -1170,6 +1163,7 @@
           {
             "time": "2017-06-22T20:55:00.000Z",
             "top": "ZP 9",
+            "heading": "Portugal: Rückzahlung der IWF-Finanzhilfe",
             "topic": [
               {
                 "lines": [
@@ -1188,6 +1182,7 @@
           {
             "time": "2017-06-22T21:20:00.000Z",
             "top": "18",
+            "heading": "Humanitäre Hilfe",
             "topic": [
               {
                 "lines": [
@@ -1218,6 +1213,7 @@
           {
             "time": "2017-06-22T21:50:00.000Z",
             "top": "15",
+            "heading": "Änderung des Bundesnaturschutzgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1237,6 +1233,7 @@
           {
             "time": "2017-06-22T22:25:00.000Z",
             "top": "20 *",
+            "heading": "Beendigungsgesetz zum Berlin/Bonn-Gesetz",
             "topic": [
               {
                 "lines": [
@@ -1249,12 +1246,6 @@
                   "http://dip21.bundestag.de/dip21/btd/18/081/1808130.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/126/1812620.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1262,6 +1253,7 @@
           {
             "time": "2017-06-22T22:25:00.000Z",
             "top": "17 *",
+            "heading": "Medienöffentlichkeit in Gerichtsverfahren",
             "topic": [
               {
                 "lines": [
@@ -1283,6 +1275,7 @@
           {
             "time": "2017-06-22T22:25:00.000Z",
             "top": "19 *",
+            "heading": "Sicherung der tarifvertraglichen Sozialkassenverfahren",
             "topic": [
               {
                 "lines": [
@@ -1303,6 +1296,7 @@
           {
             "time": "2017-06-22T22:30:00.000Z",
             "top": "21",
+            "heading": "Hilfen für Kinder psychisch kranker Eltern",
             "topic": [
               {
                 "lines": [
@@ -1320,6 +1314,7 @@
           {
             "time": "2017-06-22T23:00:00.000Z",
             "top": "23",
+            "heading": "Gesamtkonzept Elbe",
             "topic": [
               {
                 "lines": [
@@ -1351,6 +1346,7 @@
           {
             "time": "2017-06-22T23:35:00.000Z",
             "top": "24 *",
+            "heading": "Ärztliche Zwangsbehandlung bei Betreuten",
             "topic": [
               {
                 "lines": [
@@ -1373,6 +1369,7 @@
           {
             "time": "2017-06-22T23:40:00.000Z",
             "top": "25",
+            "heading": "Berufszulassungsregelung für Immobilienmakler",
             "topic": [
               {
                 "lines": [
@@ -1405,6 +1402,7 @@
           {
             "time": "2017-06-22T00:10:00.000Z",
             "top": "26 *",
+            "heading": "Änderung des Schornsteinfeger-Handwerksgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1425,6 +1423,7 @@
           {
             "time": "2017-06-22T00:10:00.000Z",
             "top": "27 *",
+            "heading": "Verfassung der Internationalen Arbeitsorganisation",
             "topic": [
               {
                 "lines": [
@@ -1446,6 +1445,7 @@
           {
             "time": "2017-06-22T00:10:00.000Z",
             "top": "28",
+            "heading": "Kooperationsmodelle im Nachtzugverkehr",
             "topic": [
               {
                 "lines": [
@@ -1478,6 +1478,7 @@
           {
             "time": "2017-06-22T00:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1498,6 +1499,7 @@
           {
             "time": "2017-06-23T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1511,6 +1513,7 @@
           {
             "time": "2017-06-23T09:00:00.000Z",
             "top": "29",
+            "heading": "Berichte: Kinder- und Jugend, ältere Generation",
             "topic": [
               {
                 "lines": [
@@ -1535,12 +1538,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/102/1810210.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1548,6 +1545,7 @@
           {
             "time": "2017-06-23T10:05:00.000Z",
             "top": "30",
+            "heading": "Abschaffung der sachgrundlosen Befristung",
             "topic": [
               {
                 "lines": [
@@ -1568,6 +1566,7 @@
           {
             "time": "2017-06-23T11:45:00.000Z",
             "top": "31 + ZP 10",
+            "heading": "Schutz von Journalisten, Planung Deutsche Welle",
             "topic": [
               {
                 "lines": [
@@ -1608,6 +1607,7 @@
           {
             "time": "2017-06-23T12:35:00.000Z",
             "top": "32",
+            "heading": "Bericht des 4. Untersuchungsausschusses (cum-ex)",
             "topic": [
               {
                 "lines": [
@@ -1624,6 +1624,7 @@
           {
             "time": "2017-06-23T13:45:00.000Z",
             "top": "33",
+            "heading": "Suizidprävention",
             "topic": [
               {
                 "lines": [
@@ -1641,6 +1642,7 @@
           {
             "time": "2017-06-23T14:30:00.000Z",
             "top": "34 + ZP 11",
+            "heading": "Frauen- und Gleichstellungspolitik",
             "topic": [
               {
                 "lines": [
@@ -1694,6 +1696,7 @@
           {
             "time": "2017-06-23T15:15:00.000Z",
             "top": "35",
+            "heading": "Tourismuspolitischer Bericht der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -1712,6 +1715,7 @@
           {
             "time": "2017-06-23T16:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=45",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=45",
     "description": "2018_45"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-11-07T12:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-11-07T12:30:00.000Z",
             "top": "1",
+            "heading": "Vereinbarte Debatte: Gleichwertige Lebensverhältnisse",
             "topic": [
               {
                 "lines": [
@@ -53,6 +55,7 @@
           {
             "time": "2018-11-07T14:50:00.000Z",
             "top": "2",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -67,6 +70,7 @@
           {
             "time": "2018-11-07T15:55:00.000Z",
             "top": "3",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -84,6 +88,7 @@
           {
             "time": "2018-11-07T17:30:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu Cum-Ex-Gestaltungen",
             "topic": [
               {
                 "lines": [
@@ -99,6 +104,7 @@
           {
             "time": "2018-11-07T18:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -119,6 +125,7 @@
           {
             "time": "2018-11-08T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -132,6 +139,7 @@
           {
             "time": "2018-11-08T09:05:00.000Z",
             "top": "4",
+            "heading": "Gesetzliche Rentenversicherung",
             "topic": [
               {
                 "lines": [
@@ -184,18 +192,6 @@
                   "Namentliche Abstimmung"
                 ],
                 "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -203,6 +199,7 @@
           {
             "time": "2018-11-08T10:30:00.000Z",
             "top": "5, ZP 2-3",
+            "heading": "Global Compact for Migration",
             "topic": [
               {
                 "lines": [
@@ -241,6 +238,7 @@
           {
             "time": "2018-11-08T12:05:00.000Z",
             "top": "6",
+            "heading": "Einstufung als sichere Herkunftsstaaten",
             "topic": [
               {
                 "lines": [
@@ -258,6 +256,7 @@
           {
             "time": "2018-11-08T13:20:00.000Z",
             "top": "7",
+            "heading": "Zwei-Prozent-Rüstungsziel der NATO",
             "topic": [
               {
                 "lines": [
@@ -283,6 +282,7 @@
           {
             "time": "2018-11-08T14:40:00.000Z",
             "top": "32, ZP 4",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -474,6 +474,7 @@
           {
             "time": "2018-11-08T14:45:00.000Z",
             "top": "33, 23, ZP 5",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -738,6 +739,7 @@
           {
             "time": "2018-11-08T15:05:00.000Z",
             "top": "8",
+            "heading": "Wahl der Mitglieder des Kuratoriums der Stiftung Denkmal für die ermordeten Juden Europas",
             "topic": [
               {
                 "lines": [
@@ -759,6 +761,7 @@
           {
             "time": "2018-11-08T15:10:00.000Z",
             "top": "9",
+            "heading": "Wahl der Mitglieder des Kuratoriums Bundesstiftung Magnus Hirschfeld",
             "topic": [
               {
                 "lines": [
@@ -780,6 +783,7 @@
           {
             "time": "2018-11-08T15:10:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zur Zukunft des INF-Vertrages",
             "topic": [
               {
                 "lines": [
@@ -795,6 +799,7 @@
           {
             "time": "2018-11-08T16:25:00.000Z",
             "top": "10",
+            "heading": "Änderung des SGB II - Teilhabechancengesetz",
             "topic": [
               {
                 "lines": [
@@ -826,12 +831,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/005/1900591.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/055/1905588.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -839,6 +838,7 @@
           {
             "time": "2018-11-08T17:15:00.000Z",
             "top": "11, ZP 7",
+            "heading": "Attraktivität Deutschlands für ausländisches Kapital",
             "topic": [
               {
                 "lines": [
@@ -866,6 +866,7 @@
           {
             "time": "2018-11-08T18:00:00.000Z",
             "top": "12",
+            "heading": "Familienentlastungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -895,6 +896,7 @@
           {
             "time": "2018-11-08T19:05:00.000Z",
             "top": "ZP 21",
+            "heading": "Aufhebung Immunität",
             "topic": [
               {
                 "lines": [
@@ -911,6 +913,7 @@
           {
             "time": "2018-11-08T19:10:00.000Z",
             "top": "13",
+            "heading": "Vermeidung von Umsatzsteuerausfällen",
             "topic": [
               {
                 "lines": [
@@ -942,6 +945,7 @@
           {
             "time": "2018-11-08T20:15:00.000Z",
             "top": "27",
+            "heading": "Menschenrechtsverletzungen in Xinjiang",
             "topic": [
               {
                 "lines": [
@@ -959,6 +963,7 @@
           {
             "time": "2018-11-08T21:05:00.000Z",
             "top": "15, ZP 8",
+            "heading": "Änderung des Asylgesetzes",
             "topic": [
               {
                 "lines": [
@@ -992,6 +997,7 @@
           {
             "time": "2018-11-08T21:50:00.000Z",
             "top": "16",
+            "heading": "Gesetz über Ruhebezüge des Bundespräsidenten",
             "topic": [
               {
                 "lines": [
@@ -1009,6 +1015,7 @@
           {
             "time": "2018-11-08T22:20:00.000Z",
             "top": "17",
+            "heading": "Planung und Genehmigung im Verkehrsbereich",
             "topic": [
               {
                 "lines": [
@@ -1031,6 +1038,7 @@
           {
             "time": "2018-11-08T22:55:00.000Z",
             "top": "18",
+            "heading": "Bewerbung Special Olympics World Games 2023",
             "topic": [
               {
                 "lines": [
@@ -1048,6 +1056,7 @@
           {
             "time": "2018-11-08T23:20:00.000Z",
             "top": "19",
+            "heading": "Änderung des SGB XI - Beitragssatzanpassung",
             "topic": [
               {
                 "lines": [
@@ -1075,6 +1084,7 @@
           {
             "time": "2018-11-08T23:40:00.000Z",
             "top": "20",
+            "heading": "Frauenanteil im Deutschen Bundestag",
             "topic": [
               {
                 "lines": [
@@ -1094,6 +1104,7 @@
           {
             "time": "2018-11-08T00:15:00.000Z",
             "top": "21",
+            "heading": "Anpassung von Finanzmarktgesetzen",
             "topic": [
               {
                 "lines": [
@@ -1114,6 +1125,7 @@
           {
             "time": "2018-11-08T00:25:00.000Z",
             "top": "22",
+            "heading": "Fortentwicklung des europäischen Emissionshandels",
             "topic": [
               {
                 "lines": [
@@ -1134,6 +1146,7 @@
           {
             "time": "2018-11-08T00:45:00.000Z",
             "top": "14",
+            "heading": "Entwicklung des eSports",
             "topic": [
               {
                 "lines": [
@@ -1151,6 +1164,7 @@
           {
             "time": "2018-11-08T01:20:00.000Z",
             "top": "30 *",
+            "heading": "Änderung des Umwandlungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1168,6 +1182,7 @@
           {
             "time": "2018-11-08T01:20:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1188,6 +1203,7 @@
           {
             "time": "2018-11-09T10:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1201,6 +1217,7 @@
           {
             "time": "2018-11-09T10:30:00.000Z",
             "top": "24, ZP 9",
+            "heading": "Pflegepersonalstärkungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1259,6 +1276,7 @@
           {
             "time": "2018-11-09T11:40:00.000Z",
             "top": "25, ZP 10-11",
+            "heading": "Deutsch-Französische Zusammenarbeit",
             "topic": [
               {
                 "lines": [
@@ -1298,6 +1316,7 @@
           {
             "time": "2018-11-09T12:40:00.000Z",
             "top": "ZP 12-14",
+            "heading": "Änderung des Tierschutzgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1335,6 +1354,7 @@
           {
             "time": "2018-11-09T13:15:00.000Z",
             "top": "ZP 15",
+            "heading": "Änderung von energierechtlichen Vorschriften",
             "topic": [
               {
                 "lines": [
@@ -1352,6 +1372,7 @@
           {
             "time": "2018-11-09T13:50:00.000Z",
             "top": "ZP 16-18",
+            "heading": "Humanitäre Katastrophe in Jemen und Rüstungsexport",
             "topic": [
               {
                 "lines": [
@@ -1398,6 +1419,7 @@
           {
             "time": "2018-11-09T14:55:00.000Z",
             "top": "26, ZP 19",
+            "heading": "Brexit-Übergangsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1424,6 +1446,7 @@
           {
             "time": "2018-11-09T15:40:00.000Z",
             "top": "29",
+            "heading": "Bau des Freiheits- und Einheitsdenkmals",
             "topic": [
               {
                 "lines": [
@@ -1441,6 +1464,7 @@
           {
             "time": "2018-11-09T16:20:00.000Z",
             "top": "28",
+            "heading": "Beteiligung des Bundes an Integrationskosten",
             "topic": [
               {
                 "lines": [
@@ -1458,6 +1482,7 @@
           {
             "time": "2018-11-09T16:55:00.000Z",
             "top": "31",
+            "heading": "Europäische Finanztransaktionsteuer",
             "topic": [
               {
                 "lines": [
@@ -1475,6 +1500,7 @@
           {
             "time": "2018-11-09T17:25:00.000Z",
             "top": "ZP 20",
+            "heading": "Aktuelle Stunde zum Umgang mit externen Beratern im Geschäftsbereich des BMVg",
             "topic": [
               {
                 "lines": [
@@ -1490,6 +1516,7 @@
           {
             "time": "2018-11-09T18:45:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

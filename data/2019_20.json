@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=20",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=20",
     "description": "2019_20"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2019-05-15T13:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2019-05-15T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -52,6 +54,7 @@
           {
             "time": "2019-05-15T14:15:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
             "topic": [
               {
                 "lines": [
@@ -68,6 +71,7 @@
           {
             "time": "2019-05-15T15:45:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zum Iran-Atomabkommen",
             "topic": [
               {
                 "lines": [
@@ -83,6 +87,7 @@
           {
             "time": "2019-05-15T17:10:00.000Z",
             "top": "3",
+            "heading": "Tätigkeitsbericht 2018 des Petitionsausschusses",
             "topic": [
               {
                 "lines": [
@@ -101,6 +106,7 @@
           {
             "time": "2019-05-15T18:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -121,6 +127,7 @@
           {
             "time": "2019-05-16T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -134,6 +141,7 @@
           {
             "time": "2019-05-16T09:00:00.000Z",
             "top": "4",
+            "heading": "Vereinbarte Debatte - 70 Jahre Grundgesetz",
             "topic": [
               {
                 "lines": [
@@ -148,6 +156,7 @@
           {
             "time": "2019-05-16T11:20:00.000Z",
             "top": "5",
+            "heading": "Entlastung bei den Sozialabgaben",
             "topic": [
               {
                 "lines": [
@@ -166,6 +175,7 @@
           {
             "time": "2019-05-16T12:25:00.000Z",
             "top": "6",
+            "heading": "Durchsetzung der Ausreisepflicht",
             "topic": [
               {
                 "lines": [
@@ -183,6 +193,7 @@
           {
             "time": "2019-05-16T13:35:00.000Z",
             "top": "7, ZP 2",
+            "heading": "Löhne und Arbeitsbedingungen im Postmarkt",
             "topic": [
               {
                 "lines": [
@@ -220,6 +231,7 @@
           {
             "time": "2019-05-16T14:45:00.000Z",
             "top": "31, ZP 3",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -398,12 +410,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/101/1910167.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -411,6 +417,7 @@
           {
             "time": "2019-05-16T14:45:00.000Z",
             "top": "32",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -701,6 +708,7 @@
           {
             "time": "2019-05-16T15:00:00.000Z",
             "top": "ZP 4",
+            "heading": "2. Wahlgang - Stellvertreter des Präsidenten",
             "topic": [
               {
                 "lines": [
@@ -725,6 +733,7 @@
           {
             "time": "2019-05-16T15:25:00.000Z",
             "top": "ZP 5",
+            "heading": "Gremienwahlen",
             "topic": [
               {
                 "lines": [
@@ -782,6 +791,7 @@
           {
             "time": "2019-05-16T16:00:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zur Finanzierungslücke bei der Grundrente",
             "topic": [
               {
                 "lines": [
@@ -797,6 +807,7 @@
           {
             "time": "2019-05-16T17:20:00.000Z",
             "top": "8",
+            "heading": "Änderung des Bundesausbildungsförderungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -842,6 +853,7 @@
           {
             "time": "2019-05-16T18:30:00.000Z",
             "top": "9",
+            "heading": "Digitalpakt 2.0",
             "topic": [
               {
                 "lines": [
@@ -879,6 +891,7 @@
           {
             "time": "2019-05-16T19:15:00.000Z",
             "top": "10",
+            "heading": "Anpassung der Betreuer- und Vormündervergütung",
             "topic": [
               {
                 "lines": [
@@ -900,6 +913,7 @@
           {
             "time": "2019-05-16T20:00:00.000Z",
             "top": "11",
+            "heading": "Änderung des Staatsangehörigkeitsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -916,6 +930,7 @@
           {
             "time": "2019-05-16T20:40:00.000Z",
             "top": "12",
+            "heading": "Gemeinsame Außen-u. Sicherheitspolitik der EU",
             "topic": [
               {
                 "lines": [
@@ -955,6 +970,7 @@
           {
             "time": "2019-05-16T21:20:00.000Z",
             "top": "13",
+            "heading": "Gesetz zur deutsch-französischen Zusammenarbeit",
             "topic": [
               {
                 "lines": [
@@ -971,6 +987,7 @@
           {
             "time": "2019-05-16T22:00:00.000Z",
             "top": "14",
+            "heading": "Freiheit im Internet",
             "topic": [
               {
                 "lines": [
@@ -988,6 +1005,7 @@
           {
             "time": "2019-05-16T22:25:00.000Z",
             "top": "17",
+            "heading": "Ausländerbeschäftigungsförderungsgesetz",
             "topic": [
               {
                 "lines": [
@@ -1005,6 +1023,7 @@
           {
             "time": "2019-05-16T22:35:00.000Z",
             "top": "ZP 7",
+            "heading": "Militärische Eskalation im Nahen Osten",
             "topic": [
               {
                 "lines": [
@@ -1022,6 +1041,7 @@
           {
             "time": "2019-05-16T23:00:00.000Z",
             "top": "15",
+            "heading": "Änderung des Asylbewerberleistungsgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1039,6 +1059,7 @@
           {
             "time": "2019-05-16T23:10:00.000Z",
             "top": "ZP 8",
+            "heading": "Änderung des Grundgesetzes - Grundrechte für alle",
             "topic": [
               {
                 "lines": [
@@ -1056,6 +1077,7 @@
           {
             "time": "2019-05-16T23:35:00.000Z",
             "top": "19",
+            "heading": "Änderung des Bundeswahlgesetzes",
             "topic": [
               {
                 "lines": [
@@ -1075,6 +1097,7 @@
           {
             "time": "2019-05-16T00:05:00.000Z",
             "top": "20",
+            "heading": "Digitalisierung in der Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -1092,6 +1115,7 @@
           {
             "time": "2019-05-16T00:20:00.000Z",
             "top": "21, ZP 9",
+            "heading": "Europäische Digitalkonzernsteuer",
             "topic": [
               {
                 "lines": [
@@ -1119,6 +1143,7 @@
           {
             "time": "2019-05-16T00:40:00.000Z",
             "top": "23",
+            "heading": "Fixierungen im Rahmen von Freiheitsentziehungen",
             "topic": [
               {
                 "lines": [
@@ -1141,6 +1166,7 @@
           {
             "time": "2019-05-16T00:50:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1161,6 +1187,7 @@
           {
             "time": "2019-05-17T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -1174,6 +1201,7 @@
           {
             "time": "2019-05-17T09:00:00.000Z",
             "top": "24",
+            "heading": "Maritime Wirtschaftspolitik",
             "topic": [
               {
                 "lines": [
@@ -1231,6 +1259,7 @@
           {
             "time": "2019-05-17T10:10:00.000Z",
             "top": "25",
+            "heading": "Europol",
             "topic": [
               {
                 "lines": [
@@ -1248,6 +1277,7 @@
           {
             "time": "2019-05-17T11:25:00.000Z",
             "top": "26",
+            "heading": "Bundeswehreinsatz in Libanon (UNIFIL)",
             "topic": [
               {
                 "lines": [
@@ -1265,6 +1295,7 @@
           {
             "time": "2019-05-17T12:05:00.000Z",
             "top": "27",
+            "heading": "Schutz von Gewässern und Grundwasser",
             "topic": [
               {
                 "lines": [
@@ -1292,6 +1323,7 @@
           {
             "time": "2019-05-17T13:10:00.000Z",
             "top": "28, ZP 10",
+            "heading": "70 Jahre Europarat",
             "topic": [
               {
                 "lines": [
@@ -1329,6 +1361,7 @@
           {
             "time": "2019-05-17T13:55:00.000Z",
             "top": "29",
+            "heading": "EU-Budget",
             "topic": [
               {
                 "lines": [
@@ -1346,6 +1379,7 @@
           {
             "time": "2019-05-17T14:45:00.000Z",
             "top": "ZP 11, 12, 14",
+            "heading": "BDS-Bewegung",
             "topic": [
               {
                 "lines": [
@@ -1389,6 +1423,7 @@
           {
             "time": "2019-05-17T15:30:00.000Z",
             "top": "30",
+            "heading": "Rüstungsexport",
             "topic": [
               {
                 "lines": [
@@ -1421,6 +1456,7 @@
           {
             "time": "2019-05-17T16:20:00.000Z",
             "top": "ZP 13",
+            "heading": "Aktuelle Stunde zu Maßnahmen gegen Homo- und Transfeindlichkeit",
             "topic": [
               {
                 "lines": [
@@ -1436,6 +1472,7 @@
           {
             "time": "2019-05-17T17:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

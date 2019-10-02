@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2018&week=11",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=11",
     "description": "2018_11"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2018-03-14T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2018-03-14T09:00:00.000Z",
             "top": "1",
+            "heading": "Wahl der Bundeskanzlerin",
             "topic": [
               {
                 "lines": [
@@ -52,6 +54,7 @@
           {
             "time": "2018-03-14T09:55:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -65,6 +68,7 @@
           {
             "time": "2018-03-14T12:00:00.000Z",
             "top": "2",
+            "heading": "Eidesleistung der Bundeskanzlerin",
             "topic": [
               {
                 "lines": [
@@ -78,6 +82,7 @@
           {
             "time": "2018-03-14T12:05:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -91,6 +96,7 @@
           {
             "time": "2018-03-14T13:30:00.000Z",
             "top": "3",
+            "heading": "Bekanntgabe der Bildung der Bundesregierung",
             "topic": [
               {
                 "lines": [
@@ -104,6 +110,7 @@
           {
             "time": "2018-03-14T13:30:00.000Z",
             "top": "4",
+            "heading": "Eidesleistung der Bundesminister",
             "topic": [
               {
                 "lines": [
@@ -117,6 +124,7 @@
           {
             "time": "2018-03-14T13:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -137,6 +145,7 @@
           {
             "time": "2018-03-15T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -150,6 +159,7 @@
           {
             "time": "2018-03-15T09:05:00.000Z",
             "top": "5",
+            "heading": "Bundeswehreinsatz zur Stabilisierung des Iraks",
             "topic": [
               {
                 "lines": [
@@ -167,6 +177,7 @@
           {
             "time": "2018-03-15T09:50:00.000Z",
             "top": "6, ZP 1",
+            "heading": "Bundeswehreinsatz in Afghanistan (Resolute Support)",
             "topic": [
               {
                 "lines": [
@@ -187,12 +198,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/011/1901120.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -200,6 +205,7 @@
           {
             "time": "2018-03-15T10:35:00.000Z",
             "top": "7",
+            "heading": "Abschaffung des Solidaritätszuschlags",
             "topic": [
               {
                 "lines": [
@@ -217,6 +223,7 @@
           {
             "time": "2018-03-15T11:25:00.000Z",
             "top": "8",
+            "heading": "Bundeswehreinsatz in Südsudan (UNMISS)",
             "topic": [
               {
                 "lines": [
@@ -234,6 +241,7 @@
           {
             "time": "2018-03-15T12:10:00.000Z",
             "top": "9",
+            "heading": "Änderung des Arbeitszeitgesetzes",
             "topic": [
               {
                 "lines": [
@@ -251,6 +259,7 @@
           {
             "time": "2018-03-15T13:05:00.000Z",
             "top": "10",
+            "heading": "Erleichterung von Betriebsratswahlen",
             "topic": [
               {
                 "lines": [
@@ -268,6 +277,7 @@
           {
             "time": "2018-03-15T13:50:00.000Z",
             "top": "11",
+            "heading": "Multiresistente Keime im Wasser",
             "topic": [
               {
                 "lines": [
@@ -285,6 +295,7 @@
           {
             "time": "2018-03-15T14:40:00.000Z",
             "top": "23",
+            "heading": "Überweisung im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -302,6 +313,7 @@
           {
             "time": "2018-03-15T14:40:00.000Z",
             "top": "12",
+            "heading": "Wahlen zu Gremien",
             "topic": [
               {
                 "lines": [
@@ -350,6 +362,7 @@
           {
             "time": "2018-03-15T14:40:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zur Gefahr eines Handelskrieges",
             "topic": [
               {
                 "lines": [
@@ -365,6 +378,7 @@
           {
             "time": "2018-03-15T15:50:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz in Darfur (UNAMID)",
             "topic": [
               {
                 "lines": [
@@ -382,6 +396,7 @@
           {
             "time": "2018-03-15T16:35:00.000Z",
             "top": "14, ZP 3",
+            "heading": "Vorgehen der Türkei in Syrien",
             "topic": [
               {
                 "lines": [
@@ -429,6 +444,7 @@
           {
             "time": "2018-03-15T17:25:00.000Z",
             "top": "15",
+            "heading": "Familienrechtliches Wechselmodell als Regelfall",
             "topic": [
               {
                 "lines": [
@@ -456,6 +472,7 @@
           {
             "time": "2018-03-15T18:10:00.000Z",
             "top": "16",
+            "heading": "Absicherung von Solo-Selbständigen",
             "topic": [
               {
                 "lines": [
@@ -473,6 +490,7 @@
           {
             "time": "2018-03-15T19:00:00.000Z",
             "top": "17",
+            "heading": "Europäische Patentrechtsreform",
             "topic": [
               {
                 "lines": [
@@ -491,6 +509,7 @@
           {
             "time": "2018-03-15T19:40:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -511,6 +530,7 @@
           {
             "time": "2018-03-16T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -524,6 +544,7 @@
           {
             "time": "2018-03-16T09:00:00.000Z",
             "top": "18",
+            "heading": "Bundeswehreinsatz im Mittelmeer (SEA GUARDIAN)",
             "topic": [
               {
                 "lines": [
@@ -541,6 +562,7 @@
           {
             "time": "2018-03-16T09:45:00.000Z",
             "top": "19",
+            "heading": "Einführung umfassender Grenzkontrollen",
             "topic": [
               {
                 "lines": [
@@ -566,6 +588,7 @@
           {
             "time": "2018-03-16T10:45:00.000Z",
             "top": "20",
+            "heading": "Aufhebung des Solidaritätszuschlaggesetzes 1995",
             "topic": [
               {
                 "lines": [
@@ -582,6 +605,7 @@
           {
             "time": "2018-03-16T11:30:00.000Z",
             "top": "21, ZP 4",
+            "heading": "Lohndiskriminierung von Frauen",
             "topic": [
               {
                 "lines": [
@@ -609,6 +633,7 @@
           {
             "time": "2018-03-16T12:20:00.000Z",
             "top": "22",
+            "heading": "Gesetz zur Einführung von Gruppenverfahren",
             "topic": [
               {
                 "lines": [
@@ -626,6 +651,7 @@
           {
             "time": "2018-03-16T13:10:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2014&week=37",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2014&week=37",
     "description": "2014_37"
   },
   "data": {
@@ -26,6 +26,7 @@
           {
             "time": "2014-09-09T10:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +40,7 @@
           {
             "time": "2014-09-09T10:00:00.000Z",
             "top": "1",
+            "heading": "Einbringung Haushaltsgesetz 2015, Finanzplan",
             "topic": [
               {
                 "lines": [
@@ -58,12 +60,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/020/1802001.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -71,6 +67,7 @@
           {
             "time": "2014-09-09T10:45:00.000Z",
             "top": "2",
+            "heading": "Allgemeine Finanzdebatte",
             "topic": [
               {
                 "lines": [
@@ -85,6 +82,7 @@
           {
             "time": "2014-09-09T12:30:00.000Z",
             "top": "Epl 06",
+            "heading": "Innen",
             "topic": [
               {
                 "lines": [
@@ -99,6 +97,7 @@
           {
             "time": "2014-09-09T14:30:00.000Z",
             "top": "Epl 07",
+            "heading": "Justiz und Verbraucherschutz",
             "topic": [
               {
                 "lines": [
@@ -113,6 +112,7 @@
           {
             "time": "2014-09-09T16:15:00.000Z",
             "top": "Epl 15",
+            "heading": "Gesundheit",
             "topic": [
               {
                 "lines": [
@@ -127,6 +127,7 @@
           {
             "time": "2014-09-09T18:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -147,6 +148,7 @@
           {
             "time": "2014-09-10T10:30:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -160,6 +162,7 @@
           {
             "time": "2014-09-10T10:35:00.000Z",
             "top": "Epl 04",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
             "topic": [
               {
                 "lines": [
@@ -174,6 +177,7 @@
           {
             "time": "2014-09-10T14:45:00.000Z",
             "top": "Epl 09",
+            "heading": "Wirtschaft und Energie",
             "topic": [
               {
                 "lines": [
@@ -188,6 +192,7 @@
           {
             "time": "2014-09-10T17:15:00.000Z",
             "top": "Epl 14",
+            "heading": "Verteidigung",
             "topic": [
               {
                 "lines": [
@@ -202,6 +207,7 @@
           {
             "time": "2014-09-10T19:05:00.000Z",
             "top": "Epl 23",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
             "topic": [
               {
                 "lines": [
@@ -216,6 +222,7 @@
           {
             "time": "2014-09-10T21:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -236,6 +243,7 @@
           {
             "time": "2014-09-11T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -249,6 +257,7 @@
           {
             "time": "2014-09-11T09:05:00.000Z",
             "top": "Epl 05",
+            "heading": "Auswärtiges Amt",
             "topic": [
               {
                 "lines": [
@@ -263,6 +272,7 @@
           {
             "time": "2014-09-11T11:00:00.000Z",
             "top": "Epl 30",
+            "heading": "Bildung und Forschung",
             "topic": [
               {
                 "lines": [
@@ -277,6 +287,7 @@
           {
             "time": "2014-09-11T12:55:00.000Z",
             "top": "2",
+            "heading": "Überweisungen im vereinfachten Verfahren",
             "topic": [
               {
                 "lines": [
@@ -290,6 +301,7 @@
           {
             "time": "2014-09-11T13:00:00.000Z",
             "top": "3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
             "topic": [
               {
                 "lines": [
@@ -303,6 +315,7 @@
           {
             "time": "2014-09-11T13:00:00.000Z",
             "top": "Epl 11",
+            "heading": "Arbeit und Soziales",
             "topic": [
               {
                 "lines": [
@@ -317,6 +330,7 @@
           {
             "time": "2014-09-11T14:55:00.000Z",
             "top": "Epl 10",
+            "heading": "Ernährung und Landwirtschaft",
             "topic": [
               {
                 "lines": [
@@ -331,6 +345,7 @@
           {
             "time": "2014-09-11T16:50:00.000Z",
             "top": "Epl 17",
+            "heading": "Familie, Frauen, Senioren und Jugend",
             "topic": [
               {
                 "lines": [
@@ -345,6 +360,7 @@
           {
             "time": "2014-09-11T18:45:00.000Z",
             "top": "Epl 16",
+            "heading": "Umwelt, Naturschutz, Bau und Reaktorsicherheit",
             "topic": [
               {
                 "lines": [
@@ -359,6 +375,7 @@
           {
             "time": "2014-09-11T20:35:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -379,6 +396,7 @@
           {
             "time": "2014-09-12T09:00:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
@@ -392,6 +410,7 @@
           {
             "time": "2014-09-12T09:00:00.000Z",
             "top": "Epl 12",
+            "heading": "Verkehr und digitale Infrastruktur",
             "topic": [
               {
                 "lines": [
@@ -406,6 +425,7 @@
           {
             "time": "2014-09-12T10:45:00.000Z",
             "top": "1",
+            "heading": "Schlussrunde Haushaltsgesetz 2015",
             "topic": [
               {
                 "lines": [
@@ -419,6 +439,7 @@
           {
             "time": "2014-09-12T12:25:00.000Z",
             "top": "",
+            "heading": null,
             "topic": [
               {
                 "lines": [
