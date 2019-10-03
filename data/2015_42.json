@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2015&week=42",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2015&week=42",
     "description": "2015_42"
   },
   "data": {
@@ -26,8 +26,6 @@
           {
             "time": "2015-10-14T13:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -41,8 +39,6 @@
           {
             "time": "2015-10-14T13:05:00.000Z",
             "top": "1",
-            "heading": "Regierungserklärung - 70 Jahre Vereinte Nationen",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -57,8 +53,6 @@
           {
             "time": "2015-10-14T14:45:00.000Z",
             "top": "2",
-            "heading": "Befragung der Bundesregierung",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -73,8 +67,6 @@
           {
             "time": "2015-10-14T15:20:00.000Z",
             "top": "3",
-            "heading": "Fragestunde",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -91,16 +83,19 @@
           {
             "time": "2015-10-14T15:35:00.000Z",
             "top": "-",
-            "heading": "Sitzungsunterbrechung",
-            "article": null,
-            "topic": [],
+            "topic": [
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
             "status": []
           },
           {
             "time": "2015-10-14T16:30:00.000Z",
             "top": "ZP 1",
-            "heading": "Aktuelle Stunde zur Lage in der Türkei nach dem Terroranschlag in Ankara",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -116,8 +111,6 @@
           {
             "time": "2015-10-14T17:40:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -138,8 +131,6 @@
           {
             "time": "2015-10-15T09:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -153,8 +144,6 @@
           {
             "time": "2015-10-15T09:05:00.000Z",
             "top": "4",
-            "heading": "Regierungserklärung zum Europäischen Rat",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -169,8 +158,6 @@
           {
             "time": "2015-10-15T11:05:00.000Z",
             "top": "5",
-            "heading": "Bewältigung der Flüchtlingskrise",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -258,6 +245,24 @@
                   "Drucksache 18/…"
                 ],
                 "documents": []
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -265,8 +270,6 @@
           {
             "time": "2015-10-15T13:20:00.000Z",
             "top": "6",
-            "heading": "Konsequenzen aus dem Abgasskandal bei Dieselfahrzeugen",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -294,8 +297,6 @@
           {
             "time": "2015-10-15T14:40:00.000Z",
             "top": "30",
-            "heading": "Überweisungen im vereinfachten Verfahren",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -309,8 +310,6 @@
           {
             "time": "2015-10-15T14:45:00.000Z",
             "top": "31",
-            "heading": "Abschließende Beratungen ohne Aussprache",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -324,8 +323,6 @@
           {
             "time": "2015-10-15T14:50:00.000Z",
             "top": "ZP 6",
-            "heading": "Ergebnis Vermittlungsausschuss",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -348,8 +345,6 @@
           {
             "time": "2015-10-15T14:50:00.000Z",
             "top": "25",
-            "heading": "Maritime Wirtschaft in Deutschland",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -387,8 +382,6 @@
           {
             "time": "2015-10-15T15:35:00.000Z",
             "top": "7",
-            "heading": "Nagoya-Protokoll - Zugang zu genetischen Ressourcen",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -411,8 +404,6 @@
           {
             "time": "2015-10-15T16:20:00.000Z",
             "top": "9",
-            "heading": "Milchmarkt",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -445,8 +436,6 @@
           {
             "time": "2015-10-15T17:10:00.000Z",
             "top": "8",
-            "heading": "Änderung des Atomgesetzes",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -466,8 +455,6 @@
           {
             "time": "2015-10-15T17:55:00.000Z",
             "top": "11",
-            "heading": "Gemeinsame europäische Grundwerte",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -486,8 +473,6 @@
           {
             "time": "2015-10-15T18:35:00.000Z",
             "top": "12",
-            "heading": "Änderung des SGB XII -Sozialhilfe-",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -504,8 +489,6 @@
           {
             "time": "2015-10-15T19:20:00.000Z",
             "top": "13 + ZP 3",
-            "heading": "Wohnungsnot in Hochschulstädten",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -534,8 +517,6 @@
           {
             "time": "2015-10-15T19:50:00.000Z",
             "top": "10 *",
-            "heading": "Gesetz zur Umsetzung der EU-Mobilitäts-Richtlinie",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -552,8 +533,6 @@
           {
             "time": "2015-10-15T19:50:00.000Z",
             "top": "ZP 4",
-            "heading": "Sport und Alltag verbinden",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -571,8 +550,6 @@
           {
             "time": "2015-10-15T20:20:00.000Z",
             "top": "14",
-            "heading": "Bereinigung des Rechts der Lebenspartner",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -607,8 +584,6 @@
           {
             "time": "2015-10-15T20:50:00.000Z",
             "top": "16",
-            "heading": "Gesetz zur Bekämpfung der Korruption",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -628,8 +603,6 @@
           {
             "time": "2015-10-15T21:20:00.000Z",
             "top": "17 *",
-            "heading": "Änderung des Unterhalts- und Unterhaltsverfahrensrechts",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -650,8 +623,6 @@
           {
             "time": "2015-10-15T21:20:00.000Z",
             "top": "18",
-            "heading": "Änderung des Energieverbrauchskennzeichnungsgesetzes",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -675,8 +646,6 @@
           {
             "time": "2015-10-15T21:50:00.000Z",
             "top": "19 *",
-            "heading": "Änderung des Umwelt-Rechtsbehelfsgesetzes",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -697,8 +666,6 @@
           {
             "time": "2015-10-15T21:50:00.000Z",
             "top": "20 *",
-            "heading": "Änderung des Batteriegesetzes",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -718,8 +685,6 @@
           {
             "time": "2015-10-15T21:50:00.000Z",
             "top": "21 *",
-            "heading": "Änderung des Bundeszentralregistergesetzes",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -739,8 +704,6 @@
           {
             "time": "2015-10-15T21:50:00.000Z",
             "top": "22 *",
-            "heading": "Änderung des Steuerabkommens mit Irland",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -760,8 +723,6 @@
           {
             "time": "2015-10-15T21:55:00.000Z",
             "top": "23 *",
-            "heading": "Änderung des Lebensmittelspezialitätengesetzes",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -778,8 +739,6 @@
           {
             "time": "2015-10-15T21:55:00.000Z",
             "top": "24 *",
-            "heading": "Abschlussprüferaufsichtsreformgesetz",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -796,8 +755,6 @@
           {
             "time": "2015-10-15T21:55:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -818,8 +775,6 @@
           {
             "time": "2015-10-16T09:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -833,8 +788,6 @@
           {
             "time": "2015-10-16T09:00:00.000Z",
             "top": "ZP  5",
-            "heading": "Einführung einer Speicherfrist und Höchstspeicherfrist für Verkehrsdaten",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -864,6 +817,12 @@
                   "http://dip21.bundestag.de/dip21/btd/18/049/1804971.pdf",
                   "http://dip21.bundestag.de/dip21/btd/18/063/1806391.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -871,8 +830,6 @@
           {
             "time": "2015-10-16T10:35:00.000Z",
             "top": "26",
-            "heading": "Krankenhausfinanzierung",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -890,8 +847,6 @@
           {
             "time": "2015-10-16T12:05:00.000Z",
             "top": "27",
-            "heading": "Kinder in Entwicklungs- und Schwellenländern",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -910,8 +865,6 @@
           {
             "time": "2015-10-16T12:50:00.000Z",
             "top": "28",
-            "heading": "Gesetz zur Modernisierung des Vergaberechts",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -928,8 +881,6 @@
           {
             "time": "2015-10-16T13:30:00.000Z",
             "top": "29",
-            "heading": "Rückstellungen der Atomkraftwerksbetreiber",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -952,8 +903,6 @@
           {
             "time": "2015-10-16T14:15:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [

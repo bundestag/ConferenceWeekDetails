@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=11",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=11",
     "description": "2019_11"
   },
   "data": {
@@ -26,8 +26,6 @@
           {
             "time": "2019-03-13T13:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -41,8 +39,6 @@
           {
             "time": "2019-03-13T13:00:00.000Z",
             "top": "1",
-            "heading": "Befragung der Bundesregierung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-regierungsbefragung-595168",
             "topic": [
               {
                 "lines": [
@@ -56,8 +52,6 @@
           {
             "time": "2019-03-13T14:15:00.000Z",
             "top": "2",
-            "heading": "Fragestunde",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-fragestunde-595170",
             "topic": [
               {
                 "lines": [
@@ -74,8 +68,6 @@
           {
             "time": "2019-03-13T15:40:00.000Z",
             "top": "ZP  1",
-            "heading": "Aktuelle Stunde zu den Auswirkungen der EU-Urheberrechtsreform",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-aktuelle-stunde-urheberrechtsreform-eu-628272",
             "topic": [
               {
                 "lines": [
@@ -91,8 +83,6 @@
           {
             "time": "2019-03-13T17:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -113,16 +103,19 @@
           {
             "time": "2019-03-14T09:00:00.000Z",
             "top": "",
-            "heading": "Sitzungseröffnung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-worte-kinkel-628054",
-            "topic": [],
+            "topic": [
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
             "status": []
           },
           {
             "time": "2019-03-14T09:10:00.000Z",
             "top": "3",
-            "heading": "Verbesserung der gesundheitlichen Versorgung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-tsvg-595172",
             "topic": [
               {
                 "lines": [
@@ -182,8 +175,6 @@
           {
             "time": "2019-03-14T10:25:00.000Z",
             "top": "ZP 2, ZP 3",
-            "heading": "Fair Play in der digitalen Wirtschaft",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-fair-play-wirtschaft-628290",
             "topic": [
               {
                 "lines": [
@@ -206,6 +197,12 @@
                   "http://dip21.bundestag.de/dip21/btd/19/018/1901852.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/047/1904777.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -213,8 +210,6 @@
           {
             "time": "2019-03-14T11:40:00.000Z",
             "top": "5",
-            "heading": "Teilzeitmöglichkeit in den Freiwilligendiensten",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-jugendfreiwilligendienst-595192",
             "topic": [
               {
                 "lines": [
@@ -242,8 +237,6 @@
           {
             "time": "2019-03-14T12:45:00.000Z",
             "top": "6",
-            "heading": "Atomausstieg",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-fukushima-595194",
             "topic": [
               {
                 "lines": [
@@ -308,8 +301,6 @@
           {
             "time": "2019-03-14T14:00:00.000Z",
             "top": "26, ZP 4",
-            "heading": "Überweisungen im vereinfachten Verfahren",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-ueberweisungen-595196",
             "topic": [
               {
                 "lines": [
@@ -416,8 +407,6 @@
           {
             "time": "2019-03-14T14:00:00.000Z",
             "top": "27, ZP 5",
-            "heading": "Abschließende Beratungen ohne Aussprache",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-abschliessende-beratungen-595198",
             "topic": [
               {
                 "lines": [
@@ -576,8 +565,6 @@
           {
             "time": "2019-03-14T14:05:00.000Z",
             "top": "ZP 6",
-            "heading": "Aktuelle Stunde zur Vermeidung von Migrationsanreizen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-akt-std-migration-628650",
             "topic": [
               {
                 "lines": [
@@ -593,8 +580,6 @@
           {
             "time": "2019-03-14T15:15:00.000Z",
             "top": "7",
-            "heading": "Sportereignis Invictus Games",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-invictus-games-595200",
             "topic": [
               {
                 "lines": [
@@ -612,8 +597,6 @@
           {
             "time": "2019-03-14T16:00:00.000Z",
             "top": "8, ZP 7",
-            "heading": "Schutz vor unverhältnismäßigen Inkassoforderungen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-inkassoforderungen-595202",
             "topic": [
               {
                 "lines": [
@@ -634,6 +617,12 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/060/1906009.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -641,8 +630,6 @@
           {
             "time": "2019-03-14T16:45:00.000Z",
             "top": "9",
-            "heading": "Änderung des Bundes-Immissionsschutzgesetzes",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-dieselnachruestung-595204",
             "topic": [
               {
                 "lines": [
@@ -709,8 +696,6 @@
           {
             "time": "2019-03-14T17:50:00.000Z",
             "top": "10",
-            "heading": "Änderung des Straßenverkehrsgesetzes",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-strassenverkehrsgesetz-595206",
             "topic": [
               {
                 "lines": [
@@ -732,8 +717,6 @@
           {
             "time": "2019-03-14T18:40:00.000Z",
             "top": "11, ZP 8",
-            "heading": "Managergehälter",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-managergehaelter-595208",
             "topic": [
               {
                 "lines": [
@@ -781,8 +764,6 @@
           {
             "time": "2019-03-14T19:25:00.000Z",
             "top": "12",
-            "heading": "Satzung der Europäischen Investitionsbank",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-europaeische-investitionsbank-595174",
             "topic": [
               {
                 "lines": [
@@ -803,8 +784,6 @@
           {
             "time": "2019-03-14T20:00:00.000Z",
             "top": "13",
-            "heading": "Begrenzung der Amtszeit des Bundeskanzlers",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-amtszeit-bundeskanzler-595176",
             "topic": [
               {
                 "lines": [
@@ -822,8 +801,6 @@
           {
             "time": "2019-03-14T20:45:00.000Z",
             "top": "14",
-            "heading": "EU-Prospektverordnung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-eu-prospektverordnung-595178",
             "topic": [
               {
                 "lines": [
@@ -840,8 +817,6 @@
           {
             "time": "2019-03-14T21:15:00.000Z",
             "top": "15",
-            "heading": "Deutsche und europäische Israelpolitik",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-deutschlands-abstimmungsverhalten-un-595180",
             "topic": [
               {
                 "lines": [
@@ -865,8 +840,6 @@
           {
             "time": "2019-03-14T22:10:00.000Z",
             "top": "16, ZP 9",
-            "heading": "Neuregelung von Stromsteuerbefreiungen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-stromsteuerbefreiung-595182",
             "topic": [
               {
                 "lines": [
@@ -887,6 +860,12 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/082/1908268.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -894,8 +873,6 @@
           {
             "time": "2019-03-14T22:25:00.000Z",
             "top": "17",
-            "heading": "Polizeibeschwerdestelle auf Bundesebene",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-polizeibeschwerdestelle-595184",
             "topic": [
               {
                 "lines": [
@@ -913,8 +890,6 @@
           {
             "time": "2019-03-14T22:30:00.000Z",
             "top": "18, ZP 10",
-            "heading": "EU-Personalausweis",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-elektronischer-identitaetsnachweis-595186",
             "topic": [
               {
                 "lines": [
@@ -942,8 +917,6 @@
           {
             "time": "2019-03-14T22:50:00.000Z",
             "top": "19",
-            "heading": "Schutz der finanziellen Interessen der EU",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-schutz-finanzen-eu-628090",
             "topic": [
               {
                 "lines": [
@@ -961,8 +934,6 @@
           {
             "time": "2019-03-14T23:05:00.000Z",
             "top": "20",
-            "heading": "Wirtschafts- und Währungsunion",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-reform-eurozone-595188",
             "topic": [
               {
                 "lines": [
@@ -1017,8 +988,6 @@
           {
             "time": "2019-03-14T23:35:00.000Z",
             "top": "ZP 11 *",
-            "heading": "Lebensmittel- und Futtermittelgesetzbuch",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-lebensmittelgesetzbuch-628426",
             "topic": [
               {
                 "lines": [
@@ -1047,6 +1016,12 @@
                   "http://dip21.bundestag.de/dip21/btd/19/074/1907435.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/083/1908349.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -1054,8 +1029,6 @@
           {
             "time": "2019-03-14T23:35:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -1076,8 +1049,6 @@
           {
             "time": "2019-03-15T09:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -1091,8 +1062,6 @@
           {
             "time": "2019-03-15T09:00:00.000Z",
             "top": "21",
-            "heading": "Vereinbarte Debatte Internationaler Frauentag",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-internationaler-frauentag-595210",
             "topic": [
               {
                 "lines": [
@@ -1107,8 +1076,6 @@
           {
             "time": "2019-03-15T10:15:00.000Z",
             "top": "ZP 12",
-            "heading": "Ein Europa der Zusammenarbeit souveräner Nationen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-elysee-vorbild-628304",
             "topic": [
               {
                 "lines": [
@@ -1128,8 +1095,6 @@
           {
             "time": "2019-03-15T11:25:00.000Z",
             "top": "ZP 13",
-            "heading": "Errichtung der Stiftung Forum Recht",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-stiftung-forum-recht-628308",
             "topic": [
               {
                 "lines": [
@@ -1147,8 +1112,6 @@
           {
             "time": "2019-03-15T12:10:00.000Z",
             "top": "23",
-            "heading": "Ost-Quote in Bundesbehörden",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-ost-quote-bundesbehoerden-595214",
             "topic": [
               {
                 "lines": [
@@ -1176,8 +1139,6 @@
           {
             "time": "2019-03-15T13:25:00.000Z",
             "top": "24",
-            "heading": "Mittelrheintal - alternative Gütertrasse",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-mittelrheintal-guetertrasse-595216",
             "topic": [
               {
                 "lines": [
@@ -1195,8 +1156,6 @@
           {
             "time": "2019-03-15T14:15:00.000Z",
             "top": "25, ZP 14",
-            "heading": "Teilhabe im Wahlrecht",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-teilhabe-wahlrecht-595320",
             "topic": [
               {
                 "lines": [
@@ -1237,8 +1196,6 @@
           {
             "time": "2019-03-15T15:10:00.000Z",
             "top": "ZP 15",
-            "heading": "Aktuelle Stunde zu den Klimastreiks der Fridays for Future Bewegung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw11-de-aktuelle-stunde-klimastreiks-628294",
             "topic": [
               {
                 "lines": [
@@ -1254,8 +1211,6 @@
           {
             "time": "2019-03-15T16:45:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [

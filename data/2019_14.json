@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=14",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=14",
     "description": "2019_14"
   },
   "data": {
@@ -26,8 +26,6 @@
           {
             "time": "2019-04-03T13:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -41,8 +39,6 @@
           {
             "time": "2019-04-03T13:00:00.000Z",
             "top": "1",
-            "heading": "Befragung der Bundesregierung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-regierungsbefragung-630892",
             "topic": [
               {
                 "lines": [
@@ -56,8 +52,6 @@
           {
             "time": "2019-04-03T14:10:00.000Z",
             "top": "2",
-            "heading": "Fragestunde",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-fragestunde-630894",
             "topic": [
               {
                 "lines": [
@@ -74,8 +68,6 @@
           {
             "time": "2019-04-03T15:40:00.000Z",
             "top": "ZP 1",
-            "heading": "Aktuelle Stunde zu den Zahlen der Polizeilichen Kriminalstatistik 2018",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-akt-std-kriminalitaetsstatistik-633142",
             "topic": [
               {
                 "lines": [
@@ -91,8 +83,6 @@
           {
             "time": "2019-04-03T17:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -113,16 +103,19 @@
           {
             "time": "2019-04-04T09:00:00.000Z",
             "top": "",
-            "heading": "Sitzungseröffnung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-60-jahre-wehrbeauftragter-633050",
-            "topic": [],
+            "topic": [
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
+              }
+            ],
             "status": []
           },
           {
             "time": "2019-04-04T09:10:00.000Z",
             "top": "3",
-            "heading": "Illegale Beschäftigung u. Sozialleistungsmissbrauch",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-illegale-beschaeftigung-630896",
             "topic": [
               {
                 "lines": [
@@ -140,8 +133,6 @@
           {
             "time": "2019-04-04T10:20:00.000Z",
             "top": "4",
-            "heading": "Bürokratieabbau bei der Mindestlohndokumentation",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-mindestlohndokumentation-630914",
             "topic": [
               {
                 "lines": [
@@ -159,8 +150,6 @@
           {
             "time": "2019-04-04T11:30:00.000Z",
             "top": "5, ZP 2, ZP 3",
-            "heading": "70 Jahre NATO",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-70-jahre-nato-632788",
             "topic": [
               {
                 "lines": [
@@ -208,8 +197,6 @@
           {
             "time": "2019-04-04T13:15:00.000Z",
             "top": "6",
-            "heading": "Soziale Absicherung europaweit",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-europa-soziale-absicherung-630918",
             "topic": [
               {
                 "lines": [
@@ -227,8 +214,6 @@
           {
             "time": "2019-04-04T14:35:00.000Z",
             "top": "29, ZP 4",
-            "heading": "Überweisungen im vereinfachten Verfahren",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-ueberweisungen-630920",
             "topic": [
               {
                 "lines": [
@@ -335,6 +320,12 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908958.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -342,8 +333,6 @@
           {
             "time": "2019-04-04T14:35:00.000Z",
             "top": "30",
-            "heading": "Abschließende Beratungen ohne Aussprache",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-abschliessende-beratungen-630922",
             "topic": [
               {
                 "lines": [
@@ -454,6 +443,12 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/086/1908604.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -461,8 +456,6 @@
           {
             "time": "2019-04-04T14:40:00.000Z",
             "top": "7",
-            "heading": "3. Wahlgang - Stellvertreterin des Präsidenten",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-stellvertreterin-praesident-632796",
             "topic": [
               {
                 "lines": [
@@ -480,8 +473,6 @@
           {
             "time": "2019-04-04T15:05:00.000Z",
             "top": "ZP 5",
-            "heading": "Aktuelle Stunde zu steigenden Strompreisen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-akt-std-strompreise-633152",
             "topic": [
               {
                 "lines": [
@@ -497,8 +488,6 @@
           {
             "time": "2019-04-04T16:25:00.000Z",
             "top": "",
-            "heading": "Sitzungsunterbrechung",
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -512,8 +501,6 @@
           {
             "time": "2019-04-04T17:15:00.000Z",
             "top": "8",
-            "heading": "Datenaustauschverbesserungsgesetz",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-datenaustausch-aufenthaltsrecht-630916",
             "topic": [
               {
                 "lines": [
@@ -531,8 +518,6 @@
           {
             "time": "2019-04-04T17:55:00.000Z",
             "top": "ZP 6",
-            "heading": "EU-Beitrittsverhandlungen mit der Türkei",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-beitrittsverhandlungen-tuerkei-630900",
             "topic": [
               {
                 "lines": [
@@ -550,8 +535,6 @@
           {
             "time": "2019-04-04T18:35:00.000Z",
             "top": "10",
-            "heading": "Abkommen zwischen der EU und Armenien",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-abkommen-armenien-630898",
             "topic": [
               {
                 "lines": [
@@ -572,8 +555,6 @@
           {
             "time": "2019-04-04T19:20:00.000Z",
             "top": "11",
-            "heading": "Beschleunigung des Energieleitungsausbaus",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-energieleitungsausbau-632810",
             "topic": [
               {
                 "lines": [
@@ -597,8 +578,6 @@
           {
             "time": "2019-04-04T20:05:00.000Z",
             "top": "12, ZP 7",
-            "heading": "Urheberrechtsrichtlinie",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-urheberrechtsrichtlinie-632802",
             "topic": [
               {
                 "lines": [
@@ -629,8 +608,6 @@
           {
             "time": "2019-04-04T21:00:00.000Z",
             "top": "13",
-            "heading": "Gutes Leben und Arbeiten auf dem Land",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-landleben-630902",
             "topic": [
               {
                 "lines": [
@@ -655,6 +632,12 @@
                   "http://dip21.bundestag.de/dip21/btd/19/070/1907029.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/079/1907989.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -662,8 +645,6 @@
           {
             "time": "2019-04-04T21:50:00.000Z",
             "top": "14",
-            "heading": "Enquete-Kommission - Direkte Demokratie",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-direkte-demokratie-630910",
             "topic": [
               {
                 "lines": [
@@ -683,8 +664,6 @@
           {
             "time": "2019-04-04T22:35:00.000Z",
             "top": "15",
-            "heading": "Sicherheit in der Arzneimittelversorgung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-arzneimittelversorgung-630904",
             "topic": [
               {
                 "lines": [
@@ -722,8 +701,6 @@
           {
             "time": "2019-04-04T22:45:00.000Z",
             "top": "16",
-            "heading": "Verleihung von Einsatzmedaillen der Bundeswehr",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-bundeswehr-einsatzmedaillen-630924",
             "topic": [
               {
                 "lines": [
@@ -743,8 +720,6 @@
           {
             "time": "2019-04-04T23:00:00.000Z",
             "top": "17",
-            "heading": "Betreuer- und Vormündervergütung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-betreuerverguetung-630908",
             "topic": [
               {
                 "lines": [
@@ -762,8 +737,6 @@
           {
             "time": "2019-04-04T23:15:00.000Z",
             "top": "ZP 8",
-            "heading": "Rüstungsexporte an am Jemenkrieg beteiligte Staaten",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-ruestungsexportstopp-633468",
             "topic": [
               {
                 "lines": [
@@ -781,8 +754,6 @@
           {
             "time": "2019-04-04T23:35:00.000Z",
             "top": "19",
-            "heading": "Zensusgesetz 2021",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-zensusgesetz-2021-630912",
             "topic": [
               {
                 "lines": [
@@ -801,8 +772,6 @@
           {
             "time": "2019-04-04T23:50:00.000Z",
             "top": "20",
-            "heading": "Nachhaltige Entwicklungsziele - Agrarökologie",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-nachhaltige-entwicklungsziele-630926",
             "topic": [
               {
                 "lines": [
@@ -820,8 +789,6 @@
           {
             "time": "2019-04-04T00:00:00.000Z",
             "top": "21, ZP 9",
-            "heading": "Anerkennung der NS-Opfergruppen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-ns-opfergruppen-630930",
             "topic": [
               {
                 "lines": [
@@ -842,6 +809,12 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/089/1908955.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  ""
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -849,8 +822,6 @@
           {
             "time": "2019-04-04T00:30:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -871,8 +842,6 @@
           {
             "time": "2019-04-05T09:00:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
@@ -886,8 +855,6 @@
           {
             "time": "2019-04-05T09:00:00.000Z",
             "top": "22",
-            "heading": "Bundesausbildungsförderungsgesetz",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-bafoeg-630932",
             "topic": [
               {
                 "lines": [
@@ -958,8 +925,6 @@
           {
             "time": "2019-04-05T10:05:00.000Z",
             "top": "23",
-            "heading": "Status als Entwicklungsland",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-aufstrebende-wirtschaftsmaechte-630934",
             "topic": [
               {
                 "lines": [
@@ -977,8 +942,6 @@
           {
             "time": "2019-04-05T11:15:00.000Z",
             "top": "24",
-            "heading": "Jugend erinnert - Diktatur und Gewaltherrschaft",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-wissensvermittlung-folgen-diktatur-630936",
             "topic": [
               {
                 "lines": [
@@ -996,8 +959,6 @@
           {
             "time": "2019-04-05T12:00:00.000Z",
             "top": "25",
-            "heading": "Tarifbindung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-tarifbindung-630938",
             "topic": [
               {
                 "lines": [
@@ -1015,8 +976,6 @@
           {
             "time": "2019-04-05T13:05:00.000Z",
             "top": "26",
-            "heading": "Fixierungen im Rahmen von Freiheitsentziehungen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-fixierung-632806",
             "topic": [
               {
                 "lines": [
@@ -1034,8 +993,6 @@
           {
             "time": "2019-04-05T13:40:00.000Z",
             "top": "27",
-            "heading": "Pakt für Forschung und Innovation",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-forschungsoutput-630940",
             "topic": [
               {
                 "lines": [
@@ -1053,8 +1010,6 @@
           {
             "time": "2019-04-05T14:20:00.000Z",
             "top": "28, ZP 10",
-            "heading": "Verfassungsschutz des Bundes",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-verfasssungschutz-630942",
             "topic": [
               {
                 "lines": [
@@ -1082,8 +1037,6 @@
           {
             "time": "2019-04-05T15:10:00.000Z",
             "top": "ZP  11",
-            "heading": "Aktuelle Stunde zum Rüstungsexportstopp an die am Jemenkrieg beteiligten Staaten",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw14-de-akt-std-ruestungsexporte-633156",
             "topic": [
               {
                 "lines": [
@@ -1099,8 +1052,6 @@
           {
             "time": "2019-04-05T16:20:00.000Z",
             "top": "",
-            "heading": null,
-            "article": null,
             "topic": [
               {
                 "lines": [
