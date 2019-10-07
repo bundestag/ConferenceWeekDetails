@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=20",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=20",
     "description": "2019_20"
   },
   "data": {
@@ -26,6 +26,8 @@
           {
             "time": "2019-05-15T13:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -34,11 +36,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Abstimmung zur Feststellung der Tagesordnung",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-15T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-regierungsbefragung-638018",
             "topic": [
               {
                 "lines": [
@@ -47,11 +56,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-15T14:15:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-fragestunde-638020",
             "topic": [
               {
                 "lines": [
@@ -63,11 +79,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-15T15:45:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zum Iran-Atomabkommen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-aktuelle-stunde-iran-642514",
             "topic": [
               {
                 "lines": [
@@ -78,11 +101,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-15T17:10:00.000Z",
             "top": "3",
+            "heading": "Tätigkeitsbericht 2018 des Petitionsausschusses",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-petitionsbericht-641584",
             "topic": [
               {
                 "lines": [
@@ -96,11 +126,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-15T18:35:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -109,7 +146,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 16. Mai 2019, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -121,6 +163,8 @@
           {
             "time": "2019-05-16T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -129,11 +173,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-16T09:00:00.000Z",
             "top": "4",
+            "heading": "Vereinbarte Debatte - 70 Jahre Grundgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-70-jahre-grundgesetz-641586",
             "topic": [
               {
                 "lines": [
@@ -143,11 +194,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-16T11:20:00.000Z",
             "top": "5",
+            "heading": "Entlastung bei den Sozialabgaben",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-eu-budget-donnerstag-641588",
             "topic": [
               {
                 "lines": [
@@ -161,11 +219,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910170.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10170 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10170</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910170.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T12:25:00.000Z",
             "top": "6",
+            "heading": "Durchsetzung der Ausreisepflicht",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-ausreisepflicht-641590",
             "topic": [
               {
                 "lines": [
@@ -178,11 +245,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910047.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10047 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10047</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/100/1910047.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T13:35:00.000Z",
             "top": "7, ZP 2",
+            "heading": "Löhne und Arbeitsbedingungen im Postmarkt",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-portoerhoehungen-641592",
             "topic": [
               {
                 "lines": [
@@ -215,11 +291,27 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910150.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10150 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10150</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910156.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10156 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10156</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910150.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910156.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910199.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10199 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10199</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910199.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T14:45:00.000Z",
             "top": "31, ZP 3",
+            "heading": "Überweisungen im vereinfachten Verfahren",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-ueberweisungen-638016",
             "topic": [
               {
                 "lines": [
@@ -398,19 +490,20 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/101/1910167.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-16T14:45:00.000Z",
             "top": "32",
+            "heading": "Abschließende Beratungen ohne Aussprache",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-abschliessende-beratungen-638014",
             "topic": [
               {
                 "lines": [
@@ -696,11 +789,187 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/078/1907886.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7886 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7886</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910242.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10242 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10242</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/078/1907886.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910242.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/094/1909490.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9490 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9490</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910187.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10187 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10187</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/094/1909490.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910187.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/095/1909507.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9507 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9507</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910247.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10247 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10247</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/095/1909507.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910247.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909919.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9919 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9919</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910244.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10244 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10244</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909919.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910244.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910238.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10238 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10238</a> (Verordnung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/094/1909477.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9477 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9477</a> zustimmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910238.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/094/1909477.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 238 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909975.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9975 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9975</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909975.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 239 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9976</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909976.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 240 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909977.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9977 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9977</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909977.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 241 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909978.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9978 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9978</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909978.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 242 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9979</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909979.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 243 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909980.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9980 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9980</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909980.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 244 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909981.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9981 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9981</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909981.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 245 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909982.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9982 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9982</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909982.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 246 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909983.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9983 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9983</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909983.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 247 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9984</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909984.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 248 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909985.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9985 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9985</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909985.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 249 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909986.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9986 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9986</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909986.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 250 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909987.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9987 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9987</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909987.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 251 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909988.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9988 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9988</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909988.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 279 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909989.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9989 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9989</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909989.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 280 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9990</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909990.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 281 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909991.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9991 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9991</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909991.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 282 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909992.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9992 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9992</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909992.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 283 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909993.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9993 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9993</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909993.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 284 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909994.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9994 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9994</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909994.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 285 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909995.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9995 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9995</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909995.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 286 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909996.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9996 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9996</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909996.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 287 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909997.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9997 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9997</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909997.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T15:00:00.000Z",
             "top": "ZP 4",
+            "heading": "2. Wahlgang - Stellvertreter des Präsidenten",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-wahl-vizepraesident-642462",
             "topic": [
               {
                 "lines": [
@@ -720,11 +989,36 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "geheime Wahl (zweiter Wahlgang) eines Stellvertreters des Bundestagspräsidenten (Wahlvorschlag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/092/1909252.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9252 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9252</a>: Gerold Otten, (AfD))",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/092/1909252.pdf"
+                ]
+              },
+              {
+                "line": "15:04:05: Beginn der Wahl",
+                "documents": []
+              },
+              {
+                "line": "15:23:55: Ende der Wahl",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 631 Ja: 205  Nein: 399 Enthaltungen: 26  Ungültig: 1",
+                "documents": []
+              },
+              {
+                "line": "Wahlvorschlag abgelehnt",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-16T15:25:00.000Z",
             "top": "ZP 5",
+            "heading": "Gremienwahlen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-gremienwahlen-642520",
             "topic": [
               {
                 "lines": [
@@ -777,11 +1071,116 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Wahl eines Mitglieds des Vertrauensgremiums <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910193.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10193 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10193</a> (Malsack-Winkemann, Dr. Birgit (AfD))",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910193.pdf"
+                ]
+              },
+              {
+                "line": "15:27:44: Beginn der Wahl",
+                "documents": []
+              },
+              {
+                "line": "15:32:46: Ende der Wahl",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 630  Ja: 181  Nein: 418 Enthaltungen: 28  Ungültig: 3",
+                "documents": []
+              },
+              {
+                "line": "Malsack-Winkemann, Dr. Birgit (AfD) nicht gewählt",
+                "documents": []
+              },
+              {
+                "line": "Wahl von zwei Mitgliedern des Gremiums des Bundesschuldenwesengesetzes <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910194.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10194 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10194</a> (Bühl, Marcus (AfD), Wiehle, Wolfgang (AfD))",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910194.pdf"
+                ]
+              },
+              {
+                "line": "15:33:52: Beginn der Wahl",
+                "documents": []
+              },
+              {
+                "line": "15:38:49: Ende der Wahl",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 626  Ja: 189  Nein: 397 Enthaltungen: 37  Ungültig: 3 ",
+                "documents": []
+              },
+              {
+                "line": "Bühl, Marcus (AfD) nicht gewählt",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 626  Ja: 201  Nein: 387 Enthaltungen: 31  Ungültig: 7",
+                "documents": []
+              },
+              {
+                "line": "Wiehle, Wolfgang (AfD) nicht gewählt",
+                "documents": []
+              },
+              {
+                "line": "Wahl von Mitgliedern des Gremiums des Stabilisierungsmechanismusgesetzes <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910195.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10195 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10195</a> (Glaser, Albrecht (AfD), Münz, Volker (AfD))",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910195.pdf"
+                ]
+              },
+              {
+                "line": "15:40:32: Beginn der Wahl",
+                "documents": []
+              },
+              {
+                "line": "15:59:48: Ende der Wahl",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 627  Ja: 139  Nein: 456 Enthaltungen: 27  Ungültig: 5",
+                "documents": []
+              },
+              {
+                "line": "Glaser, Albrecht (AfD) nicht gewählt",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 627  Ja: 197  Nein: 395 Enthaltungen: 35  Ungültig: 0",
+                "documents": []
+              },
+              {
+                "line": "Münz, Volker (AfD) nicht gewählt",
+                "documents": []
+              },
+              {
+                "line": "Wahl eines Mitglieds des Kuratoriums der \"Stiftung Denkmal für die ermordeten Juden Europas\" (<a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910196.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10196 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10196</a>)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910196.pdf"
+                ]
+              },
+              {
+                "line": "Wahlvorschlag abgelehnt",
+                "documents": []
+              },
+              {
+                "line": "Wahl eines Mitglieds des Kuratoriums der \"Bundesstiftung Magnus Hirschfeld\" (<a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910197.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10197 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10197</a>)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910197.pdf"
+                ]
+              },
+              {
+                "line": "Wahlvorschlag abgelehnt",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-16T16:00:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zur Finanzierungslücke bei der Grundrente",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-akt-std-finanzierung-grundrente-642534",
             "topic": [
               {
                 "lines": [
@@ -792,11 +1191,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-16T17:20:00.000Z",
             "top": "8",
+            "heading": "Änderung des Bundesausbildungsförderungsgesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-bafoeg-641594",
             "topic": [
               {
                 "lines": [
@@ -837,11 +1243,168 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "namentliche Abstimmung über Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910257.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10257 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10257</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910257.pdf"
+                ]
+              },
+              {
+                "line": "18:05:27: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "18:09:25: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 620  Ja: 185  Nein: 434 Enthaltungen: 1 ",
+                "documents": []
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910257.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10257 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10257</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910257.pdf"
+                ]
+              },
+              {
+                "line": "namentliche Abstimmung über Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910255.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10255 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10255</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910255.pdf"
+                ]
+              },
+              {
+                "line": "18:09:59: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "18:13:14: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "endgültiges Ergebnis:",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 614  Ja: 122  Nein: 430 Enthaltungen: 62 ",
+                "documents": []
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910255.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10255 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10255</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910255.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910251.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10251 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10251</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910251.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910252.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10252 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10252</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910252.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910253.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10253 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10253</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910253.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910254.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10254 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10254</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910254.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910256.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10256 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10256</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910256.pdf"
+                ]
+              },
+              {
+                "line": "18:16:24: Beginn der Sitzungsunterbrechung",
+                "documents": []
+              },
+              {
+                "line": "18:20:37: Ende der Sitzungsunterbrechung",
+                "documents": []
+              },
+              {
+                "line": "namentliche Abstimmung über Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/087/1908749.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8749 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8749</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10249 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10249</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/087/1908749.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf"
+                ]
+              },
+              {
+                "line": "18:23:08: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "18:25:43: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 619  Ja: 358  Nein: 2 Enthaltungen: 259",
+                "documents": []
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/087/1908749.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8749 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8749</a> in Ausschussfassung angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/087/1908749.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10249 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10249</a> Buchstabe b (Entschließung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910258.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10258 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10258</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910258.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910259.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10259 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10259</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910259.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10249 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10249</a> Buchstabe c (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8990</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/089/1908990.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10249 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10249</a> Buchstabe d (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908956.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8956 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8956</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/089/1908956.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10249 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10249</a> Buchstabe e (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8967</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910249.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/089/1908967.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T18:30:00.000Z",
             "top": "9",
+            "heading": "Digitalpakt 2.0",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-digitalpakt-641596",
             "topic": [
               {
                 "lines": [
@@ -874,11 +1437,22 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910160.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10160 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10160</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910151.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10151 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10151</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910200.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10200 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10200</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910160.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910151.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910200.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T19:15:00.000Z",
             "top": "10",
+            "heading": "Anpassung der Betreuer- und Vormündervergütung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-betreuerverguetung-641598",
             "topic": [
               {
                 "lines": [
@@ -895,11 +1469,22 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/086/1908694.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8694 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8694</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/097/1909765.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9765 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9765</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910246.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10246 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10246</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/086/1908694.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/097/1909765.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910246.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T20:00:00.000Z",
             "top": "11",
+            "heading": "Änderung des Staatsangehörigkeitsgesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-staatsangehoerigkeitsgesetz-641600",
             "topic": [
               {
                 "lines": [
@@ -911,11 +1496,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/097/1909736.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9736 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9736</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/097/1909736.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T20:40:00.000Z",
             "top": "12",
+            "heading": "Gemeinsame Außen-u. Sicherheitspolitik der EU",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-eu-aussenpolitik-641602",
             "topic": [
               {
                 "lines": [
@@ -950,11 +1544,32 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Leikert, Dr. Katja (CDU/CSU), Schmid, Dr. Nils (SPD)",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910185.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10185 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10185</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910155.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10155 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10155</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910185.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910155.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/080/1908012.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8012 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8012</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/008/1900822.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/822 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/822</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/080/1908012.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/008/1900822.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T21:20:00.000Z",
             "top": "13",
+            "heading": "Gesetz zur deutsch-französischen Zusammenarbeit",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-dt-frz-vertrag-641604",
             "topic": [
               {
                 "lines": [
@@ -966,11 +1581,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910051.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10051 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10051</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/100/1910051.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T22:00:00.000Z",
             "top": "14",
+            "heading": "Freiheit im Internet",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-freiheit-im-internet-641606",
             "topic": [
               {
                 "lines": [
@@ -983,11 +1607,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Kuhle, Konstantin (FDP), Esken, Saskia (SPD), Kemmer, Ronja (CDU/CSU), Hoffmann, Alexander (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910172.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10172 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10172</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910172.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T22:25:00.000Z",
             "top": "17",
+            "heading": "Ausländerbeschäftigungsförderungsgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-auslaenderbeschaeftigungsfoerderungsgesetz-641612",
             "topic": [
               {
                 "lines": [
@@ -1000,11 +1637,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Biadacz, Marc (CDU/CSU), Kober, Pascal (FDP), Tatti, Jessica (Die Linke), Strengmann-Kuhn, Dr. Wolfgang (B90/Grüne), Kolbe, Daniela (SPD), Lezius, Antje (CDU/CSU), Straubinger, Max (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910053.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10053 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10053</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/100/1910053.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T22:35:00.000Z",
             "top": "ZP 7",
+            "heading": "Militärische Eskalation im Nahen Osten",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-naher-osten-642518",
             "topic": [
               {
                 "lines": [
@@ -1017,11 +1667,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Kiesewetter, Roderich (CDU/CSU), Nietan, Dietmar (SPD), Motschmann, Elisabeth (CDU/CSU), Radwan, Alexander (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910161.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10161 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10161</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910161.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T23:00:00.000Z",
             "top": "15",
+            "heading": "Änderung des Asylbewerberleistungsgesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-asylbewerberleistungsgesetz-641608",
             "topic": [
               {
                 "lines": [
@@ -1034,11 +1697,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Heilmann, Thomas (CDU/CSU), Kober, Pascal (FDP), Jelpke, Ulla (Die Linke), Lehmann, Sven (B90/Grüne), Kolbe, Daniela (SPD), Heinrich, Frank (CDU/CSU), Aumer, Peter (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910052.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10052 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10052</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/100/1910052.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T23:10:00.000Z",
             "top": "ZP 8",
+            "heading": "Änderung des Grundgesetzes - Grundrechte für alle",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-grundgesetz-grundrechte-642530",
             "topic": [
               {
                 "lines": [
@@ -1051,11 +1727,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Buschmann, Dr. Marco (FDP), Hoffmann, Alexander (CDU/CSU), Dilcher, Esther (SPD)",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/058/1905860.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5860 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5860</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/058/1905860.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T23:35:00.000Z",
             "top": "19",
+            "heading": "Änderung des Bundeswahlgesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-bundeswahlgesetz-641616",
             "topic": [
               {
                 "lines": [
@@ -1070,11 +1759,31 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Heveling, Ansgar (CDU/CSU), Özdemir, Mahmut (SPD), Frieser, Michael (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/092/1909228.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9228 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9228</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910114.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10114 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10114</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/092/1909228.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910114.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910245.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10245 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10245</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910245.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T00:05:00.000Z",
             "top": "20",
+            "heading": "Digitalisierung in der Landwirtschaft",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-digitalisierung-landwirtschaft-641618",
             "topic": [
               {
                 "lines": [
@@ -1087,11 +1796,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Konrad, Carina (FDP), Tackmann, Dr. Kirsten (Die Linke), Ebner, Harald (B90/Grüne), Beermann, Maik (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910147.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10147 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10147</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910147.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T00:20:00.000Z",
             "top": "21, ZP 9",
+            "heading": "Europäische Digitalkonzernsteuer",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-digitalkonzernsteuer-641620",
             "topic": [
               {
                 "lines": [
@@ -1114,11 +1836,30 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Bayaz, Dr. Danyal (B90/Grüne), Toncar, Dr. Florian (FDP), De Masi, Fabio (Die Linke), Brehm, Sebastian (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910198.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10198 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10198</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910198.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910162.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10162 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10162</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910162.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T00:40:00.000Z",
             "top": "23",
+            "heading": "Fixierungen im Rahmen von Freiheitsentziehungen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-fixierungen-freiheitsentzug-641624",
             "topic": [
               {
                 "lines": [
@@ -1136,11 +1877,32 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Willkomm, Katharina (FDP), Straetmanns, Friedrich (Die Linke), Bayram, Canan (B90/Grüne), Sensburg, Prof. Dr. Patrick (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8939</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910243.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10243 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10243</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/089/1908939.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910243.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910243.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10243 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10243</a> Buchstabe b (Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/097/1909767.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9767 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9767</a> für erledigt erklären) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910243.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/097/1909767.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-16T00:50:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -1149,7 +1911,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 17. Mai 2019, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -1161,6 +1928,8 @@
           {
             "time": "2019-05-17T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -1169,11 +1938,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-17T09:00:00.000Z",
             "top": "24",
+            "heading": "Maritime Wirtschaftspolitik",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-maritime-wirtschaft-641626",
             "topic": [
               {
                 "lines": [
@@ -1226,11 +2002,29 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910149.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10149 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10149</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910149.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/090/1909030.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9030 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9030</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910163.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10163 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10163</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910201.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10201 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10201</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910173.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10173 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10173</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/090/1909030.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910163.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910201.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910173.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T10:10:00.000Z",
             "top": "25",
+            "heading": "Europol",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-europol-641628",
             "topic": [
               {
                 "lines": [
@@ -1243,11 +2037,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910164.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10164 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10164</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910164.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T11:25:00.000Z",
             "top": "26",
+            "heading": "Bundeswehreinsatz in Libanon (UNIFIL)",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-bundeswehr-libanon-641630",
             "topic": [
               {
                 "lines": [
@@ -1260,11 +2063,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909956.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9956 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9956</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909956.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T12:05:00.000Z",
             "top": "27",
+            "heading": "Schutz von Gewässern und Grundwasser",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-wasser-641632",
             "topic": [
               {
                 "lines": [
@@ -1287,11 +2099,26 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/086/1908649.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8649 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8649</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/086/1908649.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909959.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9959 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9959</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909959.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T13:10:00.000Z",
             "top": "28, ZP 10",
+            "heading": "70 Jahre Europarat",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-70-jahre-europarat-641634",
             "topic": [
               {
                 "lines": [
@@ -1324,11 +2151,27 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910146.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10146 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10146</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910146.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/094/1909444.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9444 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9444</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910165.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10165 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10165</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/094/1909444.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910165.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T13:55:00.000Z",
             "top": "29",
+            "heading": "EU-Budget",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-eu-budget-freitag-641636",
             "topic": [
               {
                 "lines": [
@@ -1341,11 +2184,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910171.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10171 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10171</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910171.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T14:45:00.000Z",
             "top": "ZP 11, 12, 14",
+            "heading": "BDS-Bewegung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-bds-642892",
             "topic": [
               {
                 "lines": [
@@ -1384,11 +2236,50 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910191.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10191 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10191</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910191.pdf"
+                ]
+              },
+              {
+                "line": "namentliche Abstimmung über Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/097/1909757.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9757 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9757</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/097/1909757.pdf"
+                ]
+              },
+              {
+                "line": "15:27:50: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "15:30:55: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 495 Ja: 62 Nein: 431 Enthaltungen: 2 ",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/097/1909757.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9757 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9757</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/097/1909757.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/102/1910261.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10261 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10261</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/102/1910261.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T15:30:00.000Z",
             "top": "30",
+            "heading": "Rüstungsexport",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-ruestungsexporte-641638",
             "topic": [
               {
                 "lines": [
@@ -1416,11 +2307,34 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910152.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10152 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10152</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910152.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910026.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10026 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10026</a> Buchstabe a (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/070/1907039.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7039 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7039</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/100/1910026.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/070/1907039.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/100/1910026.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10026 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10026</a> Buchstabe b (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908965.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8965 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8965</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/100/1910026.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/089/1908965.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2019-05-17T16:20:00.000Z",
             "top": "ZP 13",
+            "heading": "Aktuelle Stunde zu Maßnahmen gegen Homo- und Transfeindlichkeit",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw20-de-akt-std-transfeindlichkeit-642538",
             "topic": [
               {
                 "lines": [
@@ -1431,11 +2345,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-05-17T17:30:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -1444,7 +2365,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 5. Juni 2019, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

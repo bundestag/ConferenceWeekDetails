@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2014&week=49",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2014&week=49",
     "description": "2014_49"
   },
   "data": {
@@ -26,6 +26,8 @@
           {
             "time": "2014-12-03T13:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -34,11 +36,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Amtliche Mitteilung",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-03T13:00:00.000Z",
             "top": "1",
+            "heading": "Vereinbarte Debatte Internationaler Tag der Menschen mit Behinderungen",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -48,11 +57,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-03T13:50:00.000Z",
             "top": "2",
+            "heading": "Befragung der Bundesregierung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -63,11 +79,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-03T14:50:00.000Z",
             "top": "3",
+            "heading": "Fragestunde",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -80,11 +103,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-03T16:35:00.000Z",
             "top": "ZP 1",
+            "heading": "EU-Verordnung zum Europäischen Mahnverfahren",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -101,11 +131,23 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803427.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3427 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3427</a> (in Kenntnis Unterrichtung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/004/1800419.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/419 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/419</a> A.48, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/026/1802647.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2647 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2647</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803385.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3385 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3385</a> eine Entschließung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803427.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/004/1800419.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/026/1802647.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803385.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-03T16:40:00.000Z",
             "top": "ZP 2",
+            "heading": "Aktuelle Stunde zu Plänen zum Solidaritätszuschlag",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -116,11 +158,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-03T17:50:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -129,7 +178,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 4. Dezember 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -141,6 +195,8 @@
           {
             "time": "2014-12-04T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -149,11 +205,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Amtliche Mitteilungen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-04T09:05:00.000Z",
             "top": "4",
+            "heading": "Forschungs- und Innovationspolitik",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -186,11 +249,22 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/024/1802497.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2497 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2497</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/015/1801510.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1510 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1510</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800760.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/760 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/760</a> (neu) beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/024/1802497.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/015/1801510.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800760.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T10:50:00.000Z",
             "top": "5",
+            "heading": "Aufnahme von Flüchtlingen",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -213,11 +287,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803154.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3154 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3154</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803154.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T12:40:00.000Z",
             "top": "9",
+            "heading": "Ausbau der Kindertagesbetreuung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -239,11 +322,22 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/025/1802586.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2586 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2586</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803008.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3008 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3008</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803443.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3443 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3443</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/025/1802586.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/030/1803008.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803443.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T13:45:00.000Z",
             "top": "32",
+            "heading": "Überweisungen im vereinfachten Verfahren",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -252,11 +346,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisungen beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-04T13:45:00.000Z",
             "top": "33 + ZP 3",
+            "heading": "Abschließende Beratungen ohne Aussprache",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -265,11 +366,104 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803253.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3253 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3253</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803448.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3448 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3448</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803253.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803448.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803208.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3208 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3208</a> Buchstabe a (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/019/1801949.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1949 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1949</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803208.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/019/1801949.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803208.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3208 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3208</a> Buchstabe b (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800977.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/977 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/977</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803208.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800977.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803208.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3208 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3208</a> Buchstabe c (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/028/1802878.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2878 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2878</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803208.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/028/1802878.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 120 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803338.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3338 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3338</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803338.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 121 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803339.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3339 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3339</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803339.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 122 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803340.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3340 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3340</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803340.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 123 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803341.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3341 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3341</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803341.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 124 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803342.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3342 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3342</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803342.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 125 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803343.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3343 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3343</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803343.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 126 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803344.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3344 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3344</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803344.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 127 auf Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803345.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3345 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3345</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803345.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/029/1802904.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2904 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2904</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/016/1801673.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1673 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1673</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/029/1802904.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/016/1801673.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/029/1802906.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2906 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2906</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/019/1801962.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1962 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1962</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/029/1802906.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/019/1801962.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T13:50:00.000Z",
             "top": "ZP 4",
+            "heading": "Aktuelle Stunde zu den Klimaschutzzielen 2020",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -280,11 +474,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-04T15:15:00.000Z",
             "top": "7",
+            "heading": "Vereinbarkeit von Familie, Pflege und Beruf",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -315,11 +516,28 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803124.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3124 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3124</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803157.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3157 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3157</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803449.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3449 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3449</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803124.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803157.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803449.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803454.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3454 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3454</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803454.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T16:05:00.000Z",
             "top": "8 + ZP 5",
+            "heading": "Altersgerechte Übergänge in die Rente",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -368,11 +586,23 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803312.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3312 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3312</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803260.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3260 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3260</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803261.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3261 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3261</a> (neu), <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803387.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3387 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3387</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803312.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803260.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803261.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803387.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T16:50:00.000Z",
             "top": "15",
+            "heading": "Anpassung der Abgabenordnung an EU-Zollkodex",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -403,11 +633,28 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803017.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3017 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3017</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803158.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3158 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3158</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803441.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3441 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3441</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/030/1803017.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803158.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803441.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3452</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803452.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T17:40:00.000Z",
             "top": "10",
+            "heading": "Energieeffizienz",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -421,11 +668,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/027/1802716.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2716 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2716</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/016/1801619.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1619 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1619</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/027/1802716.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/016/1801619.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T18:25:00.000Z",
             "top": "11",
+            "heading": "Änderung des Erneuerbare-Energien-Gesetzes",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -455,11 +712,34 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803451.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3451 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3451</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803451.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803321.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3321 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3321</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803440.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3440 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3440</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803321.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803440.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803234.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3234 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3234</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803440.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3440 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3440</a> Buchstabe b: Gesetzentwurf ablehnen) abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803234.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803440.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T19:10:00.000Z",
             "top": "12",
+            "heading": "Geschäftsordnung: Ausschussöffentlichkeit",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -473,11 +753,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803045.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3045 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3045</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/030/1803045.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T19:40:00.000Z",
             "top": "13",
+            "heading": "Rechtsstellung asylsuchender Ausländer",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -507,11 +796,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803144.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3144 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3144</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803444.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3444 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3444</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803144.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803444.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T20:10:00.000Z",
             "top": "14",
+            "heading": "Nukleare Abrüstung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -544,11 +843,22 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803409.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3409 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3409</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803410.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3410 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3410</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803407.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3407 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3407</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803409.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803410.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803407.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T20:40:00.000Z",
             "top": "17",
+            "heading": "Doha-Änderung des Protokolls von Kyoto",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -580,11 +890,32 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803123.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3123 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3123</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803123.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803406.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3406 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3406</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803406.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803411.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3411 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3411</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803411.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:10:00.000Z",
             "top": "16 *",
+            "heading": "Diskriminierungsschutz chronisch Erkrankter",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -596,11 +927,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803315.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3315 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3315</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803315.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:10:00.000Z",
             "top": "19",
+            "heading": "Bundeswehreinsatz Operation Active Endeavour(OAE)",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -613,11 +953,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803247.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3247 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3247</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803247.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:35:00.000Z",
             "top": "18 *",
+            "heading": "Leistungsschutzrecht für Presseverleger",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -630,11 +979,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803269.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3269 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3269</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803269.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:35:00.000Z",
             "top": "20 *",
+            "heading": "Änderung der Abgabenordnung (Selbstanzeige)",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -667,11 +1025,29 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/030/1803018.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3018 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3018</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803161.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3161 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3161</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803439.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3439 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3439</a>: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/030/1803018.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803161.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803439.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801035.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1035 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1035</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800556.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/556 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/556</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801035.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800556.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:40:00.000Z",
             "top": "21 *",
+            "heading": "Rehabilitierung Opfer politischer Verfolgung in der DDR",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -712,11 +1088,41 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803120.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3120 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3120</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803251.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3251 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3251</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3445</a> Buchstabe a: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803120.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803251.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803445.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803453.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3453 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3453</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803453.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803145.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3145 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3145</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3445</a> Buchstabe b: Gesetzentwurf ablehnen) abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803145.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803445.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3445</a> Buchstabe c (Entschließung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803445.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:45:00.000Z",
             "top": "22 *",
+            "heading": "EU-Übereinkommen zum Schutz von Kindern",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -737,11 +1143,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803437.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3437 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3437</a> (Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803122.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3122 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3122</a> annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803437.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803122.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:45:00.000Z",
             "top": "23 *",
+            "heading": "Verknüpfung von Handelsregistern in der EU",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -762,11 +1178,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/021/1802137.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2137 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2137</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803438.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3438 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3438</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/021/1802137.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803438.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T21:45:00.000Z",
             "top": "24",
+            "heading": "Nationale Nachhaltigkeitsstrategie",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -777,19 +1203,22 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/032/1803214.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803214.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3214 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3214</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803214.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T22:15:00.000Z",
             "top": "25 *",
+            "heading": "Aufteilung der nationalen Zollerhebungskosten",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -799,19 +1228,22 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/031/1803125.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/031/1803125.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3125 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3125</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/031/1803125.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-04T22:15:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -820,7 +1252,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 5. Dezember 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -832,6 +1269,8 @@
           {
             "time": "2014-12-05T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -840,11 +1279,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-05T09:00:00.000Z",
             "top": "26",
+            "heading": "System der zulassungspflichtigen Handwerkerberufe",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -857,11 +1303,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/033/1803317.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3317 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3317</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/033/1803317.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-05T10:55:00.000Z",
             "top": "27",
+            "heading": "Bundeswehreinsatz in Afghanistan (RSM)",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -884,11 +1339,26 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803246.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3246 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3246</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803246.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803405.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3405 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3405</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803405.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-05T12:45:00.000Z",
             "top": "28",
+            "heading": "Stromsperren",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -901,11 +1371,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/034/1803408.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3408 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3408</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/034/1803408.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-05T13:30:00.000Z",
             "top": "29",
+            "heading": "Vereinbarte Debatte 25 Jahre VN-Kinderrechtskonvention",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -915,11 +1394,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-05T14:15:00.000Z",
             "top": "30",
+            "heading": "Vereinbarte Debatte Menschenrechte global durchsetzen",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -929,11 +1415,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-12-05T15:00:00.000Z",
             "top": "31",
+            "heading": "Situation von Opfern von Menschenhandel",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -943,19 +1436,22 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/032/1803256.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/032/1803256.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/3256 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/3256</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/032/1803256.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-12-05T15:50:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -964,7 +1460,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 17. Dezember 2014, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

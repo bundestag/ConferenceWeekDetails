@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2014&week=11",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2014&week=11",
     "description": "2014_11"
   },
   "data": {
@@ -26,6 +26,8 @@
           {
             "time": "2014-03-12T13:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -34,11 +36,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-12T13:00:00.000Z",
             "top": "1",
+            "heading": "Befragung der Bundesregierung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -48,11 +57,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-12T13:50:00.000Z",
             "top": "2",
+            "heading": "Fragestunde",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -64,11 +80,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-12T16:05:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zum Staatsangehörigkeitsrecht",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -79,11 +102,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-12T17:20:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -92,7 +122,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung, Donnerstag, 23. März 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -104,6 +139,8 @@
           {
             "time": "2014-03-13T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -112,11 +149,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-13T09:05:00.000Z",
             "top": "3",
+            "heading": "Regierungserklärung zur Lage in der Ukraine",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -126,11 +170,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-13T11:20:00.000Z",
             "top": "4",
+            "heading": "Energiewende",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -143,11 +194,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800777.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/777 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/777</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800777.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-13T13:20:00.000Z",
             "top": "5",
+            "heading": "Gründungsbedingungen in der digitalen Wirtschaft",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -170,11 +230,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800764.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/764 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/764</a> (neu), <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800771.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/771 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/771</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800764.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800771.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-13T14:35:00.000Z",
             "top": "14",
+            "heading": "Überweisungen im vereinfachten Verfahren",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -183,11 +253,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-13T14:35:00.000Z",
             "top": "15",
+            "heading": "Abschließende Beratungen ohne Aussprache",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -196,11 +273,62 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800770.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/770 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/770</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800770.pdf"
+                ]
+              },
+              {
+                "line": "Sammlübersicht 14 <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800594.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/594 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/594</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800594.pdf"
+                ]
+              },
+              {
+                "line": "Sammlübersicht 15 <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800595.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/595 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/595</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800595.pdf"
+                ]
+              },
+              {
+                "line": "Sammlübersicht 16 <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800596.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/596 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/596</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800596.pdf"
+                ]
+              },
+              {
+                "line": "Sammlübersicht 17 <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800597.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/597 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/597</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800597.pdf"
+                ]
+              },
+              {
+                "line": "Sammlübersicht 18 <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800598.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/598 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/598</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800598.pdf"
+                ]
+              },
+              {
+                "line": "Sammlübersicht 19 <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800599.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/599 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/599</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800599.pdf"
+                ]
+              },
+              {
+                "line": "Sammlübersicht 20 <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/006/1800600.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/600 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/600</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/006/1800600.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-13T14:40:00.000Z",
             "top": "8",
+            "heading": "Abkommen mit Uruguay über Soziale Sicherheit",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -212,11 +340,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/002/1800272.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/272 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/272</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/002/1800272.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-13T15:20:00.000Z",
             "top": "7",
+            "heading": "Regulierung des Grauen Kapitalmarktes",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -229,11 +366,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800769.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/769 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/769</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800769.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-13T16:05:00.000Z",
             "top": "9",
+            "heading": "EU-Honigrichtlinie (Kennzeichnung von Gen-Honig)",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -251,11 +397,40 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/792 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/792</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/578 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/578</a> ablehnen) ",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf"
+                ]
+              },
+              {
+                "line": "16:48:10: Beginn der namentliche Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "16:51:32: Ende der namentliche Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 567  Ja: 448  Nein: 110  Enthaltungen: 9",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/792 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/792</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/578 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/578</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800792.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800578.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-13T16:50:00.000Z",
             "top": "10+ZP3",
+            "heading": "Waffenexporte in die Golfregion",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -290,11 +465,28 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800768.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/768 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/768</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/001/1800105.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/105 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/105</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800768.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/001/1800105.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800793.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/793 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/793</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/005/1800576.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/576 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/576</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800793.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/005/1800576.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-13T17:40:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -303,7 +495,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung, Freitag, 14. März 2014, 9.00 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -315,6 +512,8 @@
           {
             "time": "2014-03-14T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -323,11 +522,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-03-14T09:00:00.000Z",
             "top": "11+ZP4",
+            "heading": "Kommission zu Auslandseinsätzen der Bundeswehr",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -348,19 +554,22 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/007/1800775.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800775.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/775 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/775</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800775.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-14T10:50:00.000Z",
             "top": "12",
+            "heading": "Chancengleichheit für Frauen und Männer im Beruf",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -383,11 +592,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800763.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/763 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/763</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800773.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/773 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/773</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800763.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800773.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-14T12:45:00.000Z",
             "top": "13",
+            "heading": "Rentenniveau in der gesetzlichen Rentenversicherung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -410,11 +629,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800767.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/767 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/767</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800765.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/765 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/765</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800767.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800765.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-14T13:30:00.000Z",
             "top": "ZP 5",
+            "heading": "Europäische Bankenunion",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -428,11 +657,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800774.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/774 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/774</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800774.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-03-14T14:25:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -441,7 +679,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung, Mittwoch, 19. März 2014, 13.00 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

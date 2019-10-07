@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2014&week=36",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2014&week=36",
     "description": "2014_36"
   },
   "data": {
@@ -26,6 +26,8 @@
           {
             "time": "2014-09-01T14:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -34,11 +36,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-09-01T14:05:00.000Z",
             "top": "1",
+            "heading": "Regierungserklärung Humanitäre Hilfe im Irak",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -50,11 +59,32 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/024/1802459.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2459 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2459</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/024/1802459.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/024/1802457.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2457 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2457</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/024/1802457.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/024/1802458.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/2458 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/2458</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/024/1802458.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-09-01T17:05:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -63,7 +93,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Dienstag, 9. September 2014, 10 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

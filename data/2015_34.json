@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2015&week=34",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2015&week=34",
     "description": "2015_34"
   },
   "data": {
@@ -26,6 +26,8 @@
           {
             "time": "2015-08-19T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -34,11 +36,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2015-08-19T09:00:00.000Z",
             "top": "1",
+            "heading": "Regierungserklärung Stabilitätshilfe für Griechenland",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -58,11 +67,62 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Hinweis auf die Neuaufsetzung der IT-Systeme des Bundestages",
+                "documents": []
+              },
+              {
+                "line": "namentliche Abstimmung zu Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/057/1805780.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5780 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5780</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/057/1805788.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5788 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5788</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/057/1805780.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/057/1805788.pdf"
+                ]
+              },
+              {
+                "line": "11:59:23: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "12:02:08: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "korrigiertes Ergebnis",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 584  Ja: 453  Nein: 113  Enthaltungen: 18  ",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/057/1805780.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5780 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5780</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/057/1805788.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5788 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5788</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/057/1805780.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/057/1805788.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/057/1805789.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/5789 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/5789</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/057/1805789.pdf"
+                ]
+              },
+              {
+                "line": "12:03:26: Beginn der Sitzungsunterbrechung",
+                "documents": []
+              },
+              {
+                "line": "12:09:35: Ende der Sitzungsunterbrechung",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2015-08-19T12:10:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -71,7 +131,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung, Dienstag, 8. September 2015, 10 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

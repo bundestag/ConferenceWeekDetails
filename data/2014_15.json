@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2014&week=15",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2014&week=15",
     "description": "2014_15"
   },
   "data": {
@@ -26,6 +26,8 @@
           {
             "time": "2014-04-08T11:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -34,11 +36,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-08T11:00:00.000Z",
             "top": "1",
+            "heading": "Einbringung Haushaltsgesetz 2014, Finanzplan",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -59,25 +68,20 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-08T11:50:00.000Z",
             "top": "2",
+            "heading": "Allgemeine Finanzdebatte",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -96,19 +100,22 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1050</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801050.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-04-08T13:40:00.000Z",
             "top": "Epl 06",
+            "heading": "Innen",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -118,11 +125,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-08T15:30:00.000Z",
             "top": "Epl 07",
+            "heading": "Justiz",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -132,11 +146,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-08T17:15:00.000Z",
             "top": "Epl 10",
+            "heading": "Ernährung und Landwirtschaft",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -146,11 +167,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-08T19:05:00.000Z",
             "top": "3",
+            "heading": "Bundeswehreinsatz EUFOR RCA",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -163,11 +191,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-04-08T19:50:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -176,7 +213,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 9. April 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -188,6 +230,8 @@
           {
             "time": "2014-04-09T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -196,11 +240,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-09T09:00:00.000Z",
             "top": "Epl 04",
+            "heading": "Bundeskanzlerin und Bundeskanzleramt",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -210,11 +261,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-09T13:00:00.000Z",
             "top": "Epl 05",
+            "heading": "Auswärtiges Amt",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -224,11 +282,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-09T14:45:00.000Z",
             "top": "4",
+            "heading": "Bundeswehreinsatz VN/OVCW (Syrische C-Waffen)",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -245,11 +310,37 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/984 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/984</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800984.pdf"
+                ]
+              },
+              {
+                "line": "Gesamt: 589 Ja: 535 Nein: 35 Enthaltungen: 19",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1067</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801067.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801078.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1078 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1078</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801078.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-04-09T15:35:00.000Z",
             "top": "Epl 14",
+            "heading": "Verteidigung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -259,11 +350,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-09T17:25:00.000Z",
             "top": "Epl 23",
+            "heading": "Wirtschaftliche Zusammenarbeit und Entwicklung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -273,11 +371,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-09T19:15:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -286,7 +391,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 10. April 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -298,6 +408,8 @@
           {
             "time": "2014-04-10T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -306,11 +418,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T09:05:00.000Z",
             "top": "Epl 09",
+            "heading": "Wirtschaft und Energie",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -320,11 +439,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T11:25:00.000Z",
             "top": "Epl 30",
+            "heading": "Bildung und Forschung",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -334,11 +460,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T13:15:00.000Z",
             "top": "7",
+            "heading": "Überweisungen im vereinfachten Verfahren",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -347,11 +480,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisungen beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T13:15:00.000Z",
             "top": "8+ZP a-f",
+            "heading": "Abschließende Beratungen ohne Aussprache",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -360,11 +500,105 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801068.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1068 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1068</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801068.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801069.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1069 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1069</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801069.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 33 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800985.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/985 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/985</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800985.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 34 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800986.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/986 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/986</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800986.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 35 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800987.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/987 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/987</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800987.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 36 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800988.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/988 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/988</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800988.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 37 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800989.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/989 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/989</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800989.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 38 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800990.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/990 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/990</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800990.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 39 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/009/1800991.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/991 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/991</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/009/1800991.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800794.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/794 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/794</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/004/1800493.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/493 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/493</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800794.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/004/1800493.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 40 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801098.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1098 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1098</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801098.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 41 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801099.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1099 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1099</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801099.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 42 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801100.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1100 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1100</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/011/1801100.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 43 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801101.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1101 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1101</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/011/1801101.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 44 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/011/1801102.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1102 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1102</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/011/1801102.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-04-10T13:20:00.000Z",
             "top": "5",
+            "heading": "Gremienwahlen (Standortauswahlgesetz)",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -385,11 +619,26 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Wahlvorschlag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1070 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1070</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801070.pdf"
+                ]
+              },
+              {
+                "line": "Wahlvorschlag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1071 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1071</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801071.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-04-10T13:25:00.000Z",
             "top": "Epl 17",
+            "heading": "Familie, Frauen, Senioren und Jugend",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -399,11 +648,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T15:15:00.000Z",
             "top": "Epl 15",
+            "heading": "Gesundheit",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -413,11 +669,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T17:10:00.000Z",
             "top": "6",
+            "heading": "Bundeswehreinsatz EUFOR RCA (Zentralafrik. Rep.)",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -435,11 +698,39 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1081 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1081</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801081.pdf"
+                ]
+              },
+              {
+                "line": "17:58:39: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "18:02:50: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 576 Ja: 514 Nein: 59 Enthaltungen: 3",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/1095 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/1095</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/010/1801095.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-04-10T18:05:00.000Z",
             "top": "Epl 11",
+            "heading": "Arbeit und Soziales",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -449,11 +740,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T20:00:00.000Z",
             "top": "Epl 16",
+            "heading": "Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -463,11 +761,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-10T21:50:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -476,7 +781,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 11. April 2014, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -488,6 +798,8 @@
           {
             "time": "2014-04-11T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -496,11 +808,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "begrüßt Myanmars Oppositionsführerin und Friedensnobelpreisträgerin von 1991, Aung San Suu Kyi (Tribüne)",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-11T09:05:00.000Z",
             "top": "Epl 12",
+            "heading": "Verkehr und digitale Infrastruktur",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -510,11 +829,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2014-04-11T10:50:00.000Z",
             "top": "1",
+            "heading": "Schlussrunde Haushaltsgesetz 2014",
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -523,11 +849,21 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisungen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 18/700 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>18/700</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 17/14301 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>17/14301</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/18/007/1800700.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/17/143/1714301.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2014-04-11T13:10:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -536,7 +872,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 7. Mai 2014, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

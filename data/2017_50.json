@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2017&week=50",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2017&week=50",
     "description": "2017_50"
   },
   "data": {
@@ -26,19 +26,21 @@
           {
             "time": "2017-12-12T09:00:00.000Z",
             "top": "",
-            "topic": [
+            "heading": "Sitzungseröffnung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-schurer-kondolenz-533548",
+            "topic": [],
+            "status": [
               {
-                "lines": [
-                  ""
-                ],
+                "line": "Amtliche Mitteilungen",
                 "documents": []
               }
-            ],
-            "status": []
+            ]
           },
           {
             "time": "2017-12-12T09:10:00.000Z",
             "top": "1",
+            "heading": "Bundeswehreinsatz im Mittelmeer (SEA GUARDIAN)",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-sea-guardian-533386",
             "topic": [
               {
                 "lines": [
@@ -54,11 +56,45 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900176.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/176 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/176</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900022.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900176.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900022.pdf"
+                ]
+              },
+              {
+                "line": "09:43:22: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "09:48:20: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 671 Ja: 530 Nein: 137 Enthaltungen: 4",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900176.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/176 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/176</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900176.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900221.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/221 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/221</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900221.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T09:50:00.000Z",
             "top": "2",
+            "heading": "Bundeswehreinsatz gegen die Terrororganisation IS",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-is-terrorbekaempfung-533394",
             "topic": [
               {
                 "lines": [
@@ -75,11 +111,47 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/192 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/192</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900205.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/205 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/205</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900023.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900205.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900023.pdf"
+                ]
+              },
+              {
+                "line": "10:28:58: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "10:33:13: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 672 Ja: 436 Nein: 226 Enthaltungen: 10",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/192 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/192</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900205.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/205 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/205</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900192.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900205.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900222.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/222 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/222</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900222.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T10:35:00.000Z",
             "top": "3",
+            "heading": "Bundeswehreinsatz im Irak",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-bundeswehreinsatz-irak-533370",
             "topic": [
               {
                 "lines": [
@@ -95,11 +167,49 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/178 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/178</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900025.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900025.pdf"
+                ]
+              },
+              {
+                "line": "11:09:32: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "11:13:14: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Korrigiertes Ergebnis:",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 668 Ja: 435 Nein: 196 Enthaltungen: 37",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/178 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/178</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900178.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900223.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/223 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/223</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900223.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T11:15:00.000Z",
             "top": "4",
+            "heading": "Bundeswehreinsatz in Afghanistan",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-afghanistan-533398",
             "topic": [
               {
                 "lines": [
@@ -116,11 +226,51 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900193.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/193 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/193</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900206.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/206 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/206</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900021.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/21 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/21</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900193.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900206.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900021.pdf"
+                ]
+              },
+              {
+                "line": "11:50:59: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "11:54:50: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Korrigiertes Ergebnis:",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 668 Ja: 458 Nein: 198 Enthaltungen: 12",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900193.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/193 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/193</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900206.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/206 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/206</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900193.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900206.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900224.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/224 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/224</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900224.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T11:55:00.000Z",
             "top": "5",
+            "heading": "Bundeswehreinsatz in Mali (MINUSMA)",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-bundeswehreinsatz-mali-533414",
             "topic": [
               {
                 "lines": [
@@ -136,11 +286,45 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "namentliche Abstimmung zu Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900177.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/177 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/177</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900024.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24</a> (neu) annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900177.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900024.pdf"
+                ]
+              },
+              {
+                "line": "12:31:11: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "12:34:43: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 666 Ja: 504 Nein:158 Enthaltungen: 4",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900177.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/177 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/177</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900177.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900225.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/225 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/225</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900225.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T12:35:00.000Z",
             "top": "ZP 1",
+            "heading": "Aktuelle Stunde zu Ständiger Strukturierter Zusammenarbeit, Brexit, Europäischer Rat",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-aktuelle-stunde-dienstag-533526",
             "topic": [
               {
                 "lines": [
@@ -150,11 +334,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2017-12-12T13:50:00.000Z",
             "top": "14, ZP 2",
+            "heading": "ERP-Wirtschaftsplangesetz 2018",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-erp-wirtschaftsplangesetz-533482",
             "topic": [
               {
                 "lines": [
@@ -176,19 +367,23 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/001/1900196.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900164.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/164 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/164</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900196.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/196 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/196</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900164.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900196.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T14:20:00.000Z",
             "top": "15",
+            "heading": "Netzwerkdurchsetzungsgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-netzwerkdurchsetzungsgesetz-533486",
             "topic": [
               {
                 "lines": [
@@ -213,11 +408,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900081.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/81 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/81</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900218.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/218 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/218</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900081.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900218.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T15:15:00.000Z",
             "top": "7",
+            "heading": "Gesetz zur Stärkung der Bürgerrechte",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-buergerrechte-533456",
             "topic": [
               {
                 "lines": [
@@ -230,11 +435,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900204.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/204 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/204</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900204.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T16:05:00.000Z",
             "top": "8",
+            "heading": "Einschränkung von Massenentlassungen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-massenentlassungen-533460",
             "topic": [
               {
                 "lines": [
@@ -248,11 +462,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900217.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/217 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/217</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900217.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T16:55:00.000Z",
             "top": "9, ZP 3, 4",
+            "heading": "Glyphosat",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-glyphosat-533468",
             "topic": [
               {
                 "lines": [
@@ -315,19 +538,26 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900231.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900230.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/230 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/230</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900216.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/216 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/216</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900226.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/226 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/226</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900232.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/232 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/232</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900231.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/231 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/231</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900230.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900216.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900226.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900232.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900231.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-12T18:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -336,7 +566,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 13. Dezember 2017, 11 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -348,6 +583,8 @@
           {
             "time": "2017-12-13T11:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -356,11 +593,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2017-12-13T11:05:00.000Z",
             "top": "10",
+            "heading": "Befragung der Bundesregierung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-regierungsbefragung-533478",
             "topic": [
               {
                 "lines": [
@@ -370,11 +614,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2017-12-13T11:45:00.000Z",
             "top": "11",
+            "heading": "Fragestunde",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-fragestunde-533402",
             "topic": [
               {
                 "lines": [
@@ -386,11 +637,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2017-12-13T12:30:00.000Z",
             "top": "12",
+            "heading": "Bundeswehreinsatz in Darfur (UNAMID)",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-bundeswehreinsatz-darfur-533406",
             "topic": [
               {
                 "lines": [
@@ -406,11 +664,49 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zum Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/174</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900019.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900019.pdf"
+                ]
+              },
+              {
+                "line": "13:03:01: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "13:08:30: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Korrigiertes Ergebnis:",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 678 Ja: 606 Nein: 72 Enthaltungen: 0",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/174</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900174.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900237.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/237 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/237</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900237.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T13:10:00.000Z",
             "top": "13",
+            "heading": "Bundeswehreinsatz in Südsudan (UNMISS)",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-bundeswehreinsatz-suedsudan-533410",
             "topic": [
               {
                 "lines": [
@@ -426,11 +722,49 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zum Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900175.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/175 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/175</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900020.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900175.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900020.pdf"
+                ]
+              },
+              {
+                "line": "13:43:03: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "13:46:27: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Korrigiertes Ergebnis:",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 669 Ja: 601 Nein: 68 Enthaltungen: 0",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900175.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/175 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/175</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900175.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900238.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/238 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/238</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900238.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T13:50:00.000Z",
             "top": "ZP 10",
+            "heading": "Aufhebung der Immunität",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-immunitaet-533812",
             "topic": [
               {
                 "lines": [
@@ -444,11 +778,26 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900251.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/251 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/251</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900251.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900252.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/252 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/252</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900252.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T13:50:00.000Z",
             "top": "19",
+            "heading": "Überweisungen im vereinfachten Verfahren",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-ueberweisungen-533470",
             "topic": [
               {
                 "lines": [
@@ -481,11 +830,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2017-12-13T13:55:00.000Z",
             "top": "20, ZP 5b",
+            "heading": "Abschließende Beratung ohne Aussprache",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-beratungen-ohne-aussprache-533390",
             "topic": [
               {
                 "lines": [
@@ -509,11 +865,26 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900235.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/235 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/235</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900235.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 1 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900250.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/250 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/250</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900250.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T13:55:00.000Z",
             "top": "ZP 5a",
+            "heading": "Anpassungsverfahren § 11 des Abgeordnetengesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-diaeten-533788",
             "topic": [
               {
                 "lines": [
@@ -527,11 +898,42 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Namentliche Abstimmung zum Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/236 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/236</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf"
+                ]
+              },
+              {
+                "line": "14:25:14: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "14:27:17: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Korrigiertes Ergebnis:",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 664 Ja: 504 Nein: 152 Enthaltungen: 8",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/236 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/236</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900236.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T14:25:00.000Z",
             "top": "ZP 6",
+            "heading": "Aktuelle Stunde zu linksextremen Gewalttaten gegen demokratische Parteien",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-aktuelle-stunde-mittwoch-533528",
             "topic": [
               {
                 "lines": [
@@ -541,11 +943,18 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2017-12-13T15:40:00.000Z",
             "top": "ZP 7",
+            "heading": "Opferentschädigung verbessern",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-opferentschaedigung-533674",
             "topic": [
               {
                 "lines": [
@@ -558,11 +967,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900234.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/234 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/234</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900234.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T16:25:00.000Z",
             "top": "6",
+            "heading": "Einführung umfassender Grenzkontrollen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-grenzkontrollen-533450",
             "topic": [
               {
                 "lines": [
@@ -575,11 +993,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/41 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/41</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900041.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T17:20:00.000Z",
             "top": "16",
+            "heading": "Stabilität und Wachstum in Europa",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-wachstum-europa-533490",
             "topic": [
               {
                 "lines": [
@@ -592,11 +1019,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900228.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/228 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/228</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900228.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T18:10:00.000Z",
             "top": "17",
+            "heading": "Mindestlohn",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-mindestlohn-533448",
             "topic": [
               {
                 "lines": [
@@ -609,11 +1045,20 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900096.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/96 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/96</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900096.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T18:55:00.000Z",
             "top": "18, ZP 8,9",
+            "heading": "Paradise Papers -Steuervermeidung und Geldwäsche",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw50-de-paradise-papers-533462",
             "topic": [
               {
                 "lines": [
@@ -654,19 +1099,25 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/002/1900227.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900239.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/239 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/239</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900219.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/219 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/219</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900233.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/233 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/233</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900227.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/227 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/227</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900239.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900219.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900233.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900227.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2017-12-13T19:45:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -675,7 +1126,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 17. Januar 2018, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?year=2019&week=42",
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=42",
     "description": "2019_42"
   },
   "data": {
@@ -26,6 +26,8 @@
           {
             "time": "2019-10-16T13:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -39,6 +41,8 @@
           {
             "time": "2019-10-16T13:00:00.000Z",
             "top": "1",
+            "heading": "Änderung des GG (Artikel 72,105 und 125b)",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-grundgesetzaenderung-659792",
             "topic": [
               {
                 "lines": [
@@ -56,6 +60,8 @@
           {
             "time": "2019-10-16T13:05:00.000Z",
             "top": "2",
+            "heading": "Grundsteuer- Reformgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-grundsteuerreform-659794",
             "topic": [
               {
                 "lines": [
@@ -73,6 +79,8 @@
           {
             "time": "2019-10-16T13:10:00.000Z",
             "top": "3",
+            "heading": "Änderung des Grundsteuergesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-grundsteuerreform-baugrundstuecke-659796",
             "topic": [
               {
                 "lines": [
@@ -90,6 +98,8 @@
           {
             "time": "2019-10-16T13:15:00.000Z",
             "top": "4",
+            "heading": "Befragung der Bundesregierung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-regierungsbefragung-659798",
             "topic": [
               {
                 "lines": [
@@ -103,6 +113,8 @@
           {
             "time": "2019-10-16T14:20:00.000Z",
             "top": "5",
+            "heading": "Fragestunde",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-fragestunde-659800",
             "topic": [
               {
                 "lines": [
@@ -117,6 +129,8 @@
           {
             "time": "2019-10-16T15:50:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -137,6 +151,8 @@
           {
             "time": "2019-10-17T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -150,6 +166,8 @@
           {
             "time": "2019-10-17T09:00:00.000Z",
             "top": "6",
+            "heading": "Regierungserklärung zum Europäischen Rat",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-regierungserklaerung-eu-rat-659802",
             "topic": [
               {
                 "lines": [
@@ -164,6 +182,8 @@
           {
             "time": "2019-10-17T10:40:00.000Z",
             "top": "7",
+            "heading": "Sicherstellung publizistischer Vielfalt",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-publizistische-vielfalt-659804",
             "topic": [
               {
                 "lines": [
@@ -179,6 +199,8 @@
           {
             "time": "2019-10-17T11:45:00.000Z",
             "top": "8",
+            "heading": "Wohngeldstärkungsgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-wohngeld-659806",
             "topic": [
               {
                 "lines": [
@@ -217,12 +239,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/117/1911750.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -230,6 +246,8 @@
           {
             "time": "2019-10-17T12:50:00.000Z",
             "top": "9",
+            "heading": "Renteneinheit zwischen Ost und West",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-renteneinheit-659808",
             "topic": [
               {
                 "lines": [
@@ -252,12 +270,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/079/1907981.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -265,6 +277,8 @@
           {
             "time": "2019-10-17T13:55:00.000Z",
             "top": "36",
+            "heading": "Überweisungen im vereinfachten Verfahren",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-ueberweisungen-659846",
             "topic": [
               {
                 "lines": [
@@ -361,6 +375,8 @@
           {
             "time": "2019-10-17T14:00:00.000Z",
             "top": "37",
+            "heading": "Abschließende Beratungen ohne Aussprache",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-abschliessende-beratungen-659844",
             "topic": [
               {
                 "lines": [
@@ -562,6 +578,8 @@
           {
             "time": "2019-10-17T14:10:00.000Z",
             "top": "10",
+            "heading": "Arbeitsbedingungen in der Paketbranche",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-nachunternehmerhaftung-659810",
             "topic": [
               {
                 "lines": [
@@ -595,6 +613,8 @@
           {
             "time": "2019-10-17T14:55:00.000Z",
             "top": "11",
+            "heading": "Deutschland als Leitmarkt für Industrie 4.0",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-industrie-4-0-659812",
             "topic": [
               {
                 "lines": [
@@ -610,6 +630,8 @@
           {
             "time": "2019-10-17T15:40:00.000Z",
             "top": "12",
+            "heading": "Bürokratieentlastungsgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-buerokratieentlastungsgesetz-659814",
             "topic": [
               {
                 "lines": [
@@ -625,6 +647,8 @@
           {
             "time": "2019-10-17T16:25:00.000Z",
             "top": "13",
+            "heading": "Änderung des SGB IX und XII",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-teilhabe-659816",
             "topic": [
               {
                 "lines": [
@@ -659,12 +683,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/059/1905907.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -672,6 +690,8 @@
           {
             "time": "2019-10-17T17:10:00.000Z",
             "top": "14",
+            "heading": "Öffentlich-rechtlicher Rundfunk",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-rundfunk-659818",
             "topic": [
               {
                 "lines": [
@@ -689,6 +709,8 @@
           {
             "time": "2019-10-17T17:55:00.000Z",
             "top": "15",
+            "heading": "Änderung des StGB – Cybergrooming",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-cybergrooming-659820",
             "topic": [
               {
                 "lines": [
@@ -704,6 +726,8 @@
           {
             "time": "2019-10-17T18:40:00.000Z",
             "top": "16",
+            "heading": "Wahlrechtsreform",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-wahlrechtsreform-659822",
             "topic": [
               {
                 "lines": [
@@ -719,6 +743,8 @@
           {
             "time": "2019-10-17T19:25:00.000Z",
             "top": "17",
+            "heading": "Waffenrechtsänderungsgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-waffenrecht-659824",
             "topic": [
               {
                 "lines": [
@@ -742,6 +768,8 @@
           {
             "time": "2019-10-17T20:10:00.000Z",
             "top": "18",
+            "heading": "Digitales Lernen und Datenschutz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-digitales-lernen-659826",
             "topic": [
               {
                 "lines": [
@@ -762,12 +790,6 @@
                   "http://dip21.bundestag.de/dip21/btd/19/048/1904845.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/117/1911758.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -775,6 +797,8 @@
           {
             "time": "2019-10-17T20:55:00.000Z",
             "top": "19",
+            "heading": "Gaststaatgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-immunitaet-diplomaten-659828",
             "topic": [
               {
                 "lines": [
@@ -794,6 +818,8 @@
           {
             "time": "2019-10-17T21:40:00.000Z",
             "top": "20",
+            "heading": "Rekommunalisierung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-rekommunalisierung-659830",
             "topic": [
               {
                 "lines": [
@@ -811,6 +837,8 @@
           {
             "time": "2019-10-17T22:25:00.000Z",
             "top": "21",
+            "heading": "Änderung des Deutschen Richtergesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-richtergesetz-659832",
             "topic": [
               {
                 "lines": [
@@ -830,6 +858,8 @@
           {
             "time": "2019-10-17T22:55:00.000Z",
             "top": "22",
+            "heading": "Verfahrensrechte im Jugendstrafverfahren",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-jugendstrafrecht-659834",
             "topic": [
               {
                 "lines": [
@@ -845,6 +875,8 @@
           {
             "time": "2019-10-17T23:25:00.000Z",
             "top": "23",
+            "heading": "Verfahren zur Aufnahme afghanischer Ortskräfte",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-afghanische-ortskraefte-659836",
             "topic": [
               {
                 "lines": [
@@ -862,6 +894,8 @@
           {
             "time": "2019-10-17T00:10:00.000Z",
             "top": "24",
+            "heading": "Recht der notwendigen Verteidigung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-notwendige-verteidigung-659838",
             "topic": [
               {
                 "lines": [
@@ -877,6 +911,8 @@
           {
             "time": "2019-10-17T00:40:00.000Z",
             "top": "25",
+            "heading": "Änderung des Direktzahlungen-Durchführungsgesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-direktzahlungen-landwirtschaft-659840",
             "topic": [
               {
                 "lines": [
@@ -892,6 +928,8 @@
           {
             "time": "2019-10-17T01:10:00.000Z",
             "top": "26",
+            "heading": "Änderung zivilprozessrechtlicher Vorschriften",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-wertgrenze-nichtzulassung-gericht-659842",
             "topic": [
               {
                 "lines": [
@@ -925,6 +963,8 @@
           {
             "time": "2019-10-17T01:40:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -945,6 +985,8 @@
           {
             "time": "2019-10-18T09:00:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
@@ -958,6 +1000,8 @@
           {
             "time": "2019-10-18T09:00:00.000Z",
             "top": "27",
+            "heading": "Grundsteuerreform",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-grundsteuerreform-freitag-659864",
             "topic": [
               {
                 "lines": [
@@ -1025,12 +1069,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/083/1908358.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1038,6 +1076,8 @@
           {
             "time": "2019-10-18T10:15:00.000Z",
             "top": "28",
+            "heading": "Digitalisierung Deutschlands",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-digitalisierung-659866",
             "topic": [
               {
                 "lines": [
@@ -1086,6 +1126,8 @@
           {
             "time": "2019-10-18T11:20:00.000Z",
             "top": "29",
+            "heading": "Soziales Entschädigungsrecht",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-entschaedigungsrecht-659882",
             "topic": [
               {
                 "lines": [
@@ -1101,6 +1143,8 @@
           {
             "time": "2019-10-18T12:25:00.000Z",
             "top": "30",
+            "heading": "Verkehrspolitik",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-verkehrswende-659884",
             "topic": [
               {
                 "lines": [
@@ -1211,6 +1255,8 @@
           {
             "time": "2019-10-18T13:30:00.000Z",
             "top": "31",
+            "heading": "100 Jahre Weimarer Reichsverfassung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-hundert-jahre-weimar-659886",
             "topic": [
               {
                 "lines": [
@@ -1221,12 +1267,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/110/1911089.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1234,6 +1274,8 @@
           {
             "time": "2019-10-18T14:15:00.000Z",
             "top": "32",
+            "heading": "Änderung des Aufenthaltsgesetzes",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-aufenthaltsgesetz-659896",
             "topic": [
               {
                 "lines": [
@@ -1249,6 +1291,8 @@
           {
             "time": "2019-10-18T15:00:00.000Z",
             "top": "33",
+            "heading": "EU-Geldwäscherichtlinie",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-geldwaescherichtlinie-659898",
             "topic": [
               {
                 "lines": [
@@ -1264,6 +1308,8 @@
           {
             "time": "2019-10-18T15:45:00.000Z",
             "top": "34",
+            "heading": "Masernschutzgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-masernschutzgesetz-659910",
             "topic": [
               {
                 "lines": [
@@ -1291,6 +1337,8 @@
           {
             "time": "2019-10-18T16:30:00.000Z",
             "top": "35",
+            "heading": "Rechtsterrorismus",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw42-de-rechter-terror-659914",
             "topic": [
               {
                 "lines": [
@@ -1301,12 +1349,6 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/107/1910750.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  ""
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1314,6 +1356,8 @@
           {
             "time": "2019-10-18T17:15:00.000Z",
             "top": "",
+            "heading": null,
+            "article": null,
             "topic": [
               {
                 "lines": [
