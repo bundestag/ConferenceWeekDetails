@@ -1,8 +1,8 @@
 {
   "meta": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2018&week=42",
-    "currentYear": 2018,
-    "currentWeek": 42
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=11",
+    "currentYear": 2019,
+    "currentWeek": 11
   },
   "data": {
     "id": "2018_42",
@@ -141,9 +141,16 @@
           {
             "time": "2018-10-18T09:00:00.000Z",
             "top": "",
-            "heading": "Sitzungseröffnung",
-            "article": "https://www.bundestag.de/ausschuesse/a11/58-sitzung-rvbund-knerg-aendg-662556",
-            "topic": [],
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
             "status": [
               {
                 "line": "beendet",
@@ -155,7 +162,7 @@
             "time": "2018-10-18T09:00:00.000Z",
             "top": "",
             "heading": "Feststellung der Tagesordnung",
-            "article": "https://www.bundestag.de/ausschuesse/a11/58-sitzung-rvbund-knerg-aendg-662556",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw42-de-geschaeftsordnung-574156",
             "topic": [
               {
                 "lines": [
@@ -1666,9 +1673,16 @@
           {
             "time": "2018-10-18T00:40:00.000Z",
             "top": "",
-            "heading": "Sitzungsende",
-            "article": "https://www.bundestag.de/ausschuesse/a11/58-sitzung-rvbund-knerg-aendg-662556",
-            "topic": [],
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
             "status": [
               {
                 "line": "nächste Sitzung Freitag, 19. Oktober 2018, 9 Uhr",
@@ -1686,9 +1700,16 @@
           {
             "time": "2018-10-19T09:00:00.000Z",
             "top": "",
-            "heading": "Sitzungseröffnung",
-            "article": "https://www.bundestag.de/ausschuesse/a11/59-sitzung-pflegeloehneverbesserungsgesetz-661356",
-            "topic": [],
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
             "status": [
               {
                 "line": "beendet",
@@ -2040,9 +2061,16 @@
           {
             "time": "2018-10-19T16:25:00.000Z",
             "top": "",
-            "heading": "Sitzungsende",
-            "article": "https://www.bundestag.de/ausschuesse/a11/59-sitzung-pflegeloehneverbesserungsgesetz-661356",
-            "topic": [],
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
             "status": [
               {
                 "line": "nächste Sitzung Mittwoch, 7. November 2018, 13 Uhr",
