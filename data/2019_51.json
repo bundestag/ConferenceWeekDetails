@@ -63,9 +63,11 @@
               {
                 "lines": [
                   "Fragestunde",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/159/1915930.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15930 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15930</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/159/1915930.pdf"
+                ]
               }
             ],
             "status": []
@@ -194,11 +196,13 @@
                   "Jahresbericht 2017",
                   "- zu der Unterrichtung durch die Nationale Stelle zur Verhütung von Folter",
                   "Jahresbericht 2018",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/029/1902920.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2920 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2920</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/103/1910305.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10305 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10305</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/157/1915713.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15713 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15713</a>"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/029/1902920.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/2920 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/2920</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/030/1903072.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3072 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3072</a> Nr. 2, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/103/1910305.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10305 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10305</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/149/1914939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14939</a> Nr. 1, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/157/1915713.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15713 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15713</a>"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/029/1902920.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/030/1903072.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/103/1910305.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/149/1914939.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/157/1915713.pdf"
                 ]
               }
@@ -418,21 +422,36 @@
               },
               {
                 "lines": [
-                  "c) Beratung des Antrags der Fraktion der AfD",
-                  "Aufnahme des Kalikokrebses in die Liste invasiver gebietsfremder Arten von unionsweiter Bedeutung",
-                  "Drucksache 19/…"
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  "d) Beratung des Antrags der Fraktion der FDP",
+                  "c)  Beratung des Antrags der Fraktion der FDP",
                   "Universitäre Vorbereitungskurse für geflüchtete Lehrerinnen und Lehrer",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/158/1915898.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15898 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15898</a>"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/158/1915898.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "d) Aufnahme des Kalikokrebses in die Liste invasiver gebietsfremder Arten von unionsweiter Bedeutung",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "e) Beratung des Antrags der Fraktion der AfD",
+                  "Verbesserung der Tierschutzkontrollen in der landwirtschaftlichen Nutztierhaltung",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "f) Beratung des Antrags der Fraktion der AfD",
+                  "Investitionsförderung für Maschinen- und Betriebshilfsringe aus der Gemeinschaftsaufgabe Agrarstruktur und Küstenschutz ermöglichen",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -605,13 +624,21 @@
             "topic": [
               {
                 "lines": [
-                  "Erste Beratung des von der Bundesregierung",
+                  "a) Erste Beratung des von der Bundesregierung",
                   "eingebrachten Entwurfs eines Gesetzes zur Anpassung des Medizinprodukterechts an die Verordnung (EU) 2017/745 und die Verordnung (EU) 2017/746 (Medizinprodukte-EU-Anpassungsgesetz – MPEUAnpG)",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/156/1915620.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15620 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15620</a>"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/156/1915620.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion der AfD",
+                  "Gesundheits-Apps auf klinische Wirksamkeit prüfen und Patienten schützen",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -803,10 +830,11 @@
                   "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für wirtschaftliche Zusammenarbeit und Entwicklung (19. Ausschuss)",
                   "zu dem Antrag der Fraktion der AfD",
                   "Aufstrebenden Wirtschaftsmächten den Status als Entwicklungsland entziehen – Keine Förderung im Rahmen der Entwicklungszusammenarbeit und des Außenhandels für Schwellenländer",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908986.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8986 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8986</a>, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/089/1908986.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8986 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8986</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/159/1915932.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15932 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15932</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/089/1908986.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/089/1908986.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/159/1915932.pdf"
                 ]
               }
             ],
@@ -881,18 +909,7 @@
               },
               {
                 "lines": [
-                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss)",
-                  "zu dem Antrag der Fraktion der AfD",
-                  "Sofortprogramm Zentralstatistik Wohnungs- und Obdachlosigkeit",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/060/1906064.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6064 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6064</a>, 19/…"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/060/1906064.pdf"
-                ]
-              },
-              {
-                "lines": [
-                  "c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bau, Wohnen, Stadtentwicklung und Kommunen (24. Ausschuss)",
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bau, Wohnen, Stadtentwicklung und Kommunen (24. Ausschuss)",
                   "zu dem Antrag der Fraktion der AfD",
                   "Anpassung des öffentlichen Baurechts zur Bekämpfung der Obdachlosigkeit",
                   "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/077/1907717.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7717 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7717</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/095/1909571.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9571 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9571</a>"
@@ -924,10 +941,12 @@
               {
                 "lines": [
                   "b) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Altschulden – Existenzgefährdend für ostdeutsche Wohnungsunternehmen",
-                  "Drucksache 19/…"
+                  "Altschulden – Existenzgefährdung für ostdeutsche Wohnungsunternehmen vermeiden",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/159/1915921.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15921 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15921</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/159/1915921.pdf"
+                ]
               }
             ],
             "status": []
@@ -981,7 +1000,7 @@
               {
                 "lines": [
                   "b) Beratung des Antrags der Fraktion der AfD",
-                  "Erstellung einer Studie über die 5G-Technologie und deren Auswirkungen",
+                  "Sicherstellung nationaler Souveränität im 5G-Mobilfunknetz",
                   "Drucksache 19/…"
                 ],
                 "documents": []
