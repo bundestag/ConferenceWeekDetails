@@ -15,8 +15,8 @@
       "week": 51
     },
     "next": {
-      "year": null,
-      "week": null
+      "year": 2020,
+      "week": 3
     },
     "sessions": [
       {
@@ -1936,7 +1936,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2019-12-20T09:00:00.000Z",
@@ -1952,10 +1957,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2019-12-20T10:05:00.000Z",
+            "time": "2019-12-20T10:10:00.000Z",
             "top": "22",
             "heading": "Wohnungsnot und Obdachlosigkeit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw51-de-obdachlosigkeit-673094",
@@ -1983,13 +1993,27 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916051.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16051 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16051</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/160/1916051.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/095/1909571.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9571 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9571</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/077/1907717.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7717 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7717</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/095/1909571.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/077/1907717.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2019-12-20T11:10:00.000Z",
+            "time": "2019-12-20T11:20:00.000Z",
             "top": "15, ZP 15",
-            "heading": "Kurzzeitpflege und Elternunterhalt",
-            "article": null,
+            "heading": "Kurzzeitpflege",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw51-de-kurzzeitpflege-673048",
             "topic": [
               {
                 "lines": [
@@ -2012,10 +2036,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916045.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16045 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16045</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916039.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16039 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16039</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/160/1916045.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/160/1916039.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2019-12-20T11:45:00.000Z",
+            "time": "2019-12-20T11:55:00.000Z",
             "top": "23",
             "heading": "Altschulden der Kommunen und Wohnungsunternehmen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw51-de-altschulden-kommunen-673096",
@@ -2041,13 +2073,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/141/1914153.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14153 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14153</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/159/1915921.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15921 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15921</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/141/1914153.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/159/1915921.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2019-12-20T12:50:00.000Z",
+            "time": "2019-12-20T13:05:00.000Z",
             "top": "24, ZP 16",
             "heading": "Beschaffung von bewaffneten Drohnen",
-            "article": null,
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw51-de-bewaffnete-drohnen-673098",
             "topic": [
               {
                 "lines": [
@@ -2090,10 +2130,67 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Namentliche Abstimmung über Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/161/1916149.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16149 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16149</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/156/1915675.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15675 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15675</a> ablehnen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/161/1916149.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/156/1915675.pdf"
+                ]
+              },
+              {
+                "line": "Beginn der namentlichen Abstimmung: 13:42:59",
+                "documents": []
+              },
+              {
+                "line": "Ende der namentlichen Abstimmung: 13:46:21",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 597 Ja: 526 Nein: 69 Enthaltungen: 2",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/161/1916149.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16149 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16149</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/161/1916149.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/144/1914499.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14499 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14499</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913527.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13527 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13527</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/144/1914499.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/135/1913527.pdf"
+                ]
+              },
+              {
+                "line": "Namentliche Abstimmung über Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16041</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/160/1916041.pdf"
+                ]
+              },
+              {
+                "line": "Beginn der namentlichen Abstimmung: 13:50:04",
+                "documents": []
+              },
+              {
+                "line": "Ende der namentlichen Abstimmung: 13:52:40",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 598 Ja: 54 Nein: 485 Enthaltungen: 59",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16041</a> ...",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/160/1916041.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2019-12-20T13:30:00.000Z",
+            "time": "2019-12-20T13:50:00.000Z",
             "top": "25",
             "heading": "Sicherheit beim 5G-Netzausbau",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw51-de-5g-technologie-673100",
@@ -2119,13 +2216,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916049.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16049 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16049</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916058.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16058 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16058</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/160/1916049.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/160/1916058.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2019-12-20T14:05:00.000Z",
+            "time": "2019-12-20T14:35:00.000Z",
             "top": "ZP 23",
             "heading": "Aktuelle Stunde - Globales Flüchtlingsforum und Grundrechtekatalog",
-            "article": null,
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2019/kw51-de-aktuelle-stunde-fluechtlingsforum-674230",
             "topic": [
               {
                 "lines": [
@@ -2136,10 +2241,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2019-12-20T15:10:00.000Z",
+            "time": "2019-12-20T15:40:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -2151,7 +2261,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 15. Januar 2020, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
