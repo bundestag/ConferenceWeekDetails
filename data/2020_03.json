@@ -37,7 +37,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Tagesordnung beschlossen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-01-15T13:00:00.000Z",
@@ -52,10 +57,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-01-15T14:05:00.000Z",
+            "time": "2020-01-15T14:10:00.000Z",
             "top": "2",
             "heading": "Fragestunde",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-fragestunde-674660",
@@ -70,10 +80,15 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-01-15T15:05:00.000Z",
+            "time": "2020-01-15T15:10:00.000Z",
             "top": "ZP 1",
             "heading": "Aktuelle Lage im Nahen und Mittleren Osten",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-naher-mittlerer-osten-677316",
@@ -85,10 +100,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-01-15T16:30:00.000Z",
+            "time": "2020-01-15T16:45:00.000Z",
             "top": "3",
             "heading": "Strafgesetzbuch - Verunglimpfung der EU",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-verunglimpfung-eu-symbole-674666",
@@ -103,10 +123,17 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/143/1914378.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14378 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14378</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/143/1914378.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-01-15T17:05:00.000Z",
+            "time": "2020-01-15T17:20:00.000Z",
             "top": "4",
             "heading": "Einsatz der Bundeswehr im Irak",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-irak-677038",
@@ -128,10 +155,35 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "namentliche Abstimmung über Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916482.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16482 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16482</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916482.pdf"
+                ]
+              },
+              {
+                "line": "Beginn der namentlichen Abstimmung: 17:57:29",
+                "documents": []
+              },
+              {
+                "line": "Ende der namentlichen Abstimmung:18:00:47",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 632 Ja: 85 Nein: 545 Enthaltungen: 2 ",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916482.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16482 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16482</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916482.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-01-15T17:50:00.000Z",
+            "time": "2020-01-15T18:00:00.000Z",
             "top": "5, ZP 2",
             "heading": "Luftsicherheitsrechtliche Zuverlässigkeitsprüfung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-luftsicherheit-674670",
@@ -157,10 +209,39 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung 1916428 und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916481.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16481 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16481</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916481.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-01-15T18:25:00.000Z",
+            "time": "2020-01-15T18:40:00.000Z",
+            "top": "ZP 17",
+            "heading": "Aufhebung der Immunität",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-immunitaet-677784",
+            "topic": [
+              {
+                "lines": [
+                  "Aufhebung der Immunität"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916498.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16498 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16498</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916498.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-01-15T18:40:00.000Z",
             "top": "6",
             "heading": "Agrarpaket und Düngeverordnung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-agrarpaket-674668",
@@ -208,10 +289,37 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916476.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16476 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16476</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916476.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/151/1915120.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15120 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15120</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/151/1915120.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/136/1913642.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13642 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13642</a> Buchstabe b (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/099/1909959.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9959 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9959</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/136/1913642.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/099/1909959.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/161/1916180.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16180 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16180</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/086/1908649.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8649 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8649</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/161/1916180.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/086/1908649.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-01-15T19:00:00.000Z",
+            "time": "2020-01-15T19:30:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -223,7 +331,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung, Donnerstag, 16. Januar 2020, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -245,10 +358,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-01-16T09:00:00.000Z",
+            "time": "2020-01-16T09:05:00.000Z",
             "top": "7",
             "heading": "Organspende",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-transplantationsgesetz-674682",
@@ -287,10 +405,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "l&auml;uft",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-01-16T11:40:00.000Z",
+            "time": "2020-01-16T11:45:00.000Z",
             "top": "8",
             "heading": "Finanzielle Lasten der Migrationspolitik",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-migrationspolitik-674700",
@@ -299,15 +422,17 @@
                 "lines": [
                   "Beratung des Antrags der Fraktion der AfD",
                   "Finanzielle Lasten der Migrationspolitik umfassend offenlegen",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916488.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16488 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16488</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916488.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-01-16T12:45:00.000Z",
+            "time": "2020-01-16T12:50:00.000Z",
             "top": "9, ZP 3",
             "heading": "Nachhaltige Mobilitätsforschung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-mobilitaetsforschung-674662",
@@ -326,7 +451,8 @@
               },
               {
                 "lines": [
-                  "ZP 3) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "ZP 3) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Mobilitätsforschung neu denken – Experimentierräume für Stadt und Land schaffen",
                   "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/031/1903160.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/3160 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/3160</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/136/1913640.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13640 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13640</a>"
                 ],
@@ -339,7 +465,7 @@
             "status": []
           },
           {
-            "time": "2020-01-16T13:20:00.000Z",
+            "time": "2020-01-16T13:25:00.000Z",
             "top": "10",
             "heading": "Entschädigung der Erbengemeinschaft Hohenzollern",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-entschaedigung-hohenzollern-674704",
@@ -358,8 +484,8 @@
             "status": []
           },
           {
-            "time": "2020-01-16T14:25:00.000Z",
-            "top": "24, 18, ZP 4",
+            "time": "2020-01-16T14:30:00.000Z",
+            "top": "24, 18, ZP 4, 19",
             "heading": "Überweisungen im vereinfachten Verfahren",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-ueberweisungen-674706",
             "topic": [
@@ -396,17 +522,21 @@
                 "lines": [
                   "d) Beratung des Antrags der Fraktion der AfD",
                   "Vorlage eines jährlichen Berichts über Extremismus und organisierte Kriminalität in der Bundeswehr",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916490.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16490 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16490</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916490.pdf"
+                ]
               },
               {
                 "lines": [
                   "e) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Betroffene von Mobbing im Arbeitsleben besser schützen",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916480.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16480 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16480</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916480.pdf"
+                ]
               },
               {
                 "lines": [
@@ -438,17 +568,21 @@
                 "lines": [
                   "c) Beratung des Antrags der Fraktion  der FDP",
                   "Waldbonus schaffen – CO2 reduzieren",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916484.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16484 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16484</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916484.pdf"
+                ]
               },
               {
                 "lines": [
                   "d) Beratung des Antrags der Fraktion der FDP",
                   "Smart Germany – Digitalisierung des Gesellschaftsrechts vorantreiben",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916478.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16478 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16478</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916478.pdf"
+                ]
               },
               {
                 "lines": [
@@ -464,9 +598,21 @@
                 "lines": [
                   "f) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Besteuerung von Alterseinkünften vereinfachen und an den Bedürfnissen der Rentnerinnen und Rentner ausrichten",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916474.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16474 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16474</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916474.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 19) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Bundeswehr sofort und vollständig aus Irak und Jordanien abziehen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916474.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16474 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16474</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916474.pdf"
+                ]
               },
               {
                 "lines": [
@@ -482,7 +628,7 @@
             "status": []
           },
           {
-            "time": "2020-01-16T14:30:00.000Z",
+            "time": "2020-01-16T14:35:00.000Z",
             "top": "25",
             "heading": "Abschließende Beratung ohne Aussprache",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-abschliessende-beratungen-674708",
@@ -507,23 +653,12 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/161/1916138.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  "ZP 16) Weitere abschließende Beratung ohne Aussprache",
-                  "Beratung des Antrags der Fraktion DIE LINKE.",
-                  "Bundeswehr sofort und vollständig aus Irak und Jordanien abziehen",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916474.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16474 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16474</a>"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/164/1916474.pdf"
-                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-01-16T14:40:00.000Z",
+            "time": "2020-01-16T14:45:00.000Z",
             "top": "ZP 5",
             "heading": "1. Wahlgang - Stellvertreter des Präsidenten",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-wahl-vizepraesident-677322",
@@ -542,7 +677,7 @@
             "status": []
           },
           {
-            "time": "2020-01-16T14:55:00.000Z",
+            "time": "2020-01-16T15:00:00.000Z",
             "top": "ZP 6",
             "heading": "Wahlen zu Gremien",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-wahl-gremien-677328",
@@ -611,16 +746,16 @@
             "status": []
           },
           {
-            "time": "2020-01-16T15:40:00.000Z",
-            "top": "ZP 7",
-            "heading": "Aktuelle Stunde zur Bon-Pflicht",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-aktuelle-stunde-bonpflicht-677336",
+            "time": "2020-01-16T15:45:00.000Z",
+            "top": "ZP 18",
+            "heading": "Aktuelle Stunde - Schutz von Kommunalpolitikern, Polizei und Rettungskräften",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-akt-std-kommunalpolitiker-677654",
             "topic": [
               {
                 "lines": [
                   "Aktuelle Stunde",
-                  "auf Verlangen der Fraktion der FDP",
-                  "Bäcker und Bürger entlasten – Bon-Pflicht beenden"
+                  "auf Verlangen der Fraktionen der CDU/CSU und SPD",
+                  "Kommunalpolitiker, Polizei und Rettungskräfte vor Drohungen und Gewalt wirksam schützen"
                 ],
                 "documents": []
               }
@@ -628,20 +763,22 @@
             "status": []
           },
           {
-            "time": "2020-01-16T16:45:00.000Z",
+            "time": "2020-01-16T16:50:00.000Z",
             "top": "11",
             "heading": "Wohnungslosigkeit und Obdachlosigkeit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-wohnungslosenberichterstattung-674710",
             "topic": [
               {
                 "lines": [
-                  "a) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Einführung einer Wohnungslosenberichterstattung sowie einer Statistik untergebrachter wohnungsloser Personen",
+                  "a) Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Einführung einer Wohnungslosenberichterstattung sowie einer Statistik untergebrachter wohnungsloser Personen",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/156/1915651.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15651 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15651</a>",
                   "Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales (11. Ausschuss)",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/165/1916540.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16540 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16540</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/156/1915651.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/156/1915651.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/165/1916540.pdf"
                 ]
               },
               {
@@ -653,12 +790,13 @@
                   "Wohnungs- und Obdachlosigkeit in Deutschland gemeinschaftlich beenden",
                   "– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Berichterstattung weiterentwickeln und alle wohnungslosen Menschen statistisch erfassen",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/060/1906064.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6064 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6064</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916036.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16036 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16036</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/157/1915783.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15783 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15783</a>, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/060/1906064.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6064 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6064</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/160/1916036.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16036 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16036</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/157/1915783.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15783 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15783</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/165/1916540.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16540 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16540</a>"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/060/1906064.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/160/1916036.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/157/1915783.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/157/1915783.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/165/1916540.pdf"
                 ]
               },
               {
@@ -675,16 +813,19 @@
               },
               {
                 "lines": [
-                  "d) Erste Beratung des von der Fraktion DIE LINKE. eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes – Grundrecht auf Wohnen",
-                  "Drucksache 19/…"
+                  "d) Erste Beratung des von der Fraktion DIE LINKE.",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes – Grundrecht auf Wohnen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916479.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16479 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16479</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916479.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-01-16T17:20:00.000Z",
+            "time": "2020-01-16T17:25:00.000Z",
             "top": "12",
             "heading": "Meinungsfreiheit im Netz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-meinungsfreiheit-674712",
@@ -693,15 +834,17 @@
                 "lines": [
                   "Beratung des Antrags der Fraktion der FDP",
                   "Meinungsfreiheit verteidigen – Recht im Netz durchsetzen",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916477.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16477 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16477</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916477.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-01-16T17:55:00.000Z",
+            "time": "2020-01-16T18:00:00.000Z",
             "top": "13",
             "heading": "Umsetzung des Eisenbahnpakets der EU",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-eisenbahnpaket-675080",
@@ -722,7 +865,7 @@
             "status": []
           },
           {
-            "time": "2020-01-16T18:30:00.000Z",
+            "time": "2020-01-16T18:35:00.000Z",
             "top": "16, ZP 8",
             "heading": "Mehr Frauen in den Deutschen Bundestag",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-frauen-bundestag-674718",
@@ -731,23 +874,27 @@
                 "lines": [
                   "Beratung des Antrags der Abgeordneten …",
                   "Mehr Frauen in den Deutschen Bundestag – Kommission zur Erarbeitung von Vorschlägen für gesetzliche Regelungen und weiteren Maßnahmen",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916485.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16485 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16485</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916485.pdf"
+                ]
               },
               {
                 "lines": [
                   "ZP 8) Beratung des Antrags der Fraktion der FDP",
                   "Mehr Frauen in den Bundestag – Kommission zur Erarbeitung von Vorschlägen für mehr Repräsentanz von Frauen im Parlament",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/164/1916486.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16486 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16486</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/164/1916486.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-01-16T19:05:00.000Z",
+            "time": "2020-01-16T19:10:00.000Z",
             "top": "15",
             "heading": "Menschenrecht auf Barrierefreiheit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-barrierefreiheit-bildung-674716",
@@ -824,7 +971,7 @@
             "status": []
           },
           {
-            "time": "2020-01-16T19:40:00.000Z",
+            "time": "2020-01-16T19:45:00.000Z",
             "top": "ZP 9, ZP 10",
             "heading": "Nutzung der Ramstein Air Base",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-ramstein-677340",
@@ -844,17 +991,18 @@
                   "ZP 10) Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)",
                   "zu dem Antrag der Fraktion DIE LINKE.",
                   "US-Militärstützpunkt Ramstein in Deutschland schließen",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/111/1911102.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11102 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11102</a>, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/111/1911102.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/11102 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/11102</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/165/1916521.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16521 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16521</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/111/1911102.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/111/1911102.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/165/1916521.pdf"
                 ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-01-16T20:15:00.000Z",
+            "time": "2020-01-16T20:20:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -984,6 +1132,12 @@
                   "Drucksache 19/…"
                 ],
                 "documents": []
+              },
+              {
+                "lines": [
+                  "namentliche Abstimmung"
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -1092,6 +1246,23 @@
           },
           {
             "time": "2020-01-17T15:05:00.000Z",
+            "top": "ZP 7",
+            "heading": "Aktuelle Stunde zur Bon-Pflicht",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw03-de-aktuelle-stunde-bonpflicht-677336",
+            "topic": [
+              {
+                "lines": [
+                  "Aktuelle Stunde",
+                  "auf Verlangen der Fraktion der FDP",
+                  "Bäcker und Bürger entlasten – Bon-Pflicht beenden"
+                ],
+                "documents": []
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2020-01-17T16:10:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
