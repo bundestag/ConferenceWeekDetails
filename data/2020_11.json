@@ -1,8 +1,8 @@
 {
   "meta": {
-    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2019&week=42",
-    "currentYear": 2019,
-    "currentWeek": 42
+    "url": "https://www.bundestag.de/apps/plenar/plenar/conferenceweekDetail.form?limit=1&year=2020&week=11",
+    "currentYear": 2020,
+    "currentWeek": 11
   },
   "data": {
     "id": "2020_11",
@@ -15,8 +15,8 @@
       "week": 11
     },
     "next": {
-      "year": null,
-      "week": null
+      "year": 2020,
+      "week": 13
     },
     "sessions": [
       {
@@ -1245,10 +1245,11 @@
                   "eingebrachten Entwurfs eines Gesetzes zur befristeten krisenbedingten Verbesserung der Regelungen für das Kurzarbeitergeld",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917893.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17893 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17893</a>",
                   "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/179/1917901.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17901 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17901</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/178/1917893.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917893.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/179/1917901.pdf"
                 ]
               },
               {
@@ -1349,15 +1350,19 @@
                 "documents": []
               },
               {
-                "line": "Ende der Abstimmung",
+                "line": "13:16:09: Ende der Abstimmung",
                 "documents": []
               },
               {
-                "line": "Gesamt: Ja: Nein: Enthaltungen:",
+                "line": "endgültiges Ergebnis",
                 "documents": []
               },
               {
-                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17816</a> ...",
+                "line": "Gesamt: 536 Ja: 356 Nein: 159 Enthaltungen: 21",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17816</a> angenommen",
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/178/1917816.pdf"
                 ]
@@ -1406,13 +1411,45 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
+                "line": "namentliche Abstimmung zur Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17814</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/172/1917286.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17286 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17286</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917814.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/172/1917286.pdf"
+                ]
+              },
+              {
+                "line": "12:51:33: Beginn der Abstimmung",
                 "documents": []
+              },
+              {
+                "line": "13:54:47: Ende der Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "endgültiges Ergebnis",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 533 Ja: 358 Nein: 173 Enthaltungen: 2",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917814.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17814 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17814</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917814.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17815</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/175/1917529.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17529 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17529</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917815.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/175/1917529.pdf"
+                ]
               }
             ]
           },
           {
-            "time": "2020-03-13T12:50:00.000Z",
+            "time": "2020-03-13T12:55:00.000Z",
             "top": "21",
             "heading": "Wohngemeinnützigkeit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw11-de-wohngemeinnuetzigkeitsgesetz-685598",
@@ -1437,7 +1474,15 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/173/1917307.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17307 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17307</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917771.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17771 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17771</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/173/1917307.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917771.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2020-03-13T12:55:00.000Z",
@@ -1456,7 +1501,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917790.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17790 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17790</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917790.pdf"
+                ]
+              },
+              {
+                "line": "Bekanntgabe Ergebnis namentliche Abstimmung von ZP 20",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-03-13T13:30:00.000Z",
@@ -1476,10 +1532,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917781.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17781 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17781</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917781.pdf"
+                ]
+              },
+              {
+                "line": "Bekanntgabe Ergebnis der namentlichen Abstimmung zu ZP 21",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-03-13T14:05:00.000Z",
+            "time": "2020-03-13T14:10:00.000Z",
             "top": "18",
             "heading": "Bevölkerungsschutz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw11-de-bevoelkerungsschutz-685592",
@@ -1532,10 +1599,39 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/172/1917291.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17291 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17291</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17817</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/172/1917291.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917817.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17817</a> Buchstabe b (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/085/1908541.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8541 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8541</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917817.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/085/1908541.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17817</a> Buchstabe c und d (Risikoanalyse Drucksache. <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/095/1909520.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9520 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9520</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/095/1909521.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9521 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9521</a> zur Kenntnis nehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917817.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/095/1909520.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/095/1909521.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917749.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17749 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17749</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917749.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-03-13T14:40:00.000Z",
+            "time": "2020-03-13T14:50:00.000Z",
             "top": "23",
             "heading": "Änderung der Abgabenordnung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw11-de-abgabenordnung-685602",
@@ -1551,10 +1647,17 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917752.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17752 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17752</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917752.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-03-13T15:15:00.000Z",
+            "time": "2020-03-13T15:20:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -1566,7 +1669,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch 25. März 2020, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
