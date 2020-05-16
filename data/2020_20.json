@@ -2242,8 +2242,10 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
-                "documents": []
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/191/1919151.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19151 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19151</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/191/1919151.pdf"
+                ]
               }
             ]
           },
@@ -2264,7 +2266,14 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/180/1918074.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18074 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18074</a> (neu) beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/180/1918074.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2020-05-15T16:00:00.000Z",
@@ -2293,10 +2302,23 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/191/1919152.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19152 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19152</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/191/1919152.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/191/1919147.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19147 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19147</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/191/1919147.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-05-15T16:35:00.000Z",
+            "time": "2020-05-15T16:40:00.000Z",
             "top": "33",
             "heading": "Versorgungsausgleich",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw20-de-versorgungsausgleich-695120",
@@ -2334,12 +2356,27 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/135/1913552.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13552 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13552</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917793.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17793 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17793</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/135/1913552.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917793.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917786.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17786 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17786</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/085/1908568.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/8568 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/8568</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917786.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/085/1908568.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-05-15T17:10:00.000Z",
+            "time": "2020-05-15T17:20:00.000Z",
             "top": "ZP 17",
-            "heading": "Aktuelle Stunde – Whistleblower-Studie aus dem BMI zur Corona-Krise",
+            "heading": "Aktuelle Stunde - Whistleblower-Studie aus dem BMI zur Corona-Krise",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw20-de-akt-std-innenministerium-695994",
             "topic": [
               {
@@ -2351,10 +2388,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-05-15T18:15:00.000Z",
+            "time": "2020-05-15T18:30:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -2366,7 +2408,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 27. Mai 2020, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
