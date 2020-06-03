@@ -23,7 +23,37 @@
         "date": "2018-01-22T00:00:00.000Z",
         "dateText": "22. Januar 2018",
         "session": "9",
-        "tops": []
+        "tops": [
+          {
+            "time": "2018-01-22T11:00:00.000Z",
+            "top": "1",
+            "heading": "55 Jahre Élysée-Vertrag",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw04-elysee-vertrag-536950",
+            "topic": [
+              {
+                "lines": [
+                  "Vereinbarte Debatte",
+                  "55 Jahre Élysée-Vertrag"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900495.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/495 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/495</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900495.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900440.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/440 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/440</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900440.pdf"
+                ]
+              }
+            ]
+          }
+        ]
       }
     ]
   }
