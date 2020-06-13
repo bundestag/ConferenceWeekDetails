@@ -26,6 +26,26 @@
         "tops": [
           {
             "time": "2020-05-06T13:00:00.000Z",
+            "top": "",
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2020-05-06T13:05:00.000Z",
             "top": "1",
             "heading": "Befragung der Bundesregierung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-regierungsbefragung-692616",
@@ -46,6 +66,29 @@
           },
           {
             "time": "2020-05-06T14:10:00.000Z",
+            "top": "2",
+            "heading": "Fragestunde",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-fragestunde-692620",
+            "topic": [
+              {
+                "lines": [
+                  "Fragestunde",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/188/1918880.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18880 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18880</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/188/1918880.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2020-05-06T15:15:00.000Z",
             "top": "",
             "heading": "Sitzungsunterbrechung bis 16.30 Uhr",
             "article": null,
@@ -66,6 +109,54 @@
           },
           {
             "time": "2020-05-06T16:30:00.000Z",
+            "top": "3",
+            "heading": "Änderung des Strafgesetzbuches - Bildaufnahmen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-persoenlichkeitsschutz-692672",
+            "topic": [
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines … Gesetzes zur Änderung des Strafgesetzbuches – Verbesserung des Persönlichkeitsschutzes bei Bildaufnahmen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917795.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17795 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17795</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917795.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Erste Beratung des vom Bundesrat",
+                  "eingebrachten Entwurfs eines ... Gesetzes zur Änderung des Strafgesetzbuchs – Strafbarkeit der Bildaufnahme des Intimbereichs (sog. Upskirting)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/158/1915825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15825</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/158/1915825.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Erste Beratung des von der Fraktion der AfD",
+                  "eingebrachten Entwurfs eines Gesetzes zur Verbesserung des Persönlichkeitsschutzes bei Bildaufnahmen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918980.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18980 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18980</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918980.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917795.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17795 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17795</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/158/1915825.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15825 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15825</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918980.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18980 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18980</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917795.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/158/1915825.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918980.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-06T17:05:00.000Z",
             "top": "4",
             "heading": "Wissenschaftliche Auswertung der Pandemiemaßnahmen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-effektivitaet-regierungsmassnahmen-692628",
@@ -92,6 +183,42 @@
           },
           {
             "time": "2020-05-06T17:45:00.000Z",
+            "top": "5, ZP 1",
+            "heading": "Wohnungseigentumsmodernisierungsgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-wohnungseigentumsmodernisierungsgesetz-692668",
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Förderung der Elektromobilität und zur Modernisierung des Wohnungseigentumsgesetzes und zur Änderung von kosten- und grundbuchrechtlichen Vorschriften (Wohnungseigentumsmodernisierungsgesetz – WEMoG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918791.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18791 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18791</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918791.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 1)  Beratung des Antrags der Fraktion der FDP",
+                  "Wohnungseigentum selbstbestimmt und praktikabel gestalten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918955.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18955 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18955</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918955.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918791.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18791 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18791</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918955.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18955 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18955</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918791.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918955.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-06T18:25:00.000Z",
             "top": "ZP 2",
             "heading": "Kita-Öffnung und Elternunterstützung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-kita-694184",
@@ -118,6 +245,32 @@
           },
           {
             "time": "2020-05-06T19:05:00.000Z",
+            "top": "7",
+            "heading": "Bundeswehreinsatz EU NAVFOR Somalia-ATALANTA",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-bundeswehr-eu-navfor-692622",
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Bundesregierung",
+                  "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten EU NAVFOR Somalia Operation ATALANTA zur Bekämpfung der Piraterie vor der Küste Somalias",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/188/1918866.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18866 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18866</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/188/1918866.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/188/1918866.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18866 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18866</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/188/1918866.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-06T19:40:00.000Z",
             "top": "8",
             "heading": "Änderung des Netzwerkdurchsetzungsgesetzes",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-netzwerkdurchsetzungsgesetz-692664",
@@ -161,6 +314,32 @@
           },
           {
             "time": "2020-05-06T20:25:00.000Z",
+            "top": "ZP 3",
+            "heading": "Änderung des Erneuerbare-Energien-Gesetzes 2017",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-eeg-694188",
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von den Fraktionen der CDU/CSU und SPD",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Erneuerbare-Energien-Gesetzes 2017 und weiterer energierechtlicher Bestimmungen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918964.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18964 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18964</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918964.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918964.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18964 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18964</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918964.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-06T20:55:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -188,6 +367,26 @@
         "tops": [
           {
             "time": "2020-05-07T09:00:00.000Z",
+            "top": "",
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "amtliche Mitteilungen",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T09:05:00.000Z",
             "top": "9, 10, 11, ZP 20, 4",
             "heading": "Wahlen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-wahl-vizepraesident-693784",
@@ -406,6 +605,111 @@
           },
           {
             "time": "2020-05-07T09:10:00.000Z",
+            "top": "13",
+            "heading": "Unterstützung von Wissenschaft und Studierenden",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-studierendenunterstuetzungsgesetz-692662",
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD",
+                  "eingebrachten Entwurfs eines Gesetzes zur Unterstützung von Wissenschaft und Studierenden aufgrund der COVID-19-Pandemie (Wissenschafts- und Studierendenunterstützungsgesetz)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918699.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18699 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18699</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19040</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918699.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss)",
+                  "- zu dem Antrag der Fraktion der AfD",
+                  "Hilfe mit Augenmaß – Studenten und wissenschaftliche Mitarbeiter passgenau unterstützen",
+                  "- zu dem Antrag der Fraktion der FDP",
+                  "Corona-Sofortprogramm für krisenfeste Studienfinanzierung",
+                  "- zu dem Antrag der Fraktion DIE LINKE.",
+                  "Negative Folgen der COVID-19-Pandemie für Studierende und Beschäftigte an den Hochschulen abmildern",
+                  "- zu dem Antrag der Fraktion DIE LINKE.",
+                  "BAföG krisensicher gestalten – Mehr Studierende vollumfänglich fördern",
+                  "- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Wissenschaft als tragende Säule der Pandemiebekämpfung stützen – Corona-Rettungsschirm auf Studierende und Nachwuchsforschende ausweiten",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918728.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18728 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18728</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918677.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18677 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18677</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918683.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18683 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18683</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918707.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18707 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18707</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19040</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918728.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918677.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918683.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918707.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919041.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19041 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19041</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919041.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919042.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19042 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19042</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919042.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919043.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19043 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19043</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919043.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919044.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19044 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19044</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919044.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918699.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18699 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18699</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19040</a> Buchstabe a: Gesetzentwurf annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918699.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19040</a> Buchstabe b (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918728.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18728 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18728</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918728.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19040</a> Buchstabe c (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918677.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18677 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18677</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918677.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19040</a> Buchstabe d (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918683.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18683 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18683</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918683.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19040 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19040</a> Buchstabe e (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918707.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18707 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18707</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919040.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918707.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T09:50:00.000Z",
             "top": "14",
             "heading": "Elterngeld und Hilfe für Familien",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-elterngeld-692660",
@@ -529,6 +833,43 @@
           },
           {
             "time": "2020-05-07T10:40:00.000Z",
+            "top": "15",
+            "heading": "Grundrechte in der Corona-Krise",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-rueckkehr-normalitaet-692658",
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung des Antrags der Fraktion der AfD",
+                  "Grundrechten trotz Corona wieder Geltung verschaffen – Versammlungs- und Religionsfreiheit auch während einer epidemischen Lage sichern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918977.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18977 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18977</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918977.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion der AfD",
+                  "Grundrechten wieder Geltung verschaffen – Keine Datensammlung durch eine Corona-App",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18976</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918976.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918977.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18977 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18977</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918976.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18976 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18976</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918977.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918976.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T11:50:00.000Z",
             "top": "16, ZP 5 - ZP 11",
             "heading": "Schutz der Bevölkerung bei epidemischer Lage",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-schutz-der-bevoelkerung-692656",
@@ -658,6 +999,32 @@
           },
           {
             "time": "2020-05-07T13:15:00.000Z",
+            "top": "ZP 12",
+            "heading": "Staatshilfen für Konzerne in Steueroasen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-daenemark-694192",
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Von Dänemark lernen – Keine Staatshilfen für Konzerne in Steueroasen oder Gewinnentnahmen wie Dividenden und Aktienrückkäufe",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918942.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18942 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18942</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918942.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918942.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18942 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18942</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918942.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T14:20:00.000Z",
             "top": "27, ZP 13",
             "heading": "Überweisungen im vereinfachten Verfahren",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-ueberweisungen-692652",
@@ -895,6 +1262,269 @@
           },
           {
             "time": "2020-05-07T14:25:00.000Z",
+            "top": "28, ZP 14",
+            "heading": "Abschließende Beratungen ohne Aussprache",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-abschliessende-beratungen-692650",
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite und dritte Beratung des von der Fraktion der AfD",
+                  "eingebrachten Entwurfs eines Vierundsechzigsten Gesetzes zur Änderung des Grundgesetzes (Gesetz zur Erweiterung der Verwirkungsregelung des Artikels 18 des Grundgesetzes um die ungestörte Religionsausübung des Artikels 4 Absatz 2 des Grundgesetzes)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/044/1904484.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4484 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4484</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/090/1909026.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9026 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9026</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/044/1904484.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/090/1909026.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Zweite und dritte Beratung des von der Fraktion der AfD",
+                  "eingebrachten Entwurfs eines Gesetzes zur Aufhebung des Nutzungszwangs im elektronischen Rechtsverkehr mit den Gerichten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/137/1913735.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13735 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13735</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/165/1916573.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16573 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16573</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/137/1913735.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/165/1916573.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c)- Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Sechsten Gesetzes zur Änderung des Allgemeinen Eisenbahngesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/172/1917289.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17289 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17289</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Verkehr und digitale Infrastruktur (15. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/182/1918267.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18267 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18267</a>",
+                  "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/182/1918268.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18268 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18268</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/172/1917289.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/182/1918267.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/182/1918268.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "d) Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Umsetzung der Verhältnismäßigkeitsrichtlinie (Richtlinie (EU) 2018/958) im Bereich öffentlich-rechtlicher Körperschaften",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/172/1917288.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17288 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17288</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Wirtschaft und Energie (9. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918767.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18767 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18767</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/172/1917288.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918767.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "e) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Tag der Befreiung als gesetzlicher Gedenktag",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917788.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17788 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17788</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917788.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "f) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung (1. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Änderung der Geschäftsordnung des Deutschen Bundestages zur Vermeidung von Überschneidungen von Sitzungen des Bundestages mit Sitzungen der Ausschüsse und Gremien",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/018/1901843.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1843 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1843</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/078/1907819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7819</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/018/1901843.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/078/1907819.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "70 Jahre Grundgesetz – Bewährtes bewahren, an neue Herausforderungen anpassen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910168.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10168 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10168</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/136/1913616.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13616 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13616</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910168.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/136/1913616.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "h) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 513 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917853.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17853 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17853</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917853.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "i) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 525 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918742.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18742 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18742</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918742.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "j) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 526 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918743.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18743 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18743</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918743.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "k) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 527 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918744.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18744 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18744</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918744.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "l) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 528 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918745.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18745 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18745</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918745.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "m) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 529 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918746.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18746 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18746</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918746.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 14) Weitere abschließende Beratung ohne Aussprache",
+                  "Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Nicaragua – Menschen- und Bürgerrechtsverletzungen verurteilen, Friedensbemühungen unterstützen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/106/1910634.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10634 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10634</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/150/1915011.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15011 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15011</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/106/1910634.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/150/1915011.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/044/1904484.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/4484 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/4484</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/090/1909026.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9026 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9026</a>: Gesetzentwurf ablehnen) abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/044/1904484.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/090/1909026.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/137/1913735.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13735 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13735</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/165/1916573.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16573 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16573</a>: Gesetzentwurf ablehnen) abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/137/1913735.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/165/1916573.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/172/1917289.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17289 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17289</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/182/1918267.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18267 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18267</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/172/1917289.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/182/1918267.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/172/1917288.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17288 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17288</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918767.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18767 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18767</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/172/1917288.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918767.pdf"
+                ]
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917788.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17788 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17788</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917788.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/078/1907819.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7819 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7819</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/018/1901843.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/1843 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/1843</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/078/1907819.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/018/1901843.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/136/1913616.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/13616 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/13616</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/101/1910168.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10168 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10168</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/136/1913616.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/101/1910168.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 513 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/178/1917853.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17853 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17853</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/178/1917853.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 525 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918742.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18742 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18742</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918742.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 526 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918743.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18743 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18743</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918743.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 527 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918744.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18744 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18744</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918744.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 528 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918745.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18745 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18745</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918745.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 529 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918746.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18746 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18746</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918746.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/150/1915011.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/15011 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/15011</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/106/1910634.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/10634 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/10634</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/150/1915011.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/106/1910634.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T14:40:00.000Z",
             "top": "18",
             "heading": "Weitere Wahlen zu Gremien",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-wahl-gremien-2-693802",
@@ -969,6 +1599,28 @@
           },
           {
             "time": "2020-05-07T14:40:00.000Z",
+            "top": "ZP 21",
+            "heading": "Aktuelle Stunde - Verfassungsgerichtsurteil zu EZB-Anleihekäufen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-aktuelle-stunde-ezb-694532",
+            "topic": [
+              {
+                "lines": [
+                  "Aktuelle Stunde",
+                  "auf Verlangen der Fraktion der AfD",
+                  "Auswirkungen des Verfassungsgerichtsurteils zu EZB Anleihekäufen"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T15:55:00.000Z",
             "top": "19",
             "heading": "Abgeordnetenentschädigung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-anpassungsverfahrensaussetzungsgesetz-692648",
@@ -999,6 +1651,80 @@
           },
           {
             "time": "2020-05-07T16:20:00.000Z",
+            "top": "20",
+            "heading": "Bundeswehreinsatz EUNAVFOR MED IRINI",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-bundeswehr-eunavfor-med-irini-692682",
+            "topic": [
+              {
+                "lines": [
+                  "- Beratung der Beschlussempfehlung und des Berichts des Auswärtigen Ausschusses (3. Ausschuss)",
+                  "zu dem Antrag der Bundesregierung",
+                  "Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäischen Union geführten militärischen Krisenbewältigungsoperation im Mittelmeer EUNAVFOR MED IRINI",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918734.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18734 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18734</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18951 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18951</a>",
+                  "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919018.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19018 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19018</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918734.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919018.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "namentliche Abstimmung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "namentliche Abstimmung über Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18951 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18951</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918734.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18734 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18734</a> annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918734.pdf"
+                ]
+              },
+              {
+                "line": "16:58:48: Beginn der Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "18:02:47: Ende der Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 591 Ja: 408 Nein: 128 Enthaltungen: 55",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18951 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18951</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918951.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919006.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19006 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19006</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919006.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919007.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19007 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19007</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919007.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919008.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19008 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19008</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919008.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T17:30:00.000Z",
             "top": "21",
             "heading": "Wirtschaftliche Belebung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-marktwirtschaftliche-prinzipien-692680",
@@ -1036,6 +1762,109 @@
           },
           {
             "time": "2020-05-07T18:10:00.000Z",
+            "top": "22, TOP 17, ZP 15",
+            "heading": "Änderung des SGB IV",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-berufskrankheiten-692678",
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Siebten Gesetzes zur Änderung des Vierten Buches Sozialgesetzbuch und anderer Gesetze",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/175/1917586.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17586 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17586</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Arbeit und Soziales (11. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19037 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19037</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/175/1917586.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Arbeit und Soziales (11. Ausschuss)",
+                  "- zu dem Antrag der Fraktion der AfD",
+                  "Auszahlungen von Sozialleistungen auf ausländische Konten",
+                  "- zu dem Antrag der Fraktion DIE LINKE.",
+                  "Hürden bei der Anerkennung von Berufskrankheiten abbauen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917787.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17787 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17787</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917769.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17769 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17769</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19037 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19037</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917787.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917769.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Erste Beratung des von den Fraktionen der CDU/CSU und SPD",
+                  "eingebrachten Entwurfs eines Gesetzes zu sozialen Maßnahmen zur Bekämpfung der COVID-19-Pandemie (Sozialschutz-Paket II)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18966</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918966.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 15) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Allen wohnungslosen Menschen schnell und unbürokratisch helfen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18939</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918939.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "TOP 17) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Sozialen Schutz auch während der COVID-19-Pandemie umfassend gewährleisten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918945.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18945 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18945</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918945.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919039.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19039 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19039</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919039.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/175/1917586.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17586 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17586</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19037 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19037</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/175/1917586.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19037 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19037</a> Buchstabe b (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917787.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17787 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17787</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917787.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19037 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19037</a> Buchstabe c (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917769.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17769 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17769</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919037.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917769.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18966</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18939</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918945.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18945 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18945</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918966.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918939.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918945.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T19:00:00.000Z",
             "top": "23",
             "heading": "Schutz vor Konversionsbehandlungen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-konversionsbehandlung-692676",
@@ -1103,6 +1932,47 @@
           },
           {
             "time": "2020-05-07T19:35:00.000Z",
+            "top": "ZP 16, ZP 17",
+            "heading": "Bekämpfung der Dürre, Klimaschutz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-duerre-694196",
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Dürre bekämpfen, Land und Städte widerstandsfähig aufstellen, in Klimaschutz investieren",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918961.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18961 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18961</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918961.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 17) Beratung des Antrags der Fraktion der FDP",
+                  "Unabhängigkeit und Innovation zur Krisenprävention in der Landwirtschaft",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918948.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18948 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18948</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918948.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Reden zu Protokoll: Möring, Karsten (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918961.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18961 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18961</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918948.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18948 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18948</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918961.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918948.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T20:10:00.000Z",
             "top": "25",
             "heading": "Stärkung des Gesundheitssystems",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-gesundheitssystem-statt-atombomber-692670",
@@ -1129,6 +1999,81 @@
           },
           {
             "time": "2020-05-07T20:50:00.000Z",
+            "top": "26, ZP, 22, ZP 18, Z",
+            "heading": "Demokratie, Bürgerrechte und Zivilgesellschaft",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw19-de-buergerrechte-zivilgesellschaft-692666",
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Demokratie, Bürgerrechte und Zivilgesellschaft in Zeiten der Corona-Krise",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18958</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918958.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 22) Beratung des Antrags der Fraktion der FDP",
+                  "Rechtsstaat in der Corona-Krise verteidigen – Bürger- und Freiheitsrechte bewahren",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19009</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919009.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 18) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "zu dem Antrag der Fraktion DIE LINKE.",
+                  "Zur Bewältigung der Corona-Krise Justizvollzugsanstalten entlasten – Gesundheit der Inhaftierten schützen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918682.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18682 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18682</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919014.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19014 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19014</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918682.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919014.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 19) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Recht und Justiz krisenfest gestalten",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918712.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18712 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18712</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919015.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19015 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19015</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918712.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919015.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/189/1918958.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18958 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18958</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919009.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19009 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19009</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/189/1918958.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919009.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919014.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19014 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19014</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/186/1918682.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18682 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18682</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919014.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/186/1918682.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/190/1919015.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19015 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19015</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918712.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18712 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18712</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/190/1919015.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918712.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2020-05-07T21:35:00.000Z",
             "top": "",
             "heading": null,
             "article": null,

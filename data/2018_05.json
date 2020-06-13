@@ -26,6 +26,26 @@
         "tops": [
           {
             "time": "2018-01-31T14:30:00.000Z",
+            "top": "",
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2018-01-31T14:30:00.000Z",
             "top": "1",
             "heading": "Befragung der Bundesregierung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-regierungsbefragung-538664",
@@ -47,6 +67,29 @@
           },
           {
             "time": "2018-01-31T15:20:00.000Z",
+            "top": "2",
+            "heading": "Fragestunde",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-fragestunde-538668",
+            "topic": [
+              {
+                "lines": [
+                  "Fragestunde",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900535.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/535 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/535</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900535.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2018-01-31T17:10:00.000Z",
             "top": "ZP  1",
             "heading": "Aktuelle Stunde zu einer europäischen Bankenunion",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-aktuelle-stunde-bankenunion-541208",
@@ -66,6 +109,26 @@
                 "documents": []
               }
             ]
+          },
+          {
+            "time": "2018-01-31T18:25:00.000Z",
+            "top": "",
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Donnerstag, 1. Februar 2018, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -74,6 +137,26 @@
         "dateText": "1. Februar 2018",
         "session": "11",
         "tops": [
+          {
+            "time": "2018-02-01T09:00:00.000Z",
+            "top": "",
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
           {
             "time": "2018-02-01T09:00:00.000Z",
             "top": "3",
@@ -255,6 +338,50 @@
           },
           {
             "time": "2018-02-01T11:00:00.000Z",
+            "top": "ZP 2",
+            "heading": "Wahl: Parlamentarisches Kontrollgremium",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-pk-nachwahl-541220",
+            "topic": [
+              {
+                "lines": [
+                  "Wahlvorschlag der Fraktion der AfD",
+                  "Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900587.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/587 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/587</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900587.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "11:01:58: Beginn der Wahl",
+                "documents": []
+              },
+              {
+                "line": "11:06:34: Ende der Wahl",
+                "documents": []
+              },
+              {
+                "line": "Ergebnis (notwendig sind 355 Stimmen):",
+                "documents": []
+              },
+              {
+                "line": "Reusch, Roman Johannes (AfD): Gesamt: 677 Ja: 378 Nein: 205 Enthaltungen: 94",
+                "documents": []
+              },
+              {
+                "line": "Wahlvorschlag angenommen",
+                "documents": []
+              },
+              {
+                "line": "gibt Ergebnis der namentlichen Abstimmung bekannt",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2018-02-01T11:05:00.000Z",
             "top": "4",
             "heading": "Demokratieklausel",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-demokratieklausel-538678",
@@ -282,6 +409,79 @@
           },
           {
             "time": "2018-02-01T12:05:00.000Z",
+            "top": "5, ZP 3, 4",
+            "heading": "EU-Verordnung zu einem Europäischen Währungsfonds",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-europaeischer-waehrungsfonds-538688",
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung des Antrags der Fraktion der FDP",
+                  "zu dem Vorschlag der Europäischen Kommission für eine Verordnung des Rates über die Einrichtung des Europäischen Währungsfonds",
+                  "KOM(2017) 827 endg.; Ratsdok. 15664/17",
+                  "hier:\tStellungnahme gemäß Artikel 6 des Protokolls Nummer 2 zum Vertrag von Lissabon (Grundsätze der Subsidiarität und der Verhältnismäßigkeit)",
+                  "Europäischer Währungsfonds darf nicht im EU-Recht begründet werden",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900582.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/582 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/582</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900582.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion der FDP",
+                  "zu dem Vorschlag der Europäischen Kommission für eine Verordnung des Rates über die Einrichtung des Europäischen Währungsfonds",
+                  "KOM(2017) 827 endg., Ratsdok. 15664/17",
+                  "hier: Stellungnahme nach Artikel 23 Absatz 3 des Grundgesetzes",
+                  "Europas fiskalpolitische Regeln stärken – Transferunion verhindern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900583.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/583 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/583</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900583.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 3) Beratung des Antrags der Fraktion der AfD",
+                  "zu dem Vorschlag der Europäischen Kommission für eine Verordnung des Rates über die Einrichtung des Europäischen Währungsfonds",
+                  "KOM(2017) 827 endg.; Ratsdok. 15664/17",
+                  "hier:\tStellungnahme gemäß Artikel 6 des Protokolls Nummer 2 zum Vertrag von Lissabon (Grundsätze der Subsidiarität und der Verhältnismäßigkeit)",
+                  "Unvereinbarkeit des Verordnungsentwurfs der EU-Kommission über die Einrichtung eines Europäischen Währungsfonds mit dem Subsidiaritätsprinzip",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900593.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/593 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/593</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900593.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 4) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Europäischen Währungsfonds ablehnen – Öffentliche Investitionen stärken und Finanzsektor strikt regulieren",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900579.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/579 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/579</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900579.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900582.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/582 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/582</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900582.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900583.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/583 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/583</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900579.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/579 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/579</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900593.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/593 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/593</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900583.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900579.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900593.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2018-02-01T13:00:00.000Z",
             "top": "6",
             "heading": "Gesetzliche wöchentliche Höchstarbeitszeit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-hoechstarbeitszeit-538458",
@@ -308,6 +508,45 @@
           },
           {
             "time": "2018-02-01T13:50:00.000Z",
+            "top": "7",
+            "heading": "Reform des Gemeinsamen Europäischen Asylsystems",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-asylsystem-538462",
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "zu dem Vorschlag für eine Verordnung des Europäischen Rates zur Einführung eines gemeinsamen Verfahrens zur Gewährung internationalen Schutzes in der Union und zur Aufhebung der Richtlinie 2013/32/EU – KOM (2016) 467 endg. – und hier zu den diesbezüglichen Kompromissvorschlägen der Präsidentschaft vom 15. November 2017 betreffend die Artikel 44 bis 50 des Vorschlages (Ratsdok. 14098/17)",
+                  "hier:\tStellungnahme zur Berücksichtigung durch die Bundesregierung nach Artikel 23 Absatz 3 Satz 2 des Grundgesetzes",
+                  "Sicherung menschen- und grundrechtlicher Standards bei der Reform des Gemeinsamen Europäischen Asylsystems (Qualifikation sicherer Herkunfts- und Drittstaaten)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900244.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/244 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/244</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900244.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Für eine offene, menschenrechtsbasierte und solidarische Asylpolitik der Europäischen Union",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900577.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/577 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/577</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900577.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/002/1900244.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/244 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/244</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900577.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/577 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/577</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/002/1900244.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900577.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2018-02-01T14:40:00.000Z",
             "top": "17",
             "heading": "Überweisungen im vereinfachten Verfahren",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-ueberweisungen-538110",
@@ -609,6 +848,129 @@
           },
           {
             "time": "2018-02-01T14:45:00.000Z",
+            "top": "18",
+            "heading": "Abschließende Beratungen ohne Aussprache",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-beratungen-ohne-aussprache-538106",
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 10 zu Petitionen",
+                  "mit der Statistik über die beim Deutschen Bundestag in der 18. Wahlperiode (22. Oktober 2013 bis 23. Oktober 2017) eingegangenen bwz. erledigten Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900463.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/463 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/463</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900463.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 11 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900464.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/464 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/464</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900464.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 12 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900465.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/465 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/465</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900465.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "d) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 13 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900466.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/466 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/466</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900466.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "e) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 14 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900467.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/467 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/467</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900467.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "f) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 15 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900468.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/468 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/468</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900468.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g) Beratung der Beschlussempfehlung des Petitionsausschusses (2. Ausschuss)",
+                  "Sammelübersicht 16 zu Petitionen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900469.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/469 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/469</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900469.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Sammelübersicht 10 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900463.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/463 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/463</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900463.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 11 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900464.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/464 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/464</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900464.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 12 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900465.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/465 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/465</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900465.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 13 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900466.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/466 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/466</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900466.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 14 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900467.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/467 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/467</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900467.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 15 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900468.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/468 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/468</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900468.pdf"
+                ]
+              },
+              {
+                "line": "Sammelübersicht 16 auf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/004/1900469.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/469 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/469</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/004/1900469.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2018-02-01T14:50:00.000Z",
             "top": "ZP 5",
             "heading": "Aktuelle Stunde zum Einmarsch der Türkei in Syrien mit Panzern aus deutscher Produktion",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-aktuelle-stunde-tuerkei-syrien-541212",
@@ -631,6 +993,32 @@
           },
           {
             "time": "2018-02-01T16:05:00.000Z",
+            "top": "8",
+            "heading": "Förderung von Kinderwunschbehandlungen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-kinderwunsch-538466",
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion der FDP",
+                  "Kinderwünsche unabhängig vom Wohnort fördern – Reform der Richtlinie des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur assistierten Reproduktion",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900585.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/585 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/585</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900585.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900585.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/585 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/585</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900585.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2018-02-01T16:50:00.000Z",
             "top": "9",
             "heading": "Sanktionen gegen Russland",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-sanktionen-russland-538470",
@@ -657,6 +1045,32 @@
           },
           {
             "time": "2018-02-01T17:40:00.000Z",
+            "top": "10",
+            "heading": "Chancen der Digitalisierung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-digitalisierung-538476",
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Innovationen als Teil einer kohärenten Digitalisierungsstrategie fördern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900588.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/588 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/588</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900588.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/005/1900588.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/588 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/588</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/005/1900588.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2018-02-01T18:30:00.000Z",
             "top": "11",
             "heading": "Krankenversicherungsbeiträge für Betriebsrenten",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-kv-betriebsrente-536964",
@@ -686,6 +1100,26 @@
                 ]
               }
             ]
+          },
+          {
+            "time": "2018-02-01T19:20:00.000Z",
+            "top": "",
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungsende"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 2. Februar 2018, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -694,6 +1128,26 @@
         "dateText": "2. Februar 2018",
         "session": "12",
         "tops": [
+          {
+            "time": "2018-02-02T09:00:00.000Z",
+            "top": "",
+            "heading": null,
+            "article": null,
+            "topic": [
+              {
+                "lines": [
+                  "Sitzungseröffnung"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
           {
             "time": "2018-02-02T09:00:00.000Z",
             "top": "12",
@@ -733,6 +1187,33 @@
           },
           {
             "time": "2018-02-02T09:50:00.000Z",
+            "top": "13",
+            "heading": "Doppelte Staatsbürgerschaft",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-staatsbuergerschaft-538090",
+            "topic": [
+              {
+                "lines": [
+                  "Erste Beratung des von der Fraktion der AfD",
+                  "eingebrachten Entwurfs eines Dritten Gesetzes",
+                  "zur Änderung des Staatsangehörigkeitsgesetzes (Staatsangehörigkeitsänderungsgesetz)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900086.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/86 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/86</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900086.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/000/1900086.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/86 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/86</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/000/1900086.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2018-02-02T10:35:00.000Z",
             "top": "14, ZP 6, 7",
             "heading": "Unkontrollierte Population des Wolfes",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-wolfspopulation-538094",
@@ -792,6 +1273,32 @@
           },
           {
             "time": "2018-02-02T11:30:00.000Z",
+            "top": "15",
+            "heading": "Sanktionen bei Hartz IV und bei der Sozialhilfe",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-sanktionen-sozialhilfe-538098",
+            "topic": [
+              {
+                "lines": [
+                  "Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Sanktionen bei Hartz IV und Leistungseinschränkungen bei der Sozialhilfe abschaffen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900103.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/103 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/103</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900103.pdf"
+                ]
+              }
+            ],
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/001/1900103.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/103 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/103</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/001/1900103.pdf"
+                ]
+              }
+            ]
+          },
+          {
+            "time": "2018-02-02T12:20:00.000Z",
             "top": "ZP 8",
             "heading": "Globale Bildungspartnerschaft",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-bildung-alle-541224",
@@ -818,6 +1325,28 @@
           },
           {
             "time": "2018-02-02T13:10:00.000Z",
+            "top": "ZP 9",
+            "heading": "Aktuelle Stunde zu Abgasversuchen an Menschen und Affen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2018/kw05-de-aktuelle-stunde-abgasversuche-541216",
+            "topic": [
+              {
+                "lines": [
+                  "Aktuelle Stunde",
+                  "auf Verlangen der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Haltung der Bundesregierung zu Abgasversuchen an Menschen und Affen"
+                ],
+                "documents": []
+              }
+            ],
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
+          },
+          {
+            "time": "2018-02-02T14:30:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
