@@ -3162,8 +3162,10 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
-                "documents": []
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/200/1920044.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20044 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20044</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/200/1920044.pdf"
+                ]
               }
             ]
           },
@@ -3194,10 +3196,23 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/200/1920067.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20067 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20067</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/200/1920067.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/200/1920053.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20053 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20053</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/200/1920053.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-06-19T16:45:00.000Z",
+            "time": "2020-06-19T16:50:00.000Z",
             "top": "34, ZP 34",
             "heading": "Transsexuellengesetz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw25-de-transsexuellengesetz-698668",
@@ -3233,10 +3248,19 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/197/1919755.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19755 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19755</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/177/1917791.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17791 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17791</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/200/1920048.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20048 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20048</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/197/1919755.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/177/1917791.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/200/1920048.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-06-19T17:20:00.000Z",
+            "time": "2020-06-19T17:30:00.000Z",
             "top": "ZP 35",
             "heading": "Aktuelle Stunde: Lobbyismus – Transparenz bei möglicher Einflussnahme",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw25-de-aktuelle-stunde-lobbyismus-701100",
@@ -3250,10 +3274,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-06-19T18:25:00.000Z",
+            "time": "2020-06-19T18:45:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -3265,7 +3294,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Montag, 29. Juni 2020, 11 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
