@@ -1982,13 +1982,15 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
-                "documents": []
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/222/1922240.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22240 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22240</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/222/1922240.pdf"
+                ]
               }
             ]
           },
           {
-            "time": "2020-09-11T15:05:00.000Z",
+            "time": "2020-09-11T15:10:00.000Z",
             "top": "30, ZP 18",
             "heading": "Lobbyregister beim Deutschen Bundestag",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw37-de-lobbyregister-790632",
@@ -2014,10 +2016,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/221/1922179.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22179 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22179</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/221/1922183.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22183 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22183</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/221/1922179.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/221/1922183.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-09-11T15:40:00.000Z",
+            "time": "2020-09-11T15:50:00.000Z",
             "top": "31, ZP 19, ZP 23",
             "heading": "Zukunftstechnologie Künstliche Intelligenz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw37-de-ki-weissbuch-790638",
@@ -2053,10 +2063,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/221/1922181.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22181 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22181</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/221/1922181.pdf"
+                ]
+              },
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/212/1921266.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/21266 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/21266</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/221/1922182.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22182 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22182</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/212/1921266.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/221/1922182.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2020-09-11T16:15:00.000Z",
+            "time": "2020-09-11T16:30:00.000Z",
             "top": "ZP 20",
             "heading": "Finanzielle Situation der Kommunen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw37-de-kommunen-finanzen-790868",
@@ -2073,10 +2097,15 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-09-11T16:50:00.000Z",
+            "time": "2020-09-11T17:05:00.000Z",
             "top": "ZP 21",
             "heading": "Aktuelle Stunde zum Fall Nawalny",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw37-de-aktuelle-stunde-nawalny-790876",
@@ -2090,10 +2119,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-09-11T17:55:00.000Z",
+            "time": "2020-09-11T18:20:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -2105,7 +2139,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 16. September 2020, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
