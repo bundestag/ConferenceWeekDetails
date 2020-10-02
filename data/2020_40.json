@@ -15,8 +15,8 @@
       "week": 40
     },
     "next": {
-      "year": null,
-      "week": null
+      "year": 2020,
+      "week": 41
     },
     "sessions": [
       {
@@ -1034,13 +1034,13 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
+                "line": "beendet",
                 "documents": []
               }
             ]
           },
           {
-            "time": "2020-10-01T16:25:00.000Z",
+            "time": "2020-10-01T16:30:00.000Z",
             "top": "1 Epl 15",
             "heading": "Gesundheit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw40-de-gesundheit-793466",
@@ -1053,10 +1053,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-10-01T18:05:00.000Z",
+            "time": "2020-10-01T18:15:00.000Z",
             "top": "1 Epl 30",
             "heading": "Bildung und Forschung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw40-de-bildung-forschung-793468",
@@ -1069,10 +1074,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-10-01T19:45:00.000Z",
+            "time": "2020-10-01T19:55:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -1084,7 +1094,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Freitag, 2. Oktober 2020, 9 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       },
@@ -1106,7 +1121,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-10-02T09:00:00.000Z",
@@ -1122,7 +1142,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-10-02T11:20:00.000Z",
@@ -1138,7 +1163,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-10-02T13:05:00.000Z",
@@ -1153,7 +1183,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/226/1922600.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22600 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22600</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22887</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/226/1922600.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2020-10-02T14:50:00.000Z",
@@ -1168,7 +1206,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 7.Oktober 2020, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
