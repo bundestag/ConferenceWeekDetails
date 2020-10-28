@@ -25,7 +25,7 @@
         "session": "185",
         "tops": [
           {
-            "time": "2020-10-28T12:00:00.000Z",
+            "time": "2020-10-28T13:00:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -37,37 +37,12 @@
                 "documents": []
               }
             ],
-            "status": []
-          },
-          {
-            "time": "2020-10-28T12:00:00.000Z",
-            "top": "",
-            "heading": "Trauerfeier im Gedenken an den verstorbenen Vizepräsidenten Thomas Oppermann",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-schaeuble-rede-oppermann-801008",
-            "topic": [
+            "status": [
               {
-                "lines": [
-                  "Trauerfeier im Gedenken an den verstorbenen Vizepräsidenten Thomas Oppermann"
-                ],
+                "line": "beendet",
                 "documents": []
               }
-            ],
-            "status": []
-          },
-          {
-            "time": "2020-10-28T12:30:00.000Z",
-            "top": "",
-            "heading": "Unterbrechung bis 13.00 Uhr",
-            "article": null,
-            "topic": [
-              {
-                "lines": [
-                  "Unterbrechung bis 13.00 Uhr"
-                ],
-                "documents": []
-              }
-            ],
-            "status": []
+            ]
           },
           {
             "time": "2020-10-28T13:00:00.000Z",
@@ -82,10 +57,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-10-28T14:05:00.000Z",
+            "time": "2020-10-28T14:15:00.000Z",
             "top": "2",
             "heading": "Fragestunde",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-fragestunde-798142",
@@ -100,12 +80,17 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-10-28T15:10:00.000Z",
-            "top": "ZP",
-            "heading": "Aktuelle Stunde",
+            "time": "2020-10-28T15:15:00.000Z",
+            "top": "ZP 1",
+            "heading": "Aktuelle Stunde - Reform der Gemeinsamen Agrarpolitik",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-aktuelle-stunde-gap-801276",
             "topic": [
               {
@@ -117,25 +102,15 @@
                 "documents": []
               }
             ],
-            "status": []
-          },
-          {
-            "time": "2020-10-28T16:15:00.000Z",
-            "top": "",
-            "heading": "Sitzungsunterbrechung bis 16.30 Uhr",
-            "article": null,
-            "topic": [
+            "status": [
               {
-                "lines": [
-                  "Unterbrechung der Sitzung bis 16.30 Uhr"
-                ],
+                "line": "l&auml;uft",
                 "documents": []
               }
-            ],
-            "status": []
+            ]
           },
           {
-            "time": "2020-10-28T16:30:00.000Z",
+            "time": "2020-10-28T16:35:00.000Z",
             "top": "3",
             "heading": "Kriegsverbrechen u. Menschenrechtsverletzungen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-kriegsverbrechen-798206",
@@ -144,15 +119,17 @@
                 "lines": [
                   "Beratung des Antrags der Fraktionen der CDU/CSU und SPD",
                   "Kriegsverbrechen und Menschenrechtsverletzungen dürfen nicht straflos bleiben",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/237/1923702.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23702 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23702</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/237/1923702.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-10-28T17:10:00.000Z",
+            "time": "2020-10-28T17:15:00.000Z",
             "top": "4",
             "heading": "Vereinbarkeit von Familie und Beruf",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-entgeltfortzahlungsanspruch-erkrankung-798146",
@@ -169,9 +146,7 @@
               },
               {
                 "lines": [
-                  "b) Erste Beratung des von der Fraktion der AfD",
-                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Entgeltfortzahlungsgesetzes",
-                  "Drucksache 19/…"
+                  "b) abgesetzt"
                 ],
                 "documents": []
               },
@@ -199,7 +174,7 @@
             "status": []
           },
           {
-            "time": "2020-10-28T17:50:00.000Z",
+            "time": "2020-10-28T17:55:00.000Z",
             "top": "5",
             "heading": "Änderung soldatenrechtlicher Vorschriften",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-soldatenrecht-798148",
@@ -217,44 +192,8 @@
             "status": []
           },
           {
-            "time": "2020-10-28T18:30:00.000Z",
-            "top": "7",
-            "heading": "Beschäftigungssicherung infolge der COVID-19",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-beschaeftigungssicherungsgesetz-798152",
-            "topic": [
-              {
-                "lines": [
-                  "a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines  Gesetzes zur Beschäftigungssicherung infolge der COVID-19-Pandemie (Beschäftigungssicherungsgesetz – BeschSiG)",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/234/1923480.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23480 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23480</a>"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/234/1923480.pdf"
-                ]
-              },
-              {
-                "lines": [
-                  "b) Beratung des Antrags der Fraktion der AfD",
-                  "Finanzierung des Kurzarbeitergeldes durch Kürzung des deutschen Anteils am EU-Haushalt",
-                  "Drucksache 19/…"
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  "c) Beratung des Antrags der Fraktion DIE LINKE.",
-                  "Neben der Sonderregelung für Kurzarbeit auch Sonderregelung für Arbeitslosengeld I verlängern und ein Weiterbildungsgeld einführen",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/231/1923169.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23169 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23169</a>"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/231/1923169.pdf"
-                ]
-              }
-            ],
-            "status": []
-          },
-          {
-            "time": "2020-10-28T19:10:00.000Z",
-            "top": "6",
+            "time": "2020-10-28T18:35:00.000Z",
+            "top": "6, ZP 2",
             "heading": "Feministische Außenpolitik",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-feministische-aussenpolitik-798150",
             "topic": [
@@ -289,12 +228,60 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/235/1923515.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 2) Beratung des Antrags der Fraktion der AfD",
+                  "Deutsche Außenpolitik unabhängig von Geschlechtszugehörigkeit betreiben – Werteimperialismus beenden",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/237/1923710.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23710 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23710</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/237/1923710.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-10-28T19:50:00.000Z",
+            "time": "2020-10-28T19:15:00.000Z",
+            "top": "7",
+            "heading": "Beschäftigungssicherung infolge von COVID-19",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-beschaeftigungssicherungsgesetz-798152",
+            "topic": [
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines  Gesetzes zur Beschäftigungssicherung infolge der COVID-19-Pandemie (Beschäftigungssicherungsgesetz – BeschSiG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/234/1923480.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23480 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23480</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/234/1923480.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion der AfD",
+                  "Finanzierung des Kurzarbeitergeldes durch Kürzung des deutschen Anteils am EU-Haushalt",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/237/1923724.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23724 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23724</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/237/1923724.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Neben der Sonderregelung für Kurzarbeit auch Sonderregelung für Arbeitslosengeld I verlängern und ein Weiterbildungsgeld einführen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/231/1923169.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23169 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23169</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/231/1923169.pdf"
+                ]
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2020-10-28T19:55:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -332,8 +319,8 @@
           },
           {
             "time": "2020-10-29T09:00:00.000Z",
-            "top": "ZP",
-            "heading": "Regierungserklärung/COVID-19-Pandemie",
+            "top": "ZP 3",
+            "heading": "Regierungserklärung - Bewältigung der COVID-19-Pandemie",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-regierungserklaerung-donnerstag-801000",
             "topic": [
               {
@@ -347,7 +334,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T10:50:00.000Z",
+            "time": "2020-10-29T11:05:00.000Z",
             "top": "8",
             "heading": "Wahlen zu Gremien",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-gremienwahl1-800904",
@@ -386,15 +373,16 @@
             "status": []
           },
           {
-            "time": "2020-10-29T11:00:00.000Z",
-            "top": "ZP",
-            "heading": "Infektionsschutzmaßnahmen",
+            "time": "2020-10-29T11:10:00.000Z",
+            "top": "ZP 4",
+            "heading": "Infektionsschutzmaßnahmen - Parlamentsbeteiligung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-infektionsschutzmassnahmen-801282",
             "topic": [
               {
                 "lines": [
                   "Beratung des Antrags der Fraktion der FDP",
-                  "Infektionsschutzmaßnahmen auf eine klare gesetzliche Grundlage stellen – Demokratie und Parlamentarismus stärken"
+                  "Infektionsschutzmaßnahmen auf eine klare gesetzliche Grundlage stellen – Demokratie und Parlamentarismus stärken",
+                  "Drucksache 19/…"
                 ],
                 "documents": []
               }
@@ -402,7 +390,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T12:05:00.000Z",
+            "time": "2020-10-29T12:20:00.000Z",
             "top": "11, 22",
             "heading": "Familienentlastung, Behindertenpauschbetrag",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-familienentlastungsgesetz-798154",
@@ -462,8 +450,8 @@
             "status": []
           },
           {
-            "time": "2020-10-29T12:40:00.000Z",
-            "top": "9",
+            "time": "2020-10-29T13:00:00.000Z",
+            "top": "9, ZP 5",
             "heading": "Digitales Wettbewerbsrecht",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-digitales-wettbewerbsrecht-798194",
             "topic": [
@@ -482,9 +470,11 @@
                 "lines": [
                   "b) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Wettbewerbsrecht 4.0 – Digitales Monopoly beenden",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923698.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23698 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23698</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923698.pdf"
+                ]
               },
               {
                 "lines": [
@@ -501,13 +491,21 @@
                   "Drucksache 19/…"
                 ],
                 "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 5) Beratung des Antrags der Fraktion der FDP",
+                  "Für ein selbstbewusstes und wachstumsorientiertes Wettbewerbsrecht auf digitalen Märkten",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
           },
           {
-            "time": "2020-10-29T13:15:00.000Z",
-            "top": "12",
+            "time": "2020-10-29T13:40:00.000Z",
+            "top": "12, ZP 6, ZP 7",
             "heading": "Cannabiskonsum",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-cannabiskontrollgesetz-798164",
             "topic": [
@@ -560,7 +558,17 @@
               },
               {
                 "lines": [
-                  "namentliche Abstimmung"
+                  "ZP 6) Beratung des Antrags der Fraktion der FDP",
+                  "Cannabis-Modellprojekte ermöglichen",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 7) Beratung des Antrags der Fraktion der FDP",
+                  "Medizinalcannabis-Anbau zum Export ermöglichen",
+                  "Drucksache 19/…"
                 ],
                 "documents": []
               }
@@ -568,8 +576,8 @@
             "status": []
           },
           {
-            "time": "2020-10-29T14:25:00.000Z",
-            "top": "34",
+            "time": "2020-10-29T14:50:00.000Z",
+            "top": "34, ZP 8",
             "heading": "Überweisungen im vereinfachten Verfahren",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-ueberweisungen-798176",
             "topic": [
@@ -717,12 +725,89 @@
                   "Drucksache 19/…"
                 ],
                 "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 8) Weitere Überweisungen im vereinfachten Verfahren"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Fraktion der FDP eingebrachten Entwurfs eines Gesetzes zur Anpassung des aktiven Wahlrechts (Wahlalteranpassungsgesetz)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923687.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23687 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23687</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923687.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Vertrag über den Offenen Himmel aufrechterhalten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/207/1920788.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20788 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20788</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/207/1920788.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung des Antrags der Fraktion der AfD",
+                  "Tourismusgipfel im Kanzleramt jetzt",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "d) Beratung des Antrags der Fraktion der FDP",
+                  "Spiele und Spieleautoren würdigen – Rechtliche und vergütungsrechtliche Rahmenbedingungen verbessern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923682.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23682 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23682</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923682.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "e) Beratung des Antrags der Fraktion der FDP",
+                  "Einsatz neuer Züchtungsmethoden ermöglichen",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "f) Beratung des Antrags der Fraktion der FDP",
+                  "Afrikanische Schweinepest effektiv aufhalten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/238/1923863.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23863 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23863</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/238/1923863.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g) Beratung des Antrags der Fraktion der FDP",
+                  "Freiheit und Sicherheit schützen – Für eine Überwachungsgesamtrechnung statt weiterer Einschränkungen der Bürgerrechte",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "h) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Alphabetisierung und Grundbildung – Jeder Mensch soll lesen können",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
           },
           {
-            "time": "2020-10-29T14:30:00.000Z",
+            "time": "2020-10-29T14:55:00.000Z",
             "top": "35",
             "heading": "Abschließende Beratungen ohne Aussprache",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-abschliessende-beratungen-798178",
@@ -831,7 +916,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T14:35:00.000Z",
+            "time": "2020-10-29T15:00:00.000Z",
             "top": "13",
             "heading": "Weitere Wahlen zu Gremien",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-gremienwahl2-800910",
@@ -910,16 +995,16 @@
             "status": []
           },
           {
-            "time": "2020-10-29T14:40:00.000Z",
-            "top": "ZP",
-            "heading": "Aktuelle Stunde",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-aktuelle-stunde-digitalisierung-corona-801286",
+            "time": "2020-10-29T15:05:00.000Z",
+            "top": "ZP 18",
+            "heading": "Aktuelle Stunde - Friedenslösung für Bergkarabach",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-aktuelle-stunde-bergkarabach-801290",
             "topic": [
               {
                 "lines": [
                   "Aktuelle Stunde",
-                  "auf Verlangen der Fraktion der FDP",
-                  "Digitalisierung als Chance zur Krisenbewältigung begreifen – Corona Warn App 2.0"
+                  "auf Verlangen der Fraktionen der CDU/CSU und SPD",
+                  "Bergkarabach"
                 ],
                 "documents": []
               }
@@ -927,7 +1012,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T15:45:00.000Z",
+            "time": "2020-10-29T16:10:00.000Z",
             "top": "16",
             "heading": "Gesundheitsversorgung, Pflegeverbesserung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-gesundheitsversorgung-798170",
@@ -962,9 +1047,11 @@
                 "lines": [
                   "d) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Kapitaleinkünfte bei der Ermittlung der Krankenversicherungsbeiträge berücksichtigen",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923699.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23699 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23699</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923699.pdf"
+                ]
               },
               {
                 "lines": [
@@ -990,8 +1077,8 @@
             "status": []
           },
           {
-            "time": "2020-10-29T16:25:00.000Z",
-            "top": "15",
+            "time": "2020-10-29T16:50:00.000Z",
+            "top": "15, ZP 10",
             "heading": "75 Jahre Vereinte Nationen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-vereinte-nationen-798180",
             "topic": [
@@ -1007,6 +1094,16 @@
                 "lines": [
                   "b) Beratung des Antrags der Fraktion DIE LINKE.",
                   "75 Jahre Vereinte Nationen – Abrüstung, Friedensdiplomatie und Armutsbekämpfung verstärken",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923697.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23697 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23697</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923697.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 10) Beratung des Antrags der Fraktion der FDP",
+                  "Vereinte Nationen stärken und Multilateralismus voranbringen",
                   "Drucksache 19/…"
                 ],
                 "documents": []
@@ -1015,7 +1112,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T17:05:00.000Z",
+            "time": "2020-10-29T17:30:00.000Z",
             "top": "17",
             "heading": "Bundeswehreinsatz im Irak",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-bundeswehr-irak-798188",
@@ -1045,42 +1142,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T17:45:00.000Z",
-            "top": "18",
-            "heading": "Lehrkräftemangel",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-lehrkraeftemangel-798192",
-            "topic": [
-              {
-                "lines": [
-                  "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss)",
-                  "– zu dem Antrag der Fraktion der AfD",
-                  "Qualitätspakt Schule – Humane und humanistische Bildung durch Schüler-Lehrer-Kontakt gewährleisten",
-                  "– zu dem Antrag der Fraktion der AfD",
-                  "Corona digital bekämpfen – Deutsches Bildungs- und Forschungssystem digital fit machen für Lernen-zu-Hause sowie Fernlehre und -forschung",
-                  "– zu dem Antrag der Fraktion FDP",
-                  "Lehren aus der Corona-Krise – Impulse für die Schule der Zukunft",
-                  "– zu dem Antrag der Fraktion DIE LINKE.",
-                  "Lehrkräftemangel beheben – Gute Bildung sichern",
-                  "– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Bundeszentrale für digitale und Medienbildung – Medien- und digitalpädagogische Kompetenzen bündeln, vermitteln und fördern",
-                  "– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Lernen aus der Krise – Ein Update für die Schulen",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/205/1920568.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20568 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20568</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/206/1920683.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20683 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20683</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/205/1920554.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20554 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20554</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/194/1919483.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19483 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19483</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918729.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18729 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18729</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/203/1920385.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20385 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20385</a>, 19/…"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/205/1920568.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/206/1920683.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/205/1920554.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/194/1919483.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/187/1918729.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/203/1920385.pdf"
-                ]
-              }
-            ],
-            "status": []
-          },
-          {
-            "time": "2020-10-29T18:25:00.000Z",
+            "time": "2020-10-29T18:10:00.000Z",
             "top": "19",
             "heading": "Arzneimittelversorgung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-apotheken-798190",
@@ -1124,7 +1186,42 @@
             "status": []
           },
           {
-            "time": "2020-10-29T19:05:00.000Z",
+            "time": "2020-10-29T18:50:00.000Z",
+            "top": "18",
+            "heading": "Lehrkräftemangel",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-lehrkraeftemangel-798192",
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss)",
+                  "– zu dem Antrag der Fraktion der AfD",
+                  "Qualitätspakt Schule – Humane und humanistische Bildung durch Schüler-Lehrer-Kontakt gewährleisten",
+                  "– zu dem Antrag der Fraktion der AfD",
+                  "Corona digital bekämpfen – Deutsches Bildungs- und Forschungssystem digital fit machen für Lernen-zu-Hause sowie Fernlehre und -forschung",
+                  "– zu dem Antrag der Fraktion FDP",
+                  "Lehren aus der Corona-Krise – Impulse für die Schule der Zukunft",
+                  "– zu dem Antrag der Fraktion DIE LINKE.",
+                  "Lehrkräftemangel beheben – Gute Bildung sichern",
+                  "– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Bundeszentrale für digitale und Medienbildung – Medien- und digitalpädagogische Kompetenzen bündeln, vermitteln und fördern",
+                  "– zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Lernen aus der Krise – Ein Update für die Schulen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/205/1920568.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20568 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20568</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/206/1920683.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20683 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20683</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/205/1920554.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20554 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20554</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/194/1919483.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19483 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19483</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/187/1918729.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/18729 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/18729</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/203/1920385.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20385 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20385</a>, 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/205/1920568.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/206/1920683.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/205/1920554.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/194/1919483.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/187/1918729.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/203/1920385.pdf"
+                ]
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2020-10-29T19:30:00.000Z",
             "top": "21",
             "heading": "Gesetz Digitale Rentenübersicht",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-digitale-rentenuebersicht-798158",
@@ -1141,24 +1238,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T19:45:00.000Z",
-            "top": "31",
-            "heading": "Arbeitsrecht - Mobiles Arbeiten",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-mobiles-arbeiten-798204",
-            "topic": [
-              {
-                "lines": [
-                  "Beratung des Antrags der Fraktion der FDP",
-                  "Arbeitsrecht updaten – Moderner Rechtsrahmen für mobiles und flexibles Arbeiten",
-                  "Drucksache 19/…"
-                ],
-                "documents": []
-              }
-            ],
-            "status": []
-          },
-          {
-            "time": "2020-10-29T20:25:00.000Z",
+            "time": "2020-10-29T20:10:00.000Z",
             "top": "20",
             "heading": "Abstrakte Normenkontrolle Nachtragshaushaltsgesetz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-nachtragshaushalt-2020-798186",
@@ -1184,7 +1264,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T21:05:00.000Z",
+            "time": "2020-10-29T20:50:00.000Z",
             "top": "24",
             "heading": "Versicherungssteuerrecht",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-versicherungsteuerrecht-798162",
@@ -1205,24 +1285,26 @@
             "status": []
           },
           {
-            "time": "2020-10-29T21:45:00.000Z",
-            "top": "22",
-            "heading": "Handeln statt Reden",
-            "article": null,
+            "time": "2020-10-29T21:30:00.000Z",
+            "top": "31",
+            "heading": "Arbeitsrecht - Mobiles Arbeiten",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-mobiles-arbeiten-798204",
             "topic": [
               {
                 "lines": [
                   "Beratung des Antrags der Fraktion der FDP",
-                  "Handeln statt Reden – Kleine und mittlere Einkommen dauerhaft entlasten",
-                  "Drucksache 19/…"
+                  "Arbeitsrecht updaten – Moderner Rechtsrahmen für orts- und zeitflexibles Arbeiten",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923678.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23678 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23678</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923678.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
-            "time": "2020-10-29T22:25:00.000Z",
+            "time": "2020-10-29T22:10:00.000Z",
             "top": "25",
             "heading": "Entfristung Terrorismusbekämpfungsgesetz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-terrorismusbekaempfungsgesetz-798166",
@@ -1239,7 +1321,7 @@
             "status": []
           },
           {
-            "time": "2020-10-29T23:05:00.000Z",
+            "time": "2020-10-29T22:50:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -1277,7 +1359,7 @@
           },
           {
             "time": "2020-10-30T09:00:00.000Z",
-            "top": "26",
+            "top": "26, ZP 11",
             "heading": "Bekämpfung sexualisierter Gewalt gegen Kinder",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-sexualisierte-gewalt-800918",
             "topic": [
@@ -1288,6 +1370,16 @@
                   "Drucksache 19/…"
                 ],
                 "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 11) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Prävention stärken – Kinder vor sexualisierter Gewalt schützen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923676.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23676 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23676</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923676.pdf"
+                ]
               }
             ],
             "status": []
@@ -1331,7 +1423,7 @@
           },
           {
             "time": "2020-10-30T11:20:00.000Z",
-            "top": "28, ZP",
+            "top": "28, ZP 12",
             "heading": "Deutsch-polnische Gedenkstätte",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-deutsch-polnische-geschichte-798198",
             "topic": [
@@ -1345,7 +1437,7 @@
               },
               {
                 "lines": [
-                  "ZP) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "ZP 12) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Ein binationales deutsch-polnisches Museum – Gedenken, Aufklärung und Verantwortung",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923646.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23646 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23646</a>"
                 ],
@@ -1426,14 +1518,15 @@
           },
           {
             "time": "2020-10-30T13:50:00.000Z",
-            "top": "ZP",
-            "heading": "Unternehmen in der Corona-Krise",
-            "article": null,
+            "top": "ZP 13",
+            "heading": "Steuerliche Entlastung für Unternehmen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-insolvenzwelle-verhindern-801300",
             "topic": [
               {
                 "lines": [
                   "Beratung des Antrags der Fraktion der FDP",
-                  "Handeln statt Reden – Unternehmen in der Corona-Krise steuerlich entlasten, Insolvenzwelle verhindern"
+                  "Handeln statt Reden – Unternehmen in der Corona-Krise steuerlich entlasten, Insolvenzwelle verhindern",
+                  "Drucksache 19/…"
                 ],
                 "documents": []
               }
@@ -1441,7 +1534,7 @@
             "status": []
           },
           {
-            "time": "2020-10-30T14:25:00.000Z",
+            "time": "2020-10-30T14:30:00.000Z",
             "top": "32",
             "heading": "Bundesarchivgesetz/ SED-Opferbeauftragter",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-bundesarchivgesetz-stasi-unterlagen-798208",
@@ -1458,24 +1551,61 @@
             "status": []
           },
           {
-            "time": "2020-10-30T15:05:00.000Z",
-            "top": "ZP",
-            "heading": "Maßnahmen zur Rettung der Veranstaltungswirtschaft",
-            "article": null,
+            "time": "2020-10-30T15:10:00.000Z",
+            "top": "ZP 14 - ZP 17",
+            "heading": "Veranstaltungswirtschaft in der Corona-Krise",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-veranstaltungswirtschaft-schuetzen-801308",
             "topic": [
               {
                 "lines": [
-                  "Beratung des Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Ohne Veranstaltungen wird es still, auch nach der Krise – Maßnahmen zur Rettung der Veranstaltungswirtschaft und Soloselbständigen in der Corona-Krise"
+                  "ZP 14) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Ohne Veranstaltungen wird es still, auch nach der Krise – Maßnahmen zur Rettung der Veranstaltungswirtschaft und Soloselbständigen in der Corona-Krise",
+                  "Drucksache 19/…"
                 ],
                 "documents": []
               },
               {
                 "lines": [
-                  "Beratung  des Antrag der Fraktion der Fraktion der FDP",
+                  "ZP 15) Beratung des Antrags der Fraktion der AfD",
+                  "Krisenüberbrückung für Schausteller, ihre Zulieferer und Hersteller und Ermöglichung von Veranstaltungen mit entsprechendem Hygienekonzept",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 16) Beratung des Antrags der Fraktion der FDP",
                   "Freiraum für gesellschaftliches Leben erhalten – Veranstaltungswirtschaft schützen",
-                  "Beratung  des Antrag der Fraktion der Fraktion der FDP",
-                  "Datenschutz gewährleisten – Vertrauen in die Datenerfassung in der Gastronomie stärken"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923679.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23679 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23679</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923679.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 17) Beratung des Antrags der Fraktion der FDP",
+                  "Datenschutz gewährleisten – Vertrauen in die Datenerfassung in der Gastronomie stärken",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923680.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23680 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23680</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923680.pdf"
+                ]
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2020-10-30T15:50:00.000Z",
+            "top": "ZP 9",
+            "heading": "Aktuelle Stunde - Corona Warn-App 2.0",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw44-de-aktuelle-stunde-digitalisierung-corona-801286",
+            "topic": [
+              {
+                "lines": [
+                  "Aktuelle Stunde",
+                  "auf Verlangen der Fraktion der FDP",
+                  "Digitalisierung als Chance zur Krisenbewältigung begreifen – Corona Warn App 2.0"
                 ],
                 "documents": []
               }
@@ -1483,7 +1613,7 @@
             "status": []
           },
           {
-            "time": "2020-10-30T15:40:00.000Z",
+            "time": "2020-10-30T16:55:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
