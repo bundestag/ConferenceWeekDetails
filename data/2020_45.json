@@ -2170,8 +2170,17 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
-                "documents": []
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/239/1923939.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23939 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23939</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/239/1923939.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/240/1924037.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24037 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24037</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/236/1923679.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23679 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23679</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/240/1924037.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/236/1923679.pdf"
+                ]
               }
             ]
           },
@@ -2188,7 +2197,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 18. November 2020, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
