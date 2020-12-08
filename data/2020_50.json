@@ -37,7 +37,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-12-08T10:00:00.000Z",
@@ -73,7 +78,12 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-12-08T10:00:00.000Z",
@@ -98,9 +108,12 @@
                   "I.2) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
                   "hier:\tEinzelplan 02",
                   "Deutscher Bundestag",
-                  "Drucksachen 19/…, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923302.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23302 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23302</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923324.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23324 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23324</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/233/1923302.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/233/1923324.pdf"
+                ]
               },
               {
                 "lines": [
@@ -115,11 +128,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Einzelplan 01 angenommen",
+                "documents": []
+              },
+              {
+                "line": "Einzelplan 02 angenommen",
+                "documents": []
+              },
+              {
+                "line": "Einzelplan 03 angenommen",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2020-12-08T10:05:00.000Z",
-            "top": "I.4, II.",
+            "top": "I.4, II., ZP 1",
             "heading": "Finanzen, Bundesrechnungshof, Beschluss Art. 115 II GG",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw50-de-finanzministerium-bundesrechnungshof-810030",
             "topic": [
@@ -128,15 +154,6 @@
                   "a) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
                   "hier:\tEinzelplan 08",
                   "Bundesministerium der Finanzen",
-                  "Drucksachen 19/…, 19/…"
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  "b) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
-                  "hier:\tEinzelplan 20",
-                  "Bundesrechnungshof",
                   "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923324.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23324 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23324</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923325.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23325 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23325</a>"
                 ],
                 "documents": [
@@ -146,13 +163,35 @@
               },
               {
                 "lines": [
+                  "b) Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
+                  "hier:\tEinzelplan 20",
+                  "Bundesrechnungshof",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923325.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23325 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23325</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/233/1923325.pdf"
+                ]
+              },
+              {
+                "lines": [
                   "TOP II.) Beratung der Beschlussempfehlung und des Berichts des Haushaltsausschusses (8. Ausschuss)",
                   "zu dem Antrag der Fraktionen der CDU/CSU und SPD",
                   "Beschluss des Bundestages gemäß Artikel 115 Absatz 2 Satz 6 und 7 des Grundgesetzes",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22887</a>, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22887</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24940</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 1) Beratung des Antrags der Fraktion der FDP",
+                  "Beschluss des Bundestages gemäß Artikel 115 Absatz 2 Satz 6 und 7 des Grundgesetzes",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924969.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24969 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24969</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/249/1924969.pdf"
                 ]
               },
               {
@@ -162,7 +201,63 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Einzelplan 08 angenommen",
+                "documents": []
+              },
+              {
+                "line": "Einzelplan 20 angenommen",
+                "documents": []
+              },
+              {
+                "line": "namentliche Abstimmung zum Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924969.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24969 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24969</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/249/1924969.pdf"
+                ]
+              },
+              {
+                "line": "11:51:45: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "12:26:24: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 625 Ja: 74 Nein: 550 Enthaltungen: 1",
+                "documents": []
+              },
+              {
+                "line": "Antrag abgelehnt",
+                "documents": []
+              },
+              {
+                "line": "namentliche Abstimmung zur Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24940</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22887 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22887</a> in Ausschussfassung annehmen)",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/228/1922887.pdf"
+                ]
+              },
+              {
+                "line": "13:50:25: Beginn der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "14:23:03: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 634 Ja: 374 Nein: 73 Enthaltungen: 187",
+                "documents": []
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24940</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/249/1924940.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2020-12-08T11:50:00.000Z",
@@ -183,10 +278,15 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Einzelplan 09 angenommen",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-12-08T13:35:00.000Z",
+            "time": "2020-12-08T13:50:00.000Z",
             "top": "I.6",
             "heading": "Umwelt, Naturschutz und nukleare Sicherheit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw50-de-umwelt-naturschutz-nukleare-sicherheit-810014",
@@ -204,10 +304,15 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Einzelplan 16 angenommen",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-12-08T15:20:00.000Z",
+            "time": "2020-12-08T15:40:00.000Z",
             "top": "I.7",
             "heading": "Ernährung und Landwirtschaft",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw50-de-ernaehrung-landwirtschaft-810016",
@@ -225,10 +330,15 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Einzelplan 10 angenommen",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-12-08T17:05:00.000Z",
+            "time": "2020-12-08T17:25:00.000Z",
             "top": "I.8",
             "heading": "Bildung und Forschung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw50-de-bildung-forschung-810018",
@@ -238,15 +348,23 @@
                   "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
                   "hier:\tEinzelplan 30",
                   "Bundesministerium für Bildung und Forschung",
-                  "Drucksachen 19/…, 19…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923324.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23324 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23324</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923325.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23325 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23325</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/233/1923324.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/233/1923325.pdf"
+                ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "l&auml;uft",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2020-12-08T18:50:00.000Z",
+            "time": "2020-12-08T19:10:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -477,7 +595,7 @@
           },
           {
             "time": "2020-12-10T12:30:00.000Z",
-            "top": "IV.",
+            "top": "IV., ZP 2",
             "heading": "Überweisungen im vereinfachten Verfahren",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw50-de-ueberweisungen-810052",
             "topic": [
@@ -533,6 +651,54 @@
                 "lines": [
                   "f) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Grünland- und Klimaschutz verbessern, Ackerstatus bei dauernder Grünlandnutzung erhalten",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 2) Weitere Überweisungen im vereinfachten Verfahren"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "a) Beratung des Antrags der Fraktion der FDP",
+                  "AvP-Insolvenz – Aufarbeitung vorantreiben, finanzielle Sicherheit im Gesundheitssystem erhöhen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924966.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24966 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24966</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/249/1924966.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion der AfD",
+                  "Anpassung der Musterbauordnung zum Erhalt historischer Altstädte",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "c) Beratung des Antrags der Fraktion der FDP",
+                  "Beziehungen zu Japan stärken",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "d) Beratung des Antrags der Fraktion der FDP",
+                  "Herausforderungen begegnen, Chancen nutzen – Die Chinapolitik Deutschlands und der EU neu justieren",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "e) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Teilen als Prinzip der Mobilität von morgen verankern – Rechtliche Grundlagen für neue Sharing-Angebote verbessern",
                   "Drucksache 19/…"
                 ],
                 "documents": []
@@ -709,14 +875,14 @@
           },
           {
             "time": "2020-12-10T12:45:00.000Z",
-            "top": "ZP",
-            "heading": "Wahl eines Mitglieds des Stiftungsrates",
+            "top": "ZP 3",
+            "heading": "Wahl „Stiftung Haus der kleinen Forscher“",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2020/kw50-de-gremienwahl-812046",
             "topic": [
               {
                 "lines": [
-                  "Vorschlag der Fraktion der AfD",
-                  "Wahl eines Mitglieds des Stiftungsrates der Stiftung Haus der kleinen Forscher",
+                  "Wahlvorschlag der Fraktion der AfD",
+                  "Wahl eines Mitglieds des Stiftungsrates der „Stiftung Haus der kleinen Forscher“",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/247/1924768.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24768 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24768</a>"
                 ],
                 "documents": [
@@ -858,9 +1024,11 @@
                   "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
                   "hier:\tEinzelplan 32",
                   "Bundesschuld",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923322.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23322 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23322</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/233/1923322.pdf"
+                ]
               }
             ],
             "status": []
@@ -876,9 +1044,11 @@
                   "Beschlussempfehlungen und Berichte des Haushaltsausschusses (8. Ausschuss)",
                   "hier:\tEinzelplan 60",
                   "Allgemeine Finanzverwaltung",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/233/1923323.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23323 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23323</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/233/1923323.pdf"
+                ]
               }
             ],
             "status": []
