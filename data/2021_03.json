@@ -15,8 +15,8 @@
       "week": 3
     },
     "next": {
-      "year": null,
-      "week": null
+      "year": 2021,
+      "week": 4
     },
     "sessions": [
       {
@@ -1054,8 +1054,10 @@
             ],
             "status": [
               {
-                "line": "beendet",
-                "documents": []
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/258/1925806.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25806 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25806</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/258/1925806.pdf"
+                ]
               }
             ]
           },
@@ -1084,13 +1086,39 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/259/1925901.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25901 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25901</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/259/1925901.pdf"
+                ]
+              },
+              {
+                "line": "namentliche Abstimmung über Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/258/1925816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25816</a> ",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/258/1925816.pdf"
+                ]
+              },
+              {
+                "line": "17:58:18: Beginn der namentlichen Abstimmung",
                 "documents": []
+              },
+              {
+                "line": "18:29:01: Ende der namentlichen Abstimmung",
+                "documents": []
+              },
+              {
+                "line": "Gesamt: 580 Ja: 486 Nein: 73 Enthaltungen: 21 ",
+                "documents": []
+              },
+              {
+                "line": "Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/258/1925816.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25816 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25816</a> angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/258/1925816.pdf"
+                ]
               }
             ]
           },
           {
-            "time": "2021-01-14T17:50:00.000Z",
+            "time": "2021-01-14T18:00:00.000Z",
             "top": "20",
             "heading": "Diskriminierung von Muslimen in Deutschland",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw02-de-antimuslimischer-rassismus-814234",
@@ -1107,7 +1135,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Rede zu Protokoll: Irmer, Hans-Jürgen (CDU/CSU)",
+                "documents": []
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925778.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25778 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25778</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/257/1925778.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2021-01-14T18:30:00.000Z",
@@ -1136,7 +1175,15 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/258/1925801.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25801 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25801</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/258/1925802.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25802 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25802</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/258/1925801.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/258/1925802.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2021-01-14T19:10:00.000Z",
@@ -1165,10 +1212,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925791.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25791 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25791</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925799.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25799 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25799</a>",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/257/1925791.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/257/1925799.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2021-01-14T19:50:00.000Z",
+            "time": "2021-01-14T19:45:00.000Z",
             "top": "ZP 13, ZP 14",
             "heading": "Vermögensaufbau und -besteuerung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw02-de-vermoegensaufbau-816794",
@@ -1194,10 +1249,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925792.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25792 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25792</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925789.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25789 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25789</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/257/1925792.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/257/1925789.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2021-01-14T20:30:00.000Z",
+            "time": "2021-01-14T20:20:00.000Z",
             "top": "ZP 15",
             "heading": "Durchsetzung des Homeoffice-Gebotes",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw02-de-homeoffice-816812",
@@ -1213,10 +1276,17 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925798.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25798 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25798</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/257/1925798.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2021-01-14T21:10:00.000Z",
+            "time": "2021-01-14T21:05:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -1228,7 +1298,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 27. Januar 2021, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
