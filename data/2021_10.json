@@ -37,7 +37,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2021-03-03T13:00:00.000Z",
@@ -52,10 +57,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-03-03T14:05:00.000Z",
+            "time": "2021-03-03T14:10:00.000Z",
             "top": "2",
             "heading": "Fragestunde",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-fragestunde-824806",
@@ -70,11 +80,16 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-03-03T15:05:00.000Z",
-            "top": "ZP",
+            "time": "2021-03-03T15:10:00.000Z",
+            "top": "ZP 1",
             "heading": "Aktuelle Stunde - Öffnungsperspektiven durch Teststrategie",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-aktuelle-stunde-teststrategie-825812",
             "topic": [
@@ -87,10 +102,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-03-03T16:15:00.000Z",
+            "time": "2021-03-03T16:20:00.000Z",
             "top": "",
             "heading": "Sitzungsunterbrechung bis 16.30 Uhr",
             "article": null,
@@ -102,7 +122,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2021-03-03T16:30:00.000Z",
@@ -132,18 +157,23 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "l&auml;uft",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-03-03T17:10:00.000Z",
-            "top": "4",
-            "heading": "Meinungsfreiheit in sozialen Netzwerken",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-soziale-netzwerke-824810",
+            "time": "2021-03-03T17:05:00.000Z",
+            "top": "ZP 2",
+            "heading": "Digitaler Impfpass",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-corona-impfpflicht-825908",
             "topic": [
               {
                 "lines": [
-                  "Erste Beratung des von der Fraktion der AfD",
-                  "eingebrachten Entwurfs eines Gesetzes zur Sicherstellung der Meinungsfreiheit in sozialen Netzwerken",
+                  "Beratung des Antrags der Fraktion der AfD",
+                  "Die Corona-Impfpflicht durch die Hintertür verhindern – Die Einführung des digitalen Corona-Impfpass stoppen",
                   "Drucksache 19/…"
                 ],
                 "documents": []
@@ -152,9 +182,9 @@
             "status": []
           },
           {
-            "time": "2021-03-03T17:50:00.000Z",
+            "time": "2021-03-03T17:45:00.000Z",
             "top": "5",
-            "heading": "Bundeswehreinsatz im MIttelmeer (SEA GUARDIAN)",
+            "heading": "Bundeswehreinsatz im Mittelmeer (SEA GUARDIAN)",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de--824812",
             "topic": [
               {
@@ -182,7 +212,7 @@
             "status": []
           },
           {
-            "time": "2021-03-03T18:30:00.000Z",
+            "time": "2021-03-03T18:25:00.000Z",
             "top": "6",
             "heading": "Ökologische Kraftstoffstrategie",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-synthetische-kraftstoffe-824814",
@@ -191,9 +221,11 @@
                 "lines": [
                   "a) Beratung des Antrags der Fraktion der FDP",
                   "Synthetische Kraftstoffe als integraler Bestandteil einer ökologischen Kraftstoffstrategie",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927180.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27180 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27180</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927180.pdf"
+                ]
               },
               {
                 "lines": [
@@ -211,7 +243,7 @@
             "status": []
           },
           {
-            "time": "2021-03-03T19:10:00.000Z",
+            "time": "2021-03-03T19:05:00.000Z",
             "top": "7",
             "heading": "Griechenland: Teilrückzahlung IWF-Kredit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-griechenland-kredite-824816",
@@ -232,7 +264,7 @@
             "status": []
           },
           {
-            "time": "2021-03-03T19:50:00.000Z",
+            "time": "2021-03-03T19:45:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -270,7 +302,7 @@
           },
           {
             "time": "2021-03-04T09:00:00.000Z",
-            "top": "8",
+            "top": "8, ZP 3",
             "heading": "Epidemische Lage von nationaler Tragweite",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de--824818",
             "topic": [
@@ -318,6 +350,14 @@
               },
               {
                 "lines": [
+                  "ZP 3) Beratung des Antrags der Fraktionen BÜNDNIS 90/DIE GRÜNEN und DIE LINKE.",
+                  "Sichere Bildung in der Krise – Schnellteststrategie für Kitas und Schulen einführen",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
                   "Namentliche Abstimmung"
                 ],
                 "documents": []
@@ -334,7 +374,7 @@
               {
                 "lines": [
                   "a) Beratung des Antrags der Fraktion der AfD",
-                  "Aufbruch Deutschland – Raus aus der Wirtschafts- und Lockdown-Krise",
+                  "Aufbruch für Deutschland – Raus aus der Wirtschafts- und Lockdown-Krise",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/268/1926895.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26895 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26895</a>"
                 ],
                 "documents": [
@@ -399,9 +439,11 @@
                 "lines": [
                   "d) Beratung des Antrags der Fraktion der FDP",
                   "Fit für die Arbeitswelt der Zukunft – Individuelle Bildungswege, Digitalisierung und Internationalisierung in der beruflichen Bildung",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927120.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27120 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27120</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927120.pdf"
+                ]
               },
               {
                 "lines": [
@@ -449,11 +491,12 @@
                   "Pandemie-Erfahrungen bei Schulunterricht nicht vergessen – Know-how von Lehrern und Zivilgesellschaft auf Dauer heben",
                   "– zu dem Antrag der Fraktion DIE LINKE.",
                   "Unterstützung für Schulen in der Pandemie – Mangelwirtschaft in der Bildung beenden",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/231/1923119.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23119 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23119</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/244/1924450.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24450 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24450</a>, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/231/1923119.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23119 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23119</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/244/1924450.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24450 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24450</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927176.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27176 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27176</a>"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/231/1923119.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/244/1924450.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/244/1924450.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927176.pdf"
                 ]
               },
               {
@@ -507,7 +550,7 @@
           },
           {
             "time": "2021-03-04T13:40:00.000Z",
-            "top": "33, 21c",
+            "top": "33, 21c, ZP 4",
             "heading": "Überweisungen im vereinfachten Verfahren",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-ueberweisungen-824842",
             "topic": [
@@ -521,7 +564,7 @@
               {
                 "lines": [
                   "b) Erste Beratung des von der Bundesregierung",
-                  "eingebrachten Entwurfs eines Gesetzes zu dem Protokoll vom 1. Oktober 2020 zur Änderung des Abkommens vom 22. November 1995 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark zur Vermeidung der Doppelbesteuerung bei den Steuern vom Einkommen und Vermögen  sowie bei Nachlass-, Erbschaft- und Schenkungsteuern  und zur Beistandsleistung in Steuersachen (Deutsch-dänisches Steuerabkommen)",
+                  "eingebrachten Entwurfs eines Gesetzes zu dem Protokoll vom 1. Oktober 2020 zur Änderung des Abkommens vom 22. November 1995 zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark zur Vermeidung der Doppelbesteuerung bei den Steuern vom Einkommen und Vermögen sowie bei Nachlass-, Erbschaft- und Schenkungsteuern und zur Beistandsleistung in Steuersachen (Deutsch-dänisches Steuerabkommen)",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/268/1926833.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26833 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26833</a>"
                 ],
                 "documents": [
@@ -530,7 +573,8 @@
               },
               {
                 "lines": [
-                  "c) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Übereinkommen Nr. 169 der Internationalen Arbeitsorganisation vom 27. Juni 1989 über eingeborene und in Stämmen lebende Völker in unabhängigen Ländern",
+                  "c) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zu dem Übereinkommen Nr. 169 der Internationalen Arbeitsorganisation vom 27. Juni 1989 über eingeborene und in Stämmen lebende Völker in unabhängigen Ländern",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/268/1926834.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26834 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26834</a>"
                 ],
                 "documents": [
@@ -539,7 +583,8 @@
               },
               {
                 "lines": [
-                  "d) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Versorgungsausgleichsrechts",
+                  "d) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Versorgungsausgleichsrechts",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/268/1926838.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26838 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26838</a>"
                 ],
                 "documents": [
@@ -548,7 +593,8 @@
               },
               {
                 "lines": [
-                  "e) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Regelung des Erscheinungsbilds von Beamtinnen und Beamten sowie zur Änderung weiterer dienstrechtlicher Vorschriften",
+                  "e) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Regelung des Erscheinungsbilds von Beamtinnen und Beamten sowie zur Änderung weiterer dienstrechtlicher Vorschriften",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/268/1926839.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26839 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26839</a>"
                 ],
                 "documents": [
@@ -557,7 +603,8 @@
               },
               {
                 "lines": [
-                  "f) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Seefischereigesetzes",
+                  "f) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Vierten Gesetzes zur Änderung des Seefischereigesetzes",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/268/1926840.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26840 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26840</a>"
                 ],
                 "documents": [
@@ -566,7 +613,8 @@
               },
               {
                 "lines": [
-                  "g) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes über die statistische Erhebung der Zeitverwendung (Zeitverwendungserhebungsgesetz – ZVEG)",
+                  "g) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes über die statistische Erhebung der Zeitverwendung (Zeitverwendungserhebungsgesetz – ZVEG)",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926935.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26935 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26935</a>"
                 ],
                 "documents": [
@@ -575,7 +623,8 @@
               },
               {
                 "lines": [
-                  "h) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur Änderung des Medizinprodukterecht-Durchführungsgesetzes und weiterer Gesetze",
+                  "h) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Medizinprodukterecht-Durchführungsgesetzes und weiterer Gesetze",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926942.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26942 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26942</a>"
                 ],
                 "documents": [
@@ -584,7 +633,8 @@
               },
               {
                 "lines": [
-                  "i) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Strahlenschutzgesetzes",
+                  "i) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Ersten Gesetzes zur Änderung des Strahlenschutzgesetzes",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926943.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26943 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26943</a>"
                 ],
                 "documents": [
@@ -593,7 +643,8 @@
               },
               {
                 "lines": [
-                  "j) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Erstes Gesetz zur Änderung des Elektro- und Elektronikgerätegesetzes",
+                  "j) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Erstes Gesetz zur Änderung des Elektro- und Elektronikgerätegesetzes",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926971.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26971 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26971</a>"
                 ],
                 "documents": [
@@ -623,35 +674,164 @@
               },
               {
                 "lines": [
-                  "m) Beratung des Antrags der Fraktion der AfD",
-                  "Rehabilitierung der Opfer der sog. Bodenreform 1945 bis 1949 in der SBZ",
+                  "m) Beratung des Antrags der Fraktion der FDP",
+                  "Verbesserung der Gesundheitsversorgung mit nicht verschreibungspflichtigen Arzneimitteln",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/270/1927051.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27051 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27051</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/270/1927051.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "n) Beratung des Antrags der Fraktion der AfD",
+                  "Rehabilitierung der Opfer der sogenannten Bodenreform 1945 bis 1949 in der Sowjetischen Besatzungszone",
                   "Drucksache 19/…"
                 ],
                 "documents": []
               },
               {
                 "lines": [
-                  "n) Beratung des Antrags der Fraktion der FDP",
-                  "Serious Games und Gamification – Zukunfts-Bausteine für einen digitalen Bildungs- und Wirtschaftsstandort",
+                  "o) Beratung des Antrags der Fraktion der AfD",
+                  "Next Generation EU ist unzulässig – Bundesregierung muss EU-Verschuldung stoppen",
                   "Drucksache 19/…"
                 ],
                 "documents": []
               },
               {
                 "lines": [
-                  "o) Beratung des Antrags der Fraktion der FDP",
-                  "Verantwortung der Außeruniversitären Forschungseinrichtungen für die Beschäftigung von Menschen mit Behinderungen einfordern",
+                  "p) Beratung des Antrags der Fraktion der FDP",
+                  "Serious Games– Zukunfts-Bausteine für einen digitalen Bildungs- und Wirtschaftsstandort",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/270/1927050.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27050 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27050</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/270/1927050.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "q) Beratung des Antrags der Fraktion der FDP",
+                  "Verantwortung der außeruniversitären Forschungseinrichtungen für die Beschäftigung von Menschen mit Behinderungen einfordern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927175.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27175 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27175</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927175.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "r) Beratung des Antrags der Fraktion der FDP",
+                  "Rechtssicherheit bei Rohmessdaten schaffen",
                   "Drucksache 19/…"
                 ],
                 "documents": []
               },
               {
                 "lines": [
-                  "p) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "s) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Telekommunikationsanbieter zu fairem Handeln verpflichten, Übertragungsraten einhalten",
                   "Drucksache 19/…"
                 ],
                 "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 4) Überweisungen im vereinfachten Verfahren"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "a) Erste Beratung des von der Fraktion der FDP",
+                  "eingebrachten Entwurfs eines Gesetzes zur Stärkung der Kontrolle der Exekutive durch das Parlament (Exekutivkontrollgesetz)",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "b) Erste Beratung des von der Fraktion der FDP",
+                  "eingebrachten Entwurfs eines Gesetzes zur befristeten Wiedereinführung der 115-Tage-Regelung – Achtes Gesetz zur Änderung des Vierten Buches Sozialgesetzbuch",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927181.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27181 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27181</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927181.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Erste Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur weiteren Unterstützung der Wissenschaft aufgrund anhaltender COVID-19-Pandemie",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "d) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Reisen für alle ermöglichen – Barrierefreiheit im Tourismus zum Standard machen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/171/1917132.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17132 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17132</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/171/1917132.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "e) Beratung des Antrags der Fraktion der FDP",
+                  "Freiheit von Forschung und Lehre schützen − Kooperationen mit Chinas Konfuzius−Instituten an deutschen Hochschulen beenden",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927109.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27109 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27109</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927109.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "f) Beratung des Antrags der Fraktion der FDP",
+                  "Lehren aus Havarien ziehen − Die deutsche Bucht besser schützen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927121.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27121 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27121</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927121.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g) Beratung des Antrags der Fraktion der FDP",
+                  "Frauenrechte im digitalen Raum schützen und geschlechterspezifische digitale Straftaten stärker bekämpfen",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "h) Beratung des Antrags der Fraktion der FDP",
+                  "Haftungsprivileg im Ehrenamt anpassen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927187.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27187 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27187</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927187.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "i) Beratung des Antrags der Fraktion der FDP",
+                  "Vertrauen in Bundesministerien und Behörden stärken – Insiderhandel wirksam unterbinden",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927186.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27186 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27186</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927186.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "j) Beratung des Antrags der Fraktion der FDP",
+                  "Smart Police – Digitalisierung der deutschen Polizei anschieben",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927172.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27172 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27172</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927172.pdf"
+                ]
               },
               {
                 "lines": [
@@ -677,11 +857,12 @@
                   "Allergien und Unverträglichkeiten wirksam vorbeugen und Therapien und Aufklärung verbessern",
                   "- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Die hohe individuelle und gesellschaftliche Belastung durch Allergien mit einem Aktionsprogramm reduzieren und die Versorgungssituation der Allergikerinnen und Allergiker verbessern",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/243/1924373.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24373 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24373</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/198/1919865.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19865 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19865</a>, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/243/1924373.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24373 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24373</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/198/1919865.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19865 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19865</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/270/1927036.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27036 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27036</a>"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/243/1924373.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/198/1919865.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/198/1919865.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/270/1927036.pdf"
                 ]
               },
               {
@@ -858,7 +1039,7 @@
           },
           {
             "time": "2021-03-04T14:00:00.000Z",
-            "top": "ZP",
+            "top": "ZP 5",
             "heading": "Aktuelle Stunde - Unabhängigkeit der Politik – Einflussnahme von Lobbyisten",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-aktuelle-stunde-lobbyisten-825820",
             "topic": [
@@ -912,9 +1093,11 @@
                 "lines": [
                   "Beratung des Antrags der Fraktion der FDP",
                   "Doppelbesteuerung bei Renten verhindern",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927174.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27174 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27174</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927174.pdf"
+                ]
               }
             ],
             "status": []
@@ -1094,7 +1277,7 @@
           },
           {
             "time": "2021-03-04T20:30:00.000Z",
-            "top": "20",
+            "top": "20, ZP 6",
             "heading": "Persönliche Eignung nach dem Waffengesetz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-waffengesetz-824822",
             "topic": [
@@ -1109,6 +1292,14 @@
                   "http://dip21.bundestag.de/dip21/btd/19/175/1917520.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/270/1927022.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 6) Beratung des Antrags der Fraktion der FDP",
+                  "Waffenrecht mit Augenmaß und Konsequenz",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -1246,7 +1437,7 @@
           },
           {
             "time": "2021-03-05T11:20:00.000Z",
-            "top": "26",
+            "top": "26, ZP 7",
             "heading": "Modernisierung des Personenbeförderungsrechts",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-personenbefoerderungsrecht-824864",
             "topic": [
@@ -1292,6 +1483,18 @@
                   "http://dip21.bundestag.de/dip21/btd/19/103/1910350.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/151/1915195.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 7) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Verkehr und digitale Infrastruktur (15. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Digitaler Staat für mehr Nachhaltigkeit – Echtzeitfahrgastinformationen des ÖPNV unverzüglich integrieren",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/224/1922436.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22436 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22436</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/235/1923531.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/23531 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/23531</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/224/1922436.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/235/1923531.pdf"
+                ]
               }
             ],
             "status": []
@@ -1329,15 +1532,19 @@
           },
           {
             "time": "2021-03-05T13:40:00.000Z",
-            "top": "ZP",
+            "top": "ZP 8",
             "heading": "Jugendschutzgesetz",
-            "article": null,
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-jugendschutzgesetz-825814",
             "topic": [
               {
                 "lines": [
-                  "Zweite und dritte Beratung des von der Bundesregierung",
+                  "- Zweite und dritte Beratung des von der Bundesregierung",
                   "eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Jugendschutzgesetzes",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924909.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24909 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24909</a>, 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/249/1924909.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24909 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24909</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss)",
+                  "Drucksache 19/…",
+                  "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache 19/…"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/249/1924909.pdf"
@@ -1377,15 +1584,17 @@
           },
           {
             "time": "2021-03-05T15:00:00.000Z",
-            "top": "ZP",
+            "top": "ZP 9",
             "heading": "Vormundschafts- und Betreuungsrecht",
-            "article": null,
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-vormundschaft-betreuung-825830",
             "topic": [
               {
                 "lines": [
-                  "Zweite und dritte Beratung des von der Bundesregierung",
+                  "a) Zweite und dritte Beratung des von der Bundesregierung",
                   "eingebrachten Entwurfs eines Gesetzes zur Reform des Vormundschafts- und Betreuungsrechts",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/244/1924445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24445</a>, 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/244/1924445.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24445 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24445</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "Drucksache 19/…"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/244/1924445.pdf"
@@ -1393,10 +1602,10 @@
               },
               {
                 "lines": [
-                  "Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
                   "zu dem Antrag der Fraktion der FDP",
                   "Selbstbestimmte Vorsorge in Gesundheitsangelegenheiten stärken",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/246/1924638.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24638 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24638</a>"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/246/1924638.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24638 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24638</a>, 19/…"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/246/1924638.pdf"
@@ -1454,7 +1663,7 @@
           },
           {
             "time": "2021-03-05T17:00:00.000Z",
-            "top": "ZP",
+            "top": "ZP 10",
             "heading": "Aktuelle Stunde - Transparenz von politischen Entscheidungen",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw09-de-aktuelle-stunde-institutionen-825824",
             "topic": [
