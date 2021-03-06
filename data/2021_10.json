@@ -2348,8 +2348,10 @@
             ],
             "status": [
               {
-                "line": "l&auml;uft",
-                "documents": []
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/268/1926835.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26835 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26835</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/268/1926835.pdf"
+                ]
               }
             ]
           },
@@ -2382,7 +2384,21 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/271/1927191.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27191 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27191</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/271/1927191.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/272/1927286.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27286 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27286</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/244/1924432.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24432 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24432</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/272/1927286.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/244/1924432.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2021-03-05T17:40:00.000Z",
@@ -2399,10 +2415,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 24. März 2021, 13 Uhr",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-03-05T18:50:00.000Z",
+            "time": "2021-03-05T19:00:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
@@ -2414,7 +2435,12 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "nächste Sitzung Mittwoch, 24. März 2021, 13 Uhr",
+                "documents": []
+              }
+            ]
           }
         ]
       }
