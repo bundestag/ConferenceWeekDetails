@@ -37,10 +37,19 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "amtliche Mitteilung",
+                "documents": []
+              },
+              {
+                "line": "Feststellung der Tagesordnung",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-05-05T13:00:00.000Z",
+            "time": "2021-05-05T13:05:00.000Z",
             "top": "1",
             "heading": "Befragung der Bundesregierung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-regierungsbefragung-836818",
@@ -52,10 +61,15 @@
                 "documents": []
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-05-05T14:05:00.000Z",
+            "time": "2021-05-05T14:15:00.000Z",
             "top": "2",
             "heading": "Fragestunde",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-fragestunde-836820",
@@ -70,13 +84,18 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "beendet",
+                "documents": []
+              }
+            ]
           },
           {
-            "time": "2021-05-05T15:05:00.000Z",
+            "time": "2021-05-05T15:15:00.000Z",
             "top": "ZP 1",
             "heading": "Aktuelle Stunde – Entlassungen beim Klinik-Konzern Sana",
-            "article": null,
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-aktuelle-stunde-sana-klinikkonzern-839430",
             "topic": [
               {
                 "lines": [
@@ -87,22 +106,12 @@
                 "documents": []
               }
             ],
-            "status": []
-          },
-          {
-            "time": "2021-05-05T16:10:00.000Z",
-            "top": "",
-            "heading": "Sitzungsunterbrechung bis 16.30 Uhr",
-            "article": null,
-            "topic": [
+            "status": [
               {
-                "lines": [
-                  "Unterbrechung der Sitzung bis 16.30 Uhr"
-                ],
+                "line": "beendet",
                 "documents": []
               }
-            ],
-            "status": []
+            ]
           },
           {
             "time": "2021-05-05T16:30:00.000Z",
@@ -157,26 +166,88 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929289.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29289 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29289</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929289.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929290.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29290 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29290</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929290.pdf"
+                ]
+              },
+              {
+                "line": "Änderungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929291.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29291 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29291</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929291.pdf"
+                ]
+              },
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/276/1927632.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27632 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27632</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28925 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28925</a> Buchstabe a: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/276/1927632.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929292.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29292 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29292</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929292.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28925 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28925</a> Buchstabe b (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/278/1927820.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27820 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27820</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/278/1927820.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28925 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28925</a> Buchstabe c (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/168/1916836.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16836 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16836</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/168/1916836.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28925 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28925</a> Buchstabe d (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/057/1905765.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/5765 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/5765</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/289/1928925.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/057/1905765.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928917.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28917 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28917</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/278/1927815.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27815 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27815</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/289/1928917.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/278/1927815.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2021-05-05T17:10:00.000Z",
-            "top": "ZP 2",
+            "time": "2021-05-05T17:15:00.000Z",
+            "top": "ZP 2, ZP 3",
             "heading": "Linksextremistische Gewalt",
-            "article": null,
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-linksextreme-gewalt-839436",
             "topic": [
               {
                 "lines": [
-                  "a) Beratung des Antrags der Fraktion der AfD",
+                  "ZP 2) Beratung des Antrags der Fraktion der AfD",
                   "Linksextremistische Brandanschläge und Gewaltexzesse am 1. Mai stoppen – Effektivität der Terrorbekämpfung optimieren",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929293.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29293 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29293</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929293.pdf"
+                ]
               },
               {
                 "lines": [
-                  "b) Beratung und Beschlussempfehlung",
-                  "zum Antrag der Fraktion der AfD",
+                  "ZP 3) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
                   "Bundeseinheitlicher Aktionsplan 2020 gegen linksextremistische Gewalt und Terror – Null Toleranz statt Deeskalation",
                   "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/221/1922189.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22189 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22189</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/241/1924121.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24121 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24121</a>"
                 ],
@@ -186,10 +257,24 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Überweisung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929293.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29293 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29293</a> beschlossen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929293.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/241/1924121.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24121 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24121</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/221/1922189.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22189 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22189</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/241/1924121.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/221/1922189.pdf"
+                ]
+              }
+            ]
           },
           {
-            "time": "2021-05-05T17:50:00.000Z",
+            "time": "2021-05-05T17:55:00.000Z",
             "top": "5",
             "heading": "Handwerksordnung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-handwerksordnung-836826",
@@ -222,7 +307,35 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "Gesetzentwurf <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/274/1927440.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27440 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27440</a> und <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/281/1928128.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28128 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28128</a> (Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/290/1929069.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29069 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29069</a>: Gesetzentwurf in Ausschussfassung annehmen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/274/1927440.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/281/1928128.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/290/1929069.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/293/1929316.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29316 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29316</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/293/1929316.pdf"
+                ]
+              },
+              {
+                "line": "Entschließungsantrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/293/1929317.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29317 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29317</a> abgelehnt",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/293/1929317.pdf"
+                ]
+              },
+              {
+                "line": "Beschlussempfehlung <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/070/1907086.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7086 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7086</a> (Antrag <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/008/1900828.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/828 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/828</a> ablehnen) angenommen",
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/070/1907086.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/008/1900828.pdf"
+                ]
+              }
+            ]
           },
           {
             "time": "2021-05-05T18:30:00.000Z",
@@ -296,7 +409,7 @@
               },
               {
                 "lines": [
-                  "19b) b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Tourismus (20. Ausschuss)",
+                  "19b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Tourismus (20. Ausschuss)",
                   "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
                   "Reisen für alle ermöglichen – Barrierefreiheit im Tourismus zum Standard machen",
                   "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/171/1917132.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17132 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17132</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/288/1928848.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28848 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28848</a>"
@@ -307,7 +420,12 @@
                 ]
               }
             ],
-            "status": []
+            "status": [
+              {
+                "line": "l&auml;uft",
+                "documents": []
+              }
+            ]
           },
           {
             "time": "2021-05-05T19:10:00.000Z",
@@ -385,7 +503,7 @@
           },
           {
             "time": "2021-05-06T09:00:00.000Z",
-            "top": "8",
+            "top": "8, ZP 4",
             "heading": "Maritime Wirtschaft",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-maritime-wirtschaft-836832",
             "topic": [
@@ -477,6 +595,14 @@
                   "http://dip21.bundestag.de/dip21/btd/19/239/1923987.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/258/1925830.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 4) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Zukunftspakt maritime Ausbildung für mehr Know-How in der Seeschifffahrt",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -545,7 +671,7 @@
           },
           {
             "time": "2021-05-06T11:40:00.000Z",
-            "top": "11",
+            "top": "11, ZP 5",
             "heading": "Abwehr der Steuervermeidung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-steuervermeidung-836896",
             "topic": [
@@ -557,38 +683,58 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/289/1928901.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 5) Beratung des Antrags der Fraktion der FDP",
+                  "Datenschutz und Menschenrechte im Kampf gegen Steueroasen stärken",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929264.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29264 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29264</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929264.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
             "time": "2021-05-06T12:20:00.000Z",
-            "top": "12",
-            "heading": "Digitale Modernisierung von Versorgung und Pflege",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-digitale-versorgung-pflege-836856",
+            "top": "ZP 6, TOP 38, 44k",
+            "heading": "COVID-19-Schutzmaßnahmen-Ausnahmenverordnung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-infektionsschutz-839000",
             "topic": [
               {
                 "lines": [
-                  "a) Zweite und dritte Beratung des von der Bundesregierung",
-                  "eingebrachten Entwurfs eines zur digitalen Modernisierung von Versorgung und Pflege (Digitale-Versorgung-und-Pflege-Modernisierungs-Gesetz – DVPMG)",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/276/1927652.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27652 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27652</a>",
-                  "Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (14. Ausschuss)",
-                  "Drucksache 19/…"
+                  "ZP 6) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "zu der Verordnung der Bundesregierung",
+                  "Verordnung zur Regelung von Erleichterungen und Ausnahmen von Schutzmaßnahmen zur Verhinderung der Verbreitung von COVID-19",
+                  "(COVID-19-Schutzmaßnahmen-Ausnahmenverordnung – SchAusnahmV)",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929257.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29257 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29257</a>, 19/…"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/276/1927652.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929257.pdf"
                 ]
               },
               {
                 "lines": [
-                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
-                  "zu dem Antrag der Fraktion der AfD",
-                  "Kein Aufweichen von Datenschutzvorgaben bei der Weiterentwicklung der Corona-Warn-App",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926902.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26902 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26902</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/277/1927754.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27754 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27754</a>"
+                  "TOP 38) Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Änderung des Infektionsschutzgesetzes und anderer Gesetze",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "44 k)- Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur Verbesserung des Schutzes von Gerichtsvollzieherinnen und Gerichtsvollziehern vor Gewalt sowie zur Änderung weiterer zwangsvollstreckungsrechtlicher Vorschriften (Gerichtsvollzieherschutzgesetz – GvSchuG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/276/1927636.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27636 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27636</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929246.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29246 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29246</a>",
+                  "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache 19/…"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/269/1926902.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/277/1927754.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/276/1927636.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929246.pdf"
                 ]
               }
             ],
@@ -615,35 +761,44 @@
           },
           {
             "time": "2021-05-06T14:10:00.000Z",
-            "top": "43",
+            "top": "43, ZP 7",
             "heading": "Überweisungen im vereinfachten Verfahren",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-ueberweisungen-836860",
             "topic": [
               {
                 "lines": [
-                  "a) Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Änderung des Conterganstiftungsgesetzes",
-                  "Drucksache 19/…"
+                  "a) Erste Beratung des von den Fraktionen der CDU/CSU und SPD",
+                  "eingebrachten Entwurfs eines … Gesetzes zur Änderung des Conterganstiftungsgesetzes",
+                  "Drucksache 19/…\tÜberweisungsvorschlag:",
+                  "A. f. Familie, Senioren, Frauen und Jugend (f)"
                 ],
                 "documents": []
               },
               {
                 "lines": [
-                  "b) Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines 26. Gesetzes zur Änderung des Bundeswahlgesetzes",
-                  "Drucksache 19/…"
+                  "b) Erste Beratung des von den Fraktionen CDU/CSU, SPD FDP und BÜNDNIS 90/DIE GRÜNEN",
+                  "eingebrachten Entwurfs eines Sechsundzwanzigsten Gesetzes zur Änderung des Bundeswahlgesetzes",
+                  "Drucksache 19/…\tÜberweisungsvorschlag:",
+                  "A. f. Inneres und Heimat (f)"
                 ],
                 "documents": []
               },
               {
                 "lines": [
-                  "c) Erste Beratung des von der Fraktion der AfD eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes zur Rückführung des Strafvollzugs in die Bundeszuständigkeit",
-                  "Drucksache 19/…"
+                  "c) Erste Beratung des von der Fraktion der AfD",
+                  "eingebrachten Entwurfs eines Gesetzes zur Änderung des Grundgesetzes zur Rückführung des Strafvollzugs in die Bundeszuständigkeit",
+                  "Drucksache 19/…\tÜberweisungsvorschlag:",
+                  "A. f. Recht und Verbraucherschutz (f)"
                 ],
                 "documents": []
               },
               {
                 "lines": [
-                  "d) Erste Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zur erleichterten Umsetzung der Reform der Grundsteuer und Änderung weiterer steuerrechtlicher Vorschriften (Grundsteuerreform-Umsetzungsgesetz – GrStRefUG)",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928902.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28902 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28902</a>"
+                  "d) Erste Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur erleichterten Umsetzung der Reform der Grundsteuer und Änderung weiterer steuerrechtlicher Vorschriften (Grundsteuerreform-Umsetzungsgesetz – GrStRefUG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928902.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28902 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28902</a>",
+                  "Überweisungsvorschlag:",
+                  "Finanzausschuss (f)"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/289/1928902.pdf"
@@ -651,8 +806,11 @@
               },
               {
                 "lines": [
-                  "e) Erste Beratung des vom Bundesrat eingebrachten Entwurfs eines ... Gesetzes zur Änderung des Rennwett- und Lotteriegesetzes und der Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/284/1928400.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28400 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28400</a>"
+                  "e) Erste Beratung des vom Bundesrat",
+                  "eingebrachten Entwurfs eines ... Gesetzes zur Änderung des Rennwett- und Lotteriegesetzes und der Ausführungsbestimmungen zum Rennwett- und Lotteriegesetz",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/284/1928400.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28400 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28400</a>",
+                  "Überweisungsvorschlag:",
+                  "Finanzausschuss (f)"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/284/1928400.pdf"
@@ -662,7 +820,9 @@
                 "lines": [
                   "f) Beratung des Antrags der Fraktion der FDP",
                   "Sexuelle und geschlechtliche Vielfalt respektieren – Beflaggung und Spiele",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/213/1921322.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/21322 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/21322</a>"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/213/1921322.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/21322 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/21322</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Familie, Senioren, Frauen und Jugend (f)"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/213/1921322.pdf"
@@ -672,7 +832,9 @@
                 "lines": [
                   "g) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Lobbyismus an Schulen einen Riegel vorschieben",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/244/1924452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24452</a>"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/244/1924452.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24452 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24452</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Bildung, Forschung und Technikfolgenabschätzung (f)"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/244/1924452.pdf"
@@ -680,9 +842,11 @@
               },
               {
                 "lines": [
-                  "h) Antrag der Fraktion DIE LINKE.",
+                  "h) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Zehn Tage Elternschutz zusätzlich einführen",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26979</a>"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926979.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26979 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26979</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Familie, Senioren, Frauen und Jugend (f)"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/269/1926979.pdf"
@@ -692,57 +856,83 @@
                 "lines": [
                   "i) Beratung des Antrags der Fraktion der AfD",
                   "Einflussnahme Chinas auf deutsche Hochschulen beenden – Konfuzius-Institute schließen",
-                  "Drucksache 19/…"
+                  "Drucksache 19/…",
+                  "Überweisungsvorschlag:",
+                  "A. f. Bildung, Forschung und Technikfolgenabschätzung (f)"
                 ],
                 "documents": []
               },
               {
                 "lines": [
                   "j) Beratung des Antrags der Fraktion der FDP",
-                  "Mindestalter zum Erwerb der Fahrerlaubnis der Klasse AM endlich bundeseinheitlich regeln",
-                  "Drucksache 19/…"
+                  "Mindestalter zum Erwerb der Fahrerlaubnis der Klasse AM bundeseinheitlich regeln",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929206.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29206 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29206</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Verkehr und digitale Infrastruktur"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929206.pdf"
+                ]
               },
               {
                 "lines": [
                   "k) Beratung des Antrags der Fraktion der FDP",
                   "Dampfprodukte fair besteuern",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929210.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29210 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29210</a>",
+                  "Überweisungsvorschlag:",
+                  "Finanzausschuss"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929210.pdf"
+                ]
               },
               {
                 "lines": [
                   "l) Beratung des Antrags der Fraktion der FDP",
                   "Menschenhandel und Zwangsprostitution in Deutschland nicht länger hinnehmen – Menschen in der Prostitution schützen und Selbstbestimmung stärken",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929265.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29265 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29265</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Menschenrechte und humanitäre Hilfe",
+                  "A. f. Recht und Verbraucherschutz",
+                  "A. f. Arbeit und Soziales",
+                  "A. f. Familie, Senioren, Frauen und Jugend",
+                  "Federführung offen"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929265.pdf"
+                ]
               },
               {
                 "lines": [
                   "m) Beratung des Antrags der Fraktion der FDP",
-                  "Sport- und Trainingsbetrieb bundesweit wieder ermöglichen",
-                  "Drucksache 19/…"
+                  "Sport− und Trainingsbetrieb bundesweit wieder ermöglichen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929204.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29204 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29204</a>",
+                  "Überweisungsvorschlag:",
+                  "Sportausschuss (f)"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929204.pdf"
+                ]
               },
               {
                 "lines": [
                   "n) Beratung des Antrags der Fraktion der FDP",
-                  "Transparenz umfassend gewährleisten –",
-                  "Gesetzgebungsverfahren müssen zugänglicher gestaltet",
-                  "werden",
-                  "Drucksache 19/…"
+                  "Transparenz umfassend gewährleisten – Gesetzgebungsverfahren müssen zugänglicher gestaltet werden",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929266.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29266 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29266</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Wahlprüfung, Immunität und Geschäftsordnung"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929266.pdf"
+                ]
               },
               {
                 "lines": [
                   "o) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Sorgfaltspflichtengesetz grundlegend nachbessern – Menschenrechte in Lieferketten wirksam schützen",
-                  "Drucksache 19/…"
+                  "Drucksache 19/…",
+                  "Überweisungsvorschlag:",
+                  "A. f. Arbeit und Soziales (f)"
                 ],
                 "documents": []
               },
@@ -750,7 +940,13 @@
                 "lines": [
                   "p) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Tierversuchsfreie Forschungsmethoden fördern – Den verbindlichen Ausstieg aus dem Tierversuch schaffen",
-                  "Drucksache 19/…"
+                  "Drucksache 19/…",
+                  "Überweisungsvorschlag:",
+                  "A. f. Ernährung und Landwirtschaft",
+                  "A. f. Recht und Verbraucherschutz",
+                  "A. f. Gesundheit",
+                  "A. f. Bildung, Forschung und Technikfolgenabschätzung",
+                  "Federführung offen"
                 ],
                 "documents": []
               },
@@ -758,7 +954,9 @@
                 "lines": [
                   "q) Beratung des Antrags der Fraktion DIE LINKE.",
                   "Konsularische Hilfen diskriminierungsfrei gewähren",
-                  "Drucksache 19/…"
+                  "Drucksache 19/…",
+                  "Überweisungsvorschlag:",
+                  "Auswärtiger Ausschuss (f)"
                 ],
                 "documents": []
               },
@@ -767,7 +965,9 @@
                   "r) Beratung der Unterrichtung durch die Bundesregierung",
                   "Bericht der Bundesregierung zur Bildung für nachhaltige Entwicklung",
                   "– 19. Legislaturperiode –",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28940</a>"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928940.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28940 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28940</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Bildung, Forschung und Technikfolgenabschätzung (f)"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/289/1928940.pdf"
@@ -778,18 +978,141 @@
                   "s) Beratung der Unterrichtung durch die Bundesregierung",
                   "Bundesbericht Wissenschaftlicher Nachwuchs 2021",
                   "mit Stellungnahme der Bundesregierung",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/290/1929090.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29090 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29090</a>"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/290/1929090.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29090 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29090</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Bildung, Forschung und Technikfolgenabschätzung (f)"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/290/1929090.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 7) Weitere Überweisungen im vereinfachten Verfahren"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "a) Beratung des Antrags der Fraktion der AfD",
+                  "Gründung eines „Deutschen Beruflichen Austauschdienstes“ (DBAD)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/280/1928078.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28078 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28078</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Bildung, Forschung und Technikfolgenabschätzung (f)"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/280/1928078.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion der AfD",
+                  "Krankenkassen zu einem Service-Ranking verpflichten – Transparenz für Versicherte einfordern",
+                  "Drucksache 19/…\tÜberweisungsvorschlag:",
+                  "A. f. Gesundheit (f)"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "c) Beratung des Antrags der Fraktion der AfD",
+                  "COVID-19-Risikogruppen bezüglich Vorerkrankungen genauer definieren",
+                  "Drucksache 19/…\tÜberweisungsvorschlag:",
+                  "A. f. Gesundheit (f)"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "d) Beratung des Antrags der Fraktion der AfD",
+                  "Aufarbeitung der NS-Vergangenheit – Personelle und strukturelle Kontinuitäten im Deutschen Bundestag nach 1949",
+                  "Drucksache 19/…\tÜberweisungsvorschlag:",
+                  "A. f. Kultur und Medien (f)"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "e) Beratung des Antrags der Fraktion der AfD",
+                  "Strategiewechsel in der Entwicklungspolitik einleiten – Sonderverwaltungszonen („Charter Cities“) als Entwicklungspolitisches Instrument etablieren",
+                  "Drucksache 19/…\tÜberweisungsvorschlag:",
+                  "A. f. wirtschaftliche Zusammenarbeit und Entwicklung (f)"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "f) Beratung des Antrags der Fraktion der FDP",
+                  "Gesetzliche Altersgrenzen überprüfen und für eine gerechtere Teilhabe jüngerer und älterer Menschen sorgen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929269.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29269 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29269</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Recht und Verbraucherschutz (f)",
+                  "A. f. Arbeit und Soziales (f)"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929269.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "g) Beratung des Antrags der Fraktion der FDP",
+                  "Mit dem Führerschein gegen Langzeitarbeitslosigkeit",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929268.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29268 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29268</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Arbeit und Soziales (f)"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929268.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "h) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Queere Menschen und ihre Infrastrukturen während der COVID-19-Pandemie besser schützen und unterstützen",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/240/1924002.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/24002 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/24002</a>",
+                  "Überweisungsvorschlag:",
+                  "A. f. Familie, Senioren, Frauen und Jugend"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/240/1924002.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "i) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Fiktiver Unternehmerlohn jetzt – Soloselbstständige und Freiberuflerinnen und Freiberufler aus der Corona-Krise helfen",
+                  "Drucksache 19/…",
+                  "Überweisungsvorschlag:",
+                  "A. f. Wirtschaft und Energie (f)"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "j) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Gesundheitliche Chancengleichheit stärken – Gesundheit als gesamtpolitische Aufgabe begreifen",
+                  "Drucksache 19/…",
+                  "Überweisungsvorschlag:",
+                  "A. f. Gesundheit (f)"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "k) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Wirksame Anreize nutzen, um die Wirtschaft auf dem Weg in die Klimaneutralität zu unterstützen – Die Carbon-Leakage-Verordnung im Rahmen des BEHG gerecht und planungssicher ausgestalten",
+                  "Drucksache 19/…",
+                  "Überweisungsvorschlag:",
+                  "A. f. Umwelt, Naturschutz und nukleare Sicherheit"
+                ],
+                "documents": []
               }
             ],
             "status": []
           },
           {
             "time": "2021-05-06T14:20:00.000Z",
-            "top": "44",
+            "top": "44, ZP 8",
             "heading": "Abschließende Beratungen ohne Aussprache",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-abschliessende-beratungen-836862",
             "topic": [
@@ -883,7 +1206,8 @@
               },
               {
                 "lines": [
-                  "i) Zweite und dritte Beratung des von der Bundesregierung eingebrachten Entwurfs eines Gesetzes zu dem Protokoll vom 31. Mai 2001 gegen die unerlaubte Herstellung von Feuerwaffen, deren Teilen und Komponenten und Munition sowie gegen den unerlaubten Handel damit in Ergänzung des Übereinkommens der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität",
+                  "i) Zweite Beratung und Schlussabstimmung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zu dem Protokoll vom 31. Mai 2001 gegen die unerlaubte Herstellung von Feuerwaffen, deren Teilen und Komponenten und Munition sowie gegen den unerlaubten Handel damit in Ergänzung des Übereinkommens der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität",
                   "(VN-Feuerwaffenprotokoll)",
                   "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/281/1928119.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28119 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28119</a>",
                   "Beschlussempfehlung und Bericht des Ausschusses für Inneres und Heimat (4. Ausschuss)",
@@ -1119,6 +1443,55 @@
                   "http://dip21.bundestag.de/dip21/btd/19/288/1928863.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/288/1928864.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 8) Weitere abschließende Beratungen ohne Aussprache"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "a) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Einheitliches Prüfverfahren zur fachlichen Eignung ausländischer Ärzte aus Drittstaaten",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/064/1906423.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/6423 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/6423</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/266/1926628.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26628 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26628</a> Buchstabe a"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/064/1906423.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/266/1926628.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Überlebenschancen von Dialysepatienten verbessern – Cross-Over-Lebendspende als Leistung der gesetzlichen Krankenversicherung erlauben",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/077/1907719.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/7719 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/7719</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/266/1926623.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26623 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26623</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/077/1907719.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/266/1926623.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Kurzzeitpflegeplätze in Krankenhäusern bundesweit einrichten – Krankenhausstandorte erhalten und stärken",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/284/1928458.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28458 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28458</a>, 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/284/1928458.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "d) Beratung der Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss)",
+                  "zu den Streitverfahren vor dem Bundesverfassungsgericht 1 BvQ 51/21, 1 BvR 860/21 und 1 BvR 865/21",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -1155,10 +1528,10 @@
                   "Wahl der Mitglieder des Stiftungsrates der",
                   "Bundesstiftung Baukultur gemäß § 7 des Gesetzes zur",
                   "Errichtung einer „Bundesstiftung Baukultur“",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/290/1929086.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29086 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29086</a>"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929256.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29256 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29256</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/290/1929086.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929256.pdf"
                 ]
               },
               {
@@ -1176,7 +1549,7 @@
           },
           {
             "time": "2021-05-06T14:50:00.000Z",
-            "top": "ZP",
+            "top": "ZP 9",
             "heading": "Aktuelle Stunde – Freiheiten für Geimpfte und Genesene",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-aktuelle-stunde-geimpfte-genesene-839444",
             "topic": [
@@ -1193,6 +1566,66 @@
           },
           {
             "time": "2021-05-06T16:00:00.000Z",
+            "top": "12",
+            "heading": "Digitale Modernisierung von Versorgung und Pflege",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-digitale-versorgung-pflege-836856",
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines zur digitalen Modernisierung von Versorgung und Pflege (Digitale-Versorgung-und-Pflege-Modernisierungs-Gesetz – DVPMG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/276/1927652.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27652 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27652</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "Drucksache 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/276/1927652.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Kein Aufweichen von Datenschutzvorgaben bei der Weiterentwicklung der Corona-Warn-App",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926902.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26902 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26902</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/277/1927754.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27754 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27754</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/269/1926902.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/277/1927754.pdf"
+                ]
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2021-05-06T16:40:00.000Z",
+            "top": "16",
+            "heading": "Spätfolgen der Corona-Erkrankung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-long-covid-behandlungszentren-836866",
+            "topic": [
+              {
+                "lines": [
+                  "a) Beratung des Antrags der Fraktion der FDP",
+                  "Spätfolgen der Corona-Erkrankung ernst nehmen – Long-Covid-Behandlungszentren etablieren",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929267.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29267 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29267</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929267.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Long COVID – Forschung ausbauen und Versorgungsangebote verbessern",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2021-05-06T17:20:00.000Z",
             "top": "15",
             "heading": "Netzwerkdurchsetzungsgesetz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-netzwerkdurchsetzungsgesetz-836854",
@@ -1241,32 +1674,7 @@
             "status": []
           },
           {
-            "time": "2021-05-06T16:40:00.000Z",
-            "top": "16",
-            "heading": "Spätfolgen der Corona-Erkrankung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-long-covid-behandlungszentren-836866",
-            "topic": [
-              {
-                "lines": [
-                  "a) Beratung des Antrags der Fraktion der FDP",
-                  "Spätfolgen der Corona-Erkrankung ernst nehmen – Long-Covid-Behandlungszentren etablieren",
-                  "Drucksache 19/…"
-                ],
-                "documents": []
-              },
-              {
-                "lines": [
-                  "b) Beratung des Antrags der Fraktion DIE LINKE.",
-                  "Long COVID – Forschung ausbauen und Versorgungsangebote verbessern",
-                  "Drucksache 19/…"
-                ],
-                "documents": []
-              }
-            ],
-            "status": []
-          },
-          {
-            "time": "2021-05-06T17:20:00.000Z",
+            "time": "2021-05-06T18:00:00.000Z",
             "top": "17",
             "heading": "Umsetzung der Einwegkunststoffrichtlinie",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-einwegkunststoffrichtlinie-verpackungsgesetz-836868",
@@ -1304,52 +1712,6 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/287/1928782.pdf"
-                ]
-              }
-            ],
-            "status": []
-          },
-          {
-            "time": "2021-05-06T18:00:00.000Z",
-            "top": "33",
-            "heading": "Agrarmarkt, Lebensmittellieferketten",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-agrarmarktstrukturgesetz-836864",
-            "topic": [
-              {
-                "lines": [
-                  "a) Zweite und dritte Beratung des von der Bundesregierung",
-                  "eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Agrarmarktstrukturgesetzes",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/261/1926102.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26102 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26102</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926923.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26923 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26923</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/270/1927035.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27035 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27035</a> Nr. 1.18",
-                  "Beschlussempfehlung und Bericht des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)",
-                  "Drucksache 19/…"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/261/1926102.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/269/1926923.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/270/1927035.pdf"
-                ]
-              },
-              {
-                "lines": [
-                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)",
-                  "zu dem Antrag der Fraktion der FDP",
-                  "Faire Bedingungen für Lebensmittel aus deutscher Landwirtschaft im EU-Wettbewerb",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925794.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25794 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25794</a>, 19/…"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/257/1925794.pdf"
-                ]
-              },
-              {
-                "lines": [
-                  "c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)",
-                  "zu dem Antrag der Fraktion der AfD",
-                  "Deutsche Landwirtschaft stärken – Bäuerliche Familienbetriebe in Deutschland nachhaltig schützen und erhalten",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/276/1927699.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27699 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27699</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28972</a>"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/276/1927699.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/289/1928972.pdf"
                 ]
               }
             ],
@@ -1397,20 +1759,45 @@
           },
           {
             "time": "2021-05-06T19:20:00.000Z",
-            "top": "20",
-            "heading": "Bundeskanzler-Helmut-Kohl-Stiftung",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-bundeskanzler-helmut-kohl-stiftung-836872",
+            "top": "33",
+            "heading": "Agrarmarkt, Lebensmittellieferketten",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-agrarmarktstrukturgesetz-836864",
             "topic": [
               {
                 "lines": [
-                  "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD",
-                  "eingebrachten Entwurfs eines Gesetzes über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/287/1928790.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28790 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28790</a>",
-                  "Beschlussempfehlung und Bericht des Ausschusses für Kultur und Medien (22. Ausschuss)",
+                  "a) Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Zweiten Gesetzes zur Änderung des Agrarmarktstrukturgesetzes",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/261/1926102.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26102 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26102</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926923.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26923 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26923</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/270/1927035.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27035 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27035</a> Nr. 1.18",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)",
                   "Drucksache 19/…"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/287/1928790.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/261/1926102.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/269/1926923.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/270/1927035.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)",
+                  "zu dem Antrag der Fraktion der FDP",
+                  "Faire Bedingungen für Lebensmittel aus deutscher Landwirtschaft im EU-Wettbewerb",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/257/1925794.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/25794 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/25794</a>, 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/257/1925794.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Ernährung und Landwirtschaft (10. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Deutsche Landwirtschaft stärken – Bäuerliche Familienbetriebe in Deutschland nachhaltig schützen und erhalten",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/276/1927699.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27699 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27699</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/289/1928972.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28972 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28972</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/276/1927699.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/289/1928972.pdf"
                 ]
               }
             ],
@@ -1418,7 +1805,7 @@
           },
           {
             "time": "2021-05-06T20:00:00.000Z",
-            "top": "21",
+            "top": "21, ZP 10-12",
             "heading": "Internationale Impfstrategie",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-impfstoffe-corona-836874",
             "topic": [
@@ -1457,51 +1844,61 @@
                   "http://dip21.bundestag.de/dip21/btd/19/268/1926887.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/285/1928531.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 10) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für wirtschaftliche Zusammenarbeit und Entwicklung (19. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Strategiewechsel in der Entwicklungszusammenarbeit – Corona-Moratorium für Entwicklungshilfe und Umwidmung von Entwicklungsmitteln zur Pandemie-Bewältigung",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/195/1919517.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/19517 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/19517</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/224/1922425.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/22425 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/22425</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/195/1919517.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/224/1922425.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 11) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Gesundheit (14. Ausschuss)",
+                  "zu dem Antrag der Fraktion der AfD",
+                  "Keine Diskriminierung von Ungeimpften – Einhaltung der Resolution 2361 (2021) der Parlamentarischen Versammlung des Europarats",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/278/1927851.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27851 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27851</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929263.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29263 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29263</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/278/1927851.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929263.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 12) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Weiterentwicklung der Impfstrategie – Gesundheitskompetenz erhöhen und Impfschutz gegen SARS-CoV-2 bei Pflegekräften verbessern",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/262/1926237.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26237 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26237</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/262/1926237.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
             "time": "2021-05-06T20:40:00.000Z",
-            "top": "22",
-            "heading": "Schwarmfinanzierung, Restschuldversicherungen",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-schwarmfinanzierungbegleitgesetz-836876",
+            "top": "20",
+            "heading": "Bundeskanzler-Helmut-Kohl-Stiftung",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-bundeskanzler-helmut-kohl-stiftung-836872",
             "topic": [
               {
                 "lines": [
-                  "a) Zweite und dritte Beratung des von der Bundesregierung",
-                  "eingebrachten Entwurfs eines Gesetzes zur begleitenden Ausführung der Verordnung (EU) 2020/1503 und der Umsetzung der Richtlinie EU 2020/1504 zur Regelung von Schwarmfinanzierungsdienstleistern (Schwarmfinanzierung-Begleitgesetz) und anderer europarechtlicher Finanzmarktvorschriften",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/274/1927410.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27410 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27410</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/284/1928403.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28403 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28403</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/286/1928605.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28605 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28605</a> Nr. 1.15",
-                  "Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss)",
+                  "Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD",
+                  "eingebrachten Entwurfs eines Gesetzes über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/287/1928790.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28790 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28790</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Kultur und Medien (22. Ausschuss)",
                   "Drucksache 19/…"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/274/1927410.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/284/1928403.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/286/1928605.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/287/1928790.pdf"
                 ]
-              },
-              {
-                "lines": [
-                  "b) Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss)",
-                  "- zu dem Antrag der Fraktion FDP",
-                  "Kunden von Restschuldversicherungen besser schützen",
-                  "- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Effektiver Verbraucherschutz bei Restschuldversicherungen",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/092/1909276.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9276 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9276</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/143/1914386.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14386 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14386</a> (neu), 19/…"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/092/1909276.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/143/1914386.pdf"
-                ]
-              },
-              {
-                "lines": [
-                  "c) Beratung des Antrags der Fraktion der FDP",
-                  "Für ein Volk von Eigentümern – Riester endlich reformieren",
-                  "Drucksache 19/…"
-                ],
-                "documents": []
               }
             ],
             "status": []
@@ -1553,6 +1950,61 @@
           },
           {
             "time": "2021-05-06T22:00:00.000Z",
+            "top": "22, ZP 13",
+            "heading": "Schwarmfinanzierung, Restschuldversicherungen",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-schwarmfinanzierungbegleitgesetz-836876",
+            "topic": [
+              {
+                "lines": [
+                  "a) Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes zur begleitenden Ausführung der Verordnung (EU) 2020/1503 und der Umsetzung der Richtlinie EU 2020/1504 zur Regelung von Schwarmfinanzierungsdienstleistern (Schwarmfinanzierung-Begleitgesetz) und anderer europarechtlicher Finanzmarktvorschriften",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/274/1927410.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27410 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27410</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/284/1928403.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28403 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28403</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/286/1928605.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28605 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28605</a> Nr. 1.15",
+                  "Beschlussempfehlung und Bericht des Finanzausschusses (7. Ausschuss)",
+                  "Drucksache 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/274/1927410.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/284/1928403.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/286/1928605.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "b) Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss)",
+                  "- zu dem Antrag der Fraktion FDP",
+                  "Kunden von Restschuldversicherungen besser schützen",
+                  "- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Effektiver Verbraucherschutz bei Restschuldversicherungen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/092/1909276.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/9276 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/9276</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/143/1914386.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/14386 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/14386</a> (neu), 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/092/1909276.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/143/1914386.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "c) Beratung des Antrags der Fraktion der FDP",
+                  "Für ein Volk von Eigentümern – Riester endlich reformieren",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929209.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29209 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29209</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929209.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 13) Beratung des Antrags der Fraktion DIE LINKE.",
+                  "Kreditwucher beenden",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              }
+            ],
+            "status": []
+          },
+          {
+            "time": "2021-05-06T22:40:00.000Z",
             "top": "40",
             "heading": "Europol, polizeiliche Datennutzung",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-europol-836894",
@@ -1565,10 +2017,11 @@
                   "in Verbindung mit dem Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) 2018/1862 über die Einrichtung, den Betrieb und die Nutzung des Schengener Informationssystems (SIS) im Bereich der polizeilichen Zusammenarbeit und der justiziellen Zusammenarbeit in Strafsachen in Bezug auf die Eingabe von Ausschreibungen von Europol",
                   "13882/20, KOM(2020)791 endg.",
                   "hier:\tStellungnahme gegenüber der Bundesregierung gemäß Artikel 23 Absatz 3 des Grundgesetzes",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/263/1926319.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26319 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26319</a> Nr. A.5 und A.6, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/263/1926316.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26316 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26316</a> Nr. A.5 und A.6, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929215.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29215 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29215</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/263/1926319.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/263/1926316.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929215.pdf"
                 ]
               },
               {
@@ -1577,17 +2030,18 @@
                   "zu dem Antrag der Fraktion der FDP",
                   "Reform der Europol-Verordnung – Auf dem Weg zum Europäischen Kriminalamt",
                   "hier:\tStellungnahme des Deutschen Bundestages nach Artikel 23 Absatz 3 des Grundgesetzes i. V. m. § 8 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/278/1927817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27817</a>, 19/…"
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/278/1927817.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27817 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27817</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929215.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29215 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29215</a>"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/278/1927817.pdf"
+                  "http://dip21.bundestag.de/dip21/btd/19/278/1927817.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929215.pdf"
                 ]
               }
             ],
             "status": []
           },
           {
-            "time": "2021-05-06T22:40:00.000Z",
+            "time": "2021-05-06T23:20:00.000Z",
             "top": "27",
             "heading": "Betrieb unbemannter Luftfahrzeuge",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-unbemannte-luftfahrzeuge-836840",
@@ -1608,7 +2062,7 @@
             "status": []
           },
           {
-            "time": "2021-05-06T23:20:00.000Z",
+            "time": "2021-05-07T00:00:00.000Z",
             "top": "28",
             "heading": "Eisenbahnregulierungsrecht",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-eisenbahnregulierungsrecht-836842",
@@ -1634,27 +2088,6 @@
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/284/1928460.pdf"
-                ]
-              }
-            ],
-            "status": []
-          },
-          {
-            "time": "2021-05-07T00:00:00.000Z",
-            "top": "29",
-            "heading": "Zeitverwendungserhebungsgesetz",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-zeitverwendungserhebungsgesetz-836844",
-            "topic": [
-              {
-                "lines": [
-                  "Zweite und dritte Beratung des von der Bundesregierung",
-                  "eingebrachten Entwurfs eines Gesetzes über die statistische Erhebung der Zeitverwendung (Zeitverwendungserhebungsgesetz – ZVEG)",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926935.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26935 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26935</a>",
-                  "Beschlussempfehlung und Bericht des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss)",
-                  "Drucksache 19/…"
-                ],
-                "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/269/1926935.pdf"
                 ]
               }
             ],
@@ -1742,19 +2175,19 @@
           },
           {
             "time": "2021-05-07T09:00:00.000Z",
-            "top": "ZP",
-            "heading": "Bundespolizei",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-aktuelle-stunde-klimaschutzgesetz-839450",
+            "top": "ZP 14-18",
+            "heading": "Rechtsgrundlagen der Bundespolizei",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-bundespolizei-839432",
             "topic": [
               {
                 "lines": [
-                  "a)Zweite und dritte Beratung der Fraktionen der CDU/CSU und SPD",
-                  "Entwurf eines Gesetzes zur Modernisierung der",
-                  "Rechtsgrundlagen der Bundespolizei",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/265/1926541.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26541 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26541</a>, 19/…",
-                  "Änderungsantrag AfD",
-                  "Änderungsantrag und Entschließungsantrag FDP",
-                  "Entschließungsantrag BÜNDNIS 90/DIE GRÜNEN"
+                  "ZP 14)- Zweite und dritte Beratung des von den Fraktionen der CDU/CSU und SPD",
+                  "eingebrachten Entwurfs eines Gesetzes zur Modernisierung der Rechtsgrundlagen der Bundespolizei",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/265/1926541.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26541 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26541</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Inneres und Heimat (4. Ausschuss)",
+                  "Drucksache 19/…",
+                  "- Bericht des Haushaltsausschusses (8. Ausschuss) gemäß § 96 der Geschäftsordnung",
+                  "Drucksache 19/…"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/265/1926541.pdf"
@@ -1762,26 +2195,47 @@
               },
               {
                 "lines": [
-                  "b) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres",
-                  "- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Gebührenverordnung zum Bundespolizeigesetz darf Grundrechtsgebrauch nicht beeinträchtigen",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/175/1917540.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17540 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17540</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/279/1927967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27967</a>",
-                  "- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Freiheit und Rechtsstaatlichkeit erhalten – Kein Einsatz biometrischer Gesichtserkennung in öffentlichen Räumen",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/168/1916885.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16885 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16885</a>, 19/…",
-                  "- zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Polizeizulage wieder ruhegehaltsfähig gestalten",
-                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/265/1926529.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26529 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26529</a> ,19/…",
-                  "- zu dem Antrag der Fraktion der FDP",
+                  "ZP 15) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss)",
+                  "zu dem Antrag der Fraktion der FDP",
                   "Für ein Recht auf Anonymität im öffentlichen Raum – Keine automatisierte Gesichtserkennung durch die Bundespolizei",
                   "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/168/1916862.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16862 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16862</a>, 19/…"
                 ],
                 "documents": [
-                  "http://dip21.bundestag.de/dip21/btd/19/175/1917540.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/279/1927967.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/168/1916885.pdf",
-                  "http://dip21.bundestag.de/dip21/btd/19/265/1926529.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/168/1916862.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 16) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Gebührenverordnung zum Bundespolizeigesetz darf Grundrechtsgebrauch nicht beeinträchtigen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/175/1917540.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/17540 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/17540</a>, <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/279/1927967.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/27967 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/27967</a>"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/175/1917540.pdf",
+                  "http://dip21.bundestag.de/dip21/btd/19/279/1927967.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 17) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Freiheit und Rechtsstaatlichkeit erhalten – Kein Einsatz biometrischer Gesichtserkennung in öffentlichen Räumen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/168/1916885.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/16885 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/16885</a>, 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/168/1916885.pdf"
+                ]
+              },
+              {
+                "lines": [
+                  "ZP 18) Beratung der Beschlussempfehlung und des Berichts des Ausschusses für Inneres und Heimat (4. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Polizeizulage wieder ruhegehaltsfähig gestalten",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/265/1926529.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26529 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26529</a>, 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/265/1926529.pdf"
                 ]
               }
             ],
@@ -1789,9 +2243,9 @@
           },
           {
             "time": "2021-05-07T09:40:00.000Z",
-            "top": "ZP",
-            "heading": "Anpassung des Verfassungsschutzrechts",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-aktuelle-stunde-klimaschutzgesetz-839450",
+            "top": "ZP 19",
+            "heading": "Verfassungsschutzrecht",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-verfassungsschutzrecht-839442",
             "topic": [
               {
                 "lines": [
@@ -1808,7 +2262,7 @@
           },
           {
             "time": "2021-05-07T10:20:00.000Z",
-            "top": "34",
+            "top": "34, ZP 20",
             "heading": "Schutz von Pressefreiheit und Medien",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-pressefreiheit-836902",
             "topic": [
@@ -1839,13 +2293,24 @@
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/273/1927320.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 20) Beratung der Beschlussempfehlung und des Berichts des Finanzausschusses (7. Ausschuss)",
+                  "zu dem Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Non-Profit-Journalismus als gemeinnützig anerkennen",
+                  "Drucksachen <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/207/1920790.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/20790 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/20790</a>, 19/…"
+                ],
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/207/1920790.pdf"
+                ]
               }
             ],
             "status": []
           },
           {
             "time": "2021-05-07T11:30:00.000Z",
-            "top": "35",
+            "top": "35, ZP 21",
             "heading": "Stadtentwicklungsbericht 2020",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-stadtentwicklungsbericht-2020-836884",
             "topic": [
@@ -1872,6 +2337,14 @@
                   "http://dip21.bundestag.de/dip21/btd/19/249/1924999.pdf",
                   "http://dip21.bundestag.de/dip21/btd/19/191/1919143.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 21) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Orte des Zusammenhaltes – Ein Energieschub für mehr Gemeinwohl nach der Krise",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
@@ -1932,38 +2405,55 @@
           },
           {
             "time": "2021-05-07T13:00:00.000Z",
-            "top": "ZP",
-            "heading": "Klimaschutz",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-aktuelle-stunde-klimaschutzgesetz-839450",
+            "top": "ZP 22-24",
+            "heading": "Klimaschutz, EEG",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-klimaschutz-eeg-839452",
             "topic": [
               {
                 "lines": [
-                  "Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "Klimaschutz ist jetzt  und Klimaneutrale Wissenschaft und Forschung",
-                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/283/1928364.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28364 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28364</a>",
-                  "Beratung der Fraktion BÜNDNIS 90/DIE GRÜNEN",
-                  "des Gesetzentwurfs zur Änderung des Erneuerbare-Energien-Gesetzes  – EEG-Sofortmaßnahmegesetz (EEGSofMG2021)",
-                  "Drucksache 19/..."
+                  "ZP 22) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Klimaschutz ist jetzt",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
+              },
+              {
+                "lines": [
+                  "ZP 23) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN",
+                  "Klimaneutrale Wissenschaft und Forschung",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/283/1928364.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/28364 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/28364</a>"
                 ],
                 "documents": [
                   "http://dip21.bundestag.de/dip21/btd/19/283/1928364.pdf"
                 ]
+              },
+              {
+                "lines": [
+                  "ZP 24) Erste Beratung des von der Fraktion BÜNDNIS 90/DIE GRÜNEN eingebrachten Entwurfs eines Gesetzes zur Änderung des Erneuerbare-Energien-Gesetzes  – EEG-Sofortmaßnahmegesetz (EEGSofMG2021)",
+                  "Drucksache 19/…"
+                ],
+                "documents": []
               }
             ],
             "status": []
           },
           {
             "time": "2021-05-07T14:10:00.000Z",
-            "top": "38",
-            "heading": "Infektionsschutzgesetz",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-infektionsschutz-839000",
+            "top": "29",
+            "heading": "Zeitverwendungserhebungsgesetz",
+            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-zeitverwendungserhebungsgesetz-836844",
             "topic": [
               {
                 "lines": [
-                  "Erste Beratung des von den Fraktionen der CDU/CSU und SPD eingebrachten Entwurfs eines Gesetzes zur Änderung des Infektionsschutzgesetzes und anderer Gesetze",
+                  "Zweite und dritte Beratung des von der Bundesregierung",
+                  "eingebrachten Entwurfs eines Gesetzes über die statistische Erhebung der Zeitverwendung (Zeitverwendungserhebungsgesetz – ZVEG)",
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/269/1926935.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/26935 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/26935</a>",
+                  "Beschlussempfehlung und Bericht des Ausschusses für Familie, Senioren, Frauen und Jugend (13. Ausschuss)",
                   "Drucksache 19/…"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/269/1926935.pdf"
+                ]
               }
             ],
             "status": []
@@ -1999,23 +2489,6 @@
           },
           {
             "time": "2021-05-07T15:30:00.000Z",
-            "top": "41",
-            "heading": "Mobilitätswende",
-            "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-mobilitaetswende-838954",
-            "topic": [
-              {
-                "lines": [
-                  "Beratung des Antrags der Fraktionen der CDU/CSU und SPD",
-                  "„Vision Zero“ als Leitbild der Mobilitätswende",
-                  "Drucksache 19/…"
-                ],
-                "documents": []
-              }
-            ],
-            "status": []
-          },
-          {
-            "time": "2021-05-07T16:10:00.000Z",
             "top": "42",
             "heading": "Bildungsföderalismus, Bildungsgerechtigkeit",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-bildung-836898",
@@ -2042,9 +2515,11 @@
                 "lines": [
                   "c) Beratung des Antrags der Fraktion der FDP",
                   "Aus der Corona-Krise lernen, kluge Bildungsreformen jetzt anpacken: Eine nationale Einrichtung für Bildungsinnovationen und Qualitätssicherung schaffen",
-                  "Drucksache 19/…"
+                  "Drucksache <a target='_blank' href=\"http://dip21.bundestag.de/dip21/btd/19/292/1929217.pdf\" class=\"dipLink\" title=\"Die PDF-Datei Drucksache 19/29217 öffnet sich in einem neuen Fenster\"><i class=\"icon-doc\"></i>19/29217</a>"
                 ],
-                "documents": []
+                "documents": [
+                  "http://dip21.bundestag.de/dip21/btd/19/292/1929217.pdf"
+                ]
               },
               {
                 "lines": [
@@ -2058,8 +2533,8 @@
             "status": []
           },
           {
-            "time": "2021-05-07T16:50:00.000Z",
-            "top": "ZP",
+            "time": "2021-05-07T16:10:00.000Z",
+            "top": "ZP 25",
             "heading": "Aktuelle Stunde – Bundesverfassungsgerichtsurteil zum Klimaschutzgesetz",
             "article": "https://www.bundestag.de/dokumente/textarchiv/2021/kw18-de-aktuelle-stunde-klimaschutzgesetz-839450",
             "topic": [
@@ -2075,7 +2550,7 @@
             "status": []
           },
           {
-            "time": "2021-05-07T18:00:00.000Z",
+            "time": "2021-05-07T17:20:00.000Z",
             "top": "",
             "heading": null,
             "article": null,
